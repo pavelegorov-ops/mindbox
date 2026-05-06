@@ -159,3 +159,7 @@ private/<имя>/
 - [notes/yaml-schema-evolution.md](notes/yaml-schema-evolution.md) —
   история расширений YAML-схемы сценариев (что добавилось при
   описании первого реального сценария и почему).
+- [notes/claude-behavior.md](notes/claude-behavior.md) — поведенческие
+  правила для Claude в этом проекте (зеркало feedback-памяти из
+  `~/.claude/projects/<проект>/memory/`). Все правила вида «коммить и
+  пуш в обоих репо», «дублируй поведение в notes/» и т.п. живут здесь.
