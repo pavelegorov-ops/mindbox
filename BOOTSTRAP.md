@@ -4,17 +4,45 @@
 два корпуса документации (Help и Developers) + генератор сценариев +
 slash-команды для маркетолога. Этот файл — «как начать» в одном экране.
 
+Поддерживаются **Windows**, **macOS** и **Linux**. Команды ниже даны
+параллельно — выбирай свою колонку.
+
 ## Что нужно поставить заранее
 
 1. **Python 3.10+** — для скрейперов и генератора. Проверка:
-   ```cmd
-   py -3 --version
-   ```
-   Если нет — `winget install Python.Python.3.12` или
-   <https://www.python.org/downloads/windows/>.
-2. **Claude Code** — собственно, среда, в которой ты сейчас читаешь это.
+
+   - **Windows** (`cmd` / PowerShell):
+     ```
+     py -3 --version
+     ```
+     Если нет — `winget install Python.Python.3.12` или
+     <https://www.python.org/downloads/windows/>.
+   - **macOS** (Terminal):
+     ```bash
+     python3 --version
+     ```
+     Если нет — `brew install python3` (нужен
+     [Homebrew](https://brew.sh)) или скачай инсталлятор:
+     <https://www.python.org/downloads/macos/>.
+   - **Linux**:
+     ```bash
+     python3 --version
+     ```
+     Если нет — `sudo apt install python3 python3-venv` (Debian/Ubuntu),
+     `sudo dnf install python3` (Fedora), `sudo pacman -S python` (Arch).
+
+2. **Git** — для клонирования и `/обнови-данные` / `/отправь-данные`.
+
+   - Windows: <https://git-scm.com/download/win>
+   - macOS: уже стоит вместе с Xcode Command Line Tools
+     (`xcode-select --install`), либо `brew install git`.
+   - Linux: `sudo apt install git` / `sudo dnf install git` /
+     `sudo pacman -S git`.
+
+3. **Claude Code** — собственно, среда, в которой ты сейчас читаешь это.
    <https://claude.com/claude-code>.
-3. **Chrome + расширение Claude in Chrome** — нужны, если ты планируешь
+
+4. **Chrome + расширение Claude in Chrome** — нужны, если ты планируешь
    обновлять `mailing-parameters/` или вытаскивать сценарии напрямую из
    админки `<тенант>.mindbox.ru`. Без него вся остальная работа всё
    равно работает.
@@ -23,23 +51,39 @@ slash-команды для маркетолога. Этот файл — «ка
 
 Публичный репозиторий движка:
 
-```cmd
-git clone <URL движка> mindBox
-cd mindBox
-```
+- **Windows**:
+  ```
+  git clone <URL движка> mindBox
+  cd mindBox
+  ```
+- **macOS / Linux**:
+  ```bash
+  git clone <URL движка> mindBox
+  cd mindBox
+  ```
 
 Если ты — коллега из Usmall, дополнительно склонируй приватный репо
 с бизнес-данными в подкаталог `private/usmall/`:
 
-```cmd
+```bash
 git clone <URL приватного репо Usmall> private/usmall
 ```
 
 (Точные URL — у того, кто давал тебе доступ.)
 
+### Только для macOS / Linux: дать запускалке право на исполнение
+
+Скрипт `scripts/sync.sh` помечен в git как исполняемый, но если по
+каким-то причинам (например, файл создан на Windows) бит сбился —
+поправь:
+
+```bash
+chmod +x scripts/sync.sh
+```
+
 ## Шаг 2. Открыть в Claude Code и запустить `/bootstrap`
 
-```cmd
+```
 claude
 ```
 
@@ -51,6 +95,8 @@ claude
 
 `/bootstrap` сделает за тебя:
 
+- определит твою ОС и выберет правильный лаунчер
+  (`scripts/mindbox.bat` для Windows, `scripts/sync.sh` для macOS/Linux);
 - проверит Python;
 - создаст `.venv/` и поставит зависимости;
 - проверит, что корпуса доков (`docs/`, `developers/`) на месте;
@@ -96,18 +142,25 @@ claude
 
 ## Если что-то пошло не так
 
-- `scripts/mindbox.bat` падает с «Python 3 not found on PATH» → поставь
-  Python и **перезапусти терминал**.
+- **Windows** `scripts\mindbox.bat` падает с «Python 3 not found on PATH»
+  → поставь Python и **перезапусти терминал**.
+- **macOS / Linux** `scripts/sync.sh: Permission denied` →
+  `chmod +x scripts/sync.sh`. Если `python3` не найден —
+  `brew install python3` (mac) или `sudo apt install python3 python3-venv`
+  (Linux).
+- **macOS** скрейпер `developers.mindbox.ru` падает по TLS на
+  системном Python — проверь, что используется venv-питон из репо
+  (`.venv/bin/python`). Скрейпер по умолчанию идёт с `verify=False`,
+  потому что у dev-сайта неполная TLS-цепочка; если ты сам передал
+  `--verify` — убери.
 - `/bootstrap` ругается, что тенант требует более новый движок →
   `git pull` в корне репо.
-- В `/sync-docs` падает по TLS на developers.mindbox.ru → это известная
-  фича: dev-сайт ставит неполную TLS-цепочку, скрейпер по умолчанию
-  её игнорирует. Если ты сам передал `--verify` — убери.
 
 ## Где какие файлы лежат
 
-- Скрипты движка (Python, bat, sh) — `scripts/`. Все вызывай **из корня
-  репо**: `python scripts/render_scenarios.py`, `scripts/mindbox.bat`.
+- Скрипты движка — `scripts/`. Все вызывай **из корня репо**:
+  - **Windows**: `scripts\mindbox.bat`, `python scripts\render_scenarios.py`.
+  - **macOS / Linux**: `scripts/sync.sh`, `python3 scripts/render_scenarios.py`.
 - Корпуса доков — `docs/` и `developers/`.
 - Бизнес-данные тенанта — `private/<имя>/`.
 - Заметки и приёмы — `notes/`.

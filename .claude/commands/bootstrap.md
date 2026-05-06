@@ -7,42 +7,93 @@ allowed-tools: Bash, Read, Glob, Grep
 должна **один раз** настроить рабочую среду и убедиться, что всё на месте.
 Никакой сетевой работы по корпусам — для этого есть отдельный `/sync-docs`.
 
+Команда работает на **Windows**, **macOS** и **Linux** — определи ОС
+один раз в шаге 0 и используй подходящие пути и лаунчеры дальше.
+
 Все шаги выполняй последовательно (не параллельно — каждый зависит от
 предыдущего по статусу). Если шаг падает — остановись, объясни проблему
 коротко и попроси пользователя что-то сделать.
 
-## Шаг 1. Проверить Python 3 на PATH
+## Шаг 0. Определить ОС
 
 ```bash
-where py 2>/dev/null || where python 2>/dev/null
+uname -s 2>/dev/null || echo Windows
 ```
 
-Если ни `py`, ни `python` не найдены — выведи короткую инструкцию:
+- Если вывод начинается с `Darwin` → **macOS**.
+- Если `Linux` → **Linux** (ведёт себя как macOS для целей этой команды).
+- Если `Windows`, `MINGW*`, `MSYS*`, `CYGWIN*` — или команда не найдена
+  → **Windows**.
 
-> Не нашёл Python 3 на PATH. Установи одним из способов:
-> ```
-> winget install Python.Python.3.12
-> ```
-> или скачай инсталлятор: https://www.python.org/downloads/windows/
->
-> После установки перезапусти терминал и снова вызови `/bootstrap`.
+Запомни это как `<os>`. Дальше используются такие соответствия:
 
-…и остановись.
+| Что нужно | Windows | macOS / Linux |
+| --- | --- | --- |
+| venv-Python | `.venv/Scripts/python.exe` | `.venv/bin/python` |
+| Лаунчер | `scripts/mindbox.bat` | `scripts/sync.sh` |
+| Системный Python | `py -3` или `python` | `python3` |
+
+## Шаг 1. Проверить Python 3 на PATH
+
+- На **Windows**:
+  ```bash
+  where py 2>/dev/null || where python 2>/dev/null
+  ```
+  Если ни `py`, ни `python` не найдены — выведи короткую инструкцию:
+
+  > Не нашёл Python 3 на PATH. Установи одним из способов:
+  > ```
+  > winget install Python.Python.3.12
+  > ```
+  > или скачай инсталлятор: https://www.python.org/downloads/windows/
+  >
+  > После установки перезапусти терминал и снова вызови `/bootstrap`.
+
+  …и остановись.
+
+- На **macOS / Linux**:
+  ```bash
+  command -v python3 || command -v python
+  ```
+  Если ничего не нашлось — короткая подсказка:
+
+  > Не нашёл `python3` на PATH. Установи:
+  > - macOS: `brew install python3` (нужен Homebrew, https://brew.sh)
+  >   или скачай инсталлятор https://www.python.org/downloads/macos/
+  > - Debian/Ubuntu: `sudo apt install python3 python3-venv`
+  > - Fedora: `sudo dnf install python3`
+  > - Arch: `sudo pacman -S python`
+  >
+  > После установки перезапусти терминал и снова вызови `/bootstrap`.
+
+  …и остановись.
 
 ## Шаг 2. Создать venv и поставить зависимости
 
-Если `.venv/Scripts/python.exe` уже существует — пропусти создание venv,
-сразу проверь зависимости. Иначе вызови:
+Если venv-Python (см. таблицу в шаге 0) уже существует — пропусти
+создание venv, сразу проверь зависимости. Иначе вызови лаунчер с
+`--dry-run`:
 
-```bash
-./scripts/mindbox.bat --dry-run
-```
+- **Windows**:
+  ```bash
+  ./scripts/mindbox.bat --dry-run
+  ```
+- **macOS / Linux**:
+  ```bash
+  ./scripts/sync.sh --dry-run
+  ```
 
-`scripts/mindbox.bat` сам создаст `.venv/` в корне репо, поставит
-`requirements.txt` и проведёт тестовый dry-run обоих скрейперов.
-**Не запускай его без `--dry-run`** — полная синхронизация это отдельная
-команда `/sync-docs`. Если выходной код ≠ 0 — покажи последние ~20
-строк лога и попроси пользователя проверить.
+  Если получишь `Permission denied` — выполни:
+  ```bash
+  chmod +x scripts/sync.sh
+  ```
+  и повтори.
+
+Лаунчер сам создаст `.venv/` в корне репо, поставит `requirements.txt`
+и проведёт тестовый dry-run обоих скрейперов. **Не запускай его без
+`--dry-run`** — полная синхронизация это отдельная команда `/sync-docs`.
+Если выходной код ≠ 0 — покажи последние ~20 строк лога и попроси
+пользователя проверить.
 
 ## Шаг 3. Проверить корпуса документации
 
