@@ -1,0 +1,3585 @@
+{
+  "version": 1,
+  "format_version": 3,
+  "source": "https://developers.mindbox.ru/docs",
+  "generated_at": "2026-05-05T06:52:15Z",
+  "page_count": 368,
+  "pages": {
+    "1c-retail-module-integration": {
+      "title": "Интеграция модуля для 1С:Розница",
+      "source_url": "https://developers.mindbox.ru/docs/1c-retail-module-integration",
+      "breadcrumb": [
+        "Стандартные интеграции"
+      ],
+      "content_hash": "sha256:48ad84fc027f601f110fd6a4c0749babe8d9bbfc2fd3b163f616b2bfb4cb87ef",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ab-test-participants": {
+      "title": "Участники АБ-тестов",
+      "source_url": "https://developers.mindbox.ru/docs/ab-test-participants",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:f98c3ff0b4c37aa7d604a414e86e56238f59cded540a55c6c71274701a493cea",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ab-test-variants-reference": {
+      "title": "Справочник вариантов АБ-тестов",
+      "source_url": "https://developers.mindbox.ru/docs/ab-test-variants-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:23b8827a72f7507f1f10df70dc5831201116ad71406fd530427ef153c7954d23",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ab-tests-reference": {
+      "title": "Справочник АБ-тестов",
+      "source_url": "https://developers.mindbox.ru/docs/ab-tests-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:df3d884c2cfd3e12e527334a36e098607dec7d6f05b9370529508a0b804e995b",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "account-data-editing": {
+      "title": "Редактирование данных клиента",
+      "source_url": "https://developers.mindbox.ru/docs/account-data-editing",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:8244f844c060fea61b4b72b53245243da517fda99bd60410b2261003b9cdd7b6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "add-android-integration": {
+      "title": "Настройка точек интеграции",
+      "source_url": "https://developers.mindbox.ru/docs/add-android-integration",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:66683264332722c62f6902561a6a1937546d3831bc3a34c4df65283e6c1baf61",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "add-android-sdk": {
+      "title": "1. Добавление SDK в приложение",
+      "source_url": "https://developers.mindbox.ru/docs/add-android-sdk",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:96d0c3031a71c488a4373ab876087f98818a24ece3bad865e4a1b3402deacb80",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "add-customer-to-segment": {
+      "title": "Включение в сегмент",
+      "source_url": "https://developers.mindbox.ru/docs/add-customer-to-segment",
+      "breadcrumb": [
+        "Сегментации"
+      ],
+      "content_hash": "sha256:8ea856b77fc14617fbce94f0dec789dd02fcbe93131e9fa8d106b72e0b3d2c03",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "add-integration-rn": {
+      "title": "Настройка точек интеграции",
+      "source_url": "https://developers.mindbox.ru/docs/add-integration-rn",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:a7f508e996129efc8264783eebf1cab184fc0b2822b0fc4ddc4ade90918c6421",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "add-ios-integration": {
+      "title": "Настройка точки интеграции",
+      "source_url": "https://developers.mindbox.ru/docs/add-ios-integration",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:a23f82a1666e2f4dab3e3756d643f834b5cb2b2411fd7154ee8efc3d359b86c7",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "add-sdk-flutter": {
+      "title": "Добавление SDK в приложение",
+      "source_url": "https://developers.mindbox.ru/docs/add-sdk-flutter",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:3ae330fe0a3b3ba037210786e6ec2ea401c9ae3d526cdaeb6b2fa072470210d2",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "add-sdk-react-native": {
+      "title": "Добавление SDK в приложение",
+      "source_url": "https://developers.mindbox.ru/docs/add-sdk-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:8a5d79392b731c6bc43996a6ab5c42cb925617942a88bed5b43e85bacc9434d1",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "add-sdk-to-app": {
+      "title": "Добавление SDK в приложение",
+      "source_url": "https://developers.mindbox.ru/docs/add-sdk-to-app",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:17d0e7c8c81138ea2412a93f1caf7f9fe4681939bf8c76fe083bc0a3d9910974",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "albato-integration": {
+      "title": "Интеграция через Albato",
+      "source_url": "https://developers.mindbox.ru/docs/albato-integration",
+      "breadcrumb": [
+        "Стандартные интеграции"
+      ],
+      "content_hash": "sha256:ca6811943aad4a62aead3ba02386193e12d2739c278eb8e5184e3f41767b2e62",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "analytics-data-schema": {
+      "title": "Описание схемы данных",
+      "source_url": "https://developers.mindbox.ru/docs/analytics-data-schema",
+      "breadcrumb": [
+        "Данные для аналитики"
+      ],
+      "content_hash": "sha256:0b02255baf3ad4f83b673b93063a39870f2224a7496f0684c3c0194daa964984",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "android-app-start-tracking": {
+      "title": "5. Получение источника установки мобильного приложения",
+      "source_url": "https://developers.mindbox.ru/docs/android-app-start-tracking",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:4dad1d14af3efdd02a44484f4e0de006ecbdaa210bb5f27c3b33953d0d49e616",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "android-get-click": {
+      "title": "4. Получение кликов на мобильные push-уведомления",
+      "source_url": "https://developers.mindbox.ru/docs/android-get-click",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:ce22418b8d6e46738c44b2cc7c68b0d5d166575f90949c9e8b47a7c424de2ae9",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "android-get-click-react-native": {
+      "title": "Android | Передача кликов по push-уведомлениям",
+      "source_url": "https://developers.mindbox.ru/docs/android-get-click-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:544c6b0163625566809a864f9b5b73fcd94a0b213c4ec921af033e99227ec108",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "android-integration-of-actions": {
+      "title": "6. Интеграция действий в приложении",
+      "source_url": "https://developers.mindbox.ru/docs/android-integration-of-actions",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:da1918922caa766f7114b1778a597d4c274bc4d9d623ec2f68e945581adcf511",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "android-push-notification-format": {
+      "title": "Формат пуш уведомления Android",
+      "source_url": "https://developers.mindbox.ru/docs/android-push-notification-format",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:bfe2b054af4f795ba579e3c2c49353630913f5266c1ac3670ca8da931f9cfc5d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "android-push-provider-keys": {
+      "title": "Получение ключей провайдеров пушей",
+      "source_url": "https://developers.mindbox.ru/docs/android-push-provider-keys",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:9326c5152ba4c6616e5c20fbbae7e53524cc966f89aa5ec87572f397ed2a5d18",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "android-sdk": {
+      "title": "Android SDK",
+      "source_url": "https://developers.mindbox.ru/docs/android-sdk",
+      "breadcrumb": [
+        "Мобильные приложения"
+      ],
+      "content_hash": "sha256:4439e81f9e548d7357fa2ced31d955f2e0e7aea765dcd076e7101af12d2e9a21",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "android-sdk-configuration": {
+      "title": "Поля конфигурации Android SDK",
+      "source_url": "https://developers.mindbox.ru/docs/android-sdk-configuration",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:eb10db5a38bb135e4dc21ef9f1b1da416728a097f9cd28ccd07d9cde2847c45c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "android-sdk-initialization": {
+      "title": "2. Инициализация SDK",
+      "source_url": "https://developers.mindbox.ru/docs/android-sdk-initialization",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:7b0b9de06050eec4230ce45fc45f603faaede35dc043861f78a5b28a342736eb",
+      "fetched_at": "2026-05-04T14:26:15Z",
+      "deprecation_hint": [
+        "устаревш"
+      ]
+    },
+    "android-sdk-methods": {
+      "title": "Методы Android SDK",
+      "source_url": "https://developers.mindbox.ru/docs/android-sdk-methods",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:e36d61f0872e31c9cba5d615f22ffb875264eb3be4118d4d0da4ddf0d25b1e02",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "android-sdk-request-body": {
+      "title": "Структура конструктора запроса Android SDK",
+      "source_url": "https://developers.mindbox.ru/docs/android-sdk-request-body",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:8420c9198e766213a9bd141fa4367664546bfdc5524ddd9b6e8f957b7619de38",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "android-sdk-response-body": {
+      "title": "Структура конструктора ответа Android SDK",
+      "source_url": "https://developers.mindbox.ru/docs/android-sdk-response-body",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:ea11bee6cc1784d1bf36234fa40f3d6bdc81a4f19d8f3a872db2dd296a6b0747",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "api-mailings-send": {
+      "title": "Отправка рассылок по API",
+      "source_url": "https://developers.mindbox.ru/docs/api-mailings-send",
+      "breadcrumb": [
+        "Рассылки"
+      ],
+      "content_hash": "sha256:f4ad2961374af968cff20e67967caeb2d7d3d3b465840a6e8f8adf9a9f586de8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "api-restrictions": {
+      "title": "Ограничения при работе с API",
+      "source_url": "https://developers.mindbox.ru/docs/api-restrictions",
+      "breadcrumb": [
+        "Общее",
+        "V3 API"
+      ],
+      "content_hash": "sha256:b5b3999aace48b8b8b0095a56e0ad6dd32463b39b4742f033a6c4a8fa6e4a2a0",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "api-usage-recommendations": {
+      "title": "Требования и рекомендации по использованию API",
+      "source_url": "https://developers.mindbox.ru/docs/api-usage-recommendations",
+      "breadcrumb": [
+        "Общее"
+      ],
+      "content_hash": "sha256:f5e3a5c6cdf2980d57cd2bcf4adc4746a71ea0ce80131f4d8b317788a9d30ff2",
+      "fetched_at": "2026-05-04T14:26:15Z",
+      "deprecation_hint": [
+        "прекращ"
+      ]
+    },
+    "apns-keys-setup": {
+      "title": "Получение ключей и настройка подключения к APNS",
+      "source_url": "https://developers.mindbox.ru/docs/apns-keys-setup",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:f1c025dcda833d264522fb57ea64e01dd9020823ca2448163dcf5f0bc88cf1e9",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "archive-external-promotions": {
+      "title": "Архивация внешних акций",
+      "source_url": "https://developers.mindbox.ru/docs/archive-external-promotions",
+      "breadcrumb": [
+        "Промокоды и промоакции"
+      ],
+      "content_hash": "sha256:abb2182e908e32dea982de02a51d329c24d840b6c22f3e13bf472d4ab6998673",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "authentication": {
+      "title": "Аутентификация",
+      "source_url": "https://developers.mindbox.ru/docs/authentication",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:6138b8dc69c609ec1f68872e1c7218cdf0dbb4215aa1c2a459dd8ad34fc8aef4",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bind-discount-card-with-sms-confirmation": {
+      "title": "Выдача дисконтной карты клиенту с смс-подтверждением",
+      "source_url": "https://developers.mindbox.ru/docs/bind-discount-card-with-sms-confirmation",
+      "breadcrumb": [
+        "Карты"
+      ],
+      "content_hash": "sha256:861164b05a63fb6cd6c1a1631f106ee96cabf04422f146fc69fcaee6aa710572",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bind-promocode": {
+      "title": "Выдача промокода",
+      "source_url": "https://developers.mindbox.ru/docs/bind-promocode",
+      "breadcrumb": [
+        "Промокоды и промоакции"
+      ],
+      "content_hash": "sha256:972408f0e242183d6fb9ea32fc98e41828ff7f3b83d18c7570217b32794dd33d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bitrix-integration": {
+      "title": "Интеграция Bitrix",
+      "source_url": "https://developers.mindbox.ru/docs/bitrix-integration",
+      "breadcrumb": [
+        "Стандартные интеграции"
+      ],
+      "content_hash": "sha256:506af488a1c86df3957c4bfabd79cdc4f5cc6e60ac4be8cc8f0572abd957dd30",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "blacklist": {
+      "title": "Черный список контактов",
+      "source_url": "https://developers.mindbox.ru/docs/blacklist",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:e00314293ee94dd0eb44bf7565b75665a5143d9a8b2504bd930dc89e3ab29fa6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bonus-accounts-reference": {
+      "title": "Справочник балльных счетов",
+      "source_url": "https://developers.mindbox.ru/docs/bonus-accounts-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:9031acbd78c4582223e2a558b0c9e4b13ae6b0552953bf06f5b359e575f84a0d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bonus-promotions-reference": {
+      "title": "Справочник балльных промоакций",
+      "source_url": "https://developers.mindbox.ru/docs/bonus-promotions-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:55648bbe9f761cb22c29ac751a4126f4b1a3259e4043f2a06582e60de57d5487",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-add-products-to-list-v3": {
+      "title": "Массовое добавление продуктов в список",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-add-products-to-list-v3",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:7b82d8c057ef3b7a5b09c3e59a19f3fed307d59d0c880471e1f9bd23b41bcb85",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-delete-zones-v3": {
+      "title": "Массовое удаление зон",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-delete-zones-v3",
+      "breadcrumb": [
+        "Точки контакта, магазины, зоны"
+      ],
+      "content_hash": "sha256:6343c19cdb4453b86bec4976418a549601f00ba7807ac4de40dcccc6966ad26a",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-import-balance-changes-v3": {
+      "title": "Массовый импорт изменений баланса",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-import-balance-changes-v3",
+      "breadcrumb": [
+        "Бонусный счет"
+      ],
+      "content_hash": "sha256:80b97958b78e44b880921cc282f41cffec85e8b17e4310042d02673b17fe1c9c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-import-cards-clients": {
+      "title": "Массовый импорт карт и клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-import-cards-clients",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:6df6e7772960e0c4aab32e542046b9dc4509debe6e4ac521aab8efeb90a5d8b9",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-import-channels-v3": {
+      "title": "Массовый импорт каналов",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-import-channels-v3",
+      "breadcrumb": [
+        "Точки контакта, магазины, зоны"
+      ],
+      "content_hash": "sha256:89985d6786e1495f423b2359382f25846331384b452bae791c5d690d96e22fed",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-import-customer-actions": {
+      "title": "Массовый импорт действий клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-import-customer-actions",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:55fd7dcb63abb3d74e46a751d93fcfc12f1cef85bbd53fdd11ba4e125cd62967",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-import-discount-card-pool-v3": {
+      "title": "Массовый импорт пула дисконтных карт",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-import-discount-card-pool-v3",
+      "breadcrumb": [
+        "Карты"
+      ],
+      "content_hash": "sha256:9e39bb8ab312bf9a391aca3b87c455af2a6a547721b2afcef0cb5243e9d69450",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-import-discount-card-statuses-v3": {
+      "title": "Массовый импорт статусов дисконтных карт",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-import-discount-card-statuses-v3",
+      "breadcrumb": [
+        "Карты"
+      ],
+      "content_hash": "sha256:63c07cf3bbe9a59661e64ddbe9fa3753e6c4f64d4734e34dcf700e592a564573",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-import-gift-card-pool-v3": {
+      "title": "Массовый импорт пула подарочных карт",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-import-gift-card-pool-v3",
+      "breadcrumb": [
+        "Карты"
+      ],
+      "content_hash": "sha256:db9bc06d382b43d92b610e236164873f0a0d26c153307bb574eb01cdab648b32",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-import-promocode-pools-v3": {
+      "title": "Массовый импорт пулов промокодов",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-import-promocode-pools-v3",
+      "breadcrumb": [
+        "Промокоды и промоакции"
+      ],
+      "content_hash": "sha256:fcd6ebed7ce95d68376b978fd9b97ed9179f0be47937fa9de79c3671443aca19",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-import-promocodes-v3": {
+      "title": "Массовый импорт промокодов",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-import-promocodes-v3",
+      "breadcrumb": [
+        "Промокоды и промоакции"
+      ],
+      "content_hash": "sha256:f97e711c003742bd4f6e206d3a66cd96a9bdc160b870f2f5c02399e68d57cf50",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-import-touchpoints-v3": {
+      "title": "Массовый импорт точек контакта",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-import-touchpoints-v3",
+      "breadcrumb": [
+        "Точки контакта, магазины, зоны"
+      ],
+      "content_hash": "sha256:1e0a7dbfe3d86fb48f35ea699f10a199620d9c2947c2f0f95a0841ad0626e662",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "bulk-import-zones-v3": {
+      "title": "Массовый импорт зон",
+      "source_url": "https://developers.mindbox.ru/docs/bulk-import-zones-v3",
+      "breadcrumb": [
+        "Точки контакта, магазины, зоны"
+      ],
+      "content_hash": "sha256:ff36a0e5bce7ce7d91ffc65139ce3f58ecf7f56b2204083112ab4edfc0cd2ec6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "calculate-loyalty-points-balance": {
+      "title": "Как рассчитать балльный баланс",
+      "source_url": "https://developers.mindbox.ru/docs/calculate-loyalty-points-balance",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Как периодически обновлять данные"
+      ],
+      "content_hash": "sha256:aeb7eedb3cd9528a28e24db8821f7c014fc3a221a09be20c1c605fcfb626d3bc",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "cancel-promocode-redemption": {
+      "title": "Отменить гашение промокода",
+      "source_url": "https://developers.mindbox.ru/docs/cancel-promocode-redemption",
+      "breadcrumb": [
+        "Промокоды и промоакции"
+      ],
+      "content_hash": "sha256:0024099d81d25ed74c18a11599723d2863f5eeebf5be104b148b511cc4068484",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "cardsmobile-integration-mechanics-for-loyalty-module": {
+      "title": "Механики для интеграции приложения «Кошелёк» для отправки пушей",
+      "source_url": "https://developers.mindbox.ru/docs/cardsmobile-integration-mechanics-for-loyalty-module",
+      "breadcrumb": [
+        "Стандартные интеграции",
+        "Интеграция с приложением «Кошелёк»"
+      ],
+      "content_hash": "sha256:8078049d1691d3da9c63c59e52bb7cacc2562362bed1f77da65430b0c5eff432",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "cart-changed-does-not-match-targeting": {
+      "title": "Корзина клиента изменилась и не соответствует условиям таргетинга",
+      "source_url": "https://developers.mindbox.ru/docs/cart-changed-does-not-match-targeting",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика персонализации отображается, игнорируя условия таргетинга"
+      ],
+      "content_hash": "sha256:a153c49159258e3d25ead629a08c80125add08ffca5fa47743b548a244150b4b",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "catactionjson": {
+      "title": "javascript",
+      "source_url": "https://developers.mindbox.ru/docs/catactionjson",
+      "breadcrumb": [
+        "Номенклатура",
+        "Действия с категориями"
+      ],
+      "content_hash": "sha256:0f6e30686f5b4ff63137d857ba67ff43b5e2704a55d44eebd9a0c9b05d038d38",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "catactionxml": {
+      "title": "xml",
+      "source_url": "https://developers.mindbox.ru/docs/catactionxml",
+      "breadcrumb": [
+        "Номенклатура",
+        "Действия с категориями"
+      ],
+      "content_hash": "sha256:c4f67c2d41352f11dee9bab404c88aec6d584dcf27f2688b9e410b6763df06d8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "catimportcsv": {
+      "title": "csv",
+      "source_url": "https://developers.mindbox.ru/docs/catimportcsv",
+      "breadcrumb": [
+        "Номенклатура",
+        "Импорт категорий продуктов"
+      ],
+      "content_hash": "sha256:e085ec4e063e740a174da4309fa243f3827d69ef33061a30b86a7a648f61e9b8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "change-card-status-at-pos": {
+      "title": "Смена статуса дисконтной карты на кассе",
+      "source_url": "https://developers.mindbox.ru/docs/change-card-status-at-pos",
+      "breadcrumb": [
+        "Карты"
+      ],
+      "content_hash": "sha256:89e943d6b9848b83e5f0e257f36679ebd20245822c249cc8e307acce08bf6b25",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "change-card-status-in-account": {
+      "title": "Смена статуса дисконтной карты в личном кабинете",
+      "source_url": "https://developers.mindbox.ru/docs/change-card-status-in-account",
+      "breadcrumb": [
+        "Карты"
+      ],
+      "content_hash": "sha256:e7a9cea1b90ad33f4852733471d6f59c1ff8efc998578a45d46841f31c5d29b7",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "chat-bots-methods": {
+      "title": "Методы для интеграции чат-ботов с Fasttrack",
+      "source_url": "https://developers.mindbox.ru/docs/chat-bots-methods",
+      "breadcrumb": [
+        "Чат-боты"
+      ],
+      "content_hash": "sha256:4e9aba7768efce1be0676e07c959ca2c173d43e698bca2438825e7f5a560b749",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "chat-bots-qr-authentication": {
+      "title": "Аутентификация клиента по QR-коду на кассе",
+      "source_url": "https://developers.mindbox.ru/docs/chat-bots-qr-authentication",
+      "breadcrumb": [
+        "Чат-боты"
+      ],
+      "content_hash": "sha256:09537490da8b739c80e9cdaf3e213be9cee4aa58792a3dd4cb5b4444342d2b0a",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "chatbot-authorization": {
+      "title": "Чат-боты. Авторизация клиента по ссылке",
+      "source_url": "https://developers.mindbox.ru/docs/chatbot-authorization",
+      "breadcrumb": [
+        "Чат-боты"
+      ],
+      "content_hash": "sha256:fb062d3be10c0fcce3c195c50896bbca872b3051fb087e206acf9e6301cdc797",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "create-integration-for-cdp-and-loyalty-module": {
+      "title": "Механики для интеграции приложения «Кошелёк» с модулем лояльность на Mindbox",
+      "source_url": "https://developers.mindbox.ru/docs/create-integration-for-cdp-and-loyalty-module",
+      "breadcrumb": [
+        "Стандартные интеграции",
+        "Интеграция с приложением «Кошелёк»"
+      ],
+      "content_hash": "sha256:863dd5bc019cfa88ead2e2ff51f54e93840885ba2aacf15435075fb91549d1c4",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "create-order-with-processing": {
+      "title": "Создание и обновление заказа (Процессинг)",
+      "source_url": "https://developers.mindbox.ru/docs/create-order-with-processing",
+      "breadcrumb": [
+        "Заказы"
+      ],
+      "content_hash": "sha256:1cf4512c6fdac822c7b9f29ed7eb584d83147d77c8aa241a0660629e4880377b",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "custom-push-notification-rendering": {
+      "title": "custom-push-notification-rendering",
+      "source_url": "https://developers.mindbox.ru/docs/custom-push-notification-rendering",
+      "breadcrumb": [],
+      "content_hash": "sha256:8f2d961e29e26020ef4e70b122ceb59257c92db2685327e6d1fcef691e64038b",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "customer-bonus-balance-change-events": {
+      "title": "События изменений балансов баллов клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/customer-bonus-balance-change-events",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:f11439f7cc2cef9aafeb9c4573aefc807a4ad0d3636fbcc58e0976770c4d8e66",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "customer-card-activation": {
+      "title": "Выдача дисконтной карты клиенту",
+      "source_url": "https://developers.mindbox.ru/docs/customer-card-activation",
+      "breadcrumb": [
+        "Карты"
+      ],
+      "content_hash": "sha256:e7101f922ef4c67ff4161821ac1bc9c1910ed8d520f11d415d6f33294932ccf2",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "customer-existence-database-check": {
+      "title": "Проверка наличия клиента в БД",
+      "source_url": "https://developers.mindbox.ru/docs/customer-existence-database-check",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:bdb39234d8e8f36ddf2c51f97605ee70d5fcc4e89eb90a2dad8595cac11f2af6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "customer-merges": {
+      "title": "Объединения клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/customer-merges",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:cb92fd0de71ffeb6d041c42b66c5649f4daa0ff91755e411ff2b445c4e2ddac6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "customer-order-lines": {
+      "title": "Состав заказов клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/customer-order-lines",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:922dbe734ca3a189fe7e1aace51ee4839bb527ae23282a680ba617f0ae8eecc5",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "customer-orders": {
+      "title": "Заказы клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/customer-orders",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:56c27e50e31e66fe86712cfed5f1596e7fea2af953d8bdaac872e32704eaa045",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "customer-segments-history": {
+      "title": "История сегментов клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/customer-segments-history",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:eb384ba84853fcb5859e50ae91307f6714878dd7251b037b492d853087253a41",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "customers-edit-v3": {
+      "title": "Массовое редактирование клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/customers-edit-v3",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:d9256d67865291add24efa38afe86cd38669b5c62871d285c611a9be65711fe8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "customers-import-v3": {
+      "title": "Массовый импорт клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/customers-import-v3",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:6b278fedabef8b6c65fab3eb810afea10bde3f10f66b5ba59621d9d6ebab1464",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "customfields-reference": {
+      "title": "Справочник дополнительных полей",
+      "source_url": "https://developers.mindbox.ru/docs/customfields-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:c7134be59bd973cb16e2251eba101ddd3c1094501ca5926a426cd74f1f33d870",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "data-import-limitations": {
+      "title": "Ограничения при импорте данных",
+      "source_url": "https://developers.mindbox.ru/docs/data-import-limitations",
+      "breadcrumb": [
+        "Общее"
+      ],
+      "content_hash": "sha256:25a28ceeab62222a213268d9e8101d718b80eb714c40fcd306159b0a6cfa150d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "delete-categories": {
+      "title": "Удаление категорий",
+      "source_url": "https://developers.mindbox.ru/docs/delete-categories",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:7405ebfcc752bb470e265a289317f29b427424c243766596080d94e5740a576b",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "device-not-linked-to-target-customer": {
+      "title": "Устройство не привязано к клиенту, который входит в сегмент таргетинга механики",
+      "source_url": "https://developers.mindbox.ru/docs/device-not-linked-to-target-customer",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика персонализации включена, но не показывается клиенту"
+      ],
+      "content_hash": "sha256:1edf197f94b5cb5d2a2fc91b85ba9ac1360e5d2049b37a7a7bffb9bc741265ad",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "error_processing": {
+      "title": "Обработка ошибок",
+      "source_url": "https://developers.mindbox.ru/docs/error_processing",
+      "breadcrumb": [
+        "Общее",
+        "V3 API"
+      ],
+      "content_hash": "sha256:c0e798d3c5b697983e37f778f145de7b4548b0e2be743deb6e28e23fa014a4a8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "expo-notification": {
+      "title": "Expo Notifications",
+      "source_url": "https://developers.mindbox.ru/docs/expo-notification",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Expo SDK",
+        "Дополнительные настройки"
+      ],
+      "content_hash": "sha256:48496f519e99b6e1b49aeaa93a507bd231ef32adb1d04a3647f1bc7fcfc72527",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "expo-sdk": {
+      "title": "Expo SDK",
+      "source_url": "https://developers.mindbox.ru/docs/expo-sdk",
+      "breadcrumb": [
+        "Мобильные приложения"
+      ],
+      "content_hash": "sha256:44030df64a8f51284af20520d9a279ad4b8b075de521a34ced723d997ebfd16c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "expo-sdk-setup": {
+      "title": "Базовая установка Expo SDK",
+      "source_url": "https://developers.mindbox.ru/docs/expo-sdk-setup",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Expo SDK"
+      ],
+      "content_hash": "sha256:8e52b4e78073669495362b811ece169411a687eaf3f94253f1a14800f7277f83",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-api-reports": {
+      "title": "Экспорт отчетов по API",
+      "source_url": "https://developers.mindbox.ru/docs/export-api-reports",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:9278039fba0718f40a02f60c778c4b05291fb7782786d10e1c5cc59e77ddd2dc",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-customer-actions": {
+      "title": "Экспорт действий клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/export-customer-actions",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:42a75128cf6b715978601a3ddc3521a6904df28849ba955a598368c8f9f5a059",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-customer-merges": {
+      "title": "Экспорт объединений клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/export-customer-merges",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:7982947ea8318ff8edb78dd01779f0cce0b291a1ebc420e1fa762f54c4db1d34",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-customer-segmentation-changes": {
+      "title": "Экспорт изменения сегментации клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/export-customer-segmentation-changes",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:820553540983d0848f792832b41d48474ce8bcbf9e3467a074278012f303dc8c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-customers": {
+      "title": "Экспорт клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/export-customers",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:d30bcf5a1a219ee7b5a4c101385165a628d316c0978e63b785a530a98c83e5a0",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-customers-from-scenario-blocks": {
+      "title": "Экспорт клиентов из блоков сценариев",
+      "source_url": "https://developers.mindbox.ru/docs/export-customers-from-scenario-blocks",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:26beb46d51a0ad46a0e1f8f1277dda4d977a459a77a97f0705292054ddac6c56",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-event-log": {
+      "title": "Экспорт журнала событий",
+      "source_url": "https://developers.mindbox.ru/docs/export-event-log",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:90eacbbf3cb9516a777528bc40906d61b8b676983091280380932a64561983c2",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-ftps-sftp": {
+      "title": "Экспорт на FTP/SFTP",
+      "source_url": "https://developers.mindbox.ru/docs/export-ftps-sftp",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:72d993f7b8a5c9ade2c02a97636473045b034a5547cd2d498c40ed4044447023",
+      "fetched_at": "2026-05-04T14:26:15Z",
+      "deprecation_hint": [
+        "устаревш"
+      ]
+    },
+    "export-mailing-statuses": {
+      "title": "Экспорт статусов рассылок",
+      "source_url": "https://developers.mindbox.ru/docs/export-mailing-statuses",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:66db9f28c18a3e57ad3ee74f395d9109b581d3de556396633095e1717c3021a2",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-mailings": {
+      "title": "Экспорт рассылок",
+      "source_url": "https://developers.mindbox.ru/docs/export-mailings",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:99867e70ca41cdd4f4e1cbe8c0eb57cd34aab6e8bf3569e8bcc0e5a9a33da59a",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-operation-logs": {
+      "title": "Экспорт логов операций",
+      "source_url": "https://developers.mindbox.ru/docs/export-operation-logs",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:93b44aaf86f7d61013a9c8a275eb9b5efe56a55ba3a267a8de62e032c023dbb4",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-orders-and-lines": {
+      "title": "Экспорт заказов и позиций заказов",
+      "source_url": "https://developers.mindbox.ru/docs/export-orders-and-lines",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:93905d626fba3b3c9356c10ddc614fb06d36d44f7b5dadcae00c887e96ec3741",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-product-segmentation-changes": {
+      "title": "Экспорт изменения сегментации продуктов",
+      "source_url": "https://developers.mindbox.ru/docs/export-product-segmentation-changes",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:6eec717b8ca0b2e05afad5adc7864f7d80de8879738f38973e8bb9a1ef86fb7f",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-promotions": {
+      "title": "Экспорт промоакций",
+      "source_url": "https://developers.mindbox.ru/docs/export-promotions",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:1e14f35c8ddbb7d6be2bc1d10ae5896e4badfc661ba25c924714ad9d5251b357",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-scenarios": {
+      "title": "Экспорт сценариев",
+      "source_url": "https://developers.mindbox.ru/docs/export-scenarios",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:b4ff5160d0aa1ce7b4a76240e6930c0df67bf309b18efa01df625a997710a5ad",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "export-webhook-logs": {
+      "title": "Экспорт логов вебхуков",
+      "source_url": "https://developers.mindbox.ru/docs/export-webhook-logs",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:fff12ed962d3ee0d7d71aec98f28e2eb5b2b22540816be2a4b37882c9e69b27a",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "exports-overview": {
+      "title": "Общий принцип экспортов",
+      "source_url": "https://developers.mindbox.ru/docs/exports-overview",
+      "breadcrumb": [
+        "Экспорты"
+      ],
+      "content_hash": "sha256:ca34065dfe05c2518ae8d31a6fa6dbf450df71368fdac77a83946ae16451a48e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "external-ids-change-history": {
+      "title": "История изменений внешних идентификаторов клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/external-ids-change-history",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:f013a59bb6cc472a8fce44ca2f1c74385865e5c52e458ae6dd5f75d6b19d8273",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "firebase-integration-service-implementation": {
+      "title": "Реализация сервиса для подключения Firebase",
+      "source_url": "https://developers.mindbox.ru/docs/firebase-integration-service-implementation",
+      "breadcrumb": [],
+      "content_hash": "sha256:27ed66a3c7bcb34fd43aeeabc6cc2009dea0b398e0075aa77bce436bc6fb7b62",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "firebase-key-setup": {
+      "title": "Получение Firebase ключей",
+      "source_url": "https://developers.mindbox.ru/docs/firebase-key-setup",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK",
+        "Получение ключей провайдеров пушей"
+      ],
+      "content_hash": "sha256:4ab4cc554e920c00e41ed099da2d9f089e10a84d7821fc90f08c5f54b33b00f1",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "firebase-send-push-notifications": {
+      "title": "3.1. Отправка push-notifications через Firebase",
+      "source_url": "https://developers.mindbox.ru/docs/firebase-send-push-notifications",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:366cb2a8fbd471e06a04799f6e0202ef735b99aac329d714e22338993d2c6bcf",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "firebase-send-push-notifications-flutter": {
+      "title": "Firebase",
+      "source_url": "https://developers.mindbox.ru/docs/firebase-send-push-notifications-flutter",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK",
+        "Android | Настройка пуш-уведомлений"
+      ],
+      "content_hash": "sha256:6396a424f7ca3359abdc8e567557bdf080cd60c8764b81aa37f3c4c1b758b623",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "firebase-send-push-notifications-react-native": {
+      "title": "Firebase",
+      "source_url": "https://developers.mindbox.ru/docs/firebase-send-push-notifications-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK",
+        "Android | Настройка пуш-уведомлений"
+      ],
+      "content_hash": "sha256:293ebfea03550f2621525d702c0524542af61d78ff7c8dd1e13aeceacee808cf",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "flutter-android-push-notifications-setup": {
+      "title": "Android | Настройка пуш-уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/flutter-android-push-notifications-setup",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:b651c04b6f03b97e518826b4c9da971195437988bfafd37bf8f56a295f1256c4",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "flutter-get-push-keys": {
+      "title": "Получение ключей для пуш-уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/flutter-get-push-keys",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:40495f94466d66325edd32754d46b993d861f8f1e9422ebb2812bc9f277675d3",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "flutter-ios-advanced-push-setup": {
+      "title": "[Flutter] [iOS] Самостоятельная настройка пуш-уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/flutter-ios-advanced-push-setup",
+      "breadcrumb": [],
+      "content_hash": "sha256:8e025dc5ed8ace86d1a5ae59a72f033cfdf15f0fed783b506a19913cd713bf51",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "flutter-ios-rich-push-notifications": {
+      "title": "iOS | Настройка Rich-push уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/flutter-ios-rich-push-notifications",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:7bb2a77d64867401d0bfbfe9a888d75c9c562a77cee7bf9a6fc7f0d4161b36f8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "flutter-new-integration-setup": {
+      "title": "Настройка точек интеграции",
+      "source_url": "https://developers.mindbox.ru/docs/flutter-new-integration-setup",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:7e8d8f0293cf285f720969063b18628e5ac4f53565df09628d9d7bd3cf78f698",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "flutter-push-navigation": {
+      "title": "Навигация по клику на push-уведомление",
+      "source_url": "https://developers.mindbox.ru/docs/flutter-push-navigation",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:f39ece51659d0f0c784e814013916a1f9bffe3d0263459bed9c393dcd844fd25",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "flutter-push-navigation-react-native": {
+      "title": "Навигация по клику на push-уведомление",
+      "source_url": "https://developers.mindbox.ru/docs/flutter-push-navigation-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:840668639a597c528ab3194b3cb83aa8ed95ee4c754e733e3471e07819db8bff",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "flutter-sdk": {
+      "title": "Flutter SDK",
+      "source_url": "https://developers.mindbox.ru/docs/flutter-sdk",
+      "breadcrumb": [
+        "Мобильные приложения"
+      ],
+      "content_hash": "sha256:c8b93d86016fc307dedcd24058b46cd4b98b6763f52941e3005ec17a5f569d40",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "flutter-sdk-initialization": {
+      "title": "Инициализация SDK",
+      "source_url": "https://developers.mindbox.ru/docs/flutter-sdk-initialization",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:d3f1d2e9fe96ea4e4e5d457123f72556759539f75eb470daa995a6000d01bc93",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "flutter-sdk-methods": {
+      "title": "Методы Flutter SDK",
+      "source_url": "https://developers.mindbox.ru/docs/flutter-sdk-methods",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:855d9f621774d4e8d6e6d41035669033fd9abff42f453784090ba5a75d4a72d1",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "folders-reference": {
+      "title": "Справочник папок",
+      "source_url": "https://developers.mindbox.ru/docs/folders-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:14782b0bfbee7dada0d0418c19a03d868abc1672c939770fd876d43f21f18eaa",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "frontol-integration": {
+      "title": "Интеграция Frontol",
+      "source_url": "https://developers.mindbox.ru/docs/frontol-integration",
+      "breadcrumb": [
+        "Стандартные интеграции"
+      ],
+      "content_hash": "sha256:b08d0f274fbc6f1ecc937fe97d6548e4ad84275b55ff306b598335a3427ee5b1",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-customer-bonus-balance": {
+      "title": "Получение баланса клиента",
+      "source_url": "https://developers.mindbox.ru/docs/get-customer-bonus-balance",
+      "breadcrumb": [
+        "Бонусный счет"
+      ],
+      "content_hash": "sha256:3663fb666e3946dbf52b81c7155af532b1b5e401a4ae85854419ada80de67743",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-customer-bonus-balance-history": {
+      "title": "Получение истории изменений баланса клиента",
+      "source_url": "https://developers.mindbox.ru/docs/get-customer-bonus-balance-history",
+      "breadcrumb": [
+        "Бонусный счет"
+      ],
+      "content_hash": "sha256:3d3c57caa99fe767ef43ade8f17fd16ad247b03a9c38252dfff165de2540d471",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-customer-data": {
+      "title": "Получение данных клиента",
+      "source_url": "https://developers.mindbox.ru/docs/get-customer-data",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:3383bcc022511d31d7944bfc1acf9f81c19f1ed931b47ea43fcc85b709d408f0",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-customer-data-json": {
+      "title": "json",
+      "source_url": "https://developers.mindbox.ru/docs/get-customer-data-json",
+      "breadcrumb": [
+        "Клиент",
+        "Получение данных клиента"
+      ],
+      "content_hash": "sha256:e1270768611fa2a79196aa2f10583b7db9c9cccd4e10e7fdb01aee329b224d73",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-customer-data-xml": {
+      "title": "xml",
+      "source_url": "https://developers.mindbox.ru/docs/get-customer-data-xml",
+      "breadcrumb": [
+        "Клиент",
+        "Получение данных клиента"
+      ],
+      "content_hash": "sha256:1d5e44f16fb9570a2d762b146ba3e7ab701e4c2de8dcdf552da8700c8881af0b",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-customer-discount-cards-list": {
+      "title": "Получение списка дисконтных карт клиента",
+      "source_url": "https://developers.mindbox.ru/docs/get-customer-discount-cards-list",
+      "breadcrumb": [
+        "Карты"
+      ],
+      "content_hash": "sha256:9f4b426277952abc6851af4b2036e2c7c130c9807e5d308e3864b7945fdd1b3c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-customer-orders-list": {
+      "title": "Получение списка заказов клиента v2.1",
+      "source_url": "https://developers.mindbox.ru/docs/get-customer-orders-list",
+      "breadcrumb": [
+        "Заказы"
+      ],
+      "content_hash": "sha256:35553f862c27467e123fb9789919889cfece5be7927e8df6c0ae449ff20b662a",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-customer-product-list": {
+      "title": "Получение списка продуктов клиента",
+      "source_url": "https://developers.mindbox.ru/docs/get-customer-product-list",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:4ed496f241526b208b662e9a72cb459e43f17c33b88f4e0de698b4a6cf108c3c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-customer-segments": {
+      "title": "Получение сегментов клиента",
+      "source_url": "https://developers.mindbox.ru/docs/get-customer-segments",
+      "breadcrumb": [
+        "Сегментации"
+      ],
+      "content_hash": "sha256:13bcb93235e9ba0d612866d063fbade318a2df890b72778ed89606f7f7c81c50",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-discount-card-details": {
+      "title": "Получение данных дисконтной карты",
+      "source_url": "https://developers.mindbox.ru/docs/get-discount-card-details",
+      "breadcrumb": [
+        "Карты"
+      ],
+      "content_hash": "sha256:0c20ded82ca80af9eab5c06f7beb4efcd3cb82f1079e4d74bc029cf78a43e6ff",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-firebase-keys-for-web-push": {
+      "title": "Настройка отправки пушей на сайт через Firebase",
+      "source_url": "https://developers.mindbox.ru/docs/get-firebase-keys-for-web-push",
+      "breadcrumb": [
+        "Рассылки",
+        "Вебпуши"
+      ],
+      "content_hash": "sha256:5c44f14d106d49a1163049ec0d81bd80f464fb59dd1223b6e05bcd987045e1dd",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-order-info": {
+      "title": "Получение информации о заказе",
+      "source_url": "https://developers.mindbox.ru/docs/get-order-info",
+      "breadcrumb": [
+        "Заказы"
+      ],
+      "content_hash": "sha256:e4cd1685fbe5c6bebce07c5510d55d4e20a968d2868e1f872e60205027026295",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-orders-list": {
+      "title": "Получение списка заказов клиента",
+      "source_url": "https://developers.mindbox.ru/docs/get-orders-list",
+      "breadcrumb": [
+        "Заказы"
+      ],
+      "content_hash": "sha256:d73f8cfbd489f800885ae688f3aaec716db3f13a088b8928c15784149b4cf802",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-personal-offers-list": {
+      "title": "Получение персональных предложений",
+      "source_url": "https://developers.mindbox.ru/docs/get-personal-offers-list",
+      "breadcrumb": [
+        "Промокоды и промоакции"
+      ],
+      "content_hash": "sha256:15ed2f8c21aacf0491d864a8790a343eccdf4728366a551e6cc946934b780752",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-popular-products": {
+      "title": "Получение списка рекомендаций",
+      "source_url": "https://developers.mindbox.ru/docs/get-popular-products",
+      "breadcrumb": [
+        "Рекомендации"
+      ],
+      "content_hash": "sha256:da72bcf1d37a6b5367f8c949f3456cdabc89e519e75a68a2cd367cc608e7a8ea",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-project-segments-list": {
+      "title": "Получение списка сегментаций",
+      "source_url": "https://developers.mindbox.ru/docs/get-project-segments-list",
+      "breadcrumb": [
+        "Сегментации"
+      ],
+      "content_hash": "sha256:57d5867b33259a1486b4646c94983e11cb5fd25cce50949180668aeb4501d46f",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-promocodes-list": {
+      "title": "Получение списка промокодов",
+      "source_url": "https://developers.mindbox.ru/docs/get-promocodes-list",
+      "breadcrumb": [
+        "Промокоды и промоакции"
+      ],
+      "content_hash": "sha256:3f4a89c0b4bf99248f91bf99cd3e9e3540a993b806bb521d88fac7570e71dff9",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-promotions-for-customer": {
+      "title": "Получение списка доступных для клиента промоакций",
+      "source_url": "https://developers.mindbox.ru/docs/get-promotions-for-customer",
+      "breadcrumb": [
+        "Промокоды и промоакции"
+      ],
+      "content_hash": "sha256:6a1ad96aa6f2de3859f78d91bf7ed57b124cfb822ee981e907d265cf314db9a7",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "get-total-paid-orders-amount": {
+      "title": "Получение общей суммы оплаченных заказов",
+      "source_url": "https://developers.mindbox.ru/docs/get-total-paid-orders-amount",
+      "breadcrumb": [
+        "Заказы"
+      ],
+      "content_hash": "sha256:aada5d6df1be9fb96811e1cd81203b57592bc3b037ed2dc4787cf7b7c2191c1d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "gift-cards-in-order-save-operations": {
+      "title": "Работа с подарочными картами в операциях сохранения заказов",
+      "source_url": "https://developers.mindbox.ru/docs/gift-cards-in-order-save-operations",
+      "breadcrumb": [
+        "Карты"
+      ],
+      "content_hash": "sha256:84bdc2bdc97f43a8f006ecee7b8c9d76a4385483a160b0c784ff9c321a47e3f4",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "google-optimize-ab-test-ended": {
+      "title": "Завершился АВ-тест через Google Optimize",
+      "source_url": "https://developers.mindbox.ru/docs/google-optimize-ab-test-ended",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика персонализации включена, но не показывается клиенту"
+      ],
+      "content_hash": "sha256:e8963c60d53f84dda9d65058f2fd8d5389b6176d8fdb1021fe1650c5a9aaec52",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "how-to-read-data": {
+      "title": "Как прочитать данные",
+      "source_url": "https://developers.mindbox.ru/docs/how-to-read-data",
+      "breadcrumb": [
+        "Данные для аналитики"
+      ],
+      "content_hash": "sha256:e0a6f8110673cf57e4ef66587c419bd12f22776bd9d1636533caaa0f25106a38",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "how-to-receive-push-notifications-from-multiple-sources": {
+      "title": "Как получать пуши из нескольких источников отправки",
+      "source_url": "https://developers.mindbox.ru/docs/how-to-receive-push-notifications-from-multiple-sources",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:af56fad55cfe783ffa027557c924ee8b0bacf31ac9aade1dd7fcde65a7a29d6b",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "how-to-work-with-customer-merges": {
+      "title": "Как работать с объединением клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/how-to-work-with-customer-merges",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Как периодически обновлять данные"
+      ],
+      "content_hash": "sha256:144f7a66e58ae50bcf5e962f6c23400e9252c9c7a2cca35f30fc05dabf5e7c68",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "huawei-get-keys": {
+      "title": "Получение Huawei ключей",
+      "source_url": "https://developers.mindbox.ru/docs/huawei-get-keys",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK",
+        "Получение ключей провайдеров пушей"
+      ],
+      "content_hash": "sha256:6f1328ce82aa59f359a6f3fe8b814b8365b4dbb5b76273912de12328f8a04f10",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "huawei-push-service": {
+      "title": "Huawei Push Service",
+      "source_url": "https://developers.mindbox.ru/docs/huawei-push-service",
+      "breadcrumb": [],
+      "content_hash": "sha256:57c0f75e99baac119f3d29e4efb21359999b2db591684fa50ccdec4ba37dc603",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "huawei-send-push-notifications": {
+      "title": "3.2. Отправка push-notifications через Huawei",
+      "source_url": "https://developers.mindbox.ru/docs/huawei-send-push-notifications",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:d034700c287e8cfbd6e447ac3073051389c43c540d3dcea6a505b48b7d4107f6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "huawei-send-push-notifications-flutter": {
+      "title": "Huawei",
+      "source_url": "https://developers.mindbox.ru/docs/huawei-send-push-notifications-flutter",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK",
+        "Android | Настройка пуш-уведомлений"
+      ],
+      "content_hash": "sha256:b41bb9e21bb5d6302b11f62edf7965a7e0d0b424c5fc8dd0122ebc9458ccf87a",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "huawei-send-push-notifications-react-native": {
+      "title": "Huawei",
+      "source_url": "https://developers.mindbox.ru/docs/huawei-send-push-notifications-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK",
+        "Android | Настройка пуш-уведомлений"
+      ],
+      "content_hash": "sha256:62ff4f2886feabaf15ebeeacde7e06cf630a490a3fff6e6f6ebb7847880ed5f3",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "iiko-integration": {
+      "title": "Интеграция iiko",
+      "source_url": "https://developers.mindbox.ru/docs/iiko-integration",
+      "breadcrumb": [
+        "Стандартные интеграции"
+      ],
+      "content_hash": "sha256:612397853461daaae6f47e517c6c181d585ea2d64863efd1af6e7a163a73872b",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "iiko-plugin-setup-version-n-plus": {
+      "title": "Настройка плагина iiko версии V8.1.0.62 и выше",
+      "source_url": "https://developers.mindbox.ru/docs/iiko-plugin-setup-version-n-plus",
+      "breadcrumb": [
+        "Стандартные интеграции",
+        "Интеграция iiko"
+      ],
+      "content_hash": "sha256:b4d05205686a2c686e08ed332c0d3575e976e852de87b48be04c5cbf28edac7a",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "iiko-pos-instructions": {
+      "title": "Инструкция по работе с кассой IIKO",
+      "source_url": "https://developers.mindbox.ru/docs/iiko-pos-instructions",
+      "breadcrumb": [
+        "Стандартные интеграции",
+        "Интеграция iiko"
+      ],
+      "content_hash": "sha256:d38e0d17c73a570f8358c1afc14cd487d2f6a3f789903d55b2076d954f7cc806",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "import-external-promotions": {
+      "title": "Импорт внешних промоакций",
+      "source_url": "https://developers.mindbox.ru/docs/import-external-promotions",
+      "breadcrumb": [
+        "Промокоды и промоакции"
+      ],
+      "content_hash": "sha256:d910823cde48c0a9e516479abed7a07b32cedf2ae054f6c3f071315472dd62dd",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "import-field-values": {
+      "title": "Импорт возможных значений дополнительных полей",
+      "source_url": "https://developers.mindbox.ru/docs/import-field-values",
+      "breadcrumb": [
+        "Разное"
+      ],
+      "content_hash": "sha256:c4c81b2d7ed1c32d370857c1198e3d03c5ed7a8e1868e1a43b561443e23395f8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "import-personal-offers": {
+      "title": "Импорт персональных предложений",
+      "source_url": "https://developers.mindbox.ru/docs/import-personal-offers",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:2e7008704c714086d2adc0b82fada057429fdf220ef4a939244ebac38be60d48",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "import-personalproductlist-v3": {
+      "title": "Массовое обновление списка продуктов",
+      "source_url": "https://developers.mindbox.ru/docs/import-personalproductlist-v3",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:765804932572aa0ecf7a02563ea6674ed0a65243b2d885537a48c826ee6e30a6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "impression-limit-exceeded": {
+      "title": "Превышен лимит по показам",
+      "source_url": "https://developers.mindbox.ru/docs/impression-limit-exceeded",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика персонализации включена, но не показывается клиенту"
+      ],
+      "content_hash": "sha256:6717bc9b0762d219a4586655a800e5992963ce4ddcc8f00f3a801ff382638362",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "in-app": {
+      "title": "In-App",
+      "source_url": "https://developers.mindbox.ru/docs/in-app",
+      "breadcrumb": [
+        "Мобильные приложения"
+      ],
+      "content_hash": "sha256:e9d1c9254bee62873a5493f84c67dacd05563659e237885e0a8548f6ad3f0a61",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "in-app-operation-category-and-product-targeting": {
+      "title": "Настройка операций в приложении для таргетинга на экран категории и экран продукта",
+      "source_url": "https://developers.mindbox.ru/docs/in-app-operation-category-and-product-targeting",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "In-App"
+      ],
+      "content_hash": "sha256:def46fcaadad6b02f0ee3a89a5e5a9498f5d853824d42cdf2d637fa92621cd34",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "in-app-targeting-by-custom-operation": {
+      "title": "Настройка операций в приложении для таргетинга in-app на операцию",
+      "source_url": "https://developers.mindbox.ru/docs/in-app-targeting-by-custom-operation",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "In-App"
+      ],
+      "content_hash": "sha256:d26613554802dd562716bc2368a872622df68c6d7aff9ef255bc17b2192b9425",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "incorrect-display-location": {
+      "title": "Некорректно выбрано место отображения",
+      "source_url": "https://developers.mindbox.ru/docs/incorrect-display-location",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика не работает по тестовой ссылке"
+      ],
+      "content_hash": "sha256:0dcf9ffab3dcd6387a5683f0616a76da028c8a5b1403ca2a60c4c5400b6e78d7",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "integration-actions-flutter": {
+      "title": "Интеграция действий в приложении",
+      "source_url": "https://developers.mindbox.ru/docs/integration-actions-flutter",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:b1b31ed35025d8def1177457e3d58a12285f874c0151737110a36ead607469dc",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "integration-actions-react-native": {
+      "title": "Интеграция действий в приложении",
+      "source_url": "https://developers.mindbox.ru/docs/integration-actions-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:295283c1f054f9cae81298b60f2a1f988556746939bfe5eb95d2b5896c2b27b8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-app-start-tracking-flutter": {
+      "title": "Получение источника установки мобильного приложения",
+      "source_url": "https://developers.mindbox.ru/docs/ios-app-start-tracking-flutter",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:5da60ce96c8865c8797d501045cc8d73c02917ac32a21bf3ddd399c826eb7714",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-app-start-tracking-react-native": {
+      "title": "Получение источника установки мобильного приложения",
+      "source_url": "https://developers.mindbox.ru/docs/ios-app-start-tracking-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:8f830c8693602a821a286c8b2da5f3bc3d87b874ba7e90243965dee506942edf",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-get-app-install-source": {
+      "title": "Получение источника установки мобильного приложения",
+      "source_url": "https://developers.mindbox.ru/docs/ios-get-app-install-source",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:789832b0bee6a1170366c761c5af7b03eeb0bbbe2838b231fa3cfe19422b5a70",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-get-click-flutter": {
+      "title": "Передача кликов по push-уведомлениям",
+      "source_url": "https://developers.mindbox.ru/docs/ios-get-click-flutter",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:67f2fd01f625389cc4febc654d3935d54e9de11e898a8a9ec67a2e8a1972110e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-get-click-react-native": {
+      "title": "iOS | Передача кликов по push-уведомлениям",
+      "source_url": "https://developers.mindbox.ru/docs/ios-get-click-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:6718d77c9ca89b423f230cf3ca07e087ef7d191b24665b89fb254bfb01144ff9",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-guarantee-delivery-setup": {
+      "title": "Настройка гарантированной доставки",
+      "source_url": "https://developers.mindbox.ru/docs/ios-guarantee-delivery-setup",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:d460dea9ba7b22e61ff5bf30419f9c7e65e0dbf7c90b8d20df9cde995c18852e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-integration-actions": {
+      "title": "Интеграция действий в приложении",
+      "source_url": "https://developers.mindbox.ru/docs/ios-integration-actions",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:98da9941588e9af356d9d98b040d16caec3531a74d4a766ab69ad838c92bf304",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-mindboxflutterappdelegate": {
+      "title": "[Flutter] [iOS] Быстрая настройка пуш-уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/ios-mindboxflutterappdelegate",
+      "breadcrumb": [],
+      "content_hash": "sha256:fc5ebf9bb9e76d2f4e053d15c74288d1fc65b54660877aa4ac260ba27c876d61",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-push-click-forwarding": {
+      "title": "Передача кликов по push-уведомлениям",
+      "source_url": "https://developers.mindbox.ru/docs/ios-push-click-forwarding",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:9f580f9c3a0bc1b080a9bd1ff2ea3413547789bb0b2a24580cc663da60f2f2c7",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-push-notification-deep-linking": {
+      "title": "Переход по ссылке из push-уведомления",
+      "source_url": "https://developers.mindbox.ru/docs/ios-push-notification-deep-linking",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:fe37fc3b261e78f3b8240e242e0f69e1526001c0a6fb12df69d574c73fcc6d5e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-push-notification-format": {
+      "title": "Формат пуш уведомления iOS",
+      "source_url": "https://developers.mindbox.ru/docs/ios-push-notification-format",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:f84771b0c5a1b38a2bce51965d18b7b011080e4586dd3b34b48ecdd559777d94",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-push-notifications-setup": {
+      "title": "[iOS] Быстрая настройка пушей",
+      "source_url": "https://developers.mindbox.ru/docs/ios-push-notifications-setup",
+      "breadcrumb": [],
+      "content_hash": "sha256:9417b96e4b0976d39864ed925acd89e682d39c8a25113d7f7e18fa44b890ca04",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-push-notifications-setup-advanced": {
+      "title": "[iOS] Самостоятельная настройка пушей",
+      "source_url": "https://developers.mindbox.ru/docs/ios-push-notifications-setup-advanced",
+      "breadcrumb": [],
+      "content_hash": "sha256:3de33ca58ef00dcb46e208c0e73816d3bc65ca585190c38f68c0b0d4d2dd7e29",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-quick-setup-push-notifications": {
+      "title": "Настройка push-уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/ios-quick-setup-push-notifications",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:909f33b521b1d723a53fac899fd2edde362867941454a3ef0b201b74f5414f18",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-rich-push-image-and-button": {
+      "title": "Отображение картинки и кнопки",
+      "source_url": "https://developers.mindbox.ru/docs/ios-rich-push-image-and-button",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK",
+        "iOS | Настройка Rich-push уведомлений"
+      ],
+      "content_hash": "sha256:7268ea74a633ce06703d8328792d4666e84382d4bcaa6b5e86bc9fd467bf891b",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-rich-push-image-and-button-react-native": {
+      "title": "Отображение картинки и кнопки",
+      "source_url": "https://developers.mindbox.ru/docs/ios-rich-push-image-and-button-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK",
+        "iOS | Настройка Rich-push уведомлений"
+      ],
+      "content_hash": "sha256:8c8433eda520dd1e174accd8ab3316d41c00aa9c6fb237c2afedce5a18534810",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-rich-push-image-preview": {
+      "title": "Отображение превью картинки",
+      "source_url": "https://developers.mindbox.ru/docs/ios-rich-push-image-preview",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK",
+        "iOS | Настройка Rich-push уведомлений"
+      ],
+      "content_hash": "sha256:5be703ba9899e7f1c11bf620860e47388532539269e29b62c1a67e868fbde190",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-rich-push-image-preview-react-native": {
+      "title": "Отображение превью картинки",
+      "source_url": "https://developers.mindbox.ru/docs/ios-rich-push-image-preview-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK",
+        "iOS | Настройка Rich-push уведомлений"
+      ],
+      "content_hash": "sha256:11e690f449848ee3dcd04faaf1605f05d9f8daece9da8f0969cdeceb61761532",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-rich-push-notifications": {
+      "title": "Настройка Rich-push уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/ios-rich-push-notifications",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:69f8a030dac486081eec332369fdf3579954571ba15f8449c62bff75cf199c10",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-sdk": {
+      "title": "iOS SDK",
+      "source_url": "https://developers.mindbox.ru/docs/ios-sdk",
+      "breadcrumb": [
+        "Мобильные приложения"
+      ],
+      "content_hash": "sha256:2a51ba4055feefd464745d58c50e600006fd322649621888d78f5e7c01d8659c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-sdk-configuration-fields": {
+      "title": "Поля конфигурации iOS SDK",
+      "source_url": "https://developers.mindbox.ru/docs/ios-sdk-configuration-fields",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:57f28847650bb05dada5fb7d01fb73ef7b1caedfa7c669f561aedd95d9608c6f",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-sdk-events": {
+      "title": "Передача событий через iOS SDK",
+      "source_url": "https://developers.mindbox.ru/docs/ios-sdk-events",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:62e63b9ebfed16f743f280bb093e67465f2caa119e17fe8346406e19664347ec",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-sdk-initialization": {
+      "title": "Инициализация SDK",
+      "source_url": "https://developers.mindbox.ru/docs/ios-sdk-initialization",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:06137561650cd51b2ff67e5f4c7fa5a97b4184a21e702fba4117891dc0325f4e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-sdk-methods": {
+      "title": "Методы iOS SDK",
+      "source_url": "https://developers.mindbox.ru/docs/ios-sdk-methods",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:e357313b38a49905d76e94811c69cc88ab1e86d98ca1903c396262a9e5d750a6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-sdk-request-constructor": {
+      "title": "Структура конструктора запроса iOS SDK",
+      "source_url": "https://developers.mindbox.ru/docs/ios-sdk-request-constructor",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:ec13392aa2815a2da85d9e426fd299988a9d418ca362a40ce43bfec35e1b2db1",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-send-push-notifications-flutter": {
+      "title": "iOS | Настройка пуш-уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/ios-send-push-notifications-flutter",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:ee23a1da7b1fb0de6fe227c0962c6d4b7e7e847e0b5958cda4d4a6e694f450df",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-send-push-notifications-react-native": {
+      "title": "iOS | Настройка пуш-уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/ios-send-push-notifications-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:72d01be684f0ed25f0c8ad58b4d0b4cc3fa98074f19ac338833218337c455140",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-setup-background-tasks-flutter": {
+      "title": "iOS | Настройка гарантированной доставки",
+      "source_url": "https://developers.mindbox.ru/docs/ios-setup-background-tasks-flutter",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:09c39ac03d93498636398acfd1d6bdbcc49656cc611269b85e2c6d18eff4a40f",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-setup-background-tasks-react-native": {
+      "title": "iOS | Настройка гарантированной доставки",
+      "source_url": "https://developers.mindbox.ru/docs/ios-setup-background-tasks-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:7a4faf04dba9b0b8cc4081282102ffe1f2dafd29c4733af58e54838ae5a23ab8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ios-webview-sync-with-sdk": {
+      "title": "Cинхронизация deviceUUID между iOS mobile SDK и JS SDK в приложении с WebView",
+      "source_url": "https://developers.mindbox.ru/docs/ios-webview-sync-with-sdk",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:411a72fe59fc71b954452005eb55763a41c810b0e7f49f226021e24dc65b8218",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "javascript-1": {
+      "title": "javascript",
+      "source_url": "https://developers.mindbox.ru/docs/javascript-1",
+      "breadcrumb": [
+        "Клиент",
+        "Получение данных клиента"
+      ],
+      "content_hash": "sha256:8223ae92968f3256086f249b9ae7aefb27750d58771d576baa165db26f0627a3",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "javascript-sdk": {
+      "title": "Javascript SDK",
+      "source_url": "https://developers.mindbox.ru/docs/javascript-sdk",
+      "breadcrumb": [
+        "Общее"
+      ],
+      "content_hash": "sha256:758e2f001c564cdc5a2fea8616f9fa17174478344362f340e13b4c7a76bf9e0e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "javascript-sdk-anonymization": {
+      "title": "Интеграция JavaScript SDK через Анонимизатор",
+      "source_url": "https://developers.mindbox.ru/docs/javascript-sdk-anonymization",
+      "breadcrumb": [
+        "Общее",
+        "Javascript SDK"
+      ],
+      "content_hash": "sha256:b773e5f9f0da044eeebfaff6c20e8abc6894e5361f03f0fbe9bca2ca99e4cc08",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "json": {
+      "title": "json",
+      "source_url": "https://developers.mindbox.ru/docs/json",
+      "breadcrumb": [
+        "Клиент",
+        "Регистрация, формы подписки, трекинг входа на сайт"
+      ],
+      "content_hash": "sha256:6b5e4e06e648bcf5aa0d3ba2853bbc8df4a993da4915f2ed05861b6a23918557",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "json-1": {
+      "title": "javascript",
+      "source_url": "https://developers.mindbox.ru/docs/json-1",
+      "breadcrumb": [
+        "Рассылки",
+        "Отправка рассылок по API"
+      ],
+      "content_hash": "sha256:7440663838cbddc41b5e7ebe63584b9455aa1a75ab119c2bc817220b87c87226",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "koshelek-app-integration": {
+      "title": "Интеграция с приложением «Кошелёк»",
+      "source_url": "https://developers.mindbox.ru/docs/koshelek-app-integration",
+      "breadcrumb": [
+        "Стандартные интеграции"
+      ],
+      "content_hash": "sha256:c778156e6f07a8934f88de6513d35f02c5b12205e4b7efa3b00173e3972e8b16",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "link-between-bonus-redemptions-and-accruals": {
+      "title": "Связь между списаниями и начислениями баллов",
+      "source_url": "https://developers.mindbox.ru/docs/link-between-bonus-redemptions-and-accruals",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:be8d852f2da581b226fb62be6eabad0e42be5f9a6facf17ddc246e11eddf88ab",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "loyaloffline": {
+      "title": "Лояльность на кассе (v2.1)",
+      "source_url": "https://developers.mindbox.ru/docs/loyaloffline",
+      "breadcrumb": [],
+      "content_hash": "sha256:91d4d24333ed1a87d2fdd88b6724d5e732a676fa6ea923207d9bed7a0b31838d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mailing-statuses": {
+      "title": "Статусы рассылок",
+      "source_url": "https://developers.mindbox.ru/docs/mailing-statuses",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:675f6e20a9b529d1711360ae2fe04bd6456fbb93db8bf4f20f6e718ebe4f435d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mailing-topics-reference": {
+      "title": "Справочник тематик рассылок",
+      "source_url": "https://developers.mindbox.ru/docs/mailing-topics-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:e0cc3342522d79a68cdaef9041853b6d3637ca137d957523204942d9ba4736e7",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mailings-reference": {
+      "title": "Справочник рассылок",
+      "source_url": "https://developers.mindbox.ru/docs/mailings-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:1e3b9054779dca415137858e3bce7997d40240d524849535bd35035ff8b2a575",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mailings-send-json": {
+      "title": "json",
+      "source_url": "https://developers.mindbox.ru/docs/mailings-send-json",
+      "breadcrumb": [
+        "Рассылки",
+        "Отправка рассылок по API"
+      ],
+      "content_hash": "sha256:83eef70bc0e0f85fdb89a9c7f8f2ed2a7cb0bcf6c363a3a610d57a0693e7eb9b",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mechanics-enabled-not-shown": {
+      "title": "Механика персонализации включена, но не показывается клиенту",
+      "source_url": "https://developers.mindbox.ru/docs/mechanics-enabled-not-shown",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации"
+      ],
+      "content_hash": "sha256:7a224fee12ea4d7e7cb7e51ab6b34edf6dea80237dae8726d05c647f76f2d93e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mechanics-loads-slowly": {
+      "title": "Механика персонализации прогружается медленно",
+      "source_url": "https://developers.mindbox.ru/docs/mechanics-loads-slowly",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации"
+      ],
+      "content_hash": "sha256:b7ad7fcf46efa6034371e19f3fd31a505da353869d0911a6ac47edda845eeddb",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mechanics-missing-required-settings": {
+      "title": "В механике не указаны необходимые настройки",
+      "source_url": "https://developers.mindbox.ru/docs/mechanics-missing-required-settings",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика не работает по тестовой ссылке"
+      ],
+      "content_hash": "sha256:8258a766890cfa3e25eb57fb5102ba531ae31ba8a4cbbf4fa6231b808b46af22",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mechanics-not-working-test-link": {
+      "title": "Механика не работает по тестовой ссылке",
+      "source_url": "https://developers.mindbox.ru/docs/mechanics-not-working-test-link",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации"
+      ],
+      "content_hash": "sha256:839839d0278b3ff78683b0b8901552322d6db14bcb7e79212ffa7088314c9388",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mechanics-wrong-endpoint": {
+      "title": "В механике указана не та точка интеграции",
+      "source_url": "https://developers.mindbox.ru/docs/mechanics-wrong-endpoint",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика не работает по тестовой ссылке"
+      ],
+      "content_hash": "sha256:118a6a7f6c5b050c7cddaac9477da9a38d8165858f741845cbaa71d023eb9b13",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mindbox-sdk": {
+      "title": "Mindbox SDK",
+      "source_url": "https://developers.mindbox.ru/docs/mindbox-sdk",
+      "breadcrumb": [
+        "Мобильные приложения"
+      ],
+      "content_hash": "sha256:d16879816e7fafd6ee047cec3de3c62b28bf3f7e85e3ba94f98434b52341b6b6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mobile-phone-verification": {
+      "title": "Подтверждение мобильного телефона и подписки на СМС",
+      "source_url": "https://developers.mindbox.ru/docs/mobile-phone-verification",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:b8c1d5271c2ce8b38995874672690696decf1cf381f8bf050e5f4a78dd496a14",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mobile-push-check": {
+      "title": "Проверка корректной работы мобильных push-уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/mobile-push-check",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Справочное"
+      ],
+      "content_hash": "sha256:50e75824e8ae42c3cec786794dc9c5e79023ae5f1a13f99b11c8fd3bd600fdd8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "mobile-sdk-reference": {
+      "title": "Справочное",
+      "source_url": "https://developers.mindbox.ru/docs/mobile-sdk-reference",
+      "breadcrumb": [
+        "Мобильные приложения"
+      ],
+      "content_hash": "sha256:18e32aa98f9bc604b724e3fb8ebfe66f1ef9c9b9df8e56c86d976203156449da",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "no-products-for-recommendation": {
+      "title": "Нет продуктов для рекомендации",
+      "source_url": "https://developers.mindbox.ru/docs/no-products-for-recommendation",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Виджет рекомендаций не работает по тестовой ссылке"
+      ],
+      "content_hash": "sha256:c143fa241262c697d99fb312f422102a2eccc58f71334eb63521aa39cc797616",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "notification-center": {
+      "title": "Центр уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/notification-center",
+      "breadcrumb": [
+        "Мобильные приложения"
+      ],
+      "content_hash": "sha256:510afb03896db115c58ad3857ad3f48b445807065574accdef0556df6c16ff7f",
+      "fetched_at": "2026-05-04T14:26:15Z",
+      "deprecation_hint": [
+        "не используется"
+      ]
+    },
+    "on-demand-customer-merging": {
+      "title": "Объединение клиентов по запросу",
+      "source_url": "https://developers.mindbox.ru/docs/on-demand-customer-merging",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:05aab5853be9b483b7269b48ab2df596219b0087eb262262557ae96df5a02c0b",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "order-checkout": {
+      "title": "Оформление заказа",
+      "source_url": "https://developers.mindbox.ru/docs/order-checkout",
+      "breadcrumb": [
+        "Заказы"
+      ],
+      "content_hash": "sha256:84dde4d9ba159e215f70317beab3a0a547fca26c6eefeceaf64dc1900625abe5",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "order-line-statuses-reference": {
+      "title": "Справочник статусов позиций заказов",
+      "source_url": "https://developers.mindbox.ru/docs/order-line-statuses-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:eb961cf18937a52ee13d2c1c5b368cb3b29d5130492118df70feee469be9e327",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "osmi-cards-integration": {
+      "title": "Интеграция OSMI Cards",
+      "source_url": "https://developers.mindbox.ru/docs/osmi-cards-integration",
+      "breadcrumb": [
+        "Стандартные интеграции"
+      ],
+      "content_hash": "sha256:0837290f9aa7f602df82bbbe44cc315585b9c1128427afd563c12ded4255b057",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "passteam-integration": {
+      "title": "Интеграция Passteam",
+      "source_url": "https://developers.mindbox.ru/docs/passteam-integration",
+      "breadcrumb": [
+        "Стандартные интеграции"
+      ],
+      "content_hash": "sha256:64583d7f0c84cce148507aab1187f88311b6185df9c812d264fef6766ef19c8a",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "password-based-authentication": {
+      "title": "Аутентификация по паролю",
+      "source_url": "https://developers.mindbox.ru/docs/password-based-authentication",
+      "breadcrumb": [
+        "Клиент",
+        "Аутентификация"
+      ],
+      "content_hash": "sha256:2fccda772acff18ce9aed705104168c8033334e28401ee61dcf6d3165801aed8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "periodic-data-updates": {
+      "title": "Как периодически обновлять данные",
+      "source_url": "https://developers.mindbox.ru/docs/periodic-data-updates",
+      "breadcrumb": [
+        "Данные для аналитики"
+      ],
+      "content_hash": "sha256:d4ce3df08e7b3ac20f55508d0b391f5df6fc70b97688c9e1cdc3ac9518ca2aef",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "phone-verification-client-side": {
+      "title": "Подтверждение мобильного телефона на стороне заказчика",
+      "source_url": "https://developers.mindbox.ru/docs/phone-verification-client-side",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:79385f5826b302d98c85310b01b391f2b3b38742fa3e46299f1f1172db1059fb",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "php-sdk": {
+      "title": "PHP SDK",
+      "source_url": "https://developers.mindbox.ru/docs/php-sdk",
+      "breadcrumb": [
+        "Стандартные интеграции"
+      ],
+      "content_hash": "sha256:add715fb3b7ea258716e93bab99902132d287265dd5a5bc8e4b97704caadd7db",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "preorder": {
+      "title": "Предварительный расчет заказа с процессингом",
+      "source_url": "https://developers.mindbox.ru/docs/preorder",
+      "breadcrumb": [
+        "Заказы"
+      ],
+      "content_hash": "sha256:6c1ba48a7b893746873a04225a7320f8c66d00717c66da48738de3cd80d65d12",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "processing-calculate-product-list": {
+      "title": "Расчет цен в каталоге и на карточке товара",
+      "source_url": "https://developers.mindbox.ru/docs/processing-calculate-product-list",
+      "breadcrumb": [
+        "Заказы"
+      ],
+      "content_hash": "sha256:35d8bba0ca96140c7cf19a341b34fdb3f01bbe77c84fcbe4c27db7351607aee5",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "processing-offline-order": {
+      "title": "Отложенное сохранение заказа (процессинг)",
+      "source_url": "https://developers.mindbox.ru/docs/processing-offline-order",
+      "breadcrumb": [
+        "Заказы"
+      ],
+      "content_hash": "sha256:4c391560b79c1086988ebdc40693da63e45e893e700c52f9cd982560daa9a87c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "prodactionjson": {
+      "title": "javascript",
+      "source_url": "https://developers.mindbox.ru/docs/prodactionjson",
+      "breadcrumb": [
+        "Номенклатура",
+        "Действия с продуктами"
+      ],
+      "content_hash": "sha256:a8ecf3f526c4fc804a248b0aa0247a6a774d8a3c51bab88b1ace8edc05ab87f5",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "prodactionxml": {
+      "title": "xml",
+      "source_url": "https://developers.mindbox.ru/docs/prodactionxml",
+      "breadcrumb": [
+        "Номенклатура",
+        "Действия с продуктами"
+      ],
+      "content_hash": "sha256:d3d7d6971e6dc5df019aaf701be66e3ae250d539505311040db9de59f32389d1",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "prodimportcsv": {
+      "title": "csv",
+      "source_url": "https://developers.mindbox.ru/docs/prodimportcsv",
+      "breadcrumb": [
+        "Номенклатура",
+        "Импорт продуктов"
+      ],
+      "content_hash": "sha256:3a062a03564e5fabd97949f34a141e3a7ea33fddd931f23919306793c8f59fcc",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "prodimportxml": {
+      "title": "xml",
+      "source_url": "https://developers.mindbox.ru/docs/prodimportxml",
+      "breadcrumb": [
+        "Номенклатура",
+        "Импорт продуктов"
+      ],
+      "content_hash": "sha256:dad964353e5feb2215d5ac081b5c31598ba0280fab0b02ba7c37a31946e328c4",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "prodlistactionjson": {
+      "title": "javascript",
+      "source_url": "https://developers.mindbox.ru/docs/prodlistactionjson",
+      "breadcrumb": [
+        "Номенклатура",
+        "Действия со списками продуктов"
+      ],
+      "content_hash": "sha256:7c046ca4469eab04c199b2386ead210970f39f70a71a730c7eac922ebeeb0790",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "prodlistactionxml": {
+      "title": "xml",
+      "source_url": "https://developers.mindbox.ru/docs/prodlistactionxml",
+      "breadcrumb": [
+        "Номенклатура",
+        "Действия со списками продуктов"
+      ],
+      "content_hash": "sha256:df90f716d770b5313fc104b14c07a65719600811996173e7e14c3de1b61125f4",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "product-actions": {
+      "title": "Действия с продуктами",
+      "source_url": "https://developers.mindbox.ru/docs/product-actions",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:4a6d9054c2eb703cadf9ab9218aa3376631296121a08ce64c89df964ead13162",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "product-category-actions": {
+      "title": "Действия с категориями",
+      "source_url": "https://developers.mindbox.ru/docs/product-category-actions",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:36730f60a3027406f90fef344663bfeed5277bb6ecd811bd0ef7ccd5d4a65fa1",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "product-category-import": {
+      "title": "Импорт категорий продуктов",
+      "source_url": "https://developers.mindbox.ru/docs/product-category-import",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:605cac2758e309e58fccb8161fd4591c7d5650ecbc7e1ee3cc7223ac2db2a8a3",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "product-import": {
+      "title": "Импорт продуктов",
+      "source_url": "https://developers.mindbox.ru/docs/product-import",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:ad9aca4baa59514efb1655275cd200dc30dea84cc1f7070477b3377692d8e0ba",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "product-list-actions": {
+      "title": "Действия со списками продуктов",
+      "source_url": "https://developers.mindbox.ru/docs/product-list-actions",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:82fd5a2edf8a12f9e19e89f477132a59858cef403b9b7364e54c25831b87757e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "push-navigation-expo": {
+      "title": "Навигация по клику на push-уведомление в Expo",
+      "source_url": "https://developers.mindbox.ru/docs/push-navigation-expo",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Expo SDK",
+        "Дополнительные настройки"
+      ],
+      "content_hash": "sha256:e23f8892a071cc4ea402d15d4dc90bbde953dc4cd3b0ae739a9c031e319c7000",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "react-native-sdk": {
+      "title": "React Native SDK",
+      "source_url": "https://developers.mindbox.ru/docs/react-native-sdk",
+      "breadcrumb": [
+        "Мобильные приложения"
+      ],
+      "content_hash": "sha256:4d35daedf821715fcf3cdbac1d01d1b28de5c70e861f12570a483c9bf0e69928",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "react-native-sdk-methods": {
+      "title": "Методы React Native SDK",
+      "source_url": "https://developers.mindbox.ru/docs/react-native-sdk-methods",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:7f6dd13cefcebdeebb4646f81257ee13fadc69606bd5a2ed2ae5e36422a18d5c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "recommendation": {
+      "title": "Рекомендации",
+      "source_url": "https://developers.mindbox.ru/docs/recommendation",
+      "breadcrumb": [],
+      "content_hash": "sha256:57990250da694bff74d83cbd54b206d1b20c81c03b2e09d6eb27a747b2e6bc8b",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "reconcile-orders-with-report": {
+      "title": "Как сверить данные по заказам с отчетом",
+      "source_url": "https://developers.mindbox.ru/docs/reconcile-orders-with-report",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Как периодически обновлять данные"
+      ],
+      "content_hash": "sha256:273eb5aac8a58a1b04656c90c877b8009be62a90a0a4a03fcaba43e668ab043d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "redeem-promocode": {
+      "title": "Погасить промокод",
+      "source_url": "https://developers.mindbox.ru/docs/redeem-promocode",
+      "breadcrumb": [
+        "Промокоды и промоакции"
+      ],
+      "content_hash": "sha256:8ad4fc3c15c877aad21bc8d5913b24a174a3f50dc1872fafc679e105f925bf2d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "referral-code-registration": {
+      "title": "Реферальная программа",
+      "source_url": "https://developers.mindbox.ru/docs/referral-code-registration",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:66841a8437023bec7d1eb80d6648bd6bb97445d532155fec579af03709d0a4c2",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "regional-products-import": {
+      "title": "Импорт региональных данных продуктов",
+      "source_url": "https://developers.mindbox.ru/docs/regional-products-import",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:db4794a58cb667a978c289b34f11b2d37949dd66bed0955e295780991c6ae694",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "registration-authorization-subscription": {
+      "title": "Регистрация, формы подписки, трекинг входа на сайт",
+      "source_url": "https://developers.mindbox.ru/docs/registration-authorization-subscription",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:c03a34e0ed2a676a542780a87457b8c8e379866669a4a95604e5c500bb951b3d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "remove-customer-from-segmentation": {
+      "title": "Исключение из сегментации",
+      "source_url": "https://developers.mindbox.ru/docs/remove-customer-from-segmentation",
+      "breadcrumb": [
+        "Сегментации"
+      ],
+      "content_hash": "sha256:9a77aba8b3e0fb63f6b9a4e8a3e99b31c5155e4ef5e3535cb9eb625d3bd43b66",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "replace-card": {
+      "title": "Замена дисконтной карты",
+      "source_url": "https://developers.mindbox.ru/docs/replace-card",
+      "breadcrumb": [
+        "Карты"
+      ],
+      "content_hash": "sha256:589a57ba3c884c84dfac5207c6f653842015b30cf2249c28de3ea8c914626f5d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "retail-version-23": {
+      "title": "Версия розницы 2.3",
+      "source_url": "https://developers.mindbox.ru/docs/retail-version-23",
+      "breadcrumb": [
+        "Стандартные интеграции",
+        "Интеграция модуля для 1С:Розница"
+      ],
+      "content_hash": "sha256:27bac7d83d6245e9fcaf9e58bdd6898698440fb95566f95843d23fbcdccfc0f8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "retailorder-import-v3": {
+      "title": "Массовый импорт заказов",
+      "source_url": "https://developers.mindbox.ru/docs/retailorder-import-v3",
+      "breadcrumb": [
+        "Заказы"
+      ],
+      "content_hash": "sha256:0f58f29ec70dd0b544f254affd08590d4a8788cc3b17678079363232787a251f",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "rich-push-notifications-buttons": {
+      "title": "Отображение картинки и кнопки",
+      "source_url": "https://developers.mindbox.ru/docs/rich-push-notifications-buttons",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK",
+        "Настройка Rich-push уведомлений"
+      ],
+      "content_hash": "sha256:3430e1b99acae4417d894287a7e9be28137416c4fea2396754cf9a47c8e82687",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "rich-push-notifications-preview": {
+      "title": "Отображение превью картинки",
+      "source_url": "https://developers.mindbox.ru/docs/rich-push-notifications-preview",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK",
+        "Настройка Rich-push уведомлений"
+      ],
+      "content_hash": "sha256:6d4b331c2b9655b3ae416bc84bb7ca330fa89dfb4b527b1fd7690a07ecb98951",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "rkeeper-integration": {
+      "title": "Интеграция rkeeper",
+      "source_url": "https://developers.mindbox.ru/docs/rkeeper-integration",
+      "breadcrumb": [
+        "Стандартные интеграции"
+      ],
+      "content_hash": "sha256:29b0de264b4b002017ad8250501201086f7f6b1d5d1f0f668462df37922bfb42",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "rn-android-push-notifications-setup": {
+      "title": "Android | Настройка пуш-уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/rn-android-push-notifications-setup",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:99d838b7b3ab7d3028182a89bb0f9f28302ede42b1596aca6d3962d7f3f230e8",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "rn-get-push-keys": {
+      "title": "Получение ключей для пуш-уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/rn-get-push-keys",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:625e30b94c4f4aa8de1462b59504447581f8daa2858d0cb6d6555aed05fb1fc6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "rn-ios-rich-push-notifications": {
+      "title": "iOS | Настройка Rich-push уведомлений",
+      "source_url": "https://developers.mindbox.ru/docs/rn-ios-rich-push-notifications",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:50bc265b6a9d5e8ceb2d4be6681fc5673d38ba437fc7d222abbd6907d0b4d1ac",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "rustore-get-keys": {
+      "title": "Получение RuStore ключей",
+      "source_url": "https://developers.mindbox.ru/docs/rustore-get-keys",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK",
+        "Получение ключей провайдеров пушей"
+      ],
+      "content_hash": "sha256:2237deb2f9d79cb7e253145335de923a91a1dd522b46632fb5b53024926c5d75",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "rustore-push-service": {
+      "title": "RuStore Push Service",
+      "source_url": "https://developers.mindbox.ru/docs/rustore-push-service",
+      "breadcrumb": [],
+      "content_hash": "sha256:7fd616834d3fde493b0b3fb86cde5b43f241c310111fee7dc69e2dab8b5c6521",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "rustore-send-push-notifications": {
+      "title": "3.3. Отправка push-notifications через RuStore",
+      "source_url": "https://developers.mindbox.ru/docs/rustore-send-push-notifications",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:c67c8a827ca1b7d180faef0375cf99186e63e9b93987ef9d1d49dbf5e7abb6fc",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "rustore-send-push-notifications-flutter": {
+      "title": "RuStore",
+      "source_url": "https://developers.mindbox.ru/docs/rustore-send-push-notifications-flutter",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK",
+        "Android | Настройка пуш-уведомлений"
+      ],
+      "content_hash": "sha256:ae548c2a281b4edf5e39000361c2f1733b36a8ae08243b67b390e250505bb692",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "rustore-send-push-notifications-react-native": {
+      "title": "RuStore",
+      "source_url": "https://developers.mindbox.ru/docs/rustore-send-push-notifications-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK",
+        "Android | Настройка пуш-уведомлений"
+      ],
+      "content_hash": "sha256:3c591eab83d551197e089117bd99b728315ab301d76f97ac39518b9c4d48fb33",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sandbox-integration-setup": {
+      "title": "Настройка Sandbox окружения",
+      "source_url": "https://developers.mindbox.ru/docs/sandbox-integration-setup",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "iOS SDK"
+      ],
+      "content_hash": "sha256:7cd0faa5adb8df97c844482731dc47c1a56b01f31e751aac85c7b65237695bc5",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "save-external-promotion": {
+      "title": "Создание и редактирование внешней промоакции",
+      "source_url": "https://developers.mindbox.ru/docs/save-external-promotion",
+      "breadcrumb": [
+        "Промокоды и промоакции"
+      ],
+      "content_hash": "sha256:37193ffc888c13982115ca2178d13dbf646f88e24837ec092a5867b58e053a37",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "save-product-regional-info": {
+      "title": "Обновление региональных данных продукта",
+      "source_url": "https://developers.mindbox.ru/docs/save-product-regional-info",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:99c26ea6d2be9b4370c27d839389e9f562b0f05ab5676040f8e926b813b47202",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "scripts-not-installed": {
+      "title": "Скрипты персонализации не установлены",
+      "source_url": "https://developers.mindbox.ru/docs/scripts-not-installed",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика не работает по тестовой ссылке"
+      ],
+      "content_hash": "sha256:e7d1b1ff1856a112c17e9e5cab7ffc7b6630ca402693dd242d1c081463b2d217",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-android": {
+      "title": "Android",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-android",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK"
+      ],
+      "content_hash": "sha256:986a61f7d840caf8ca5b6aece4aa0103e352e742f5762de456f3a90f3adba6f4",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-app-crashes-after-notifications": {
+      "title": "После отправки уведомлений приложение падает",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-app-crashes-after-notifications",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Android"
+      ],
+      "content_hash": "sha256:c96d985f7ba3a3c14ccdb8257f04f55f569830bd0fabdbc8ac42c8f228ee9b41",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-app-started-console-error": {
+      "title": "Приложение запустилось, но в консоли ошибка",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-app-started-console-error",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Общее"
+      ],
+      "content_hash": "sha256:ab536ead92d377b731782d7bb64d2ae1c8644ed22f0cd4dff56142cfef2044fd",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-build-error": {
+      "title": "Приложение не собирается — ошибка сборки",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-build-error",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "IOS"
+      ],
+      "content_hash": "sha256:edc6a7b7255e31a717e912e6ffa1d62b3cfb8761e697becd86e122668948fa89",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-click-called-but-not-saved": {
+      "title": "Клик вызывается, но данные не сохраняются в админке",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-click-called-but-not-saved",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "IOS"
+      ],
+      "content_hash": "sha256:1794cec70807e3b70ca78346e65a9efd9e7531f18f9c064c70d101cca4ca52ac",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-console-error-when-sending-request": {
+      "title": "При отправке запроса через SDK в консоли ошибка",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-console-error-when-sending-request",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Общее"
+      ],
+      "content_hash": "sha256:23d7bd7260e6d9338f9e1c8ccff065e2572e24085aa8eb4209493c6e684fb0a5",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-contractmismatch": {
+      "title": "При отправке push-уведомления статус «ContractMismatch»",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-contractmismatch",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Android"
+      ],
+      "content_hash": "sha256:91ad30a9028a1c4c9cb241964e7d30389f88d6613993fe09a648606108b4ed3c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-contractmismatch-ios": {
+      "title": "При отправке push-уведомления статус «ContractMismatch»",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-contractmismatch-ios",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "IOS"
+      ],
+      "content_hash": "sha256:4cb89ab0009982fb3a140ad742dbb198de40bd57c7d92dd0f21c3252d0e068ce",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-general": {
+      "title": "Общее",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-general",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK"
+      ],
+      "content_hash": "sha256:2cab9ff3539ba64e38ef604e932810bdc7e99d012c7df6c08d26af9c37894251",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-installation-status-not-registered": {
+      "title": "У установки статус «приложение не зарегистрировано в системе отправки пушей»",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-installation-status-not-registered",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "IOS"
+      ],
+      "content_hash": "sha256:0ab99b17f750abecdc1cf07a3aa18df4825e92cbcb746f7522bb31f5e96596cc",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-installation-status-not-registered-android": {
+      "title": "У установки статус «приложение не зарегистрировано в системе отправки пушей»",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-installation-status-not-registered-android",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Android"
+      ],
+      "content_hash": "sha256:9337572882a92486b9c579a991a6c08cd1bcfdb11145ce3cf48a0215290ff096",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-ios": {
+      "title": "IOS",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-ios",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK"
+      ],
+      "content_hash": "sha256:976a993306015c51bea397bf5bffce67c940a866df2b5ec7203bea5b269c96a9",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-no-push-permission": {
+      "title": "У пользователя нет разрешения на push-уведомления",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-no-push-permission",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "IOS"
+      ],
+      "content_hash": "sha256:cdac88717dc1308de1b2881029a0f8cdad3505e6ff57c846f7769e09a0118c7c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-push-buttons-not-working": {
+      "title": "В push-уведомлении не отображаются кнопки по нажатию",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-push-buttons-not-working",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Android"
+      ],
+      "content_hash": "sha256:fd6a2f82363312e4975b27c8b6d38c40befa58460baa4a596fc8b60ef8a9912e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-push-click-did-not-open-section": {
+      "title": "Клик на push-уведомление был, но нужный раздел приложения не открылся",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-push-click-did-not-open-section",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Android"
+      ],
+      "content_hash": "sha256:d81658b3153d2a1e5abafac3598f2c6c9a91e15ff0c7bfa5eb36ffba986444e4",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-push-click-not-tracked-in-mindbox": {
+      "title": "При клике на push-уведомление информация об этом не отображается в Mindbox",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-push-click-not-tracked-in-mindbox",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "IOS"
+      ],
+      "content_hash": "sha256:1ab8742d32aa3cf4aef3b136a6790eeb6bba19ef6dadeda22078d9051371731c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-push-click-not-tracked-in-mindbox-android": {
+      "title": "При клике на push-уведомление информация об этом не отображается в Mindbox",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-push-click-not-tracked-in-mindbox-android",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Android"
+      ],
+      "content_hash": "sha256:44c8a2c885f9e57e8402ba59e4632830464855a691fce9067773148f3b98b315",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-push-icon-wrong-color": {
+      "title": "Иконка push-уведомления отображается другим цветом",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-push-icon-wrong-color",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Android"
+      ],
+      "content_hash": "sha256:2d74f4473c35f2228d56c2164d54e4dd9fbe2acccd411fb95b71c8c47fee839e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-push-missing-text-icon": {
+      "title": "Уведомления приходят, но в них не отображаются текст, иконка или вообще ничего",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-push-missing-text-icon",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Android"
+      ],
+      "content_hash": "sha256:9c139778a2c4ee898169b364c2536b1633ce2d17310caf524f363d0a33341121",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-push-no-image": {
+      "title": "В push-уведомлении не отображается картинка",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-push-no-image",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Android"
+      ],
+      "content_hash": "sha256:ef71a85164dec7263a75bdea4273a6f8d26d0bd79db9038e1cbacf92ad505271",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-push-no-large-image": {
+      "title": "В push-уведомлении не отображается большая картинка по нажатию",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-push-no-large-image",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "IOS"
+      ],
+      "content_hash": "sha256:4f391ed37956d1a1c54daec93915d993e3c3cf5557abf11b737c7b9d545a547a",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-push-no-large-image-on-click": {
+      "title": "В push-уведомлении не отображаются кнопки по нажатию",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-push-no-large-image-on-click",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "IOS"
+      ],
+      "content_hash": "sha256:5e147b2793dcfb8367057e4ffa86a1477997e60c4aeb6f079b3da23c0ebaf9fd",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-push-no-small-image": {
+      "title": "В push-уведомлении не отображается маленькая картинка",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-push-no-small-image",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "IOS"
+      ],
+      "content_hash": "sha256:c6baccdf133994bcc3098ef14fb8598673e8e849ede7735aedb357c5b37d2289",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-push-not-as-expected": {
+      "title": "Push-уведомление отображается не так, как ожидается",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-push-not-as-expected",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Android"
+      ],
+      "content_hash": "sha256:72d1cbaa94c8cbeb8d5563e7f572bf660e00003cf6287b9464c3426e8736cfbe",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-sent-but-not-displayed": {
+      "title": "При отправке push-уведомления в системе статус «отправлено», но уведомление не отображается",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-sent-but-not-displayed",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Android"
+      ],
+      "content_hash": "sha256:fb041c15b9d86cd2aff97b112b8bd8111f192089bcb29a860a363e0935772ebd",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-user-not-receiving-push": {
+      "title": "Пользователь есть в системе, но ему не доходит push-уведомление",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-user-not-receiving-push",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Общее"
+      ],
+      "content_hash": "sha256:b6a4ba928c7f937422b99fa268dd1826d14a20309ce554ece16742065e632325",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-wrong-environment-all-tokens-invalid": {
+      "title": "Ошибка с текстом «неправильное окружение / Все токены доступа невалидны»",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-wrong-environment-all-tokens-invalid",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "IOS"
+      ],
+      "content_hash": "sha256:055bcad544106960836633debbd46c8d6dea7983ff97b20a842a7a1c2ae489c5",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-wrong-token": {
+      "title": "При отправке push-уведомления ошибка с текстом «wrong token»",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-wrong-token",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "IOS"
+      ],
+      "content_hash": "sha256:f6930a4fc3edae5360b0a891d495e87a1ddc82756b2134b2cbb39dea20e98890",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-checklist-wrong-token-or-invalid-tokens": {
+      "title": "При отправке уведомления ошибка с текстом «wrong token» или «все токены доступа некорректны»",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-checklist-wrong-token-or-invalid-tokens",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Чек-лист проверки интеграции SDK",
+        "Android"
+      ],
+      "content_hash": "sha256:5ce2ddb8b8e887150c07ec5d5a8ec0b56c17db6429bda1f4b562e7257f24b79e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-initialization-react-native": {
+      "title": "Инициализация SDK",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-initialization-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:58042063b0026106a5a532f39c7bfd6203f5c6a4c01b457c3e737be789075393",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-integration-checklist": {
+      "title": "Чек-лист проверки интеграции SDK",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-integration-checklist",
+      "breadcrumb": [
+        "Мобильные приложения"
+      ],
+      "content_hash": "sha256:14cecb4cd82f8d65d1be7beb6288972a83b161e1dd619e70e0b5c8dbba23200d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sdk-subscribe-customer": {
+      "title": "Создание клиента в Mindbox",
+      "source_url": "https://developers.mindbox.ru/docs/sdk-subscribe-customer",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Справочное"
+      ],
+      "content_hash": "sha256:7e5b4174c82383fffa8b542596883aadcc7762bc27a73058fe28cda20646c8fd",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "secret-code-authentication": {
+      "title": "Аутентификация по секретному коду",
+      "source_url": "https://developers.mindbox.ru/docs/secret-code-authentication",
+      "breadcrumb": [
+        "Клиент",
+        "Аутентификация"
+      ],
+      "content_hash": "sha256:92313d9d9ca1f8c112160890017cf30fcaeff39b7a5884ce9eb9cf7b1b7d4d68",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "segmel-integration": {
+      "title": "Интеграция с Segmel",
+      "source_url": "https://developers.mindbox.ru/docs/segmel-integration",
+      "breadcrumb": [
+        "Стандартные интеграции"
+      ],
+      "content_hash": "sha256:77d7420c1ec940dbf832620d8f7b8ff248123b8322338c193e38c0e7ac9cd665",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "segment-updated-without-page-reload": {
+      "title": "Обновление сегмента в таргетинге механики произошло без перезагрузки страницы",
+      "source_url": "https://developers.mindbox.ru/docs/segment-updated-without-page-reload",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика персонализации отображается, игнорируя условия таргетинга"
+      ],
+      "content_hash": "sha256:07072867e8743d5e2309db0ac5480a3811d28dcf8bb75406dabf46d4cc13b70f",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "segmentations-reference": {
+      "title": "Справочник сегментаций",
+      "source_url": "https://developers.mindbox.ru/docs/segmentations-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:5214af60fdce2f08fac4f3a31f94ac917a19707383a0f851081ff08370191fa6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "segments-reference": {
+      "title": "Справочник сегментов",
+      "source_url": "https://developers.mindbox.ru/docs/segments-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:4b7ee74d2bdf7b93d132a073469c4ceff232d5df665595d3067c5eabf73fae24",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "send-confirmation-code": {
+      "title": "Отправка кода подтверждения",
+      "source_url": "https://developers.mindbox.ru/docs/send-confirmation-code",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:f2ac0b09b8487eccfe25dfd4c28814add899909a7c85db101310ba4c52b07fc6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "set-personal-offers-list": {
+      "title": "Установка персональных предложений",
+      "source_url": "https://developers.mindbox.ru/docs/set-personal-offers-list",
+      "breadcrumb": [
+        "Промокоды и промоакции"
+      ],
+      "content_hash": "sha256:b63622326a0dc391df9256bb3851577b9a143da28082ffb799e3a827fa497aca",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "set-retail-integration": {
+      "title": "Интеграция Set Retail",
+      "source_url": "https://developers.mindbox.ru/docs/set-retail-integration",
+      "breadcrumb": [
+        "Стандартные интеграции"
+      ],
+      "content_hash": "sha256:dca8e07f4f1fbd2e00a5b39e8120af00427f1576fc404425cd48535138ae517d",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sla-integration": {
+      "title": "Интеграция с сервисом SLA",
+      "source_url": "https://developers.mindbox.ru/docs/sla-integration",
+      "breadcrumb": [
+        "Разное"
+      ],
+      "content_hash": "sha256:e5374f3afea909b520b362a3837ce3a057c512d252b93e98a7f9a2e95424fcde",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "spa-navigation-without-reload": {
+      "title": "Сайт работает как SPA (сменяет страницы без перезагрузки)",
+      "source_url": "https://developers.mindbox.ru/docs/spa-navigation-without-reload",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика персонализации отображается, игнорируя условия таргетинга"
+      ],
+      "content_hash": "sha256:fe3ee2d4a4c1c7bad8ed2e1943802162279817c382f1ea5e71587bd7fc00e9d4",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "static-customer-segments-v3": {
+      "title": "Массовый импорт статических сегментаций клиентов",
+      "source_url": "https://developers.mindbox.ru/docs/static-customer-segments-v3",
+      "breadcrumb": [
+        "Сегментации"
+      ],
+      "content_hash": "sha256:12c2b35f69e5a3222820feeb95ee8aeffae1669529fc6df9c5a423d101e88741",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "step-1-create-operations-for-backend": {
+      "title": "1. Создание операций для работы с бэкенда",
+      "source_url": "https://developers.mindbox.ru/docs/step-1-create-operations-for-backend",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Расширенная интеграция",
+        "Бэкенд"
+      ],
+      "content_hash": "sha256:780a3b29c4b1bb7b3fec38fa53e0fee35eb40282c18e718ef92166ac333b1296",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "step-1-create-operations-for-frontend": {
+      "title": "1. Создание операций для работы с фронтенда",
+      "source_url": "https://developers.mindbox.ru/docs/step-1-create-operations-for-frontend",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Расширенная интеграция",
+        "Фронтенд"
+      ],
+      "content_hash": "sha256:c6f069d3d27c5980c83e754871958780c5e6c1d4ccd0df8d8be0e15f2421b0aa",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "step-2-call-operations-from-backend-or-external-system": {
+      "title": "2. Вызов операций из бэкенда сайта или из сторонней системы",
+      "source_url": "https://developers.mindbox.ru/docs/step-2-call-operations-from-backend-or-external-system",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Расширенная интеграция",
+        "Бэкенд"
+      ],
+      "content_hash": "sha256:8ae6b41efd9ecfbc273b762d92ead2a454b6103f0b56228fff815291b2a6b92c",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "step-2-call-operations-with-javascript-sdk": {
+      "title": "2. Вызов операций с помощью JavaScript SDK Mindbox",
+      "source_url": "https://developers.mindbox.ru/docs/step-2-call-operations-with-javascript-sdk",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Расширенная интеграция",
+        "Фронтенд"
+      ],
+      "content_hash": "sha256:e0d6cdfb0a145571f317f5cb664aca9f24405388d72d4b72988ea675d15fa2a7",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "step-2-run-mechanics": {
+      "title": "2. Создание механики",
+      "source_url": "https://developers.mindbox.ru/docs/step-2-run-mechanics",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Базовая интеграция"
+      ],
+      "content_hash": "sha256:d6ba6bf8f3252298f5173db7e672d983176cb5c714355ec7ebde11dee391ef4e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "step-3-call-operations-for-personalization": {
+      "title": "3. Вызов операций для работы персонализации",
+      "source_url": "https://developers.mindbox.ru/docs/step-3-call-operations-for-personalization",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Расширенная интеграция",
+        "Бэкенд"
+      ],
+      "content_hash": "sha256:90e2ea4e5d10b642015e7ca4692029309d0df870bd536a1cc177627daa769596",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "step-3-connect-module": {
+      "title": "3. Подключение модуля",
+      "source_url": "https://developers.mindbox.ru/docs/step-3-connect-module",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Базовая интеграция"
+      ],
+      "content_hash": "sha256:05df6a95c5f32e1aeea6c14b519804bcac5ba304bbb948a06024b8d0460b37f1",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "step-3-website-personalization-settings-at-integration-point": {
+      "title": "3. Настройки персонализации сайта в точке интеграции",
+      "source_url": "https://developers.mindbox.ru/docs/step-3-website-personalization-settings-at-integration-point",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Расширенная интеграция",
+        "Фронтенд"
+      ],
+      "content_hash": "sha256:3414aaa3cf10c44a0cb037b8a8649b4c8aedb47650e007e7177afe044812259e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "step-4-verify-basic-integration": {
+      "title": "4. Проверка базовой интеграции",
+      "source_url": "https://developers.mindbox.ru/docs/step-4-verify-basic-integration",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Базовая интеграция"
+      ],
+      "content_hash": "sha256:4bf31f643c81ad58a0cae41b15f80b16569dad9656a733ce99abdf5cb6c120d2",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "step-4-website-personalization-settings-for-backend-integration": {
+      "title": "4. Настройки персонализации сайта в точке интеграции при интеграции с бэкенда",
+      "source_url": "https://developers.mindbox.ru/docs/step-4-website-personalization-settings-for-backend-integration",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Расширенная интеграция",
+        "Бэкенд"
+      ],
+      "content_hash": "sha256:c02a9b29204a444d40050e13715f7a766e4c8cd6c2f3320ca5461c222353eec2",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview": {
+      "title": "Cинхронизация deviceUUID между Android mobile SDK и JS SDK в приложении с WebView",
+      "source_url": "https://developers.mindbox.ru/docs/sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:bf1fd8554a896df135a0a1cde2463790c986db26ab699faf6f67b2dba74a9802",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview-flutter": {
+      "title": "Cинхронизация deviceUUID между Flutter mobile SDK и JS SDK в приложении с WebView",
+      "source_url": "https://developers.mindbox.ru/docs/sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview-flutter",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Flutter SDK"
+      ],
+      "content_hash": "sha256:69dbca12916c18e52d9ff5af65eba899aea5a58854731e8857e1d56505f6d718",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview-react-native": {
+      "title": "Cинхронизация deviceUUID между React Native mobile SDK и JS SDK в приложении с WebView",
+      "source_url": "https://developers.mindbox.ru/docs/sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview-react-native",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "React Native SDK"
+      ],
+      "content_hash": "sha256:0bba525fc79a85795c1b802d2ff6921d1f959051f01595ca632df14078fb8851",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "tags-in-mailings": {
+      "title": "Теги в рассылках",
+      "source_url": "https://developers.mindbox.ru/docs/tags-in-mailings",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:912679e282fac052301d05bf976cb5b947386470c5568b28a9e879349d4bcfda",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "tags-reference": {
+      "title": "Справочник тегов",
+      "source_url": "https://developers.mindbox.ru/docs/tags-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:e1968079bde4c99478eb87cd1bb06f0c06f4c1ca8db5ae17198573a2f02517fd",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "targeting-conditions-conflict": {
+      "title": "В таргетинге указаны противоречивые условия",
+      "source_url": "https://developers.mindbox.ru/docs/targeting-conditions-conflict",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика персонализации включена, но не показывается клиенту"
+      ],
+      "content_hash": "sha256:097481595998993b82854b1511a04a1b2ed03614fbde0fb5e4c75bd77102e91f",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "targeting-uses-product-conditions-but-data-not-sent": {
+      "title": "Не передаются данные по странице продукта, категории или продуктам в корзине",
+      "source_url": "https://developers.mindbox.ru/docs/targeting-uses-product-conditions-but-data-not-sent",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика персонализации включена, но не показывается клиенту"
+      ],
+      "content_hash": "sha256:6f16210f25cdd329a9e4413a0e1534ef026d4797db9c97445ba57f69b018daac",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "test": {
+      "title": "test",
+      "source_url": "https://developers.mindbox.ru/docs/test",
+      "breadcrumb": [],
+      "content_hash": "sha256:36c4f6c5a826f5de721360134fa4dc800229c0ac26827a038ffee77be9ea0318",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "ticket-authentication": {
+      "title": "Аутентификация по ссылке из рассылки",
+      "source_url": "https://developers.mindbox.ru/docs/ticket-authentication",
+      "breadcrumb": [
+        "Клиент",
+        "Аутентификация"
+      ],
+      "content_hash": "sha256:67950523675ec3001046613c178c31fda8eb1d26e8205acd572cfd5531f23dc3",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "time-zone-edit": {
+      "title": "Передача часового пояса",
+      "source_url": "https://developers.mindbox.ru/docs/time-zone-edit",
+      "breadcrumb": [
+        "Клиент"
+      ],
+      "content_hash": "sha256:337486eacec3ab1eb1d0573c2d60cf1776f002273e60da7c5b37411360412b01",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "touchpoints-reference": {
+      "title": "Справочник точек контакта",
+      "source_url": "https://developers.mindbox.ru/docs/touchpoints-reference",
+      "breadcrumb": [
+        "Данные для аналитики",
+        "Описание схемы данных"
+      ],
+      "content_hash": "sha256:000b69cd0b885fc2fec498dabf8e9447b5f063d3e03e7205bff4822a6b162fd4",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "tracker-installation": {
+      "title": "1. Установка трекера",
+      "source_url": "https://developers.mindbox.ru/docs/tracker-installation",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Базовая интеграция"
+      ],
+      "content_hash": "sha256:df0ea970a82a786b84b04476329559e80c8a49aa21f0b9dee9588969c12edb9a",
+      "fetched_at": "2026-05-04T14:26:15Z",
+      "deprecation_hint": [
+        "устаревш"
+      ]
+    },
+    "tracker-installed-incorrectly": {
+      "title": "Трекер Mindbox установлен некорректно",
+      "source_url": "https://developers.mindbox.ru/docs/tracker-installed-incorrectly",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика не работает по тестовой ссылке"
+      ],
+      "content_hash": "sha256:1fde98e05a4ebba72ee97c262ddf14ccb15dc672a58505dbe76f9a9652f6888e",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "tracker-not-installed": {
+      "title": "Не установлен трекер Mindbox",
+      "source_url": "https://developers.mindbox.ru/docs/tracker-not-installed",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика не работает по тестовой ссылке"
+      ],
+      "content_hash": "sha256:5826664fd6932fdbd2bc3c1c0051b82dbb945662c381505312b62c8b51f7ede0",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "tranletterxml": {
+      "title": "xml",
+      "source_url": "https://developers.mindbox.ru/docs/tranletterxml",
+      "breadcrumb": [
+        "Рассылки",
+        "Отправка рассылок по API"
+      ],
+      "content_hash": "sha256:e862a0d55e6e009e66942db3049ba3e69dc01283c313557e0d4e1b1df72c579a",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "unbind-discount-card": {
+      "title": "Открепление дисконтной карты",
+      "source_url": "https://developers.mindbox.ru/docs/unbind-discount-card",
+      "breadcrumb": [
+        "Карты"
+      ],
+      "content_hash": "sha256:8adbe7f8070f2961ab7cccdfbe37b630d0213a32b6be563c1feed3229efa57a3",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "universal-links": {
+      "title": "Универсальные ссылки",
+      "source_url": "https://developers.mindbox.ru/docs/universal-links",
+      "breadcrumb": [
+        "Мобильные приложения"
+      ],
+      "content_hash": "sha256:62cade25faed0691316bcccb915b4aabf704f0aea5de30c86984970cd096ca8f",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "update-customer-bonus-account": {
+      "title": "Изменение бонусного счета клиента",
+      "source_url": "https://developers.mindbox.ru/docs/update-customer-bonus-account",
+      "breadcrumb": [
+        "Бонусный счет"
+      ],
+      "content_hash": "sha256:c60037e973a99c3781824e338095cb7cce7f69f5e37f6d394fde15b3f5147eca",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "update-order": {
+      "title": "Изменение заказа",
+      "source_url": "https://developers.mindbox.ru/docs/update-order",
+      "breadcrumb": [
+        "Заказы"
+      ],
+      "content_hash": "sha256:066482a1a29d34251b8a54e8e709bee37fff35f961a285aeeb9a6c0b601c1220",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "update-order-line-status": {
+      "title": "Изменение статуса позиции заказа",
+      "source_url": "https://developers.mindbox.ru/docs/update-order-line-status",
+      "breadcrumb": [
+        "Заказы"
+      ],
+      "content_hash": "sha256:9521e057407e0ebb6d95fb40ce116407f6dd1839dfd9390e3fe1f29eb76239d5",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "update-product": {
+      "title": "Обновление информации о продукте",
+      "source_url": "https://developers.mindbox.ru/docs/update-product",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:88faa830980536c5a2f4936241082540d76420202839d5f717077a941af16a26",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "update-product-category": {
+      "title": "Обновление информации о категории",
+      "source_url": "https://developers.mindbox.ru/docs/update-product-category",
+      "breadcrumb": [
+        "Номенклатура"
+      ],
+      "content_hash": "sha256:1df1faf1cda77db5a4e10f99c3337e9a2eb932913e680a71d93d862e339e6ed5",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "upload-attachments-for-emails": {
+      "title": "Загрузка вложений для использования в письмах",
+      "source_url": "https://developers.mindbox.ru/docs/upload-attachments-for-emails",
+      "breadcrumb": [
+        "Рассылки"
+      ],
+      "content_hash": "sha256:66cf67898793548d109a113fcd0729fd50075891192bac22b6a105b8d6dc0261",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "usercab": {
+      "title": "Личный кабинет",
+      "source_url": "https://developers.mindbox.ru/docs/usercab",
+      "breadcrumb": [],
+      "content_hash": "sha256:a786d24bc1821c30379bd1b8bd090ac9867b9b76bbe56e673c193880d7469747",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "userredjson": {
+      "title": "javascript",
+      "source_url": "https://developers.mindbox.ru/docs/userredjson",
+      "breadcrumb": [
+        "Клиент",
+        "Редактирование данных клиента"
+      ],
+      "content_hash": "sha256:3b607ac887f054494c4d92765aad0636fd6105b93a5c9d24f904731d1a6e9558",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "userredjson-1": {
+      "title": "json",
+      "source_url": "https://developers.mindbox.ru/docs/userredjson-1",
+      "breadcrumb": [
+        "Клиент",
+        "Редактирование данных клиента"
+      ],
+      "content_hash": "sha256:48121d48820bcc869350aae34644168055a06574a74ba9b799f53d556c05f1a2",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "userredxml": {
+      "title": "xml",
+      "source_url": "https://developers.mindbox.ru/docs/userredxml",
+      "breadcrumb": [
+        "Клиент",
+        "Редактирование данных клиента"
+      ],
+      "content_hash": "sha256:029a2e2a700e7ba2287ee155df6135a62ed383a95d05b1888ee04b661c3369df",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "userregjson": {
+      "title": "javascript",
+      "source_url": "https://developers.mindbox.ru/docs/userregjson",
+      "breadcrumb": [
+        "Клиент",
+        "Регистрация, формы подписки, трекинг входа на сайт"
+      ],
+      "content_hash": "sha256:4c61ce3b49dbb35a6160e24f5cd2a15410ffbb393baeaccffefed108dba36130",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "userregxml": {
+      "title": "xml",
+      "source_url": "https://developers.mindbox.ru/docs/userregxml",
+      "breadcrumb": [
+        "Клиент",
+        "Регистрация, формы подписки, трекинг входа на сайт"
+      ],
+      "content_hash": "sha256:c3e2fa5ca3f7e1f675bc25af70e5e3668ffd804bb921547527a63dac3702ed87",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "v1-v2-android-sdk": {
+      "title": "Переход с V1 на V2 Android SDK",
+      "source_url": "https://developers.mindbox.ru/docs/v1-v2-android-sdk",
+      "breadcrumb": [
+        "Мобильные приложения",
+        "Android SDK"
+      ],
+      "content_hash": "sha256:a003f76adefb9a58ed1e00ebcf4a9f05824095f4d6879653c2e80b60d2282f56",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "v3": {
+      "title": "V3 API",
+      "source_url": "https://developers.mindbox.ru/docs/v3",
+      "breadcrumb": [
+        "Общее"
+      ],
+      "content_hash": "sha256:e84c355e36a440c72a140e090f9b01237f8d5a12864eb6714151ade213d787c6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "verify-advanced-integration": {
+      "title": "Проверка расширенной интеграции",
+      "source_url": "https://developers.mindbox.ru/docs/verify-advanced-integration",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Расширенная интеграция"
+      ],
+      "content_hash": "sha256:efc5c752f1a57615e93a5c13d94ea893344450afafb1af0fbfa0b127ae59dbc6",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "website-authorization-ticket": {
+      "title": "Тикет для авторизации на сайте",
+      "source_url": "https://developers.mindbox.ru/docs/website-authorization-ticket",
+      "breadcrumb": [
+        "Общее"
+      ],
+      "content_hash": "sha256:e4d6e61e3b1917d52d6a273d047792fc0da3e8936e935eeba368fe83f1b29c12",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "website-has-redirects": {
+      "title": "На сайте настроена переадресация",
+      "source_url": "https://developers.mindbox.ru/docs/website-has-redirects",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Механика не работает по тестовой ссылке"
+      ],
+      "content_hash": "sha256:38fda0fc9a7b82835ff3909c1a041eae20f4e78413919d086295f634d98661b9",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "website-personalization": {
+      "title": "Общая информация",
+      "source_url": "https://developers.mindbox.ru/docs/website-personalization",
+      "breadcrumb": [
+        "Персонализация сайта"
+      ],
+      "content_hash": "sha256:9e34342129f36cfacd57760e7bc5d93709cbd81ab7ded91ae74e31ffa3aa60b5",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "website-personalization-advanced-integration": {
+      "title": "Расширенная интеграция",
+      "source_url": "https://developers.mindbox.ru/docs/website-personalization-advanced-integration",
+      "breadcrumb": [
+        "Персонализация сайта"
+      ],
+      "content_hash": "sha256:3041e0736d7feeb3bff8b76168d5d618e3c8529bbe7e6604e99fd5ca7c0a8760",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "website-personalization-backend": {
+      "title": "Передача данных с бэкенда",
+      "source_url": "https://developers.mindbox.ru/docs/website-personalization-backend",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Расширенная интеграция"
+      ],
+      "content_hash": "sha256:df25e7febdfe0fcf8eabc946cf470e27e9568a2f65a7ef26b2fcd6bf2d8cc096",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "website-personalization-basic-integration": {
+      "title": "Базовая интеграция",
+      "source_url": "https://developers.mindbox.ru/docs/website-personalization-basic-integration",
+      "breadcrumb": [
+        "Персонализация сайта"
+      ],
+      "content_hash": "sha256:80c8e86052cee04a7e50825b4732e7c056d4c7f1c1d5d0318e94f0a23d5767cd",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "website-personalization-frontend": {
+      "title": "Передача данных с фронтенда",
+      "source_url": "https://developers.mindbox.ru/docs/website-personalization-frontend",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Расширенная интеграция"
+      ],
+      "content_hash": "sha256:e0208ca76dc9a30b4018a124e63097e8148b7989361a4a7036523bfa09bc1200",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "website-recommendation-widgets-installation": {
+      "title": "Особенности установки виджетов рекомендаций на сайте",
+      "source_url": "https://developers.mindbox.ru/docs/website-recommendation-widgets-installation",
+      "breadcrumb": [
+        "Персонализация сайта"
+      ],
+      "content_hash": "sha256:39b587679a71c5d7e384864c4b603142263f21a05eb9e2a4dfa2afe66c43bd48",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "widget-not-displayed-for-category": {
+      "title": "Не отображается виджет с рекомендациями к категории",
+      "source_url": "https://developers.mindbox.ru/docs/widget-not-displayed-for-category",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Виджет рекомендаций не работает по тестовой ссылке"
+      ],
+      "content_hash": "sha256:347a6f6d13081083bd9e11fd261c4e16608591e6e3700d2049cb38791b780fce",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "widget-not-displayed-for-product": {
+      "title": "Не отображается виджет с рекомендациями к продукту",
+      "source_url": "https://developers.mindbox.ru/docs/widget-not-displayed-for-product",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации",
+        "Виджет рекомендаций не работает по тестовой ссылке"
+      ],
+      "content_hash": "sha256:5ab44576734bdbdcd8ec123968e7422a9a1c5ddd1ab23ed27eff13d680e7fec1",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "widget-not-working-test-link": {
+      "title": "Виджет рекомендаций не работает по тестовой ссылке",
+      "source_url": "https://developers.mindbox.ru/docs/widget-not-working-test-link",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Чеклист проверки интеграции персонализации"
+      ],
+      "content_hash": "sha256:5905bdb672ac6cc4c3540e34272c70728d1f7c5b1a31bf1b5f7eee42d54d677a",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "widget-placement-with-advanced-integration": {
+      "title": "Размещения виджета с реко по продукту или категории с расширенной интеграцией",
+      "source_url": "https://developers.mindbox.ru/docs/widget-placement-with-advanced-integration",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Особенности установки виджетов рекомендаций на сайте"
+      ],
+      "content_hash": "sha256:c712ae5c9ff03c5f4c0ca41330e4cf281d9a1f082d399576886a01f80a6e01ac",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "widget-placement-without-advanced-integration": {
+      "title": "Размещения виджета с реко по продукту или категории без расширенной интеграции",
+      "source_url": "https://developers.mindbox.ru/docs/widget-placement-without-advanced-integration",
+      "breadcrumb": [
+        "Персонализация сайта",
+        "Особенности установки виджетов рекомендаций на сайте"
+      ],
+      "content_hash": "sha256:1e3586ae1f4b3ede42a00d36cec6b6adc1f98ef57312d3cd795ee10e1e036265",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "мобильные-пуши-sdk": {
+      "title": "Мобильные пуши - SDK",
+      "source_url": "https://developers.mindbox.ru/docs/мобильные-пуши-sdk",
+      "breadcrumb": [],
+      "content_hash": "sha256:4ba3163de0db63f2c16d7931af3d3328250ffff0e824d8cd3c559e93e627578a",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "мультирегиональные-проекты": {
+      "title": "Мультирегиональные проекты",
+      "source_url": "https://developers.mindbox.ru/docs/мультирегиональные-проекты",
+      "breadcrumb": [],
+      "content_hash": "sha256:ea45976796a7df0b607e95a9f0cdec1609520f597d21c708a7b83d7a910b4dc4",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "призовые-механики": {
+      "title": "Призовые механики",
+      "source_url": "https://developers.mindbox.ru/docs/призовые-механики",
+      "breadcrumb": [],
+      "content_hash": "sha256:c32da6f14d011151bca416d23bb2262465467237fee2b134e7976af3388666df",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    },
+    "стандартные-интеграции-1": {
+      "title": "Стандартные интеграции",
+      "source_url": "https://developers.mindbox.ru/docs/стандартные-интеграции-1",
+      "breadcrumb": [],
+      "content_hash": "sha256:b511ae8e806bd52218374e7049ae8ad1a7634b9f7744c7d8289baccbab543b47",
+      "fetched_at": "2026-05-04T14:26:15Z"
+    }
+  }
+}

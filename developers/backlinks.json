@@ -1,0 +1,1813 @@
+{
+  "generated_at": "2026-05-05T06:49:43Z",
+  "source": "https://developers.mindbox.ru/docs",
+  "page_count": 360,
+  "schema": {
+    "purpose": "reverse link index: which pages link to a given slug",
+    "format": "<slug>: [<slug_that_links_to_it>, ...]"
+  },
+  "backlinks": {
+    "1c-retail-module-integration": [
+      "retail-version-23",
+      "set-retail-integration",
+      "стандартные-интеграции-1"
+    ],
+    "ab-test-participants": [
+      "ab-test-variants-reference",
+      "customfields-reference"
+    ],
+    "ab-test-variants-reference": [
+      "ab-test-participants",
+      "ab-tests-reference"
+    ],
+    "ab-tests-reference": [
+      "ab-test-variants-reference",
+      "folders-reference"
+    ],
+    "account-data-editing": [
+      "ticket-authentication",
+      "userredxml"
+    ],
+    "add-android-integration": [
+      "add-integration-rn",
+      "android-push-provider-keys",
+      "android-sdk",
+      "android-sdk-initialization",
+      "firebase-send-push-notifications",
+      "flutter-new-integration-setup"
+    ],
+    "add-android-sdk": [
+      "android-sdk",
+      "android-sdk-initialization",
+      "in-app",
+      "rustore-get-keys"
+    ],
+    "add-customer-to-segment": [
+      "blacklist",
+      "remove-customer-from-segmentation"
+    ],
+    "add-integration-rn": [
+      "expo-sdk",
+      "expo-sdk-setup",
+      "react-native-sdk",
+      "rn-get-push-keys"
+    ],
+    "add-ios-integration": [
+      "add-integration-rn",
+      "apns-keys-setup",
+      "expo-sdk-setup",
+      "flutter-new-integration-setup",
+      "flutter-sdk-initialization",
+      "ios-guarantee-delivery-setup",
+      "ios-integration-actions",
+      "ios-quick-setup-push-notifications",
+      "ios-rich-push-notifications",
+      "ios-sdk",
+      "ios-sdk-initialization",
+      "sandbox-integration-setup",
+      "sdk-initialization-react-native"
+    ],
+    "add-sdk-flutter": [
+      "flutter-get-push-keys",
+      "flutter-sdk",
+      "flutter-sdk-initialization",
+      "in-app",
+      "ios-send-push-notifications-flutter"
+    ],
+    "add-sdk-react-native": [
+      "android-get-click-react-native",
+      "react-native-sdk",
+      "rn-get-push-keys",
+      "sdk-initialization-react-native"
+    ],
+    "add-sdk-to-app": [
+      "apns-keys-setup",
+      "in-app",
+      "ios-guarantee-delivery-setup",
+      "ios-integration-actions",
+      "ios-quick-setup-push-notifications",
+      "ios-rich-push-notifications",
+      "ios-sdk",
+      "ios-sdk-initialization"
+    ],
+    "albato-integration": [
+      "iiko-integration",
+      "retail-version-23"
+    ],
+    "analytics-data-schema": [
+      "customer-bonus-balance-change-events",
+      "how-to-read-data"
+    ],
+    "android-app-start-tracking": [
+      "android-get-click",
+      "android-integration-of-actions",
+      "android-sdk"
+    ],
+    "android-get-click": [
+      "android-app-start-tracking",
+      "android-sdk",
+      "rustore-send-push-notifications",
+      "sdk-checklist-push-click-not-tracked-in-mindbox-android"
+    ],
+    "android-get-click-react-native": [
+      "ios-get-click-react-native",
+      "ios-rich-push-image-and-button-react-native",
+      "react-native-sdk"
+    ],
+    "android-integration-of-actions": [
+      "android-app-start-tracking",
+      "android-sdk",
+      "android-sdk-configuration",
+      "android-sdk-methods",
+      "in-app-operation-category-and-product-targeting"
+    ],
+    "android-push-notification-format": [
+      "android-sdk-methods",
+      "android-sdk-request-body"
+    ],
+    "android-push-provider-keys": [
+      "add-android-integration",
+      "firebase-key-setup",
+      "flutter-get-push-keys",
+      "rn-get-push-keys"
+    ],
+    "android-sdk": [
+      "add-android-integration",
+      "ios-webview-sync-with-sdk",
+      "mindbox-sdk"
+    ],
+    "android-sdk-configuration": [
+      "android-integration-of-actions",
+      "android-sdk-response-body"
+    ],
+    "android-sdk-initialization": [
+      "add-android-sdk",
+      "android-sdk",
+      "firebase-send-push-notifications",
+      "in-app"
+    ],
+    "android-sdk-methods": [
+      "android-push-notification-format",
+      "firebase-send-push-notifications",
+      "firebase-send-push-notifications-flutter",
+      "firebase-send-push-notifications-react-native",
+      "huawei-send-push-notifications",
+      "huawei-send-push-notifications-flutter",
+      "huawei-send-push-notifications-react-native",
+      "rustore-send-push-notifications",
+      "rustore-send-push-notifications-flutter",
+      "rustore-send-push-notifications-react-native",
+      "v1-v2-android-sdk"
+    ],
+    "android-sdk-request-body": [
+      "android-push-notification-format",
+      "android-sdk-response-body"
+    ],
+    "android-sdk-response-body": [
+      "android-sdk-configuration",
+      "android-sdk-request-body"
+    ],
+    "api-mailings-send": [
+      "get-popular-products",
+      "tranletterxml",
+      "upload-attachments-for-emails"
+    ],
+    "api-restrictions": [
+      "data-import-limitations",
+      "error_processing"
+    ],
+    "api-usage-recommendations": [
+      "javascript-sdk"
+    ],
+    "apns-keys-setup": [
+      "add-sdk-to-app",
+      "expo-sdk-setup",
+      "flutter-get-push-keys",
+      "flutter-ios-rich-push-notifications",
+      "ios-get-click-flutter",
+      "ios-get-click-react-native",
+      "ios-guarantee-delivery-setup",
+      "ios-quick-setup-push-notifications",
+      "ios-rich-push-notifications",
+      "ios-sdk",
+      "ios-send-push-notifications-flutter",
+      "ios-send-push-notifications-react-native",
+      "ios-setup-background-tasks-flutter",
+      "rn-get-push-keys",
+      "rn-ios-rich-push-notifications",
+      "sandbox-integration-setup"
+    ],
+    "archive-external-promotions": [
+      "get-customer-bonus-balance",
+      "get-personal-offers-list"
+    ],
+    "authentication": [
+      "json",
+      "password-based-authentication"
+    ],
+    "bind-discount-card-with-sms-confirmation": [
+      "bulk-import-discount-card-statuses-v3",
+      "unbind-discount-card"
+    ],
+    "bind-promocode": [
+      "delete-categories",
+      "redeem-promocode"
+    ],
+    "bitrix-integration": [
+      "passteam-integration",
+      "php-sdk",
+      "стандартные-интеграции-1"
+    ],
+    "blacklist": [
+      "add-customer-to-segment",
+      "bulk-import-customer-actions"
+    ],
+    "bonus-accounts-reference": [
+      "customer-orders",
+      "link-between-bonus-redemptions-and-accruals"
+    ],
+    "bonus-promotions-reference": [
+      "customer-bonus-balance-change-events",
+      "link-between-bonus-redemptions-and-accruals"
+    ],
+    "bulk-add-products-to-list-v3": [
+      "get-customer-product-list",
+      "update-product"
+    ],
+    "bulk-delete-zones-v3": [
+      "bulk-import-channels-v3",
+      "bulk-import-zones-v3"
+    ],
+    "bulk-import-balance-changes-v3": [
+      "get-customer-bonus-balance-history",
+      "get-popular-products"
+    ],
+    "bulk-import-cards-clients": [
+      "customers-import-v3",
+      "get-customer-data"
+    ],
+    "bulk-import-channels-v3": [
+      "bulk-delete-zones-v3",
+      "exports-overview"
+    ],
+    "bulk-import-customer-actions": [
+      "blacklist",
+      "time-zone-edit"
+    ],
+    "bulk-import-discount-card-pool-v3": [
+      "bulk-import-discount-card-statuses-v3",
+      "bulk-import-gift-card-pool-v3"
+    ],
+    "bulk-import-discount-card-statuses-v3": [
+      "bind-discount-card-with-sms-confirmation",
+      "bulk-import-discount-card-pool-v3"
+    ],
+    "bulk-import-gift-card-pool-v3": [
+      "bulk-import-discount-card-pool-v3",
+      "replace-card"
+    ],
+    "bulk-import-promocode-pools-v3": [
+      "get-promocodes-list",
+      "save-external-promotion"
+    ],
+    "bulk-import-promocodes-v3": [
+      "cancel-promocode-redemption",
+      "get-promocodes-list"
+    ],
+    "bulk-import-touchpoints-v3": [
+      "bulk-import-zones-v3",
+      "gift-cards-in-order-save-operations"
+    ],
+    "bulk-import-zones-v3": [
+      "bulk-delete-zones-v3",
+      "bulk-import-touchpoints-v3"
+    ],
+    "calculate-loyalty-points-balance": [
+      "php-sdk",
+      "reconcile-orders-with-report"
+    ],
+    "cancel-promocode-redemption": [
+      "bulk-import-promocodes-v3",
+      "redeem-promocode"
+    ],
+    "cardsmobile-integration-mechanics-for-loyalty-module": [
+      "create-integration-for-cdp-and-loyalty-module",
+      "frontol-integration",
+      "koshelek-app-integration"
+    ],
+    "cart-changed-does-not-match-targeting": [
+      "segment-updated-without-page-reload",
+      "spa-navigation-without-reload"
+    ],
+    "catactionjson": [
+      "catactionxml",
+      "product-category-actions",
+      "product-list-actions",
+      "step-1-create-operations-for-frontend"
+    ],
+    "catactionxml": [
+      "catactionjson",
+      "product-category-actions",
+      "step-1-create-operations-for-backend"
+    ],
+    "catimportcsv": [
+      "product-actions",
+      "product-category-import"
+    ],
+    "change-card-status-at-pos": [
+      "change-card-status-in-account",
+      "customer-card-activation",
+      "loyaloffline"
+    ],
+    "change-card-status-in-account": [
+      "change-card-status-at-pos",
+      "replace-card"
+    ],
+    "chat-bots-methods": [
+      "chat-bots-qr-authentication",
+      "chatbot-authorization",
+      "get-firebase-keys-for-web-push"
+    ],
+    "chat-bots-qr-authentication": [
+      "chat-bots-methods",
+      "chatbot-authorization",
+      "get-discount-card-details"
+    ],
+    "chatbot-authorization": [
+      "chat-bots-methods",
+      "chat-bots-qr-authentication",
+      "ticket-authentication"
+    ],
+    "create-integration-for-cdp-and-loyalty-module": [
+      "cardsmobile-integration-mechanics-for-loyalty-module",
+      "koshelek-app-integration"
+    ],
+    "create-order-with-processing": [
+      "preorder",
+      "processing-calculate-product-list"
+    ],
+    "custom-push-notification-rendering": [
+      "firebase-send-push-notifications",
+      "firebase-send-push-notifications-flutter",
+      "firebase-send-push-notifications-react-native",
+      "huawei-send-push-notifications",
+      "huawei-send-push-notifications-flutter",
+      "huawei-send-push-notifications-react-native",
+      "rustore-send-push-notifications",
+      "rustore-send-push-notifications-flutter",
+      "rustore-send-push-notifications-react-native"
+    ],
+    "customer-bonus-balance-change-events": [
+      "analytics-data-schema",
+      "bonus-promotions-reference"
+    ],
+    "customer-card-activation": [
+      "change-card-status-at-pos",
+      "get-customer-discount-cards-list",
+      "loyaloffline"
+    ],
+    "customer-existence-database-check": [
+      "get-customer-data-json",
+      "send-confirmation-code"
+    ],
+    "customer-merges": [
+      "customer-segments-history",
+      "folders-reference"
+    ],
+    "customer-order-lines": [
+      "customer-orders",
+      "order-line-statuses-reference"
+    ],
+    "customer-orders": [
+      "bonus-accounts-reference",
+      "customer-order-lines"
+    ],
+    "customer-segments-history": [
+      "customer-merges",
+      "segments-reference"
+    ],
+    "customers-edit-v3": [
+      "phone-verification-client-side",
+      "time-zone-edit"
+    ],
+    "customers-import-v3": [
+      "bulk-import-cards-clients",
+      "mobile-phone-verification"
+    ],
+    "customfields-reference": [
+      "ab-test-participants",
+      "external-ids-change-history"
+    ],
+    "data-import-limitations": [
+      "api-restrictions",
+      "registration-authorization-subscription"
+    ],
+    "delete-categories": [
+      "bind-promocode",
+      "import-personal-offers"
+    ],
+    "device-not-linked-to-target-customer": [
+      "impression-limit-exceeded",
+      "targeting-conditions-conflict"
+    ],
+    "error_processing": [
+      "api-restrictions",
+      "v3"
+    ],
+    "expo-notification": [
+      "expo-sdk-setup",
+      "in-app",
+      "push-navigation-expo"
+    ],
+    "expo-sdk": [
+      "expo-sdk-setup",
+      "mindbox-sdk",
+      "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview-react-native"
+    ],
+    "expo-sdk-setup": [
+      "expo-sdk",
+      "push-navigation-expo"
+    ],
+    "export-api-reports": [
+      "export-mailing-statuses",
+      "export-scenarios"
+    ],
+    "export-customer-actions": [
+      "export-customer-segmentation-changes",
+      "export-product-segmentation-changes"
+    ],
+    "export-customer-merges": [
+      "export-customer-segmentation-changes",
+      "export-customers"
+    ],
+    "export-customer-segmentation-changes": [
+      "export-customer-actions",
+      "export-customer-merges"
+    ],
+    "export-customers": [
+      "export-customer-merges",
+      "export-ftps-sftp"
+    ],
+    "export-customers-from-scenario-blocks": [
+      "export-operation-logs",
+      "export-scenarios"
+    ],
+    "export-event-log": [
+      "export-webhook-logs",
+      "how-to-read-data"
+    ],
+    "export-ftps-sftp": [
+      "export-customers",
+      "exports-overview"
+    ],
+    "export-mailing-statuses": [
+      "export-api-reports",
+      "export-customer-actions",
+      "export-mailings",
+      "mailing-statuses"
+    ],
+    "export-mailings": [
+      "export-mailing-statuses",
+      "export-promotions"
+    ],
+    "export-operation-logs": [
+      "export-customers-from-scenario-blocks",
+      "export-webhook-logs"
+    ],
+    "export-orders-and-lines": [
+      "export-product-segmentation-changes",
+      "export-promotions"
+    ],
+    "export-product-segmentation-changes": [
+      "export-customer-actions",
+      "export-orders-and-lines"
+    ],
+    "export-promotions": [
+      "export-mailings",
+      "export-orders-and-lines"
+    ],
+    "export-scenarios": [
+      "export-api-reports",
+      "export-customers-from-scenario-blocks"
+    ],
+    "export-webhook-logs": [
+      "export-event-log",
+      "export-operation-logs"
+    ],
+    "exports-overview": [
+      "bulk-import-channels-v3",
+      "export-api-reports",
+      "export-customer-actions",
+      "export-customer-segmentation-changes",
+      "export-customers",
+      "export-customers-from-scenario-blocks",
+      "export-event-log",
+      "export-ftps-sftp",
+      "export-mailing-statuses",
+      "export-mailings",
+      "export-operation-logs",
+      "export-orders-and-lines",
+      "export-product-segmentation-changes",
+      "export-promotions",
+      "export-scenarios",
+      "export-webhook-logs"
+    ],
+    "external-ids-change-history": [
+      "customfields-reference",
+      "periodic-data-updates"
+    ],
+    "firebase-integration-service-implementation": [
+      "firebase-send-push-notifications-flutter",
+      "firebase-send-push-notifications-react-native"
+    ],
+    "firebase-key-setup": [
+      "android-get-click",
+      "android-get-click-react-native",
+      "android-push-provider-keys",
+      "android-sdk",
+      "expo-sdk-setup",
+      "firebase-send-push-notifications",
+      "firebase-send-push-notifications-flutter",
+      "firebase-send-push-notifications-react-native",
+      "huawei-get-keys",
+      "sdk-checklist-wrong-token-or-invalid-tokens"
+    ],
+    "firebase-send-push-notifications": [
+      "android-sdk",
+      "android-sdk-initialization",
+      "huawei-send-push-notifications",
+      "sdk-checklist-installation-status-not-registered-android",
+      "sdk-checklist-push-buttons-not-working",
+      "sdk-checklist-push-click-did-not-open-section",
+      "sdk-checklist-push-missing-text-icon",
+      "sdk-checklist-push-no-image",
+      "sdk-checklist-push-not-as-expected",
+      "sdk-checklist-sent-but-not-displayed",
+      "v1-v2-android-sdk"
+    ],
+    "firebase-send-push-notifications-flutter": [
+      "flutter-android-push-notifications-setup",
+      "huawei-send-push-notifications-flutter"
+    ],
+    "firebase-send-push-notifications-react-native": [
+      "android-get-click-react-native",
+      "huawei-send-push-notifications-react-native",
+      "rn-android-push-notifications-setup"
+    ],
+    "flutter-android-push-notifications-setup": [
+      "firebase-send-push-notifications-flutter",
+      "flutter-sdk",
+      "ios-send-push-notifications-flutter"
+    ],
+    "flutter-get-push-keys": [
+      "add-sdk-flutter",
+      "flutter-new-integration-setup",
+      "flutter-sdk"
+    ],
+    "flutter-ios-advanced-push-setup": [
+      "ios-send-push-notifications-flutter"
+    ],
+    "flutter-ios-rich-push-notifications": [
+      "flutter-sdk",
+      "ios-rich-push-image-preview",
+      "rustore-send-push-notifications-flutter"
+    ],
+    "flutter-new-integration-setup": [
+      "flutter-get-push-keys",
+      "flutter-sdk",
+      "flutter-sdk-initialization",
+      "ios-send-push-notifications-flutter"
+    ],
+    "flutter-push-navigation": [
+      "flutter-sdk",
+      "ios-get-click-flutter",
+      "ios-setup-background-tasks-flutter"
+    ],
+    "flutter-push-navigation-react-native": [
+      "ios-get-click-react-native",
+      "ios-setup-background-tasks-react-native",
+      "react-native-sdk"
+    ],
+    "flutter-sdk": [
+      "flutter-new-integration-setup",
+      "how-to-receive-push-notifications-from-multiple-sources",
+      "mindbox-sdk"
+    ],
+    "flutter-sdk-initialization": [
+      "add-sdk-flutter",
+      "flutter-sdk",
+      "in-app",
+      "ios-send-push-notifications-flutter"
+    ],
+    "flutter-sdk-methods": [
+      "integration-actions-flutter",
+      "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview-flutter"
+    ],
+    "folders-reference": [
+      "ab-tests-reference",
+      "customer-merges"
+    ],
+    "frontol-integration": [
+      "cardsmobile-integration-mechanics-for-loyalty-module",
+      "set-retail-integration",
+      "стандартные-интеграции-1"
+    ],
+    "get-customer-bonus-balance": [
+      "archive-external-promotions",
+      "loyaloffline",
+      "update-customer-bonus-account"
+    ],
+    "get-customer-bonus-balance-history": [
+      "bulk-import-balance-changes-v3",
+      "update-customer-bonus-account"
+    ],
+    "get-customer-data": [
+      "bulk-import-cards-clients",
+      "chat-bots-qr-authentication",
+      "get-customer-data-xml"
+    ],
+    "get-customer-data-json": [
+      "customer-existence-database-check",
+      "get-customer-data",
+      "javascript-1"
+    ],
+    "get-customer-data-xml": [
+      "get-customer-data",
+      "javascript-1",
+      "loyaloffline"
+    ],
+    "get-customer-discount-cards-list": [
+      "customer-card-activation",
+      "get-discount-card-details"
+    ],
+    "get-customer-orders-list": [
+      "get-order-info",
+      "get-total-paid-orders-amount"
+    ],
+    "get-customer-product-list": [
+      "bulk-add-products-to-list-v3",
+      "import-personalproductlist-v3",
+      "loyaloffline"
+    ],
+    "get-customer-segments": [
+      "get-project-segments-list",
+      "remove-customer-from-segmentation"
+    ],
+    "get-discount-card-details": [
+      "chat-bots-qr-authentication",
+      "get-customer-discount-cards-list",
+      "loyaloffline"
+    ],
+    "get-firebase-keys-for-web-push": [
+      "chat-bots-methods",
+      "upload-attachments-for-emails"
+    ],
+    "get-order-info": [
+      "get-customer-orders-list",
+      "preorder"
+    ],
+    "get-orders-list": [
+      "processing-offline-order",
+      "product-import"
+    ],
+    "get-personal-offers-list": [
+      "archive-external-promotions",
+      "set-personal-offers-list"
+    ],
+    "get-popular-products": [
+      "api-mailings-send",
+      "bulk-import-balance-changes-v3"
+    ],
+    "get-project-segments-list": [
+      "get-customer-segments",
+      "static-customer-segments-v3"
+    ],
+    "get-promocodes-list": [
+      "bulk-import-promocode-pools-v3",
+      "bulk-import-promocodes-v3"
+    ],
+    "get-promotions-for-customer": [
+      "import-external-promotions",
+      "notification-center",
+      "set-personal-offers-list"
+    ],
+    "get-total-paid-orders-amount": [
+      "get-customer-orders-list",
+      "retailorder-import-v3"
+    ],
+    "gift-cards-in-order-save-operations": [
+      "bulk-import-touchpoints-v3",
+      "processing-offline-order",
+      "unbind-discount-card"
+    ],
+    "google-optimize-ab-test-ended": [
+      "segment-updated-without-page-reload",
+      "targeting-uses-product-conditions-but-data-not-sent"
+    ],
+    "how-to-read-data": [
+      "analytics-data-schema",
+      "calculate-loyalty-points-balance",
+      "export-event-log",
+      "periodic-data-updates"
+    ],
+    "how-to-receive-push-notifications-from-multiple-sources": [
+      "flutter-sdk",
+      "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview"
+    ],
+    "how-to-work-with-customer-merges": [
+      "periodic-data-updates",
+      "reconcile-orders-with-report"
+    ],
+    "huawei-get-keys": [
+      "android-get-click-react-native",
+      "android-sdk",
+      "expo-sdk-setup",
+      "firebase-key-setup",
+      "rustore-get-keys",
+      "sdk-checklist-wrong-token-or-invalid-tokens"
+    ],
+    "huawei-push-service": [
+      "huawei-send-push-notifications",
+      "huawei-send-push-notifications-flutter",
+      "huawei-send-push-notifications-react-native"
+    ],
+    "huawei-send-push-notifications": [
+      "android-sdk",
+      "firebase-send-push-notifications",
+      "rustore-send-push-notifications",
+      "sdk-checklist-installation-status-not-registered-android",
+      "sdk-checklist-push-buttons-not-working",
+      "sdk-checklist-push-click-did-not-open-section",
+      "sdk-checklist-push-missing-text-icon",
+      "sdk-checklist-push-no-image",
+      "sdk-checklist-push-not-as-expected",
+      "sdk-checklist-sent-but-not-displayed",
+      "v1-v2-android-sdk"
+    ],
+    "huawei-send-push-notifications-flutter": [
+      "firebase-send-push-notifications-flutter",
+      "flutter-android-push-notifications-setup",
+      "rustore-send-push-notifications-flutter"
+    ],
+    "huawei-send-push-notifications-react-native": [
+      "android-get-click-react-native",
+      "firebase-send-push-notifications-react-native",
+      "rn-android-push-notifications-setup",
+      "rustore-send-push-notifications-react-native"
+    ],
+    "iiko-integration": [
+      "albato-integration",
+      "iiko-pos-instructions"
+    ],
+    "iiko-plugin-setup-version-n-plus": [
+      "iiko-pos-instructions",
+      "rkeeper-integration"
+    ],
+    "iiko-pos-instructions": [
+      "iiko-integration",
+      "iiko-plugin-setup-version-n-plus"
+    ],
+    "import-external-promotions": [
+      "archive-external-promotions",
+      "create-order-with-processing",
+      "get-promotions-for-customer",
+      "save-external-promotion"
+    ],
+    "import-field-values": [
+      "mechanics-loads-slowly",
+      "sla-integration"
+    ],
+    "import-personal-offers": [
+      "delete-categories",
+      "save-product-regional-info"
+    ],
+    "import-personalproductlist-v3": [
+      "get-customer-product-list",
+      "prodlistactionjson"
+    ],
+    "impression-limit-exceeded": [
+      "device-not-linked-to-target-customer",
+      "targeting-uses-product-conditions-but-data-not-sent"
+    ],
+    "in-app": [
+      "expo-notification",
+      "flutter-sdk-methods",
+      "in-app-targeting-by-custom-operation",
+      "mindbox-sdk"
+    ],
+    "in-app-operation-category-and-product-targeting": [
+      "in-app-targeting-by-custom-operation",
+      "notification-center"
+    ],
+    "in-app-targeting-by-custom-operation": [
+      "in-app",
+      "in-app-operation-category-and-product-targeting"
+    ],
+    "incorrect-display-location": [
+      "website-has-redirects",
+      "widget-not-working-test-link"
+    ],
+    "integration-actions-flutter": [
+      "flutter-sdk-methods",
+      "in-app-operation-category-and-product-targeting",
+      "ios-app-start-tracking-flutter"
+    ],
+    "integration-actions-react-native": [
+      "expo-sdk",
+      "ios-app-start-tracking-react-native",
+      "react-native-sdk-methods"
+    ],
+    "ios-app-start-tracking-flutter": [
+      "flutter-sdk",
+      "integration-actions-flutter",
+      "ios-setup-background-tasks-flutter"
+    ],
+    "ios-app-start-tracking-react-native": [
+      "integration-actions-react-native",
+      "ios-setup-background-tasks-react-native",
+      "react-native-sdk"
+    ],
+    "ios-get-app-install-source": [
+      "ios-app-start-tracking-flutter",
+      "ios-guarantee-delivery-setup",
+      "ios-integration-actions"
+    ],
+    "ios-get-click-flutter": [
+      "flutter-push-navigation",
+      "flutter-sdk",
+      "ios-rich-push-image-and-button"
+    ],
+    "ios-get-click-react-native": [
+      "android-get-click-react-native",
+      "flutter-push-navigation-react-native",
+      "react-native-sdk"
+    ],
+    "ios-guarantee-delivery-setup": [
+      "ios-get-app-install-source",
+      "ios-push-click-forwarding",
+      "ios-sdk"
+    ],
+    "ios-integration-actions": [
+      "in-app-operation-category-and-product-targeting",
+      "ios-get-app-install-source",
+      "ios-sdk-configuration-fields"
+    ],
+    "ios-mindboxflutterappdelegate": [
+      "ios-send-push-notifications-flutter"
+    ],
+    "ios-push-click-forwarding": [
+      "ios-guarantee-delivery-setup",
+      "ios-push-notification-deep-linking",
+      "sdk-checklist-push-click-not-tracked-in-mindbox"
+    ],
+    "ios-push-notification-deep-linking": [
+      "ios-push-click-forwarding",
+      "rich-push-notifications-buttons"
+    ],
+    "ios-push-notification-format": [
+      "ios-sdk-methods",
+      "ios-sdk-request-constructor"
+    ],
+    "ios-push-notifications-setup": [
+      "ios-quick-setup-push-notifications"
+    ],
+    "ios-push-notifications-setup-advanced": [
+      "ios-quick-setup-push-notifications"
+    ],
+    "ios-quick-setup-push-notifications": [
+      "ios-guarantee-delivery-setup",
+      "ios-rich-push-notifications",
+      "ios-sdk",
+      "ios-sdk-initialization",
+      "sdk-checklist-build-error",
+      "sdk-checklist-installation-status-not-registered",
+      "sdk-checklist-no-push-permission"
+    ],
+    "ios-rich-push-image-and-button": [
+      "ios-get-click-flutter",
+      "ios-rich-push-image-preview"
+    ],
+    "ios-rich-push-image-and-button-react-native": [
+      "android-get-click-react-native",
+      "ios-rich-push-image-preview-react-native",
+      "rn-ios-rich-push-notifications"
+    ],
+    "ios-rich-push-image-preview": [
+      "flutter-ios-rich-push-notifications",
+      "ios-rich-push-image-and-button",
+      "sdk-checklist-push-no-small-image"
+    ],
+    "ios-rich-push-image-preview-react-native": [
+      "ios-rich-push-image-and-button-react-native",
+      "rn-ios-rich-push-notifications"
+    ],
+    "ios-rich-push-notifications": [
+      "ios-quick-setup-push-notifications",
+      "rich-push-notifications-preview"
+    ],
+    "ios-sdk": [
+      "add-ios-integration",
+      "mindbox-sdk"
+    ],
+    "ios-sdk-configuration-fields": [
+      "ios-integration-actions",
+      "ios-sdk-request-constructor"
+    ],
+    "ios-sdk-events": [
+      "ios-sdk-methods",
+      "ios-webview-sync-with-sdk"
+    ],
+    "ios-sdk-initialization": [
+      "add-sdk-to-app",
+      "in-app",
+      "ios-guarantee-delivery-setup",
+      "ios-integration-actions",
+      "ios-quick-setup-push-notifications",
+      "ios-rich-push-notifications",
+      "ios-sdk",
+      "sdk-checklist-build-error"
+    ],
+    "ios-sdk-methods": [
+      "ios-push-notification-format",
+      "ios-sdk-events"
+    ],
+    "ios-sdk-request-constructor": [
+      "ios-push-notification-format",
+      "ios-sdk-configuration-fields"
+    ],
+    "ios-send-push-notifications-flutter": [
+      "flutter-android-push-notifications-setup",
+      "flutter-sdk",
+      "flutter-sdk-initialization"
+    ],
+    "ios-send-push-notifications-react-native": [
+      "ios-get-click-react-native",
+      "react-native-sdk",
+      "rn-android-push-notifications-setup",
+      "sdk-initialization-react-native"
+    ],
+    "ios-setup-background-tasks-flutter": [
+      "flutter-push-navigation",
+      "flutter-sdk",
+      "ios-app-start-tracking-flutter"
+    ],
+    "ios-setup-background-tasks-react-native": [
+      "flutter-push-navigation-react-native",
+      "ios-app-start-tracking-react-native",
+      "react-native-sdk"
+    ],
+    "ios-webview-sync-with-sdk": [
+      "android-sdk",
+      "ios-sdk-events",
+      "mindbox-sdk"
+    ],
+    "javascript-1": [
+      "get-customer-data",
+      "get-customer-data-json",
+      "get-customer-data-xml"
+    ],
+    "javascript-sdk": [
+      "api-usage-recommendations",
+      "get-popular-products",
+      "ios-webview-sync-with-sdk",
+      "javascript-sdk-anonymization",
+      "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview",
+      "tracker-installation",
+      "tracker-installed-incorrectly",
+      "tracker-not-installed",
+      "universal-links"
+    ],
+    "javascript-sdk-anonymization": [
+      "javascript-sdk",
+      "website-authorization-ticket"
+    ],
+    "json": [
+      "authentication",
+      "registration-authorization-subscription",
+      "userregjson"
+    ],
+    "json-1": [
+      "api-mailings-send",
+      "mailings-send-json",
+      "upload-attachments-for-emails"
+    ],
+    "koshelek-app-integration": [
+      "cardsmobile-integration-mechanics-for-loyalty-module",
+      "create-integration-for-cdp-and-loyalty-module",
+      "osmi-cards-integration",
+      "стандартные-интеграции-1"
+    ],
+    "link-between-bonus-redemptions-and-accruals": [
+      "bonus-accounts-reference",
+      "bonus-promotions-reference"
+    ],
+    "mailing-statuses": [
+      "segmentations-reference",
+      "tags-in-mailings"
+    ],
+    "mailing-topics-reference": [
+      "mailings-reference",
+      "tags-reference"
+    ],
+    "mailings-reference": [
+      "mailing-topics-reference",
+      "touchpoints-reference"
+    ],
+    "mailings-send-json": [
+      "json-1",
+      "tranletterxml"
+    ],
+    "mechanics-enabled-not-shown": [
+      "targeting-conditions-conflict"
+    ],
+    "mechanics-loads-slowly": [
+      "import-field-values",
+      "spa-navigation-without-reload"
+    ],
+    "mechanics-missing-required-settings": [
+      "mechanics-wrong-endpoint",
+      "scripts-not-installed"
+    ],
+    "mechanics-not-working-test-link": [
+      "mechanics-enabled-not-shown",
+      "step-4-verify-basic-integration",
+      "tracker-not-installed",
+      "widget-placement-without-advanced-integration"
+    ],
+    "mechanics-wrong-endpoint": [
+      "mechanics-missing-required-settings",
+      "website-has-redirects"
+    ],
+    "mindbox-sdk": [
+      "ios-sdk",
+      "segmel-integration"
+    ],
+    "mobile-phone-verification": [
+      "customers-import-v3",
+      "referral-code-registration"
+    ],
+    "mobile-push-check": [
+      "android-get-click",
+      "android-get-click-react-native",
+      "expo-sdk-setup",
+      "firebase-send-push-notifications",
+      "firebase-send-push-notifications-flutter",
+      "firebase-send-push-notifications-react-native",
+      "huawei-send-push-notifications",
+      "huawei-send-push-notifications-flutter",
+      "huawei-send-push-notifications-react-native",
+      "ios-get-click-flutter",
+      "ios-get-click-react-native",
+      "ios-push-click-forwarding",
+      "ios-quick-setup-push-notifications",
+      "ios-rich-push-image-and-button",
+      "ios-rich-push-image-and-button-react-native",
+      "ios-rich-push-image-preview",
+      "ios-rich-push-image-preview-react-native",
+      "ios-send-push-notifications-flutter",
+      "ios-send-push-notifications-react-native",
+      "rich-push-notifications-buttons",
+      "rich-push-notifications-preview",
+      "rustore-send-push-notifications",
+      "rustore-send-push-notifications-flutter",
+      "rustore-send-push-notifications-react-native",
+      "sdk-integration-checklist",
+      "sdk-subscribe-customer"
+    ],
+    "mobile-sdk-reference": [
+      "sdk-subscribe-customer",
+      "universal-links"
+    ],
+    "no-products-for-recommendation": [
+      "widget-not-displayed-for-product",
+      "widget-not-working-test-link"
+    ],
+    "notification-center": [
+      "in-app-operation-category-and-product-targeting",
+      "universal-links"
+    ],
+    "on-demand-customer-merging": [
+      "phone-verification-client-side",
+      "send-confirmation-code"
+    ],
+    "order-checkout": [
+      "static-customer-segments-v3",
+      "update-order"
+    ],
+    "order-line-statuses-reference": [
+      "customer-order-lines",
+      "touchpoints-reference"
+    ],
+    "osmi-cards-integration": [
+      "koshelek-app-integration",
+      "passteam-integration",
+      "стандартные-интеграции-1"
+    ],
+    "passteam-integration": [
+      "bitrix-integration",
+      "osmi-cards-integration",
+      "стандартные-интеграции-1"
+    ],
+    "password-based-authentication": [
+      "authentication",
+      "secret-code-authentication",
+      "ticket-authentication"
+    ],
+    "periodic-data-updates": [
+      "calculate-loyalty-points-balance",
+      "external-ids-change-history",
+      "how-to-read-data",
+      "how-to-work-with-customer-merges"
+    ],
+    "phone-verification-client-side": [
+      "customers-edit-v3",
+      "on-demand-customer-merging"
+    ],
+    "php-sdk": [
+      "bitrix-integration",
+      "calculate-loyalty-points-balance",
+      "стандартные-интеграции-1"
+    ],
+    "preorder": [
+      "create-order-with-processing",
+      "get-order-info",
+      "loyaloffline"
+    ],
+    "processing-calculate-product-list": [
+      "create-order-with-processing",
+      "processing-offline-order"
+    ],
+    "processing-offline-order": [
+      "get-orders-list",
+      "processing-calculate-product-list"
+    ],
+    "prodactionjson": [
+      "prodactionxml",
+      "product-actions",
+      "product-category-actions",
+      "step-1-create-operations-for-frontend"
+    ],
+    "prodactionxml": [
+      "prodactionjson",
+      "product-actions",
+      "step-1-create-operations-for-backend"
+    ],
+    "prodimportcsv": [
+      "prodimportxml",
+      "product-import",
+      "regional-products-import"
+    ],
+    "prodimportxml": [
+      "prodimportcsv",
+      "product-category-import",
+      "product-import"
+    ],
+    "prodlistactionjson": [
+      "import-personalproductlist-v3",
+      "prodlistactionxml",
+      "product-list-actions",
+      "step-1-create-operations-for-frontend"
+    ],
+    "prodlistactionxml": [
+      "prodlistactionjson",
+      "product-list-actions",
+      "step-1-create-operations-for-backend"
+    ],
+    "product-actions": [
+      "catimportcsv",
+      "prodactionxml"
+    ],
+    "product-category-actions": [
+      "catactionxml",
+      "prodactionjson"
+    ],
+    "product-category-import": [
+      "catimportcsv",
+      "regional-products-import"
+    ],
+    "product-import": [
+      "get-orders-list",
+      "prodimportxml"
+    ],
+    "product-list-actions": [
+      "catactionjson",
+      "prodlistactionxml"
+    ],
+    "push-navigation-expo": [
+      "expo-notification",
+      "expo-sdk-setup"
+    ],
+    "react-native-sdk": [
+      "add-integration-rn",
+      "mindbox-sdk",
+      "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview-flutter"
+    ],
+    "react-native-sdk-methods": [
+      "expo-sdk",
+      "integration-actions-react-native",
+      "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview-react-native"
+    ],
+    "reconcile-orders-with-report": [
+      "calculate-loyalty-points-balance",
+      "how-to-work-with-customer-merges"
+    ],
+    "redeem-promocode": [
+      "bind-promocode",
+      "cancel-promocode-redemption"
+    ],
+    "referral-code-registration": [
+      "mobile-phone-verification",
+      "userredjson-1"
+    ],
+    "regional-products-import": [
+      "prodimportcsv",
+      "product-category-import"
+    ],
+    "registration-authorization-subscription": [
+      "data-import-limitations",
+      "userregxml"
+    ],
+    "remove-customer-from-segmentation": [
+      "add-customer-to-segment",
+      "get-customer-segments"
+    ],
+    "replace-card": [
+      "bulk-import-gift-card-pool-v3",
+      "change-card-status-in-account",
+      "loyaloffline"
+    ],
+    "retail-version-23": [
+      "1c-retail-module-integration",
+      "albato-integration"
+    ],
+    "retailorder-import-v3": [
+      "get-total-paid-orders-amount",
+      "update-order-line-status"
+    ],
+    "rich-push-notifications-buttons": [
+      "flutter-ios-rich-push-notifications",
+      "ios-push-notification-deep-linking",
+      "ios-rich-push-notifications",
+      "rich-push-notifications-preview",
+      "sdk-checklist-push-no-large-image",
+      "sdk-checklist-push-no-large-image-on-click"
+    ],
+    "rich-push-notifications-preview": [
+      "flutter-ios-rich-push-notifications",
+      "ios-rich-push-notifications",
+      "rich-push-notifications-buttons"
+    ],
+    "rkeeper-integration": [
+      "iiko-plugin-setup-version-n-plus",
+      "segmel-integration"
+    ],
+    "rn-android-push-notifications-setup": [
+      "firebase-send-push-notifications-react-native",
+      "ios-send-push-notifications-react-native"
+    ],
+    "rn-get-push-keys": [
+      "add-integration-rn",
+      "add-sdk-react-native",
+      "expo-sdk",
+      "react-native-sdk"
+    ],
+    "rn-ios-rich-push-notifications": [
+      "ios-rich-push-image-preview-react-native",
+      "react-native-sdk",
+      "rustore-send-push-notifications-react-native"
+    ],
+    "rustore-get-keys": [
+      "add-android-sdk",
+      "android-sdk",
+      "expo-sdk-setup",
+      "huawei-get-keys"
+    ],
+    "rustore-push-service": [
+      "rustore-send-push-notifications",
+      "rustore-send-push-notifications-flutter",
+      "rustore-send-push-notifications-react-native"
+    ],
+    "rustore-send-push-notifications": [
+      "android-get-click",
+      "android-sdk",
+      "huawei-send-push-notifications"
+    ],
+    "rustore-send-push-notifications-flutter": [
+      "flutter-android-push-notifications-setup",
+      "flutter-ios-rich-push-notifications",
+      "huawei-send-push-notifications-flutter"
+    ],
+    "rustore-send-push-notifications-react-native": [
+      "huawei-send-push-notifications-react-native",
+      "rn-android-push-notifications-setup",
+      "rn-ios-rich-push-notifications"
+    ],
+    "sandbox-integration-setup": [
+      "add-ios-integration",
+      "apns-keys-setup",
+      "expo-sdk-setup",
+      "ios-quick-setup-push-notifications",
+      "ios-rich-push-image-and-button",
+      "ios-rich-push-image-and-button-react-native",
+      "ios-rich-push-image-preview",
+      "ios-rich-push-image-preview-react-native",
+      "ios-send-push-notifications-flutter",
+      "ios-send-push-notifications-react-native",
+      "mobile-push-check",
+      "rich-push-notifications-buttons",
+      "rich-push-notifications-preview",
+      "sdk-checklist-wrong-environment-all-tokens-invalid"
+    ],
+    "save-external-promotion": [
+      "bulk-import-promocode-pools-v3",
+      "create-order-with-processing",
+      "import-external-promotions"
+    ],
+    "save-product-regional-info": [
+      "import-personal-offers",
+      "update-product-category"
+    ],
+    "scripts-not-installed": [
+      "mechanics-missing-required-settings",
+      "tracker-installed-incorrectly"
+    ],
+    "sdk-checklist-android": [
+      "sdk-checklist-contractmismatch-ios",
+      "sdk-checklist-installation-status-not-registered-android",
+      "sdk-integration-checklist"
+    ],
+    "sdk-checklist-app-crashes-after-notifications": [
+      "sdk-checklist-android",
+      "sdk-checklist-push-click-did-not-open-section",
+      "sdk-checklist-wrong-token-or-invalid-tokens"
+    ],
+    "sdk-checklist-app-started-console-error": [
+      "sdk-checklist-console-error-when-sending-request",
+      "sdk-checklist-general"
+    ],
+    "sdk-checklist-build-error": [
+      "sdk-checklist-installation-status-not-registered",
+      "sdk-checklist-ios"
+    ],
+    "sdk-checklist-click-called-but-not-saved": [
+      "sdk-checklist-ios",
+      "sdk-checklist-push-click-not-tracked-in-mindbox",
+      "sdk-checklist-wrong-token"
+    ],
+    "sdk-checklist-console-error-when-sending-request": [
+      "sdk-checklist-app-started-console-error",
+      "sdk-checklist-general",
+      "sdk-checklist-user-not-receiving-push"
+    ],
+    "sdk-checklist-contractmismatch": [
+      "sdk-checklist-wrong-token-or-invalid-tokens",
+      "website-personalization"
+    ],
+    "sdk-checklist-contractmismatch-ios": [
+      "sdk-checklist-android",
+      "sdk-checklist-wrong-environment-all-tokens-invalid"
+    ],
+    "sdk-checklist-general": [
+      "sdk-checklist-app-started-console-error",
+      "sdk-integration-checklist"
+    ],
+    "sdk-checklist-installation-status-not-registered": [
+      "sdk-checklist-build-error",
+      "sdk-checklist-ios",
+      "sdk-checklist-no-push-permission"
+    ],
+    "sdk-checklist-installation-status-not-registered-android": [
+      "sdk-checklist-android",
+      "sdk-checklist-sent-but-not-displayed"
+    ],
+    "sdk-checklist-ios": [
+      "sdk-checklist-build-error",
+      "sdk-checklist-user-not-receiving-push",
+      "sdk-integration-checklist"
+    ],
+    "sdk-checklist-no-push-permission": [
+      "sdk-checklist-installation-status-not-registered",
+      "sdk-checklist-ios",
+      "sdk-checklist-push-no-small-image"
+    ],
+    "sdk-checklist-push-buttons-not-working": [
+      "sdk-checklist-android",
+      "sdk-checklist-push-click-not-tracked-in-mindbox-android",
+      "sdk-checklist-push-no-image"
+    ],
+    "sdk-checklist-push-click-did-not-open-section": [
+      "sdk-checklist-android",
+      "sdk-checklist-app-crashes-after-notifications",
+      "sdk-checklist-push-click-not-tracked-in-mindbox-android"
+    ],
+    "sdk-checklist-push-click-not-tracked-in-mindbox": [
+      "sdk-checklist-click-called-but-not-saved",
+      "sdk-checklist-ios",
+      "sdk-checklist-push-no-large-image-on-click"
+    ],
+    "sdk-checklist-push-click-not-tracked-in-mindbox-android": [
+      "sdk-checklist-push-buttons-not-working",
+      "sdk-checklist-push-click-did-not-open-section"
+    ],
+    "sdk-checklist-push-icon-wrong-color": [
+      "sdk-checklist-android",
+      "sdk-checklist-push-no-image",
+      "sdk-checklist-push-not-as-expected"
+    ],
+    "sdk-checklist-push-missing-text-icon": [
+      "sdk-checklist-push-not-as-expected",
+      "sdk-checklist-sent-but-not-displayed"
+    ],
+    "sdk-checklist-push-no-image": [
+      "sdk-checklist-android",
+      "sdk-checklist-push-buttons-not-working",
+      "sdk-checklist-push-icon-wrong-color"
+    ],
+    "sdk-checklist-push-no-large-image": [
+      "sdk-checklist-ios",
+      "sdk-checklist-push-no-large-image-on-click",
+      "sdk-checklist-push-no-small-image"
+    ],
+    "sdk-checklist-push-no-large-image-on-click": [
+      "sdk-checklist-ios",
+      "sdk-checklist-push-click-not-tracked-in-mindbox",
+      "sdk-checklist-push-no-large-image"
+    ],
+    "sdk-checklist-push-no-small-image": [
+      "sdk-checklist-ios",
+      "sdk-checklist-no-push-permission",
+      "sdk-checklist-push-no-large-image"
+    ],
+    "sdk-checklist-push-not-as-expected": [
+      "sdk-checklist-android",
+      "sdk-checklist-push-icon-wrong-color",
+      "sdk-checklist-push-missing-text-icon"
+    ],
+    "sdk-checklist-sent-but-not-displayed": [
+      "sdk-checklist-android",
+      "sdk-checklist-installation-status-not-registered-android",
+      "sdk-checklist-push-missing-text-icon"
+    ],
+    "sdk-checklist-user-not-receiving-push": [
+      "sdk-checklist-console-error-when-sending-request",
+      "sdk-checklist-general",
+      "sdk-checklist-ios"
+    ],
+    "sdk-checklist-wrong-environment-all-tokens-invalid": [
+      "sdk-checklist-contractmismatch-ios",
+      "sdk-checklist-ios",
+      "sdk-checklist-wrong-token"
+    ],
+    "sdk-checklist-wrong-token": [
+      "sdk-checklist-click-called-but-not-saved",
+      "sdk-checklist-ios",
+      "sdk-checklist-wrong-environment-all-tokens-invalid"
+    ],
+    "sdk-checklist-wrong-token-or-invalid-tokens": [
+      "sdk-checklist-android",
+      "sdk-checklist-app-crashes-after-notifications",
+      "sdk-checklist-contractmismatch"
+    ],
+    "sdk-initialization-react-native": [
+      "add-sdk-react-native",
+      "android-get-click-react-native",
+      "ios-send-push-notifications-react-native",
+      "react-native-sdk"
+    ],
+    "sdk-integration-checklist": [
+      "android-integration-of-actions",
+      "ios-integration-actions",
+      "ios-rich-push-image-and-button",
+      "ios-rich-push-image-and-button-react-native",
+      "mobile-push-check",
+      "rich-push-notifications-buttons",
+      "sdk-checklist-general"
+    ],
+    "sdk-subscribe-customer": [
+      "android-sdk-initialization",
+      "flutter-sdk-initialization",
+      "ios-sdk-initialization",
+      "mobile-push-check",
+      "mobile-sdk-reference",
+      "sdk-initialization-react-native"
+    ],
+    "secret-code-authentication": [
+      "authentication",
+      "chat-bots-qr-authentication",
+      "password-based-authentication",
+      "ticket-authentication"
+    ],
+    "segmel-integration": [
+      "mindbox-sdk",
+      "rkeeper-integration"
+    ],
+    "segment-updated-without-page-reload": [
+      "cart-changed-does-not-match-targeting",
+      "google-optimize-ab-test-ended"
+    ],
+    "segmentations-reference": [
+      "mailing-statuses",
+      "segments-reference"
+    ],
+    "segments-reference": [
+      "customer-segments-history",
+      "segmentations-reference"
+    ],
+    "send-confirmation-code": [
+      "customer-existence-database-check",
+      "on-demand-customer-merging"
+    ],
+    "set-personal-offers-list": [
+      "get-personal-offers-list",
+      "get-promotions-for-customer"
+    ],
+    "set-retail-integration": [
+      "1c-retail-module-integration",
+      "frontol-integration",
+      "стандартные-интеграции-1"
+    ],
+    "sla-integration": [
+      "import-field-values"
+    ],
+    "spa-navigation-without-reload": [
+      "cart-changed-does-not-match-targeting",
+      "mechanics-loads-slowly"
+    ],
+    "static-customer-segments-v3": [
+      "get-project-segments-list",
+      "order-checkout"
+    ],
+    "step-1-create-operations-for-backend": [
+      "step-2-call-operations-from-backend-or-external-system",
+      "website-personalization-backend"
+    ],
+    "step-1-create-operations-for-frontend": [
+      "step-2-call-operations-with-javascript-sdk",
+      "website-personalization-frontend"
+    ],
+    "step-2-call-operations-from-backend-or-external-system": [
+      "step-1-create-operations-for-backend",
+      "step-3-call-operations-for-personalization"
+    ],
+    "step-2-call-operations-with-javascript-sdk": [
+      "step-1-create-operations-for-frontend",
+      "step-3-website-personalization-settings-at-integration-point"
+    ],
+    "step-2-run-mechanics": [
+      "step-3-connect-module",
+      "tracker-installation",
+      "website-personalization-basic-integration"
+    ],
+    "step-3-call-operations-for-personalization": [
+      "step-2-call-operations-from-backend-or-external-system",
+      "step-4-website-personalization-settings-for-backend-integration"
+    ],
+    "step-3-connect-module": [
+      "step-2-run-mechanics",
+      "step-4-verify-basic-integration",
+      "website-personalization-basic-integration"
+    ],
+    "step-3-website-personalization-settings-at-integration-point": [
+      "step-2-call-operations-with-javascript-sdk",
+      "website-personalization-backend"
+    ],
+    "step-4-verify-basic-integration": [
+      "step-3-connect-module",
+      "website-personalization-advanced-integration",
+      "website-personalization-basic-integration"
+    ],
+    "step-4-website-personalization-settings-for-backend-integration": [
+      "step-3-call-operations-for-personalization",
+      "verify-advanced-integration"
+    ],
+    "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview": [
+      "how-to-receive-push-notifications-from-multiple-sources",
+      "mindbox-sdk",
+      "v1-v2-android-sdk"
+    ],
+    "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview-flutter": [
+      "flutter-sdk-methods",
+      "mindbox-sdk",
+      "react-native-sdk"
+    ],
+    "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview-react-native": [
+      "expo-sdk",
+      "mindbox-sdk",
+      "react-native-sdk-methods"
+    ],
+    "tags-in-mailings": [
+      "mailing-statuses",
+      "tags-reference"
+    ],
+    "tags-reference": [
+      "mailing-topics-reference",
+      "tags-in-mailings"
+    ],
+    "targeting-conditions-conflict": [
+      "device-not-linked-to-target-customer",
+      "mechanics-enabled-not-shown"
+    ],
+    "targeting-uses-product-conditions-but-data-not-sent": [
+      "google-optimize-ab-test-ended",
+      "impression-limit-exceeded"
+    ],
+    "ticket-authentication": [
+      "account-data-editing",
+      "secret-code-authentication"
+    ],
+    "time-zone-edit": [
+      "bulk-import-customer-actions",
+      "customers-edit-v3"
+    ],
+    "touchpoints-reference": [
+      "mailings-reference",
+      "order-line-statuses-reference"
+    ],
+    "tracker-installation": [
+      "step-2-run-mechanics",
+      "website-personalization-basic-integration"
+    ],
+    "tracker-installed-incorrectly": [
+      "scripts-not-installed",
+      "tracker-not-installed"
+    ],
+    "tracker-not-installed": [
+      "mechanics-not-working-test-link",
+      "tracker-installed-incorrectly"
+    ],
+    "tranletterxml": [
+      "api-mailings-send",
+      "mailings-send-json"
+    ],
+    "unbind-discount-card": [
+      "bind-discount-card-with-sms-confirmation",
+      "gift-cards-in-order-save-operations"
+    ],
+    "universal-links": [
+      "mobile-sdk-reference",
+      "notification-center"
+    ],
+    "update-customer-bonus-account": [
+      "get-customer-bonus-balance",
+      "get-customer-bonus-balance-history",
+      "loyaloffline"
+    ],
+    "update-order": [
+      "order-checkout",
+      "update-order-line-status"
+    ],
+    "update-order-line-status": [
+      "retailorder-import-v3",
+      "update-order"
+    ],
+    "update-product": [
+      "bulk-add-products-to-list-v3",
+      "update-product-category"
+    ],
+    "update-product-category": [
+      "save-product-regional-info",
+      "update-product"
+    ],
+    "upload-attachments-for-emails": [
+      "get-firebase-keys-for-web-push",
+      "json-1"
+    ],
+    "userredjson": [
+      "account-data-editing",
+      "userredjson-1",
+      "userredxml"
+    ],
+    "userredjson-1": [
+      "account-data-editing",
+      "referral-code-registration",
+      "userredjson"
+    ],
+    "userredxml": [
+      "account-data-editing",
+      "loyaloffline",
+      "userredjson"
+    ],
+    "userregjson": [
+      "json",
+      "registration-authorization-subscription",
+      "userregxml"
+    ],
+    "userregxml": [
+      "registration-authorization-subscription",
+      "userregjson"
+    ],
+    "v1-v2-android-sdk": [
+      "android-sdk-methods",
+      "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview"
+    ],
+    "v3": [
+      "add-customer-to-segment",
+      "bind-discount-card-with-sms-confirmation",
+      "bind-promocode",
+      "catactionxml",
+      "change-card-status-at-pos",
+      "change-card-status-in-account",
+      "chat-bots-methods",
+      "customer-card-activation",
+      "customer-existence-database-check",
+      "error_processing",
+      "export-customer-merges",
+      "get-customer-bonus-balance",
+      "get-customer-bonus-balance-history",
+      "get-customer-data-json",
+      "get-customer-data-xml",
+      "get-customer-discount-cards-list",
+      "get-customer-product-list",
+      "get-customer-segments",
+      "get-discount-card-details",
+      "get-order-info",
+      "get-personal-offers-list",
+      "get-popular-products",
+      "get-promocodes-list",
+      "get-total-paid-orders-amount",
+      "json",
+      "mailings-send-json",
+      "mobile-phone-verification",
+      "on-demand-customer-merging",
+      "password-based-authentication",
+      "phone-verification-client-side",
+      "prodactionxml",
+      "prodlistactionxml",
+      "referral-code-registration",
+      "remove-customer-from-segmentation",
+      "replace-card",
+      "save-product-regional-info",
+      "secret-code-authentication",
+      "send-confirmation-code",
+      "ticket-authentication",
+      "tranletterxml",
+      "unbind-discount-card",
+      "update-customer-bonus-account",
+      "update-product",
+      "update-product-category",
+      "userredjson-1",
+      "userredxml",
+      "userregxml",
+      "website-authorization-ticket"
+    ],
+    "verify-advanced-integration": [
+      "step-4-website-personalization-settings-for-backend-integration",
+      "website-recommendation-widgets-installation"
+    ],
+    "website-authorization-ticket": [
+      "javascript-sdk-anonymization",
+      "userredjson",
+      "userredjson-1",
+      "userredxml",
+      "v3"
+    ],
+    "website-has-redirects": [
+      "incorrect-display-location",
+      "mechanics-wrong-endpoint"
+    ],
+    "website-personalization": [
+      "sdk-checklist-contractmismatch",
+      "website-personalization-basic-integration"
+    ],
+    "website-personalization-advanced-integration": [
+      "step-4-verify-basic-integration",
+      "website-personalization-frontend"
+    ],
+    "website-personalization-backend": [
+      "step-1-create-operations-for-backend",
+      "step-3-website-personalization-settings-at-integration-point"
+    ],
+    "website-personalization-basic-integration": [
+      "tracker-installation",
+      "website-personalization",
+      "website-personalization-advanced-integration"
+    ],
+    "website-personalization-frontend": [
+      "step-1-create-operations-for-frontend",
+      "website-personalization-advanced-integration"
+    ],
+    "website-recommendation-widgets-installation": [
+      "verify-advanced-integration",
+      "widget-placement-with-advanced-integration"
+    ],
+    "widget-not-displayed-for-category": [
+      "mechanics-enabled-not-shown",
+      "widget-not-displayed-for-product"
+    ],
+    "widget-not-displayed-for-product": [
+      "no-products-for-recommendation"
+    ],
+    "widget-not-working-test-link": [
+      "incorrect-display-location",
+      "no-products-for-recommendation"
+    ],
+    "widget-placement-with-advanced-integration": [
+      "website-recommendation-widgets-installation",
+      "widget-placement-without-advanced-integration"
+    ],
+    "widget-placement-without-advanced-integration": [
+      "mechanics-not-working-test-link",
+      "widget-placement-with-advanced-integration"
+    ]
+  }
+}

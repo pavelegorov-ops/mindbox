@@ -1,0 +1,15 @@
+# Python venv
+.venv/
+
+# Playwright MCP cache
+.playwright-mcp/
+
+# Локальные настройки Claude Code (личное у каждого пользователя)
+.claude/settings.local.json
+
+# Бизнес-данные тенантов: всё под private/, кроме скелета _template/.
+# Каждый тенант — отдельный приватный git-репозиторий, клонируется в
+# private/<name>/ и не должен попадать в публичный репо движка.
+/private/*
+!/private/_template/
+!/private/.gitkeep

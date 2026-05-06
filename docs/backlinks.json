@@ -1,0 +1,2254 @@
+{
+  "generated_at": "2026-05-05T06:48:43Z",
+  "source": "https://help.mindbox.ru/docs",
+  "page_count": 313,
+  "schema": {
+    "purpose": "reverse link index: which pages link to a given slug",
+    "format": "<slug>: [<slug_that_links_to_it>, ...]"
+  },
+  "backlinks": {
+    "2-step-verification": [
+      "staff-create",
+      "staff-import",
+      "whats-new"
+    ],
+    "ab-test-app": [
+      "ab-test-segment",
+      "in-app-bonuses-expiration",
+      "in-app-discount-on-selected-products",
+      "in-app-first-order-promo",
+      "in-app-happy-birthday",
+      "in-app-proguct-got-cheaper",
+      "what-is-ab-test",
+      "whats-new"
+    ],
+    "ab-test-google-optimize": [
+      "targeting",
+      "почему-не-показывается-попап-встроенныи-блок-виджет"
+    ],
+    "ab-test-segment": [
+      "what-is-ab-test"
+    ],
+    "ab-test-website": [
+      "targeting",
+      "what-is-ab-test",
+      "whats-new"
+    ],
+    "ab-tests-mailings": [
+      "email-mass",
+      "how-email-opens-are-tracked",
+      "viber-campaign-mass",
+      "whats-new",
+      "как-настроить-контрольную-группу-и-аб-тестирование-в-рассылке",
+      "как-создать-sms-рассылку",
+      "создание-мобильных-пушей",
+      "что-такое-web-пуш-и-как-его-отправить"
+    ],
+    "action": [
+      "filter-clients-view-product-or-category",
+      "filter-orders",
+      "who-is-the-client",
+      "workflow-client-flow",
+      "workflow-delay",
+      "что-входит-в-mindbox"
+    ],
+    "actions-delete": [
+      "product-categories-delete-bulk",
+      "products-delete-bulk",
+      "products-delete-filter"
+    ],
+    "additional-data": [
+      "blocklist-export-contacts",
+      "blocklist-import-contacts",
+      "blocklist-remove-contacts",
+      "chat2desk-integration",
+      "client-add",
+      "computed-fields",
+      "game-mechanics-popup",
+      "how-to-create-a-discount-promo",
+      "how-to-import-orders-by-file",
+      "iiko-integration",
+      "integration-mindbox-textback",
+      "issues-types",
+      "media-leads",
+      "parameters-enum",
+      "parameters-products-by-computed-field",
+      "referral-code-use-in-register",
+      "set-retail-integration",
+      "set-up-google-forms-integration",
+      "shopify-integration",
+      "steps-create-client",
+      "steps-edit-client",
+      "who-is-the-client",
+      "workflow-after-travel",
+      "workflow-anniversary",
+      "workflow-events",
+      "workflow-flow-splitter",
+      "workflow-list-product-custom-field-change",
+      "workflow-reminder-before-date",
+      "workflow-steps",
+      "workflows-webhook-responses",
+      "yandex-forms-integration",
+      "yml-import",
+      "интеграция-osmi-cards",
+      "интеграция-с-passteam",
+      "как-добавить-форму-выбор-подарка",
+      "как-настроить-nps-опрос",
+      "как-настроить-модуль-bitrix",
+      "как-отправить-пуш-в-приложение-кошелек",
+      "как-передать-данные-из-формы-на-проект",
+      "какие-есть-деиствия-после-заполнения-формы",
+      "опрос-об-удобстве-саита-для-тех-кто-посещал-саит-более-5-раз",
+      "параметры-для-механики-продукт-из-заказа-скоро-закончится",
+      "что-входит-в-mindbox"
+    ],
+    "akciya-1-plyus-1-tretij-v-podarok": [
+      "skidka-na-n-produktov-za-n-produktov",
+      "что-входит-в-mindbox"
+    ],
+    "amp-email": [
+      "how-email-opens-are-tracked"
+    ],
+    "areas-import": [
+      "client-timezone",
+      "clients-import",
+      "how-to-import-feed-by-file",
+      "products-import-regional-data",
+      "regional-yml-import",
+      "workflow-steps",
+      "yml-import",
+      "что-входит-в-mindbox"
+    ],
+    "attribution": [
+      "goals",
+      "mailings-dashboard",
+      "personalization-report",
+      "report-business-metrics",
+      "report-in-apps",
+      "segments-dashboard",
+      "sms-campaign-automated",
+      "whats-new",
+      "как-создать-sms-рассылку",
+      "просмотр-статистики-рассылки"
+    ],
+    "balance-change-bulk": [
+      "whats-new"
+    ],
+    "balances-blocked-why": [
+      "workflow-bonus-available",
+      "workflow-events"
+    ],
+    "balances-create": [
+      "balances-change",
+      "iiko-integration",
+      "set-retail-integration",
+      "workflow-birthday",
+      "workflow-reactivate",
+      "workflow-reactivate-open",
+      "workflow-steps",
+      "workflow-welcome",
+      "workflow-welcome-double-opt-in",
+      "интеграция-osmi-cards",
+      "как-изменить-баланс-клиента-через-интерфеис",
+      "что-входит-в-mindbox"
+    ],
+    "billing-modules": [
+      "billing-recommendations",
+      "edna-pulse",
+      "gift-cards-what-is",
+      "media-what-is",
+      "notifications-and-messangers",
+      "reports-billing",
+      "segment-delete",
+      "telegram",
+      "wazzup",
+      "webhooks",
+      "whats-new",
+      "whatsapp",
+      "как-подключить-sms-рассылки"
+    ],
+    "billing-recommendations": [
+      "reports-billing",
+      "whats-new"
+    ],
+    "blocklist": [
+      "blocklist-export-contacts",
+      "blocklist-import-contacts",
+      "blocklist-remove-contacts",
+      "whats-new"
+    ],
+    "blocklist-export-contacts": [
+      "blocklist"
+    ],
+    "blocklist-import-contacts": [
+      "blocklist"
+    ],
+    "blocklist-remove-contacts": [
+      "blocklist"
+    ],
+    "branded-unsubscribe-page": [
+      "doi-subscription-change",
+      "как-заменить-стандартную-страницу-отписки-на-лендинг-на-саите",
+      "как-поставить-в-рассылке-ссылку-отписки-от-канала-или-тематики"
+    ],
+    "browser-console": [
+      "whats-new",
+      "как-настроить-интеграцию-с-google-analytics"
+    ],
+    "channel-add": [
+      "goals",
+      "что-входит-в-mindbox"
+    ],
+    "chat2desk-integration": [
+      "whats-new"
+    ],
+    "chatbot-what-is": [
+      "whats-new"
+    ],
+    "click-maps": [
+      "email-mass",
+      "email-trigger",
+      "whats-new"
+    ],
+    "client-add": [
+      "blocklist",
+      "email-mass",
+      "email-trigger",
+      "mobilepush-campaign-automated",
+      "referral-code-use-in-first-order",
+      "sms-campaign-automated",
+      "viber-campaign-automated",
+      "viber-campaign-mass",
+      "как-создать-sms-рассылку",
+      "создание-мобильных-пушей",
+      "что-делать-при-падении-open-rate-чек-лист"
+    ],
+    "client-edit": [
+      "direct-subscription",
+      "как-объединить-карточки-клиентов-вручную"
+    ],
+    "client-fullname": [
+      "client-sex",
+      "clients-import",
+      "field-validation-rules",
+      "как-обратиться-по-полу-с-использованием-имени-если-оно-есть"
+    ],
+    "client-sex": [
+      "clients-import"
+    ],
+    "client-timezone": [
+      "email-mass",
+      "email-trigger",
+      "mobilepush-campaign-automated",
+      "sms-campaign-automated",
+      "viber-campaign-automated",
+      "viber-campaign-mass",
+      "webpush-campaign-automated",
+      "как-настроить-скорость-начало-и-часы-отправки-рассылки",
+      "как-создать-sms-рассылку",
+      "создание-мобильных-пушей",
+      "что-такое-web-пуш-и-как-его-отправить"
+    ],
+    "clients-delete": [
+      "blocklist",
+      "customer-lifecycle"
+    ],
+    "clients-import": [
+      "areas-import",
+      "clients-import-edit",
+      "email-and-mobile-confirmation",
+      "whats-new",
+      "гигиена-базы-получателеи",
+      "как-поставить-в-рассылке-ссылку-подтверждения-подписки-на-канал-или-тематику",
+      "рекомендуемые-способы-передачи-данных"
+    ],
+    "clients-import-edit": [
+      "areas-import",
+      "email-and-mobile-confirmation",
+      "referral-code-use-in-register",
+      "whats-new"
+    ],
+    "clients-subscribe": [
+      "direct-subscription",
+      "doi-turn-off",
+      "как-поставить-в-рассылке-ссылку-подтверждения-подписки-на-канал-или-тематику"
+    ],
+    "computed-fields": [
+      "parameters-category-from-computed-field",
+      "parameters-customfield-computed-field-price",
+      "parameters-product-from-computed-field",
+      "parameters-products-by-computed-field",
+      "whats-new",
+      "who-is-the-client",
+      "workflow-computed-field-lower-price",
+      "workflow-events",
+      "workflow-multiple-sessions"
+    ],
+    "custom-fields-import": [
+      "additional-data"
+    ],
+    "custom-parameters-operation": [
+      "custom-parameters-massive",
+      "какие-бывают-параметры-по-доступности"
+    ],
+    "customer-lifecycle": [
+      "goals",
+      "report-business-metrics",
+      "whats-new"
+    ],
+    "customer-message-statuses": [
+      "edna-pulse",
+      "email-mass",
+      "email-trigger",
+      "filter-clients-mailing",
+      "filter-clients-mailings-open",
+      "frequency-policy",
+      "telegram",
+      "wazzup",
+      "whats-new",
+      "whatsapp",
+      "who-is-the-client",
+      "workflow-events"
+    ],
+    "dashboard-personalization": [
+      "attribution",
+      "goals",
+      "whats-new"
+    ],
+    "deviceuuid": [
+      "blocklist-export-contacts",
+      "blocklist-import-contacts",
+      "blocklist-remove-contacts",
+      "faq-по-вебпушам",
+      "targeting",
+      "tilda-mindbox-integration-gtm",
+      "алгоритм-проверки-интеграции-мобильных-пушеи",
+      "как-происходит-деанонимизация-клиентов",
+      "операции-v-основные-сведения",
+      "почему-не-показывается-попап-встроенныи-блок-виджет"
+    ],
+    "direct-subscription": [
+      "client-subscribe",
+      "subscriptions",
+      "workflow-events",
+      "как-создать-тематику-рассылки"
+    ],
+    "discount-card-types": [
+      "discount-cards-import",
+      "set-retail-integration",
+      "whats-new",
+      "workflow-steps",
+      "интеграция-osmi-cards"
+    ],
+    "discount-cards-import": [
+      "clients-import",
+      "интеграция-osmi-cards"
+    ],
+    "doi-subscription-change": [
+      "direct-subscription",
+      "doi-turn-off",
+      "как-поставить-в-рассылке-ссылку-подтверждения-подписки-на-канал-или-тематику"
+    ],
+    "doi-turn-on": [
+      "branded-unsubscribe-page",
+      "direct-subscription",
+      "email-and-mobile-confirmation",
+      "email-mass",
+      "email-trigger",
+      "how-email-opens-are-tracked",
+      "sms-campaign-automated",
+      "what-is-workflow",
+      "workflow-welcome-double-opt-in",
+      "как-создать-sms-рассылку",
+      "как-создать-и-настроить-точку-интеграции"
+    ],
+    "edit-workflow": [
+      "what-is-workflow",
+      "workflow-client-flow"
+    ],
+    "email-and-mobile-confirmation": [
+      "clients-import",
+      "steps-create-client",
+      "workflow-events",
+      "workflow-steps"
+    ],
+    "email-editor": [
+      "branded-unsubscribe-page",
+      "email-editor-added-products-in-session",
+      "email-editor-address-by-name",
+      "email-editor-computed-field",
+      "email-editor-display-by-segment",
+      "email-editor-product-recommendations",
+      "email-editor-productlistitem",
+      "email-editor-products-from-viewed-categories-in-session",
+      "email-editor-productview",
+      "email-mass",
+      "email-trigger",
+      "gmail-clipping-email",
+      "new-builder-personalize",
+      "new-email-builder-order",
+      "new-email-builder-product-list",
+      "new-email-builder-product-segment",
+      "new-email-builder-recommendations",
+      "new-email-builder-viewed-products-in-session",
+      "whats-new",
+      "workflow-after-travel",
+      "workflow-feedback",
+      "workflow-list-product-custom-field-change",
+      "workflow-next-order",
+      "workflow-order-created",
+      "workflow-product-available",
+      "workflow-product-lower-price",
+      "workflow-product-out-of-stock",
+      "workflow-session",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "как-поставить-в-рассылке-ссылку-отписки-от-канала-или-тематики"
+    ],
+    "email-editor-added-products-in-session": [
+      "whats-new",
+      "workflow-session",
+      "параметры-для-механики-брошенная-корзина"
+    ],
+    "email-editor-address-by-name": [
+      "client-fullname",
+      "new-builder-personalize",
+      "whats-new",
+      "как-обратиться-по-полу-с-использованием-имени-если-оно-есть"
+    ],
+    "email-editor-computed-field": [
+      "computed-fields",
+      "parameters-product-from-computed-field",
+      "whats-new"
+    ],
+    "email-editor-display-by-segment": [
+      "whats-new",
+      "как-вывести-в-письме-блок-информации-в-зависимости-от-наличия-клиента-в-сегменте"
+    ],
+    "email-editor-product-recommendations": [
+      "whats-new",
+      "workflow-list-product-custom-field-change",
+      "workflow-product-available",
+      "workflow-product-lower-price",
+      "workflow-product-out-of-stock",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "как-подставить-рекомендации-в-письмо"
+    ],
+    "email-editor-productlistitem": [
+      "parameters-productlistitem-available",
+      "parameters-productlistitem-price",
+      "whats-new",
+      "workflow-list-product-custom-field-change",
+      "workflow-product-available",
+      "workflow-product-lower-price",
+      "workflow-product-out-of-stock"
+    ],
+    "email-editor-products-from-viewed-categories-in-session": [
+      "parameters-session-productcategoryviews",
+      "whats-new",
+      "workflow-session"
+    ],
+    "email-editor-productview": [
+      "parameters-productview-available",
+      "parameters-productview-price",
+      "whats-new",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down"
+    ],
+    "email-editor-upload-blocks": [
+      "email-editor-upload-blocks-overview"
+    ],
+    "email-mass": [
+      "email-trigger",
+      "referral-code-use-in-register",
+      "как-настроить-nps-опрос",
+      "как-отправить-рассылку-случайным-n-клиентам",
+      "что-входит-в-mindbox"
+    ],
+    "email-not-delivered-reason": [
+      "email-validity",
+      "mailing-not-delivered-checklist",
+      "whats-new"
+    ],
+    "email-trigger": [
+      "email-mass",
+      "email-validity",
+      "email-with-attachment",
+      "game-mechanics-popup",
+      "how-to-create-a-poll",
+      "mailings",
+      "referral-code-use-in-first-order",
+      "workflow-after-travel",
+      "workflow-anniversary",
+      "workflow-birthday",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-computed-field-lower-price",
+      "workflow-feedback",
+      "workflow-list-product-custom-field-change",
+      "workflow-next-order",
+      "workflow-order-created",
+      "workflow-product-available",
+      "workflow-product-expire",
+      "workflow-product-lower-price",
+      "workflow-product-out-of-stock",
+      "workflow-push-cardsmobile",
+      "workflow-reactivate",
+      "workflow-reactivate-open",
+      "workflow-reminder-before-date",
+      "workflow-session",
+      "workflow-steps",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "workflow-welcome",
+      "workflow-welcome-double-opt-in",
+      "как-добавить-кнопку-вызова-попапа-для-механики-сообщить-о-поступлении-товара-в-наличие",
+      "как-добавить-форму-выбор-подарка",
+      "как-настроить-nps-опрос"
+    ],
+    "email-validity": [
+      "email-and-mobile-confirmation",
+      "email-not-delivered-reason"
+    ],
+    "email-with-attachment": [
+      "whats-new"
+    ],
+    "enterprise-security": [
+      "2-step-verification",
+      "billing-recommendations"
+    ],
+    "errormobpush": [
+      "mobile-push-status"
+    ],
+    "event-log": [
+      "doi-turn-off",
+      "issues",
+      "passkey",
+      "whats-new"
+    ],
+    "export-actions": [
+      "filter-clients-register",
+      "как-выгрузить-списки-продуктов"
+    ],
+    "export-balance": [
+      "как-редактировать-баллы-клиентов"
+    ],
+    "export-orders": [
+      "attribution",
+      "filter-orders",
+      "report-discount-promotions"
+    ],
+    "faq-passkey": [
+      "passkey",
+      "whats-new"
+    ],
+    "faq-personalization": [
+      "whats-new"
+    ],
+    "field-validation-rules": [
+      "additional-data",
+      "client-fullname",
+      "email-validity",
+      "как-передать-данные-из-формы-на-проект"
+    ],
+    "filter-campaigns-not-sent-reason": [
+      "workflow-check-subscription"
+    ],
+    "filter-clients-cart": [
+      "whats-new"
+    ],
+    "filter-clients-db": [
+      "filter-clients-register"
+    ],
+    "filter-clients-list-changes": [
+      "personal-list",
+      "whats-new"
+    ],
+    "filter-clients-mailing": [
+      "click-maps",
+      "customer-message-statuses",
+      "email-mass",
+      "email-trigger",
+      "whats-new",
+      "workflow-cascade"
+    ],
+    "filter-clients-mailings-open": [
+      "customer-message-statuses"
+    ],
+    "filter-clients-register": [
+      "filter-clients-db",
+      "steps-create-client",
+      "workflow-welcome"
+    ],
+    "filter-clients-view-product-or-category": [
+      "whats-new"
+    ],
+    "filter-order-prices": [
+      "whats-new"
+    ],
+    "filter-order-users": [
+      "filter-no-order-users",
+      "filter-orders-average",
+      "filter-orders-with-income"
+    ],
+    "filter-orders": [
+      "filter-orders-balance",
+      "what-is-an-order"
+    ],
+    "filter-orders-first-action": [
+      "filter-no-order-users",
+      "filter-order-users",
+      "filter-orders",
+      "filter-orders-promotion",
+      "goals"
+    ],
+    "filter-orders-status": [
+      "filter-no-order-users",
+      "filter-order-users",
+      "filter-orders",
+      "filter-orders-first-action"
+    ],
+    "filters-and": [
+      "filters-begin"
+    ],
+    "filters-begin": [
+      "filters-and",
+      "filters-or",
+      "что-входит-в-mindbox"
+    ],
+    "filters-or": [
+      "filter-orders-status",
+      "filters-begin"
+    ],
+    "filters-plus": [
+      "filters-and",
+      "filters-begin",
+      "filters-or"
+    ],
+    "filters-simplify": [
+      "flow-limits",
+      "segment-client-filter-recalculate",
+      "что-делать-если-не-считается-сегмент"
+    ],
+    "filters-up-to": [
+      "whats-new"
+    ],
+    "flash-call": [
+      "whats-new",
+      "workflow-events"
+    ],
+    "flow-limits": [
+      "whats-new",
+      "workflow-events"
+    ],
+    "flows-dashboard": [
+      "report-business-metrics",
+      "what-is-workflow",
+      "whats-new"
+    ],
+    "folders": [
+      "email-mass",
+      "email-trigger",
+      "filter-clients-mailings-open",
+      "mobilepush-campaign-automated",
+      "shopify-integration",
+      "sms-campaign-automated",
+      "staff-create",
+      "telegram",
+      "viber-campaign-automated",
+      "viber-campaign-mass",
+      "webpush-campaign-automated",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-steps",
+      "как-добавить-кнопку-вызова-попапа-для-механики-сообщить-о-поступлении-товара-в-наличие",
+      "как-создать-sms-рассылку",
+      "почему-sms-ушли-не-всем-получателям",
+      "почему-viber-сообщения-ушли-не-всем-получателям",
+      "почему-количество-получателей-в-рассылке-меньше-чем-в-фильтре",
+      "почему-мобильные-пуши-ушли-не-всем-получателям",
+      "создание-мобильных-пушей",
+      "что-такое-web-пуш-и-как-его-отправить"
+    ],
+    "free-in-app-for-mobile-push": [
+      "whats-new"
+    ],
+    "frequency-policy": [
+      "email-mass",
+      "email-trigger",
+      "mobilepush-campaign-automated",
+      "sms-campaign-automated",
+      "viber-campaign-automated",
+      "viber-campaign-mass",
+      "webpush-campaign-automated",
+      "whats-new",
+      "как-создать-sms-рассылку",
+      "создание-мобильных-пушей",
+      "что-такое-web-пуш-и-как-его-отправить"
+    ],
+    "gift-card-pools-import": [
+      "gift-cards-import",
+      "gift-cards-what-is",
+      "whats-new"
+    ],
+    "gift-cards-import": [
+      "gift-card-pools-import",
+      "gift-cards-what-is"
+    ],
+    "gift-cards-what-is": [
+      "gift-card-pools-import",
+      "gift-cards-import",
+      "whats-new"
+    ],
+    "goals": [
+      "attribution",
+      "flows-dashboard",
+      "mailings-dashboard",
+      "segments-dashboard",
+      "whats-new",
+      "просмотр-статистики-рассылки"
+    ],
+    "how-to-add-payment-type": [
+      "что-входит-в-mindbox"
+    ],
+    "how-to-add-the-status-of-an-order-item": [
+      "filter-orders-status",
+      "goals",
+      "iiko-integration",
+      "set-retail-integration",
+      "shopify-integration",
+      "как-настроить-модуль-bitrix",
+      "что-входит-в-mindbox"
+    ],
+    "how-to-clear-cache": [
+      "how-to-create-survey",
+      "lead‑quiz"
+    ],
+    "how-to-creare-bonus-points-promo": [
+      "personal-offers",
+      "personal-price-mailings",
+      "personal-price-website",
+      "что-входит-в-mindbox"
+    ],
+    "how-to-create-a-discount-promo": [
+      "akciya-1-plyus-1-tretij-v-podarok",
+      "in-app-discount-on-selected-products",
+      "in-app-first-order-promo",
+      "in-app-happy-birthday",
+      "in-app-log-in-promocode",
+      "personal-offers",
+      "personal-price-mailings",
+      "personal-price-website",
+      "promotion-discount-cart",
+      "promotion-rounding",
+      "как-выдать-скидку-на-продукт-за-каждые-n-рублеи-потраченные-на-определенные-продукты",
+      "как-добавить-пул-с-многоразовыми-промокодами-в-акцию",
+      "что-входит-в-mindbox"
+    ],
+    "how-to-create-a-poll": [
+      "how-email-opens-are-tracked",
+      "как-настроить-nps-опрос"
+    ],
+    "how-to-create-ecom-quiz": [
+      "quiz-completion-statistics",
+      "whats-new"
+    ],
+    "how-to-create-survey": [
+      "whats-new"
+    ],
+    "how-to-display-data-as-a-table": [
+      "parameters-category-from-computed-field",
+      "parameters-product-from-computed-field",
+      "parameters-recipient-productviews",
+      "parameters-session-productcategoryviews",
+      "parameters-session-productviews",
+      "как-подставить-рекомендации-в-письмо"
+    ],
+    "how-to-import-feed-by-file": [
+      "whats-new"
+    ],
+    "how-to-unsubscribe": [
+      "click-maps",
+      "customer-message-statuses",
+      "direct-subscription",
+      "filter-clients-mailing",
+      "filter-clients-mailings-open",
+      "mailings-dashboard",
+      "mailings-links",
+      "whats-new",
+      "что-делать-при-падении-open-rate-чек-лист"
+    ],
+    "how-to-use-manual-import-in-campaigns": [
+      "email-mass",
+      "rassylka-otpravilas-pozhe",
+      "viber-campaign-mass",
+      "как-протестировать-рассылку",
+      "как-создать-sms-рассылку",
+      "как-создать-сценарии-или-операцию-с-выдачеи-и-отправкои-промокода",
+      "какие-бывают-параметры-по-доступности",
+      "создание-мобильных-пушей",
+      "что-входит-в-mindbox",
+      "что-такое-web-пуш-и-как-его-отправить"
+    ],
+    "idempotentnost": [
+      "2-этап-изменения-интеграции-заказов-с-процессингом-лояльности",
+      "webhooks",
+      "как-тестировать-запросы-с-помощью-postman"
+    ],
+    "in-app-app-update": [
+      "whats-new",
+      "почему-не-показывается-in-app"
+    ],
+    "in-app-bonuses-expiration": [
+      "whats-new"
+    ],
+    "in-app-complete-your-profile": [
+      "in-app-bonuses-expiration",
+      "whats-new"
+    ],
+    "in-app-event-announcement": [
+      "whats-new"
+    ],
+    "in-app-frequency-control": [
+      "in-app-onboarding",
+      "in-apps",
+      "whats-new",
+      "почему-не-показывается-in-app"
+    ],
+    "in-app-happy-birthday": [
+      "whats-new"
+    ],
+    "in-app-location": [
+      "free-in-app-for-mobile-push",
+      "in-apps",
+      "как-настроить-таргетинг-in-app-по-продукту-или-категории-продуктов"
+    ],
+    "in-app-log-in-promocode": [
+      "whats-new"
+    ],
+    "in-app-onboarding": [
+      "whats-new"
+    ],
+    "in-apps": [
+      "in-app-app-update",
+      "in-app-bonuses-expiration",
+      "in-app-complete-your-profile",
+      "in-app-discount-on-selected-products",
+      "in-app-event-announcement",
+      "in-app-first-order-promo",
+      "in-app-free-delivery",
+      "in-app-happy-birthday",
+      "in-app-location",
+      "in-app-log-in-promocode",
+      "in-app-onboarding",
+      "in-app-proguct-got-cheaper",
+      "whats-new",
+      "как-настроить-таргетинг-in-app-по-продукту-или-категории-продуктов"
+    ],
+    "inline-block": [
+      "personalization-ab-test",
+      "как-вывести-персональныи-промокод-в-форму",
+      "как-добавить-stories-на-саит",
+      "как-добавить-баннеры-на-саит",
+      "как-подставить-имя-в-попап",
+      "форма-для-уведомления-о-бесплатнои-доставке-в-карточках-товара-для-конкретного-региона",
+      "что-входит-в-mindbox"
+    ],
+    "integrations-monitoring": [
+      "whats-new",
+      "операции-v-основные-сведения"
+    ],
+    "ip-list": [
+      "причины-долгои-отправки-рассылок",
+      "что-делать-при-недоставках-на-корпоративные-почты"
+    ],
+    "issues": [
+      "blocklist",
+      "discount-card-types",
+      "event-log",
+      "flow-limits",
+      "issues-types",
+      "recommendations-related",
+      "whats-new",
+      "workflow-schedule"
+    ],
+    "issues-types": [
+      "blocklist",
+      "issues",
+      "workflow-limit",
+      "yml-import",
+      "как-подключить-sms-рассылки"
+    ],
+    "loyalty-program-report": [
+      "whats-new"
+    ],
+    "mailing-not-delivered-checklist": [
+      "что-делать-при-падении-open-rate-чек-лист"
+    ],
+    "mailings": [
+      "filter-clients-mailings-open",
+      "что-входит-в-mindbox"
+    ],
+    "mailings-dashboard": [
+      "attribution",
+      "email-mass",
+      "email-trigger",
+      "goals",
+      "mailing-not-delivered-checklist",
+      "report-business-metrics",
+      "как-работает-автоудаление",
+      "какие-показатели-email-рассылок-влияют-на-доставляемость",
+      "что-делать-при-падении-open-rate-чек-лист",
+      "что-такое-доставляемость"
+    ],
+    "mailings-links": [
+      "whats-new"
+    ],
+    "mailings-test-mode": [
+      "email-trigger",
+      "mobilepush-campaign-automated",
+      "sms-campaign-automated",
+      "viber-campaign-automated",
+      "webpush-campaign-automated",
+      "whats-new",
+      "workflow-test-mode",
+      "как-добавить-попап-брошенная-корзинаброшенныи-просмотр",
+      "как-подключить-sms-рассылки",
+      "как-подключить-viber-рассылки",
+      "как-протестировать-рассылку",
+      "что-такое-web-пуш-и-как-его-отправить"
+    ],
+    "media-audiences": [
+      "media-what-is"
+    ],
+    "media-leads": [
+      "media-what-is"
+    ],
+    "media-what-is": [
+      "media-audiences",
+      "media-leads",
+      "whats-new"
+    ],
+    "mindbox-jivosite-intergration-via-albato": [
+      "whats-new"
+    ],
+    "mindbox-popup-blocks-intergration-with-sendsay": [
+      "whats-new"
+    ],
+    "mobilepush-campaign-automated": [
+      "workflow-after-travel",
+      "workflow-anniversary",
+      "workflow-birthday",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-computed-field-lower-price",
+      "workflow-feedback",
+      "workflow-list-product-custom-field-change",
+      "workflow-next-order",
+      "workflow-order-created",
+      "workflow-product-available",
+      "workflow-product-expire",
+      "workflow-product-lower-price",
+      "workflow-product-out-of-stock",
+      "workflow-reactivate",
+      "workflow-reminder-before-date",
+      "workflow-session",
+      "workflow-steps",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "workflow-welcome"
+    ],
+    "multibranches": [
+      "game-mechanics-popup",
+      "workflow-conditions"
+    ],
+    "multibrand": [
+      "attribution",
+      "customer-lifecycle",
+      "doi-turn-off",
+      "email-mass",
+      "email-trigger",
+      "mobilepush-campaign-automated",
+      "recommendation",
+      "recommendations-bestsellers",
+      "recommendations-related",
+      "recommendations-similar",
+      "regional-yml-import",
+      "report-business-metrics",
+      "segments-dashboard",
+      "sms-campaign-automated",
+      "staff-create",
+      "telegram",
+      "utm-tags",
+      "viber-campaign-automated",
+      "viber-campaign-mass",
+      "wazzup",
+      "webpush-campaign-automated",
+      "whats-new",
+      "whatsapp",
+      "who-is-the-client",
+      "workflow-client-flow",
+      "yml-import",
+      "как-создать-sms-рассылку",
+      "отчет-здоровье-email",
+      "создание-мобильных-пушей",
+      "что-такое-web-пуш-и-как-его-отправить"
+    ],
+    "new-builder-personalize": [
+      "email-editor-address-by-name",
+      "workflow-welcome",
+      "workflow-welcome-double-opt-in",
+      "что-такое-шаблонизатор"
+    ],
+    "new-email-builder-order": [
+      "new-builder-personalize",
+      "whats-new",
+      "workflow-after-travel",
+      "workflow-feedback",
+      "workflow-order-created",
+      "параметры-для-рассылки-заказ-оформлен"
+    ],
+    "new-email-builder-product-list": [
+      "new-builder-personalize",
+      "параметры-для-вывода-товаров-из-списка-продуктов"
+    ],
+    "new-email-builder-product-segment": [
+      "new-builder-personalize",
+      "whats-new",
+      "как-вывести-поле-товара-из-сегмента"
+    ],
+    "new-email-builder-recommendations": [
+      "new-builder-personalize",
+      "new-email-builder-curated-products",
+      "recommendation",
+      "whats-new",
+      "workflow-birthday",
+      "workflow-list-product-custom-field-change",
+      "workflow-multiple-sessions",
+      "workflow-next-order",
+      "workflow-product-available",
+      "workflow-product-lower-price",
+      "workflow-reactivate",
+      "workflow-session",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "workflow-welcome",
+      "workflow-welcome-double-opt-in",
+      "как-подставить-рекомендации-в-письмо"
+    ],
+    "new-email-builder-viewed-products-in-session": [
+      "new-builder-personalize",
+      "parameters-session-productviews",
+      "whats-new",
+      "workflow-session"
+    ],
+    "notification-center": [
+      "whats-new"
+    ],
+    "notifications-and-messangers": [
+      "shorten-url-sms"
+    ],
+    "operation-logs": [
+      "integrations-monitoring",
+      "whats-new",
+      "yandex-forms-integration",
+      "как-создать-тематику-рассылки",
+      "как-тестировать-запросы-с-помощью-postman",
+      "операции-v-основные-сведения"
+    ],
+    "own-permissions-and-groups": [
+      "event-log",
+      "staff-add-permissions-and-groups"
+    ],
+    "parameters-category-from-computed-field": [
+      "computed-fields",
+      "whats-new",
+      "workflow-birthday",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-multiple-sessions",
+      "workflow-reactivate"
+    ],
+    "parameters-customfield-computed-field-price": [
+      "computed-fields",
+      "workflow-computed-field-lower-price"
+    ],
+    "parameters-enum": [
+      "whats-new"
+    ],
+    "parameters-order-balance-earned": [
+      "whats-new"
+    ],
+    "parameters-product-from-computed-field": [
+      "computed-fields",
+      "email-editor-computed-field",
+      "whats-new",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-multiple-sessions"
+    ],
+    "parameters-productlistitem-available": [
+      "workflow-list-product-custom-field-change",
+      "workflow-product-out-of-stock"
+    ],
+    "parameters-productlistitem-price": [
+      "email-editor-productlistitem",
+      "workflow-product-available",
+      "workflow-product-lower-price"
+    ],
+    "parameters-products-by-computed-field": [
+      "whats-new",
+      "workflow-birthday",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-next-order",
+      "workflow-reactivate"
+    ],
+    "parameters-productview-available": [
+      "workflow-viewed-product-available"
+    ],
+    "parameters-productview-price": [
+      "email-editor-productview",
+      "workflow-viewed-product-price-down"
+    ],
+    "parameters-recipient-productviews": [
+      "parameters-session-productviews",
+      "whats-new",
+      "как-добавить-попап-брошенная-корзинаброшенныи-просмотр"
+    ],
+    "parameters-session-productcategoryviews": [
+      "email-editor-products-from-viewed-categories-in-session",
+      "whats-new",
+      "workflow-session"
+    ],
+    "parameters-session-productviews": [
+      "new-email-builder-viewed-products-in-session",
+      "parameters-recipient-productviews",
+      "whats-new",
+      "workflow-session"
+    ],
+    "parametry-bally-dostupny": [
+      "workflow-bonus-available"
+    ],
+    "parametry-bally-sgoryat": [
+      "workflow-bonus-expire"
+    ],
+    "passkey": [
+      "faq-passkey",
+      "whats-new"
+    ],
+    "permissions": [
+      "passkey",
+      "staff-add-permissions-and-groups",
+      "staff-create",
+      "staff-group-create",
+      "staff-import",
+      "system-staff-groups",
+      "webhooks",
+      "whats-new",
+      "yml-import",
+      "как-работает-автоудаление"
+    ],
+    "personal-list": [
+      "filter-clients-cart",
+      "filter-clients-list-changes",
+      "new-email-builder-product-list",
+      "product-list-history-export",
+      "product-lists-edit",
+      "shopify-integration",
+      "who-is-the-client",
+      "workflow-events",
+      "workflow-list-product-custom-field-change",
+      "workflow-product-available",
+      "workflow-product-lower-price",
+      "workflow-steps",
+      "как-выгрузить-списки-продуктов",
+      "как-добавить-кнопку-вызова-попапа-для-механики-сообщить-о-поступлении-товара-в-наличие",
+      "что-входит-в-mindbox"
+    ],
+    "personal-offers": [
+      "personal-offers-variables",
+      "product-categories-delete-bulk",
+      "whats-new"
+    ],
+    "personal-offers-variables": [
+      "whats-new"
+    ],
+    "personal-price-mailings": [
+      "personal-price-website",
+      "whats-new"
+    ],
+    "personal-price-website": [
+      "personal-price-mailings",
+      "promotion-rounding",
+      "whats-new"
+    ],
+    "personalisation": [
+      "parameters-category-from-computed-field",
+      "parameters-product-from-computed-field"
+    ],
+    "personalization-ab-test": [
+      "ab-test-google-optimize",
+      "ab-test-segment",
+      "what-is-ab-test",
+      "whats-new"
+    ],
+    "personalization-report": [
+      "whats-new"
+    ],
+    "point-of-contact-add": [
+      "clients-import",
+      "clients-subscribe",
+      "goals",
+      "multibranches",
+      "product-lists-edit",
+      "как-массово-импортировать-действия-по-файлу",
+      "как-создать-и-настроить-точку-интеграции",
+      "что-входит-в-mindbox"
+    ],
+    "pop-up-fadeIn": [
+      "whats-new"
+    ],
+    "pop-up-promo-code-from-message": [
+      "whats-new"
+    ],
+    "pop-up-with-video": [
+      "popup-markdown-how-to",
+      "whats-new"
+    ],
+    "popup-button": [
+      "добавьте-еще-товаров-в-корзину-на-н-рублеи-и-получите-скидку",
+      "как-создать-форму-которая-сворачивается-в-кнопку-с-пользовательскои-версткои"
+    ],
+    "popup-input": [
+      "popup-markdown-how-to"
+    ],
+    "popup-markdown-contacts": [
+      "popup-markdown-how-to",
+      "popup-markdown-inform",
+      "popup-template-create"
+    ],
+    "popup-markdown-how-to": [
+      "popup-customize",
+      "popup-markdown-contacts",
+      "popup-markdown-inform",
+      "popup-markdown-screens"
+    ],
+    "popup-markdown-inform": [
+      "personalization-report",
+      "popup-markdown-contacts",
+      "popup-markdown-how-to",
+      "popup-template-create"
+    ],
+    "popup-markdown-screens": [
+      "popup-markdown-contacts",
+      "popup-markdown-inform",
+      "popup-template-create"
+    ],
+    "product": [
+      "filter-clients-list-changes",
+      "filter-clients-view-product-or-category",
+      "filter-order-users",
+      "parameters-productlistitem-available",
+      "parameters-productlistitem-price",
+      "parameters-productview-available",
+      "parameters-productview-price",
+      "что-входит-в-mindbox"
+    ],
+    "product-add": [
+      "product",
+      "как-подставить-в-рассылку-повторяющиися-баннер"
+    ],
+    "product-categories-export": [
+      "product-categories-delete-bulk"
+    ],
+    "product-list-history-export": [
+      "whats-new"
+    ],
+    "product-lists-edit": [
+      "template-add-delete-product-lists"
+    ],
+    "product-segmentations-events": [
+      "whats-new",
+      "как-создать-пересчитываемыи-сегмент-по-продуктам"
+    ],
+    "products-delete-bulk": [
+      "product-categories-delete-bulk"
+    ],
+    "products-import": [
+      "product",
+      "product-add",
+      "products-unknown",
+      "yml-import"
+    ],
+    "products-import-regional-data": [
+      "product-segmentations-events"
+    ],
+    "project-settings": [
+      "attribution",
+      "email-mass",
+      "email-trigger",
+      "mobilepush-campaign-automated",
+      "sms-campaign-automated",
+      "viber-campaign-automated",
+      "viber-campaign-mass",
+      "webpush-campaign-automated",
+      "workflow-schedule",
+      "как-создать-sms-рассылку",
+      "создание-мобильных-пушей",
+      "что-такое-web-пуш-и-как-его-отправить"
+    ],
+    "promotion-rules": [
+      "how-to-creare-bonus-points-promo",
+      "how-to-create-a-discount-promo",
+      "что-такое-внешние-промоакции"
+    ],
+    "promotions-limits": [
+      "skidka-na-n-produktov-za-n-produktov",
+      "как-вывести-остаток-по-лимиту-акции-в-рассылке"
+    ],
+    "recommendation": [
+      "recommendations-bestsellers",
+      "recommendations-similar"
+    ],
+    "recommendation-algorithms": [
+      "ab-tests-mailings",
+      "email-editor-product-recommendations",
+      "faq-recommendation",
+      "new-email-builder-recommendations",
+      "personalisation",
+      "recommendation",
+      "recommendation-widget-create",
+      "workflow-welcome",
+      "workflow-welcome-double-opt-in",
+      "как-настроить-контрольную-группу-и-аб-тестирование-в-рассылке",
+      "что-входит-в-mindbox"
+    ],
+    "recommendation-widget-create": [
+      "faq-recommendation",
+      "personalization-ab-test",
+      "recommendation",
+      "как-настроить-группировку-продуктов-в-виджете",
+      "что-входит-в-mindbox"
+    ],
+    "recommendations-bestsellers": [
+      "faq-recommendation",
+      "parameters-session-productcategoryviews",
+      "recommendation",
+      "recommendations-related",
+      "workflow-anniversary",
+      "workflow-birthday",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-multiple-sessions",
+      "workflow-next-order",
+      "workflow-reactivate",
+      "workflow-session",
+      "workflow-welcome",
+      "workflow-welcome-double-opt-in",
+      "что-входит-в-mindbox"
+    ],
+    "recommendations-custom": [
+      "faq-recommendation",
+      "recommendation",
+      "workflow-next-order",
+      "что-входит-в-mindbox"
+    ],
+    "recommendations-personal": [
+      "faq-recommendation",
+      "workflow-birthday",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-list-product-custom-field-change",
+      "workflow-multiple-sessions",
+      "workflow-next-order",
+      "workflow-product-available",
+      "workflow-product-lower-price",
+      "workflow-reactivate",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down"
+    ],
+    "recommendations-related": [
+      "faq-recommendation",
+      "recommendation",
+      "workflow-computed-field-lower-price",
+      "workflow-list-product-custom-field-change",
+      "workflow-next-order",
+      "workflow-product-available",
+      "workflow-product-lower-price",
+      "workflow-session",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "что-входит-в-mindbox"
+    ],
+    "recommendations-similar": [
+      "faq-recommendation",
+      "recommendation",
+      "workflow-computed-field-lower-price",
+      "workflow-product-expire",
+      "workflow-product-out-of-stock",
+      "workflow-session",
+      "что-входит-в-mindbox"
+    ],
+    "referral-code-use-in-first-order": [
+      "whats-new",
+      "как-добавить-промокоды-в-проект"
+    ],
+    "referral-code-use-in-register": [
+      "whats-new"
+    ],
+    "regional-yml-import": [
+      "how-to-import-feed-by-file",
+      "workflow-events",
+      "workflow-product-available",
+      "workflow-product-lower-price",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "yml-import",
+      "что-входит-в-mindbox"
+    ],
+    "report-business-metrics": [
+      "attribution",
+      "customer-lifecycle",
+      "goals",
+      "segments-dashboard",
+      "whats-new"
+    ],
+    "report-discount-promotions": [
+      "whats-new"
+    ],
+    "report-in-apps": [
+      "in-app-app-update",
+      "in-app-bonuses-expiration",
+      "in-app-complete-your-profile",
+      "in-app-discount-on-selected-products",
+      "in-app-event-announcement",
+      "in-app-first-order-promo",
+      "in-app-free-delivery",
+      "in-app-happy-birthday",
+      "in-app-log-in-promocode",
+      "in-app-onboarding",
+      "in-app-proguct-got-cheaper",
+      "whats-new"
+    ],
+    "reports-billing": [
+      "billing-recommendations",
+      "whats-new"
+    ],
+    "return-path": [
+      "return-path-verification"
+    ],
+    "return-path-verification": [
+      "return-path"
+    ],
+    "rustore": [
+      "whats-new"
+    ],
+    "segment-actions": [
+      "parameters-orders-segment"
+    ],
+    "segment-client-filter-edit-delete": [
+      "как-работает-rfm-сегментирование"
+    ],
+    "segment-client-filter-realtime": [
+      "in-app-app-update",
+      "in-app-complete-your-profile",
+      "in-app-first-order-promo",
+      "in-app-log-in-promocode",
+      "добавьте-еще-товаров-в-корзину-на-н-рублеи-и-получите-скидку",
+      "простая-форма-подписки"
+    ],
+    "segment-client-filter-recalculate": [
+      "free-in-app-for-mobile-push",
+      "how-to-create-ecom-quiz",
+      "how-to-create-survey",
+      "in-app-bonuses-expiration",
+      "in-apps",
+      "lead‑quiz",
+      "multibranches",
+      "segment-realtime-to-recalculated",
+      "segments-clients",
+      "targeting",
+      "workflow-events",
+      "как-создать-поп-ап",
+      "неактивные-подписчики"
+    ],
+    "segment-client-static": [
+      "free-in-app-for-mobile-push",
+      "how-to-create-ecom-quiz",
+      "how-to-create-survey",
+      "in-app-bonuses-expiration",
+      "in-app-happy-birthday",
+      "in-app-proguct-got-cheaper",
+      "in-apps",
+      "lead‑quiz",
+      "segmel-integration",
+      "targeting",
+      "workflow-events",
+      "workflow-report",
+      "workflow-steps",
+      "как-импортировать-клиентов-в-статический-сегмент"
+    ],
+    "segment-delete": [
+      "segment-client-filter-edit-delete",
+      "whats-new"
+    ],
+    "segment-realtime-to-recalculated": [
+      "segments-clients"
+    ],
+    "segments-autostop": [
+      "segment-client-filter-recalculate",
+      "whats-new",
+      "как-создать-пересчитываемыи-сегмент-по-продуктам"
+    ],
+    "segments-clients": [
+      "ab-test-segment",
+      "clients-import",
+      "clients-import-edit",
+      "clients-subscribe",
+      "email-mass",
+      "frequency-policy",
+      "media-audiences",
+      "segment-client-filter-realtime",
+      "segment-client-filter-recalculate",
+      "segment-client-static",
+      "viber-campaign-mass",
+      "who-is-the-client",
+      "как-создать-sms-рассылку",
+      "создание-мобильных-пушей",
+      "что-входит-в-mindbox",
+      "что-делать-если-не-считается-сегмент",
+      "что-такое-web-пуш-и-как-его-отправить"
+    ],
+    "segments-dashboard": [
+      "report-business-metrics"
+    ],
+    "segments-products": [
+      "new-email-builder-product-segment",
+      "skidka-na-n-produktov-za-n-produktov",
+      "workflow-conditions",
+      "как-создать-пересчитываемыи-сегмент-по-продуктам",
+      "как-создать-сегмент-по-продуктам-из-фильтра",
+      "как-создать-статический-сегмент-по-продуктам",
+      "что-входит-в-mindbox"
+    ],
+    "send-leads-from-mindbox-via-albato": [
+      "whats-new"
+    ],
+    "set-up-google-forms-integration": [
+      "как-настроить-nps-опрос"
+    ],
+    "shopify-integration": [
+      "whats-new"
+    ],
+    "shorten-url-sms": [
+      "attribution",
+      "edna-pulse",
+      "notifications-and-messangers",
+      "sms-campaign-automated",
+      "wazzup",
+      "как-создать-sms-рассылку"
+    ],
+    "single-sign-on": [
+      "enterprise-security",
+      "passkey",
+      "whats-new"
+    ],
+    "skidka-na-n-produktov-za-n-produktov": [
+      "whats-new"
+    ],
+    "sms-campaign-automated": [
+      "flash-call",
+      "iiko-integration",
+      "set-retail-integration",
+      "workflow-after-travel",
+      "workflow-anniversary",
+      "workflow-birthday",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-computed-field-lower-price",
+      "workflow-feedback",
+      "workflow-list-product-custom-field-change",
+      "workflow-next-order",
+      "workflow-order-created",
+      "workflow-product-available",
+      "workflow-product-expire",
+      "workflow-product-lower-price",
+      "workflow-product-out-of-stock",
+      "workflow-reactivate",
+      "workflow-reminder-before-date",
+      "workflow-session",
+      "workflow-steps",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "workflow-welcome",
+      "интеграция-frontol",
+      "как-создать-sms-рассылку",
+      "создание-мобильных-пушей"
+    ],
+    "split-and-spread": [
+      "promotion-rounding",
+      "whats-new"
+    ],
+    "staff-add-permissions-and-groups": [
+      "2-step-verification",
+      "email-with-attachment",
+      "enterprise-security",
+      "passkey",
+      "system-staff-groups"
+    ],
+    "staff-create": [
+      "event-log",
+      "passkey",
+      "single-sign-on"
+    ],
+    "staff-group-create": [
+      "staff-add-permissions-and-groups",
+      "staff-create",
+      "staff-import",
+      "system-staff-groups"
+    ],
+    "staff-import": [
+      "single-sign-on",
+      "staff-group-create"
+    ],
+    "staff-session": [
+      "single-sign-on",
+      "whats-new"
+    ],
+    "standard-export-clients": [
+      "clients-subscribe",
+      "referral-code-use-in-register",
+      "как-отправить-рассылку-случайным-n-клиентам"
+    ],
+    "steps-create-client": [
+      "media-leads",
+      "steps-edit-client",
+      "workflow-events",
+      "workflow-welcome",
+      "workflow-welcome-double-opt-in",
+      "yandex-forms-integration",
+      "какие-есть-деиствия-после-заполнения-формы"
+    ],
+    "steps-edit-client": [
+      "whats-new",
+      "yandex-forms-integration",
+      "какие-есть-деиствия-после-заполнения-формы"
+    ],
+    "subscriptions": [
+      "clients-import",
+      "email-and-mobile-confirmation",
+      "who-is-the-client",
+      "workflow-steps",
+      "workflow-welcome-double-opt-in",
+      "различия-между-подпискои-на-канал-и-разрешением-на-уведомления"
+    ],
+    "system-staff-groups": [
+      "ai-assistant",
+      "own-permissions-and-groups",
+      "passkey",
+      "single-sign-on",
+      "staff-add-permissions-and-groups",
+      "staff-create",
+      "staff-import"
+    ],
+    "tag": [
+      "email-mass",
+      "email-trigger",
+      "filter-clients-mailings-open",
+      "mobilepush-campaign-automated",
+      "sms-campaign-automated",
+      "viber-campaign-automated",
+      "viber-campaign-mass",
+      "webpush-campaign-automated",
+      "как-создать-sms-рассылку",
+      "создание-мобильных-пушей",
+      "что-такое-web-пуш-и-как-его-отправить"
+    ],
+    "targeting": [
+      "how-to-create-survey",
+      "inline-block",
+      "recommendation-widget-create",
+      "как-создать-поп-ап",
+      "почему-не-показывается-попап-встроенныи-блок-виджет"
+    ],
+    "telegram": [
+      "whats-new"
+    ],
+    "template-action": [
+      "set-up-google-forms-integration",
+      "tilda-mindbox-integration-gtm",
+      "workflow-steps",
+      "yandex-forms-integration"
+    ],
+    "template-create": [
+      "action",
+      "balance-change-bulk",
+      "balance-reset-bulk",
+      "clients-import",
+      "clients-import-edit",
+      "clients-subscribe",
+      "in-app-complete-your-profile",
+      "in-app-log-in-promocode",
+      "integration-mindbox-textback",
+      "multibranches",
+      "template-action",
+      "template-add-delete-product-lists",
+      "template-delete-client",
+      "template-view-product",
+      "what-is-workflow",
+      "интеграция-osmi-cards",
+      "как-массово-импортировать-действия-по-файлу",
+      "как-настроить-nps-опрос",
+      "что-входит-в-mindbox"
+    ],
+    "template-permission-mobilepush": [
+      "faq",
+      "free-in-app-for-mobile-push",
+      "report-in-apps",
+      "whats-new"
+    ],
+    "tilda-mindbox-integration-gtm": [
+      "whats-new"
+    ],
+    "unique-links": [
+      "deeplinks",
+      "whats-new"
+    ],
+    "users-export": [
+      "standard-export-clients",
+      "как-отправить-рассылку-случайным-n-клиентам"
+    ],
+    "utm-tags": [
+      "notifications-and-messangers",
+      "whats-new"
+    ],
+    "viber-campaign-automated": [
+      "viber-campaign-mass",
+      "workflow-after-travel",
+      "workflow-anniversary",
+      "workflow-birthday",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-computed-field-lower-price",
+      "workflow-feedback",
+      "workflow-list-product-custom-field-change",
+      "workflow-next-order",
+      "workflow-order-created",
+      "workflow-product-available",
+      "workflow-product-expire",
+      "workflow-product-lower-price",
+      "workflow-product-out-of-stock",
+      "workflow-reactivate",
+      "workflow-reminder-before-date",
+      "workflow-session",
+      "workflow-steps",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "workflow-welcome"
+    ],
+    "wazzup": [
+      "whats-new"
+    ],
+    "webhook-logs": [
+      "integrations-monitoring",
+      "whats-new"
+    ],
+    "webhooks": [
+      "chat2desk-integration",
+      "flash-call",
+      "integration-mindbox-textback",
+      "mindbox-popup-blocks-intergration-with-sendsay",
+      "whats-new",
+      "workflow-steps",
+      "workflows-webhook-responses",
+      "интеграция-osmi-cards",
+      "интеграция-с-passteam",
+      "как-отправить-пуш-в-приложение-кошелек"
+    ],
+    "webpush-campaign-automated": [
+      "workflow-after-travel",
+      "workflow-anniversary",
+      "workflow-birthday",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-computed-field-lower-price",
+      "workflow-feedback",
+      "workflow-list-product-custom-field-change",
+      "workflow-next-order",
+      "workflow-order-created",
+      "workflow-product-available",
+      "workflow-product-expire",
+      "workflow-product-lower-price",
+      "workflow-product-out-of-stock",
+      "workflow-reactivate",
+      "workflow-reminder-before-date",
+      "workflow-session",
+      "workflow-steps",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "workflow-welcome",
+      "что-такое-web-пуш-и-как-его-отправить"
+    ],
+    "what-is-ab-test": [
+      "ab-test-segment",
+      "ab-test-website",
+      "ab-tests-mailings",
+      "customer-lifecycle",
+      "email-mass",
+      "personalization-ab-test",
+      "viber-campaign-mass",
+      "whats-new",
+      "workflow-ab-tests",
+      "как-создать-sms-рассылку",
+      "создание-мобильных-пушей",
+      "что-такое-web-пуш-и-как-его-отправить"
+    ],
+    "what-is-an-order": [
+      "filter-no-order-users",
+      "filter-order-users",
+      "filter-orders",
+      "filter-orders-first-action",
+      "filter-orders-status",
+      "параметры-для-механики-продукт-из-заказа-скоро-закончится",
+      "что-входит-в-mindbox"
+    ],
+    "what-is-workflow": [
+      "chat2desk-integration",
+      "direct-subscription",
+      "doi-subscription-change",
+      "doi-turn-on",
+      "email-and-mobile-confirmation",
+      "faq-recommendation",
+      "free-in-app-for-mobile-push",
+      "iiko-integration",
+      "in-app-complete-your-profile",
+      "integration-mindbox-textback",
+      "mindbox-popup-blocks-intergration-with-sendsay",
+      "segments-clients",
+      "set-retail-integration",
+      "webhooks",
+      "whats-new",
+      "workflow-ab-tests",
+      "workflow-after-travel",
+      "workflow-anniversary",
+      "workflow-birthday",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-computed-field-lower-price",
+      "workflow-conditions",
+      "workflow-delay",
+      "workflow-delete-version",
+      "workflow-events",
+      "workflow-events-before-launch",
+      "workflow-feedback",
+      "workflow-list-product-custom-field-change",
+      "workflow-next-order",
+      "workflow-order-created",
+      "workflow-product-available",
+      "workflow-product-expire",
+      "workflow-product-lower-price",
+      "workflow-product-out-of-stock",
+      "workflow-push-cardsmobile",
+      "workflow-reactivate",
+      "workflow-reactivate-open",
+      "workflow-reminder-before-date",
+      "workflow-report",
+      "workflow-schedule",
+      "workflow-session",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "workflow-welcome",
+      "workflow-welcome-double-opt-in",
+      "workflows-webhook-responses",
+      "интеграция-osmi-cards",
+      "интеграция-с-passteam",
+      "как-добавить-попап-брошенная-корзинаброшенныи-просмотр",
+      "как-добавить-форму-выбор-подарка",
+      "как-запустить-первую-механику-отправки-приветственного-пуша-сразу-после-подписки",
+      "как-настроить-nps-опрос",
+      "как-отправить-пуш-в-приложение-кошелек",
+      "какие-есть-деиствия-после-заполнения-формы",
+      "что-входит-в-mindbox",
+      "что-делать-если-клиент-не-видит-письмо-у-себя-в-почте"
+    ],
+    "whatsapp": [
+      "whats-new"
+    ],
+    "who-is-the-client": [
+      "email-and-mobile-confirmation",
+      "что-входит-в-mindbox",
+      "что-делать-если-клиент-не-видит-письмо-у-себя-в-почте"
+    ],
+    "workflow-ab-tests": [
+      "ab-test-segment",
+      "how-email-opens-are-tracked",
+      "what-is-ab-test",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-flow-splitter"
+    ],
+    "workflow-after-travel": [
+      "whats-new",
+      "workflow-delay",
+      "workflow-events",
+      "workflow-reminder-before-date"
+    ],
+    "workflow-anniversary": [
+      "workflow-schedule"
+    ],
+    "workflow-birthday": [
+      "customer-lifecycle",
+      "workflow-schedule"
+    ],
+    "workflow-bonus-available": [
+      "parametry-bally-dostupny",
+      "whats-new",
+      "workflow-events"
+    ],
+    "workflow-bonus-expire": [
+      "parametry-bally-sgoryat",
+      "whats-new",
+      "workflow-delay",
+      "workflow-events",
+      "workflow-limit-per-customer"
+    ],
+    "workflow-cascade": [
+      "customer-lifecycle"
+    ],
+    "workflow-check-subscription": [
+      "email-validity",
+      "mobile-push-status",
+      "whats-new",
+      "workflow-ab-tests",
+      "workflow-after-travel",
+      "workflow-anniversary",
+      "workflow-birthday",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-cascade",
+      "workflow-computed-field-lower-price",
+      "workflow-events",
+      "workflow-events-before-launch",
+      "workflow-feedback",
+      "workflow-list-product-custom-field-change",
+      "workflow-next-order",
+      "workflow-product-available",
+      "workflow-product-expire",
+      "workflow-product-lower-price",
+      "workflow-product-out-of-stock",
+      "workflow-reactivate",
+      "workflow-reactivate-open",
+      "workflow-reminder-before-date",
+      "workflow-session",
+      "workflow-steps",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "workflow-welcome",
+      "как-запустить-первую-механику-отправки-приветственного-пуша-сразу-после-подписки"
+    ],
+    "workflow-client-flow": [
+      "flow-limits",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-events",
+      "workflow-events-before-launch",
+      "workflow-limit",
+      "workflow-report"
+    ],
+    "workflow-computed-field-lower-price": [
+      "computed-fields",
+      "parameters-customfield-computed-field-price",
+      "whats-new",
+      "workflow-events"
+    ],
+    "workflow-conditions": [
+      "integration-mindbox-textback",
+      "multibranches",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-after-travel",
+      "workflow-check-subscription",
+      "workflow-client-flow",
+      "workflow-delete-version",
+      "workflow-events",
+      "workflow-next-order",
+      "workflow-order-created"
+    ],
+    "workflow-delay": [
+      "in-app-bonuses-expiration",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-after-travel",
+      "workflow-bonus-expire",
+      "workflow-client-flow",
+      "workflow-events",
+      "workflow-feedback",
+      "workflow-next-order",
+      "workflow-product-expire",
+      "workflow-reminder-before-date",
+      "workflow-steps",
+      "workflow-transactional"
+    ],
+    "workflow-events": [
+      "computed-fields",
+      "doi-turn-on",
+      "email-and-mobile-confirmation",
+      "flash-call",
+      "flow-limits",
+      "in-app-bonuses-expiration",
+      "in-app-complete-your-profile",
+      "in-app-proguct-got-cheaper",
+      "parameters-productlistitem-available",
+      "parameters-productlistitem-price",
+      "parameters-productview-available",
+      "parameters-productview-price",
+      "segment-client-filter-recalculate",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-after-travel",
+      "workflow-bonus-available",
+      "workflow-bonus-expire",
+      "workflow-client-flow",
+      "workflow-computed-field-lower-price",
+      "workflow-conditions",
+      "workflow-delay",
+      "workflow-feedback",
+      "workflow-limit-per-customer",
+      "workflow-list-product-custom-field-change",
+      "workflow-next-order",
+      "workflow-order-created",
+      "workflow-product-available",
+      "workflow-product-expire",
+      "workflow-product-lower-price",
+      "workflow-product-out-of-stock",
+      "workflow-reminder-before-date",
+      "workflow-schedule",
+      "workflow-session",
+      "workflow-steps",
+      "workflow-test-mode",
+      "workflow-transactional",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "workflow-welcome",
+      "workflow-welcome-double-opt-in",
+      "как-запустить-первую-механику-отправки-приветственного-пуша-сразу-после-подписки"
+    ],
+    "workflow-feedback": [
+      "customer-lifecycle",
+      "what-is-workflow",
+      "workflow-after-travel",
+      "workflow-events",
+      "workflow-next-order",
+      "workflow-product-expire"
+    ],
+    "workflow-flow-splitter": [
+      "what-is-workflow"
+    ],
+    "workflow-limit": [
+      "what-is-workflow",
+      "whats-new",
+      "workflow-client-flow",
+      "workflow-report"
+    ],
+    "workflow-limit-per-customer": [
+      "in-app-proguct-got-cheaper",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-after-travel",
+      "workflow-anniversary",
+      "workflow-birthday",
+      "workflow-client-flow",
+      "workflow-computed-field-lower-price",
+      "workflow-feedback",
+      "workflow-flow-splitter",
+      "workflow-limit",
+      "workflow-list-product-custom-field-change",
+      "workflow-next-order",
+      "workflow-product-available",
+      "workflow-product-expire",
+      "workflow-product-lower-price",
+      "workflow-product-out-of-stock",
+      "workflow-reactivate",
+      "workflow-reactivate-open",
+      "workflow-report",
+      "workflow-schedule",
+      "workflow-session",
+      "workflow-viewed-product-available",
+      "workflow-viewed-product-price-down",
+      "workflow-welcome",
+      "workflow-welcome-double-opt-in",
+      "интеграция-osmi-cards",
+      "интеграция-с-passteam",
+      "как-добавить-попап-брошенная-корзинаброшенныи-просмотр"
+    ],
+    "workflow-list-product-custom-field-change": [
+      "what-is-workflow",
+      "whats-new",
+      "workflow-events"
+    ],
+    "workflow-next-order": [
+      "customer-lifecycle",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-events"
+    ],
+    "workflow-order-created": [
+      "what-is-workflow",
+      "whats-new",
+      "workflow-events"
+    ],
+    "workflow-product-available": [
+      "what-is-workflow",
+      "whats-new",
+      "workflow-events",
+      "workflow-viewed-product-available",
+      "как-добавить-кнопку-вызова-попапа-для-механики-сообщить-о-поступлении-товара-в-наличие"
+    ],
+    "workflow-product-expire": [
+      "customer-lifecycle",
+      "what-is-workflow",
+      "workflow-delay",
+      "workflow-events",
+      "workflow-next-order"
+    ],
+    "workflow-product-lower-price": [
+      "filter-clients-cart",
+      "personal-list",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-computed-field-lower-price",
+      "workflow-events",
+      "workflow-viewed-product-price-down"
+    ],
+    "workflow-product-out-of-stock": [
+      "what-is-workflow",
+      "whats-new"
+    ],
+    "workflow-push-cardsmobile": [
+      "как-отправить-пуш-в-приложение-кошелек"
+    ],
+    "workflow-reactivate": [
+      "report-business-metrics",
+      "segments-dashboard",
+      "what-is-workflow",
+      "workflow-schedule",
+      "что-делать-при-низком-проценте-открытии-email-рассылок"
+    ],
+    "workflow-reactivate-open": [
+      "customer-lifecycle",
+      "workflow-schedule"
+    ],
+    "workflow-reminder-before-date": [
+      "what-is-workflow",
+      "whats-new",
+      "workflow-after-travel",
+      "workflow-delay",
+      "workflow-events",
+      "workflow-product-expire"
+    ],
+    "workflow-report": [
+      "what-is-workflow",
+      "whats-new",
+      "workflow-events",
+      "workflow-test-mode"
+    ],
+    "workflow-schedule": [
+      "flow-limits",
+      "free-in-app-for-mobile-push",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-anniversary",
+      "workflow-birthday",
+      "workflow-events",
+      "workflow-events-before-launch",
+      "workflow-reactivate",
+      "workflow-reactivate-open",
+      "workflow-steps",
+      "workflow-test-mode"
+    ],
+    "workflow-session": [
+      "customer-lifecycle",
+      "deviceuuid",
+      "parameters-session-productcategoryviews",
+      "parameters-session-productviews",
+      "personal-price-mailings",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-conditions",
+      "workflow-events",
+      "workflow-multiple-sessions"
+    ],
+    "workflow-steps": [
+      "in-app-complete-your-profile",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-ab-tests",
+      "workflow-delay"
+    ],
+    "workflow-test-mode": [
+      "in-app-bonuses-expiration",
+      "mailings-test-mode",
+      "what-is-workflow",
+      "whats-new"
+    ],
+    "workflow-transactional": [
+      "flash-call",
+      "flow-limits",
+      "iiko-integration",
+      "set-retail-integration",
+      "workflow-events",
+      "workflow-order-created",
+      "workflow-test-mode"
+    ],
+    "workflow-viewed-product-available": [
+      "customer-lifecycle",
+      "filter-clients-view-product-or-category",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-events"
+    ],
+    "workflow-viewed-product-price-down": [
+      "filter-clients-view-product-or-category",
+      "what-is-workflow",
+      "whats-new",
+      "workflow-computed-field-lower-price",
+      "workflow-events"
+    ],
+    "workflow-welcome": [
+      "customer-lifecycle",
+      "what-is-workflow",
+      "workflow-events"
+    ],
+    "workflow-welcome-double-opt-in": [
+      "what-is-workflow",
+      "whats-new"
+    ],
+    "workflows-webhook-responses": [
+      "chat2desk-integration",
+      "webhooks",
+      "whats-new",
+      "workflow-steps"
+    ],
+    "yandex-forms-integration": [
+      "whats-new"
+    ],
+    "yml-import": [
+      "how-to-create-ecom-quiz",
+      "how-to-import-feed-by-file",
+      "product",
+      "products-unknown",
+      "regional-yml-import",
+      "как-настроить-модуль-bitrix",
+      "как-подставить-в-рассылку-повторяющиися-баннер",
+      "как-создать-внешнюю-систему"
+    ],
+    "как-работать-с-элементами-коллекции-с-помощью-цикла-for-end-for-и-set": [
+      "recommendations-bestsellers"
+    ],
+    "что-такое-шаблонизатор": [
+      "тикет"
+    ]
+  }
+}

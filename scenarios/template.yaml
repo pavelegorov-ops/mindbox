@@ -1,0 +1,103 @@
+# Каркас YAML-файла для нового триггерного сценария MindBox.
+# Скопируй в scenarios/src/<id>.yaml и заполни поля.
+# Полная документация полей: scenarios/schema.md
+
+id: example                          # обязательно, уникален среди всех файлов в src/
+title: ""                            # человекочитаемое название из MindBox UI
+folder: "/"                          # папка в дереве сценариев MindBox
+status: draft                        # enabled | draft | stopped
+notes: >
+  Свободный текст: контекст, история, ссылка на задачу.
+
+# trigger:                           # обязателен. Пример для event:
+#   type: event                      # event | schedule
+#   event: customer_registered       # ID события из доки MindBox (для type=event)
+#   pre_filters:                     # опц., объект {summary, detail?}
+#     summary: |
+#       Email заполнен и валидный
+#       Подписан на канал X
+#     # detail: []                   # опц. структурный список (форма свободная)
+#   frequency_per_customer: once     # once | every | per_period
+#   # per_period: { every: 7d }      # обязателен ТОЛЬКО при frequency_per_customer=per_period
+#   frequency_per_order: null        # опц., те же значения или null
+#
+# # Пример для type=schedule:
+# trigger:
+#   type: schedule
+#   schedule:
+#     mode: daily                    # daily | weekly | monthly
+#     time: "14:10"                  # HH:MM
+#     timezone: "Europe/Moscow"      # IANA-id
+#     # weekdays: [mon, wed, fri]    # required для mode=weekly
+#     # days: [1, 15]                # для mode=monthly: список чисел ИЛИ
+#     # day_of_month: last           #                    одна метка
+#   pre_filters:
+#     summary: |
+#       Условия отбора клиентов на запуске
+
+# blocks:                            # список, минимум 1 элемент
+#   - id: B1                         # уникальный ID в пределах файла
+#     type: condition                # condition | steps | delay | splitter | ab_test | limit
+#     mode: regular                  # для condition: regular | multibranch
+#     context: customer              # customer | action | order | session | ...
+#     summary: "человекочитаемое описание условия"
+#     filters_detail:                # опц., структурированно — field/op/value
+#       - { field: email.valid, op: "=", value: true }
+#     edges: { yes: B2, no: B3 }
+#
+#   - id: B2
+#     type: steps
+#     actuality: 1d
+#     steps:
+#       - { kind: email, template: welcome-v1 }
+#     edges: { next: done_ok, on_fail: stop_no_email }
+#
+#   - id: B3
+#     type: delay
+#     mode: fixed                    # fixed | interval | dynamic
+#     duration: 2d                   # required для mode=fixed
+#     # source: ...                  # required для mode=dynamic
+#     # field_name: ...              # required для mode=dynamic
+#     # offset: ...                  # required для mode=dynamic
+#     edges: { next: done_ok }
+#
+#   # splitter:
+#   #   type: splitter
+#   #   branches:
+#   #     - { weight: 50, next: B_A }
+#   #     - { weight: 50, next: B_B }
+#
+#   # ab_test:
+#   #   type: ab_test
+#   #   hypothesis: "Гипотеза, которую тестируем"
+#   #   primary_metric: open_rate
+#   #   variants:
+#   #     - { share: 50, next: B_A }
+#   #     - { share: 50, next: B_B }
+#
+#   # limit:
+#   #   type: limit
+#   #   quantity: 500
+#   #   period: 1w
+#   #   notify_threshold: 50         # опц.
+#   #   edges: { до_лимита: B_X, после_лимита: stop_limit_reached }
+
+# ends:                              # required, локальный словарь концевых узлов
+#   done_ok:            "Сценарий завершён успешно"
+#   stop_no_email:      "Email затёрли или истекла актуальность"
+#   stop_limit_reached: "Превышен лимит"
+
+# dependencies:                      # required, можно с пустыми списками
+#   email_templates:    []
+#   sms_templates:      []
+#   push_templates:     []
+#   viber_templates:    []
+#   wallet_templates:   []
+#   action_templates:   []
+#   segments:           []
+#   promo_pools:        []
+#   webhooks:           []
+#   custom_fields:      []
+#   excludes_scenarios: []           # сценарии, после которых клиент сюда НЕ заходит
+#   product_categories: []           # категории продуктов, напр. "Health (1147)"
+#   brands:             []           # бренды, упомянутые в фильтрах подписки/сегментах
