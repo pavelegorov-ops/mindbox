@@ -8,25 +8,50 @@ The user wants to refresh the local MindBox documentation corpora —
 `docs/` (mirrored from help.mindbox.ru) and `developers/` (mirrored from
 developers.mindbox.ru).
 
+## Detect OS first
+
+Run once:
+
+```bash
+uname -s 2>/dev/null || echo Windows
+```
+
+- `Darwin` / `Linux` / `MINGW*` / `MSYS*` / `CYGWIN*` → use the **POSIX
+  launcher** `scripts/sync.sh`.
+- Anything else (or command not found) → use the **Windows launcher**
+  `scripts/mindbox.bat`.
+
 ## What to run
 
 From the project root:
 
-```
-./scripts/mindbox.bat $ARGUMENTS
-```
+- **macOS / Linux**:
+  ```bash
+  ./scripts/sync.sh $ARGUMENTS
+  ```
+
+  If you get `Permission denied`, run `chmod +x scripts/sync.sh` and
+  retry once.
+
+- **Windows**:
+  ```
+  ./scripts/mindbox.bat $ARGUMENTS
+  ```
 
 `$ARGUMENTS` is whatever the user appended after the command — typically
 empty (default = incremental update), `--full` (force-rewrite every page),
 or `--dry-run` (preview without writing).
 
-The launcher is self-contained:
+Both launchers are self-contained and equivalent:
 
-- Locates Python 3 on PATH (`py -3` first, then `python`).
-- Creates `.venv/` in the **repo root** (not in `scripts/`) on first run.
-- Installs `requirements.txt` into the venv. Skipped on subsequent runs
+- Locate Python 3 on PATH (`py -3` / `python` on Windows; `python3` /
+  `python` on POSIX).
+- Create `.venv/` in the **repo root** (not in `scripts/`) on first run.
+  On Windows the venv Python is `.venv/Scripts/python.exe`; on
+  macOS/Linux it's `.venv/bin/python`.
+- Install `requirements.txt` into the venv. Skipped on subsequent runs
   unless `requirements.txt` was modified after the last install.
-- Runs `scripts/sync.py` with `cwd = repo root`, which calls both
+- Run `scripts/sync.py` with `cwd = repo root`, which calls both
   scrapers (`scripts/scrape_docs.py`, `scripts/scrape_developers.py`)
   in sequence — they write to `docs/` and `developers/` at the repo
   root by default.
@@ -60,8 +85,14 @@ If the user passed `--dry-run`, state explicitly that nothing was written.
 
 ## Failure modes
 
-- `[mindbox] Python 3 not found on PATH` — surface the launcher's install
-  hints verbatim. Don't try to install Python yourself.
-- Non-zero exit code from `scripts/mindbox.bat` — show the last ~20
-  lines of output and diagnose briefly.
+- `Python 3 not found on PATH` (either launcher) — surface the launcher's
+  install hints verbatim. Don't try to install Python yourself.
+- `Permission denied` on `scripts/sync.sh` — run `chmod +x` once and
+  retry.
+- Non-zero exit code from the launcher — show the last ~20 lines of
+  output and diagnose briefly.
 - Network/TLS errors mid-fetch — usually transient; suggest a retry.
+  On macOS, if the error mentions `SSL: CERTIFICATE_VERIFY_FAILED` for
+  `developers.mindbox.ru`, confirm the user is running the venv Python
+  (the scraper defaults to `verify=False` for that host because of an
+  incomplete TLS chain).

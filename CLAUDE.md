@@ -26,7 +26,8 @@
   `beautifulsoup4`, `pyyaml`). Лежит в корне, потому что `.venv/` тоже
   в корне.
 - `.claude/commands/` — slash-команды для Claude Code:
-  - `/sync-docs` — обновить корпуса доков (вызывает `scripts/mindbox.bat`).
+  - `/sync-docs` — обновить корпуса доков (вызывает `scripts/mindbox.bat`
+    на Windows и `scripts/sync.sh` на macOS/Linux).
   - `/bootstrap` — первичная настройка среды: venv + проверки + smoke-test.
   - `/обнови-данные`, `/отправь-данные` — повседневные команды
     маркетолога: `git pull` / `git push` сразу в обоих репо.
