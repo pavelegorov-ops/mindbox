@@ -38,6 +38,23 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
 
+# Allow running this script directly as well as via sync.py — _common is next to it.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _common import (  # noqa: E402
+    DEPRECATION_MARKERS,
+    RU_TO_LAT,
+    atomic_write_text,
+    compute_removed_slugs,
+    detect_deprecation,
+    extract_lead,
+    format_fetch_error,
+    load_manifest_strict,
+    page_filename,
+    redact_secrets,
+    render_frontmatter,
+    to_yaml_scalar,
+)
+
 import httpx
 from bs4 import BeautifulSoup
 from markdownify import markdownify as md
@@ -61,28 +78,6 @@ DEFAULT_CONCURRENCY = 10
 TIMEOUT = httpx.Timeout(30.0, connect=10.0)
 
 OUTPUT_FORMAT_VERSION = 3
-
-DEPRECATION_MARKERS = [
-    "устарел",
-    "устаревш",
-    "больше не работа",
-    "больше не поддержив",
-    "не используется",
-    "старый интерфейс",
-    "старая версия",
-    "deprecated",
-    "прекращ",
-    "снят с поддержки",
-    "архивн",
-]
-
-RU_TO_LAT = {
-    "а": "a", "б": "b", "в": "v", "г": "g", "д": "d", "е": "e", "ё": "yo",
-    "ж": "zh", "з": "z", "и": "i", "й": "j", "к": "k", "л": "l", "м": "m",
-    "н": "n", "о": "o", "п": "p", "р": "r", "с": "s", "т": "t", "у": "u",
-    "ф": "f", "х": "h", "ц": "c", "ч": "ch", "ш": "sh", "щ": "sch",
-    "ъ": "", "ы": "y", "ь": "", "э": "e", "ю": "yu", "я": "ya",
-}
 
 # Internal link discovery (for the backlinks index): match both relative
 # `/docs/<slug>` and absolute `https://developers.mindbox.ru/docs/<slug>` —
@@ -571,56 +566,6 @@ def html_to_markdown(
 
 # ---------- summaries / leads / backlinks ----------
 
-_MD_IMAGE_RE = re.compile(r"!\[[^\]]*\]\([^)]*\)")
-_MD_LINK_RE = re.compile(r"\[([^\]]+)\]\([^)]+\)")
-_MD_BOLD_RE = re.compile(r"\*\*([^*]+)\*\*")
-_MD_ITALIC_RE = re.compile(r"(?<!\w)[*_]([^*_\n]+)[*_](?!\w)")
-_MD_CODE_RE = re.compile(r"`([^`]+)`")
-_WS_RE = re.compile(r"\s+")
-
-
-def _strip_markdown_inlines(s: str) -> str:
-    s = _MD_IMAGE_RE.sub("", s)
-    s = _MD_LINK_RE.sub(r"\1", s)
-    s = _MD_BOLD_RE.sub(r"\1", s)
-    s = _MD_ITALIC_RE.sub(r"\1", s)
-    s = _MD_CODE_RE.sub(r"\1", s)
-    return _WS_RE.sub(" ", s).strip()
-
-
-def extract_lead(body_md: str, max_chars: int = 240) -> str:
-    paragraphs: list[str] = []
-    buf: list[str] = []
-    for line in body_md.splitlines():
-        if line.strip():
-            buf.append(line)
-        elif buf:
-            paragraphs.append(" ".join(buf).strip())
-            buf = []
-    if buf:
-        paragraphs.append(" ".join(buf).strip())
-
-    for raw in paragraphs:
-        if raw.startswith(("#", ">", "```", "- ", "* ", "+ ", "|")):
-            continue
-        clean = _strip_markdown_inlines(raw)
-        if len(clean) < 20:
-            continue
-        if len(clean) <= max_chars:
-            return clean
-        cut = clean[:max_chars]
-        sp = cut.rfind(" ")
-        if sp > max_chars * 0.6:
-            cut = cut[:sp]
-        return cut.rstrip(" ,.;:—-") + "…"
-    return ""
-
-
-def detect_deprecation(text: str) -> list[str]:
-    low = text.lower()
-    return [m for m in DEPRECATION_MARKERS if m in low]
-
-
 def extract_link_target_slugs(prose_html: str) -> set[str]:
     from urllib.parse import unquote
 
@@ -772,36 +717,6 @@ def write_section_indexes(out_dir: Path, toc: TocNode) -> tuple[list[str], list[
 
 
 # ---------- frontmatter / file IO ----------
-
-def to_yaml_scalar(value: Any) -> str:
-    if isinstance(value, str):
-        if value == "" or re.search(r'[:#\-?&*!|>\'"%@`,\[\]\{\}\n]', value) or value.strip() != value:
-            return '"' + value.replace("\\", "\\\\").replace('"', '\\"') + '"'
-        return value
-    if isinstance(value, (int, float, bool)):
-        return json.dumps(value)
-    raise TypeError(f"unsupported scalar: {type(value)!r}")
-
-
-def render_frontmatter(meta: dict) -> str:
-    lines = ["---"]
-    for k, v in meta.items():
-        if isinstance(v, list):
-            if not v:
-                lines.append(f"{k}: []")
-            else:
-                lines.append(f"{k}:")
-                for item in v:
-                    lines.append(f"  - {to_yaml_scalar(item)}")
-        else:
-            lines.append(f"{k}: {to_yaml_scalar(v)}")
-    lines.append("---")
-    return "\n".join(lines) + "\n"
-
-
-def page_filename(slug: str) -> str:
-    return slug.replace("/", "_").replace("\\", "_") + ".md"
-
 
 def page_source_url(slug: str) -> str:
     return f"{BASE}/{slug}"
@@ -980,15 +895,6 @@ python scrape_developers.py --dry-run  # report what would change, write nothing
 """
 
 
-def load_manifest(path: Path) -> dict:
-    if not path.exists():
-        return {"version": 1, "pages": {}}
-    try:
-        return json.loads(path.read_text(encoding="utf-8"))
-    except json.JSONDecodeError:
-        return {"version": 1, "pages": {}}
-
-
 def save_manifest(path: Path, pages: dict[str, dict]) -> None:
     payload = {
         "version": 1,
@@ -998,9 +904,9 @@ def save_manifest(path: Path, pages: dict[str, dict]) -> None:
         "page_count": len(pages),
         "pages": dict(sorted(pages.items())),
     }
-    path.write_text(
+    atomic_write_text(
+        path,
         json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=False) + "\n",
-        encoding="utf-8",
     )
 
 
@@ -1016,7 +922,7 @@ async def fetch_page(client: httpx.AsyncClient, ref: PageRef) -> FetchedPage:
         raise ValueError("could not locate prose div in <main>")
     breadcrumb = extract_breadcrumb(text)
     title = extract_title(text) or ref.pagefind_title
-    body_html = _redact_secrets(htmlmod.unescape(prose_html))
+    body_html = redact_secrets(htmlmod.unescape(prose_html))
     headings = filter_anchors(ref.anchors)
     content_hash = "sha256:" + hashlib.sha256(body_html.encode("utf-8")).hexdigest()
     return FetchedPage(
@@ -1029,22 +935,6 @@ async def fetch_page(client: httpx.AsyncClient, ref: PageRef) -> FetchedPage:
     )
 
 
-# ---------- secret redaction (see scrape_docs.py for rationale) ----------
-
-_SECRET_PATTERNS: list[tuple[re.Pattern[str], str]] = [
-    (re.compile(r"shpat_[A-Za-z0-9]{20,}"), "shpat_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"),
-    (re.compile(r"shpss_[A-Fa-f0-9]{20,}"), "shpss_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"),
-    (re.compile(r"shppa_[A-Fa-f0-9]{20,}"), "shppa_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"),
-    (re.compile(r"ghp_[A-Za-z0-9]{36}"),    "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"),
-]
-
-
-def _redact_secrets(text: str) -> str:
-    for pat, repl in _SECRET_PATTERNS:
-        text = pat.sub(repl, text)
-    return text
-
-
 # ---------- main run ----------
 
 async def run(args: argparse.Namespace) -> int:
@@ -1052,7 +942,7 @@ async def run(args: argparse.Namespace) -> int:
     pages_dir = out_dir / "pages"
     pages_dir.mkdir(parents=True, exist_ok=True)
     manifest_path = out_dir / "manifest.json"
-    manifest = load_manifest(manifest_path)
+    manifest = load_manifest_strict(manifest_path)
     old_pages: dict[str, dict] = manifest.get("pages", {})
     old_format = manifest.get("format_version", 0)
     format_changed = old_format != OUTPUT_FORMAT_VERSION
@@ -1092,7 +982,9 @@ async def run(args: argparse.Namespace) -> int:
                 try:
                     page = await fetch_page(client, ref)
                 except Exception as exc:  # noqa: BLE001
-                    stats.failed.append((ref.slug, repr(exc)))
+                    stats.failed.append(
+                        (ref.slug, format_fetch_error(exc, url=page_source_url(ref.slug)))
+                    )
                     return
                 fetched[ref.slug] = page
 
@@ -1208,13 +1100,20 @@ async def run(args: argparse.Namespace) -> int:
                 entry["deprecation_hint"] = artifacts.hints
             new_pages[ref.slug] = entry
 
-        # Detect removals
-        removed_slugs = sorted(set(old_pages) - set(new_pages))
+        # Detect removals. See compute_removed_slugs for the why — short
+        # version: a failed fetch must NOT cause file deletion.
+        removed_slugs, preserved_failed = compute_removed_slugs(
+            old_slugs=set(old_pages),
+            new_slugs=set(new_pages),
+            failed_slugs={slug for slug, _ in stats.failed},
+        )
         for slug in removed_slugs:
             stats.removed.append(slug)
             target = pages_dir / page_filename(slug)
             if target.exists() and not args.dry_run:
                 target.unlink()
+        for slug in preserved_failed:
+            new_pages[slug] = old_pages[slug]
 
         if not args.dry_run:
             print(
@@ -1261,6 +1160,12 @@ async def run(args: argparse.Namespace) -> int:
     if stats.failed:
         for slug, err in stats.failed[:20]:
             print(f"    ! {slug}: {err}")
+        preserved_count = len(set(s for s, _ in stats.failed) & set(old_pages))
+        if preserved_count:
+            print(
+                f"  preserved {preserved_count} previously-known page(s) "
+                f"despite fetch failure (file kept on disk)."
+            )
 
     return 1 if stats.failed else 0
 

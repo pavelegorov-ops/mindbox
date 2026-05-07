@@ -1,6 +1,13 @@
 # Python venv
 .venv/
 
+# Python bytecode caches
+__pycache__/
+*.py[co]
+
+# Pytest cache
+.pytest_cache/
+
 # Playwright MCP cache
 .playwright-mcp/
 
