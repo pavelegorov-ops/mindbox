@@ -1,8 +1,11 @@
 """
-Sync both MindBox documentation mirrors.
+Sync all MindBox knowledge mirrors.
 
-Runs scrape_docs.py (help.mindbox.ru) and scrape_developers.py
-(developers.mindbox.ru) sequentially and forwards flags to both.
+Runs three scrapers sequentially and forwards flags to each:
+
+    scrape_docs.py         help.mindbox.ru        → docs/
+    scrape_developers.py   developers.mindbox.ru  → developers/
+    scrape_journal.py      mindbox.ru/journal     → journal/
 
 First run downloads everything; subsequent runs are incremental
 (re-fetches all pages, rewrites only files whose content changed).
@@ -13,7 +16,7 @@ calls this file with the venv's Python:
     mindbox                   (Windows: mindbox.bat)
     ./sync.sh                 (macOS / Linux — not yet rebranded)
 
-Flags pass through to both scrapers:
+Flags pass through to every scraper:
 
     mindbox --full            force-rewrite every page
     mindbox --dry-run         report changes, write nothing
@@ -37,12 +40,13 @@ REPO_ROOT = SCRIPTS_DIR.parent                         # repo root — cwd дл�
 SCRAPERS: list[tuple[str, Path]] = [
     ("help.mindbox.ru",        SCRIPTS_DIR / "scrape_docs.py"),
     ("developers.mindbox.ru",  SCRIPTS_DIR / "scrape_developers.py"),
+    ("mindbox.ru/journal",     SCRIPTS_DIR / "scrape_journal.py"),
 ]
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Sync both MindBox doc mirrors (help + developers).",
+        description="Sync all MindBox knowledge mirrors (help + developers + journal).",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument(
@@ -85,7 +89,7 @@ def main() -> int:
     if failed:
         print(f"[mindbox] FAILED: {', '.join(failed)}", file=sys.stderr)
         return 1
-    print("[mindbox] both mirrors synced.")
+    print(f"[mindbox] all {len(SCRAPERS)} mirrors synced.")
     return 0
 
 

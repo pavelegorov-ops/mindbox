@@ -30,12 +30,17 @@
 
 ## Корпуса документации MindBox (общие)
 
-Движок поддерживает два локальных Markdown-зеркала:
+Движок поддерживает три локальных Markdown-зеркала:
 
 - **Help** (для маркетологов) с <https://help.mindbox.ru/docs/>
 - **Developers** (для интеграторов) с <https://developers.mindbox.ru/docs/>
+- **Journal** (учебные материалы из журнала, для агента) с
+  <https://mindbox.ru/journal/education/>
 
-Зеркала лежат в `docs/` и `developers/`, читаются всеми тенантами одинаково.
+Зеркала лежат в `docs/`, `developers/` и `journal/`, читаются всеми
+тенантами одинаково. **Journal — материал для тебя, агента**: при
+ответе человеку на основе журнала давай 1-2 предложения сути и ссылку
+`source_url`, не пересказывай статью целиком (см. `journal/CLAUDE.md`).
 
 ## Структура проекта
 
@@ -45,8 +50,9 @@
   `beautifulsoup4`, `pyyaml`). Лежит в корне, потому что `.venv/` тоже
   в корне.
 - `.claude/commands/` — slash-команды для Claude Code:
-  - `/sync-docs` — обновить корпуса доков (вызывает `scripts/mindbox.bat`
-    на Windows и `scripts/sync.sh` на macOS/Linux).
+  - `/sync-docs` — обновить все три корпуса (`docs/`, `developers/`,
+    `journal/`); вызывает `scripts/mindbox.bat` на Windows и
+    `scripts/sync.sh` на macOS/Linux.
   - `/bootstrap` — первичная настройка среды: venv + проверки + smoke-test.
   - `/обнови-данные`, `/отправь-данные` — повседневные команды
     маркетолога: `git pull` / `git push` сразу в обоих репо.
@@ -54,9 +60,14 @@
   `docs/CLAUDE.md`.**
 - `developers/` — корпус Developers. **Перед ответом на интеграционные /
   API-вопросы читай `developers/CLAUDE.md`.**
+- `journal/` — корпус Journal (учебные статьи). **Перед использованием
+  читай `journal/CLAUDE.md`** — там правила: `summaries.json` для триажа,
+  ответ человеку коротко + `source_url`, не пересказывать тело статьи.
 - `private/<имя>/` — данные конкретного тенанта (см. ниже).
 - `notes/` — приёмы и грабли, которые невозможно вывести из кода. См.
   раздел «Дополнительные приёмы».
+- `plans/` — утверждённые пользователем планы работ
+  (`YYYY-MM-DD-описание.md`) с реестром в `plans/INDEX.md`.
 - `scenarios/template.yaml`, `scenarios/schema.md` — общий шаблон и
   спецификация YAML-схемы сценариев (общие для всех тенантов).
 
@@ -77,6 +88,10 @@
 - `scripts/scrape_developers.py` — скрейпер `developers.mindbox.ru`
   (Zudoku). Те же флаги. По умолчанию `verify=False`, потому что у
   dev-сайта неполная TLS-цепочка; `--verify` — если есть свой trust store.
+- `scripts/scrape_journal.py` — скрейпер раздела «Учебные материалы»
+  журнала `mindbox.ru/journal/education/`. Источник — публичный
+  `sitemap.xml`. Те же флаги (`--full`, `--dry-run`); опционально
+  `--section <name>` (по умолчанию `education`).
 - `scripts/render_scenarios.py` — валидатор + генератор Markdown-карточек
   сценариев по YAML-источникам активного тенанта. Подробности — в
   разделе «Сценарии».
@@ -116,6 +131,7 @@ private/<имя>/
 | UI-проводки, сегменты, кампании, программу лояльности, маркетинговые фичи | `docs/` (Help) |
 | HTTP API, SDK (JS/iOS/Android/Flutter/RN), POS-адаптеры, схемы импорта данных, вебхуки, push | `developers/` (Developers) |
 | Кросс-концепт («что такое клиент / сегмент в MindBox») | Сначала `docs/summaries.json`, при отсутствии — `developers/summaries.json` |
+| Маркетинговые подходы, кейсы, концепции, идеи для механик (для вдохновения, не как продуктовая истина) | `journal/` — `journal/summaries.json` для триажа, ответ человеку с `source_url` |
 | Поля шаблонов рассылок и сценариев активного тенанта (`Order.X`, `Recipient.Y`, `CustomField.*`) | `private/<активный>/mailing-parameters/` (см. `private/<активный>/mailing-parameters/CLAUDE.md`) |
 | Конкретные триггерные сценарии тенанта | `private/<активный>/scenarios/` |
 
