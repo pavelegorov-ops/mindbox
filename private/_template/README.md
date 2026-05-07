@@ -20,12 +20,13 @@
 
 1. Создайте на GitHub приватный репозиторий, например `mindbox-<company>`.
 2. Скопируйте содержимое `private/_template/` в корень нового репо
-   (без папки `_template`):
+   (без папки `_template`). При копировании переименуйте
+   `engine.txt.example` → `engine.txt`:
 
    ```
    mindbox-<company>/
      README.md
-     engine.txt
+     engine.txt              # переименовано из engine.txt.example
      mailing-parameters/
        CLAUDE.md
      scenarios/
@@ -35,6 +36,7 @@
 
 3. Заполните `engine.txt` — минимальная версия движка, с которой ваши данные
    совместимы (формат: `requires_engine >= YYYY-MM-DD` или `>= <commit-sha>`).
+   В `engine.txt.example` уже лежит дефолт; обычно достаточно скопировать.
 4. На рабочей машине склонируйте этот репо в подкаталог `private/`
    публичного репо движка:
 
