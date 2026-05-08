@@ -1,11 +1,12 @@
 """
 Sync all MindBox knowledge mirrors.
 
-Runs three scrapers sequentially and forwards flags to each:
+Runs scrapers sequentially and forwards flags to each:
 
-    scrape_docs.py         help.mindbox.ru        → docs/
-    scrape_developers.py   developers.mindbox.ru  → developers/
-    scrape_journal.py      mindbox.ru/journal     → journal/
+    scrape_docs.py         help.mindbox.ru                  → docs/
+    scrape_developers.py   developers.mindbox.ru            → developers/
+    scrape_journal.py      mindbox.ru/journal/education/    → journal/education/
+    scrape_journal.py      mindbox.ru/journal/cases/        → journal/cases/
 
 First run downloads everything; subsequent runs are incremental
 (re-fetches all pages, rewrites only files whose content changed).
@@ -37,10 +38,11 @@ from pathlib import Path
 SCRIPTS_DIR = Path(__file__).resolve().parent          # scripts/
 REPO_ROOT = SCRIPTS_DIR.parent                         # repo root — cwd для скрейперов
 
-SCRAPERS: list[tuple[str, Path]] = [
-    ("help.mindbox.ru",        SCRIPTS_DIR / "scrape_docs.py"),
-    ("developers.mindbox.ru",  SCRIPTS_DIR / "scrape_developers.py"),
-    ("mindbox.ru/journal",     SCRIPTS_DIR / "scrape_journal.py"),
+SCRAPERS: list[tuple[str, Path, list[str]]] = [
+    ("help.mindbox.ru",                 SCRIPTS_DIR / "scrape_docs.py",       []),
+    ("developers.mindbox.ru",           SCRIPTS_DIR / "scrape_developers.py", []),
+    ("mindbox.ru/journal/education",    SCRIPTS_DIR / "scrape_journal.py",    ["--section", "education"]),
+    ("mindbox.ru/journal/cases",        SCRIPTS_DIR / "scrape_journal.py",    ["--section", "cases"]),
 ]
 
 
@@ -70,7 +72,7 @@ def main() -> int:
     failed: list[str] = []
     started = time.monotonic()
 
-    for label, script in SCRAPERS:
+    for label, script, extra_args in SCRAPERS:
         if not script.exists():
             print(f"[mindbox] missing scraper: {script.name}", file=sys.stderr)
             failed.append(label)
@@ -78,7 +80,7 @@ def main() -> int:
 
         print(f"\n=== {label}  ({script.name}) ===", flush=True)
         result = subprocess.run(
-            [sys.executable, str(script), *forwarded], cwd=REPO_ROOT
+            [sys.executable, str(script), *extra_args, *forwarded], cwd=REPO_ROOT
         )
         if result.returncode != 0:
             failed.append(label)
