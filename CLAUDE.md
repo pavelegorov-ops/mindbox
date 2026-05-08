@@ -32,15 +32,20 @@
 
 Движок поддерживает три локальных Markdown-зеркала:
 
-- **Help** (для маркетологов) с <https://help.mindbox.ru/docs/>
-- **Developers** (для интеграторов) с <https://developers.mindbox.ru/docs/>
-- **Journal** (учебные материалы из журнала, для агента) с
-  <https://mindbox.ru/journal/education/>
+- **Help** (для маркетологов) с <https://help.mindbox.ru/docs/> →
+  лежит в `docs/`.
+- **Developers** (для интеграторов) с
+  <https://developers.mindbox.ru/docs/> → лежит в `developers/`.
+- **Journal** (для агента) с <https://mindbox.ru/journal/> → лежит в
+  `journal/`, разделён на подкорпуса по секциям сайта:
+  - `journal/education/` — учебные материалы (гайды, объяснения
+    концепций).
+  - `journal/cases/` — кейсы клиентов (что внедряли, какой результат).
 
-Зеркала лежат в `docs/`, `developers/` и `journal/`, читаются всеми
-тенантами одинаково. **Journal — материал для тебя, агента**: при
-ответе человеку на основе журнала давай 1-2 предложения сути и ссылку
-`source_url`, не пересказывай статью целиком (см. `journal/CLAUDE.md`).
+Зеркала читаются всеми тенантами одинаково. **Journal — материал для
+тебя, агента**: при ответе человеку давай суть своими словами и
+ссылку `source_url`, не пересказывай тело статьи. Подробные правила —
+включая разные рамки для education и cases — в `journal/CLAUDE.md`.
 
 ## Структура проекта
 
@@ -60,9 +65,13 @@
   `docs/CLAUDE.md`.**
 - `developers/` — корпус Developers. **Перед ответом на интеграционные /
   API-вопросы читай `developers/CLAUDE.md`.**
-- `journal/` — корпус Journal (учебные статьи). **Перед использованием
-  читай `journal/CLAUDE.md`** — там правила: `summaries.json` для триажа,
-  ответ человеку коротко + `source_url`, не пересказывать тело статьи.
+- `journal/` — корпус Journal, разделённый на подкорпуса
+  `journal/education/` (учебные материалы) и `journal/cases/` (кейсы
+  клиентов). **Перед использованием читай `journal/CLAUDE.md`** —
+  там правила: `summaries.json` для триажа в каждой секции, ответ
+  человеку всегда с `source_url`, для education коротко (1–3
+  предложения), для cases чуть подробнее (контекст + механики +
+  результат), без пересказа тела статьи.
 - `private/<имя>/` — данные конкретного тенанта (см. ниже).
 - `notes/` — приёмы и грабли, которые невозможно вывести из кода. См.
   раздел «Дополнительные приёмы».
@@ -88,10 +97,11 @@
 - `scripts/scrape_developers.py` — скрейпер `developers.mindbox.ru`
   (Zudoku). Те же флаги. По умолчанию `verify=False`, потому что у
   dev-сайта неполная TLS-цепочка; `--verify` — если есть свой trust store.
-- `scripts/scrape_journal.py` — скрейпер раздела «Учебные материалы»
-  журнала `mindbox.ru/journal/education/`. Источник — публичный
-  `sitemap.xml`. Те же флаги (`--full`, `--dry-run`); опционально
-  `--section <name>` (по умолчанию `education`).
+- `scripts/scrape_journal.py` — скрейпер журнала `mindbox.ru/journal/`.
+  Источник — публичный `sitemap.xml`. Параметризуется секцией:
+  `--section education` или `--section cases`; пишет в
+  `journal/<section>/`. Те же флаги (`--full`, `--dry-run`).
+  Оркестратор `sync.py` запускает обе секции автоматически.
 - `scripts/render_scenarios.py` — валидатор + генератор Markdown-карточек
   сценариев по YAML-источникам активного тенанта. Подробности — в
   разделе «Сценарии».
@@ -131,7 +141,8 @@ private/<имя>/
 | UI-проводки, сегменты, кампании, программу лояльности, маркетинговые фичи | `docs/` (Help) |
 | HTTP API, SDK (JS/iOS/Android/Flutter/RN), POS-адаптеры, схемы импорта данных, вебхуки, push | `developers/` (Developers) |
 | Кросс-концепт («что такое клиент / сегмент в MindBox») | Сначала `docs/summaries.json`, при отсутствии — `developers/summaries.json` |
-| Маркетинговые подходы, кейсы, концепции, идеи для механик (для вдохновения, не как продуктовая истина) | `journal/` — `journal/summaries.json` для триажа, ответ человеку с `source_url` |
+| Маркетинговые подходы, концепции, идеи для механик (для вдохновения, не как продуктовая истина) | `journal/education/` — `journal/education/summaries.json` для триажа, ответ кратко + `source_url` |
+| Реальные истории клиентов: «кто внедрял такую механику», «какой получили результат» | `journal/cases/` — `journal/cases/summaries.json` для триажа, ответ с контекстом + механиками + результатом + `source_url` |
 | Поля шаблонов рассылок и сценариев активного тенанта (`Order.X`, `Recipient.Y`, `CustomField.*`) | `private/<активный>/mailing-parameters/` (см. `private/<активный>/mailing-parameters/CLAUDE.md`) |
 | Конкретные триггерные сценарии тенанта | `private/<активный>/scenarios/` |
 

@@ -1,12 +1,14 @@
 ---
-description: Обновить локальные зеркала документации MindBox (help + developers)
+description: Обновить локальные зеркала документации MindBox (help + developers + journal)
 argument-hint: [--full | --dry-run]
 allowed-tools: Bash, Read, Grep
 ---
 
 Пользователь хочет обновить локальные корпуса документации MindBox —
-`docs/` (зеркало с `help.mindbox.ru`) и `developers/` (зеркало с
-`developers.mindbox.ru`).
+`docs/` (зеркало с `help.mindbox.ru`), `developers/` (зеркало с
+`developers.mindbox.ru`) и журнал в двух секциях:
+`journal/education/` и `journal/cases/` (зеркала с
+`mindbox.ru/journal/education/` и `mindbox.ru/journal/cases/`).
 
 ## Шаг 1. Определить ОС
 
@@ -55,8 +57,11 @@ uname -s 2>/dev/null || echo Windows
   запусках пропускают, если `requirements.txt` не менялся после
   последней установки.
 - Запускают `scripts/sync.py` с `cwd = корень репо`, который вызывает
-  оба скрейпера (`scripts/scrape_docs.py`, `scripts/scrape_developers.py`)
-  по очереди — они пишут в `docs/` и `developers/` в корне репо.
+  скрейперы по очереди:
+  - `scripts/scrape_docs.py` → `docs/`
+  - `scripts/scrape_developers.py` → `developers/`
+  - `scripts/scrape_journal.py --section education` → `journal/education/`
+  - `scripts/scrape_journal.py --section cases` → `journal/cases/`
 
 Типичный прогон: ~1–2 минуты для инкрементального, дольше для `--full`.
 **Используй Bash-таймаут 10 минут** для запаса.

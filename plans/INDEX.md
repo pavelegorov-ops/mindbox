@@ -30,4 +30,5 @@
 
 | Дата | План | Задача |
 |------|------|--------|
+| 2026-05-08 | [journal-cases-corpus.md](2026-05-08-journal-cases-corpus.md) | Добавить раздел «Кейсы и экспертиза» mindbox.ru/journal/cases/ как второй подкорпус journal: рефакторинг `scrape_journal.py` под `journal/<section>/`, миграция education в подкаталог, регистрация cases в `sync.py`, ~490 статей. |
 | 2026-05-07 | [journal-education-corpus.md](2026-05-07-journal-education-corpus.md) | Добавить раздел «Учебные материалы» mindbox.ru/journal/education/ как локальный корпус для агента: новый `scripts/scrape_journal.py`, корпус `journal/` (~71 статья), интеграция в `/sync-docs`. |
