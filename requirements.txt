@@ -2,3 +2,18 @@ httpx>=0.27
 markdownify>=1.0
 beautifulsoup4>=4.9
 pyyaml>=6.0
+
+# Journal enrichment (LLM summaries + fact_index for cases).
+# Required only for `scripts/enrich_journal.py`; if anthropic isn't
+# importable or ANTHROPIC_API_KEY isn't set, the orchestrator skips
+# enrichment with a warning and the rest of the pipeline still works.
+anthropic>=0.40
+
+# BM25 paragraph-level search over the journal corpus.
+# rank-bm25 — pure Python, no native deps (Windows-friendly).
+# pymorphy3 — Russian lemmatizer; pymorphy3-dicts-ru ships the dictionary.
+# nltk — Snowball stemmer for English; we only use the stemmer module.
+rank-bm25>=0.2
+pymorphy3>=2.0
+pymorphy3-dicts-ru>=2.4
+nltk>=3.8

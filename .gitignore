@@ -24,3 +24,9 @@ __pycache__/
 /private/*
 !/private/_template/
 !/private/.gitkeep
+
+# Производный BM25-индекс journal-корпуса. Полностью derived из
+# journal/<section>/pages/, перестраивается за секунды через
+# `python scripts/build_bm25.py` (или автоматически в `sync.py`).
+# Коммитить нет смысла — раздувает репо и шумит в diff'ах.
+/journal/*/search_index.pkl

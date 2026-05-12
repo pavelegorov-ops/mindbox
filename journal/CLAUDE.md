@@ -80,37 +80,93 @@ education и cases часто покрывают одну и ту же тему 
 
 ## Рекомендованный workflow поиска
 
-Для вопросов «что в журнале говорят про X?»:
+Поиск устроен в три слоя — иди по ним по порядку, не пропускай первый.
 
-1. `Grep "X" journal/education/summaries.json journal/cases/summaries.json -B 1 -A 5`
-   → ранжированный список карточек с лидами и тегами по обеим
-   секциям. Дёшево по токенам.
-2. Открыть самую релевантную страницу целиком
+**Слой 1 — `summaries.json` (триаж).** Для большинства вопросов этого
+достаточно:
+
+1. `Grep "X" journal/education/summaries.json journal/cases/summaries.json -B 1 -A 8`
+   — ранжированный список карточек по обеим секциям. У каждой статьи
+   есть `summary_ru` (1–2 предложения, что внутри и что доказывает),
+   `key_points` (3–5 буллетов), `tag_titles_ru` (русские подписи
+   тегов — гриплется по «лояльность», «удержание» и т.п.), `tags`,
+   `headings`. Дёшево по токенам.
+2. Открыть самую релевантную страницу
    (`journal/<section>/pages/<slug>.md`).
 3. Ответить пользователю по правилу секции (см. выше).
 
-Для тематического обзора («дай 3 кейса по retention»):
+**Слой 2 — структурированные индексы (тематические обзоры).** Когда
+нужен обзор «дай 3 кейса по X»:
 
-1. Найти подходящий файл в `journal/cases/index/by-tag/` или
-   `journal/education/index/by-tag/` (slug-и транслитерированные:
-   `loyalty.md`, `retention.md`, `email.md`).
-2. Прочитать его — там уже отобраны статьи с этим тегом и их анонсы.
-3. При необходимости открыть полные тексты конкретных статей.
+- **education**: `journal/education/index/by-tag/<тег>.md` (slug-и
+  транслит: `loyalty.md`, `retention.md`, `email.md`).
+- **cases**: те же `index/by-tag/`, плюс **новые faceted-индексы**:
+  - `journal/cases/index/by-mechanic/<механика>.md` — по применённым
+    механикам (`welcome-chain.md`, `broshennaya-korzina.md`,
+    `ab-testing.md`, …).
+  - `journal/cases/index/by-industry/<ниша>.md` — по нишам клиентов.
+  - `journal/cases/index/by-kpi/<метрика>.md` — кейсы, у которых
+    извлечена эта метрика (`open_rate.md`, `retention.md`, …);
+    каждая запись показывает before/after или delta для этой метрики
+    конкретно.
+- **cases/fact_index.json** — `journal/cases/fact_index.json`. Сырой
+  структурированный extract для запросов вида «у кого retention
+  +30%». Гриплется как обычный JSON: ищи по `name` метрики,
+  `industry`, `mechanics`, `delta_pct`, `delta_pp`.
+
+**Слой 3 — полнотекстовый поиск (когда первые два не дали ответа).**
+Используй, если факт похоронен в теле статьи и не попал в `summary_ru`
+/ `key_points` / `fact_index.json`:
+
+```bash
+python scripts/journal_search.py "удержание клиентов"
+python scripts/journal_search.py "open rate выросла на 30" --section cases --top 10
+```
+
+Это BM25-поиск по абзацам с RU-лемматизацией (`pymorphy3`) и EN-стеммингом,
+поэтому `удержание` матчится на статьи со словом `retention` и наоборот.
+Возвращает JSON со score, slug-ом, `section_title` (заголовок ближайшего
+H2/H3) и сниппетом — этого хватает, чтобы решить, какие страницы открывать
+целиком. Индекс — `journal/<section>/search_index.pkl`, regenerируется
+при `sync.py` (или вручную через `python scripts/build_bm25.py`).
 
 ## Структура одной секции (одинакова для education и cases)
 
 - `pages/<slug>.md` — одна статья на файл. Имя файла = последний
   сегмент URL: `https://mindbox.ru/journal/<section>/<slug>/` ↔
   `pages/<slug>.md`.
-- `summaries.json` — карточки статей (title, lead, headings, tags,
-  published_at). **Сначала grep его** — это в разы дешевле, чем
-  читать несколько полных страниц.
+- `summaries.json` — карточки статей (title, **summary_ru**,
+  **key_points**, headings, tags, **tag_titles_ru**, published_at,
+  modified_at, source_url, deprecation_hint). **Сначала grep его** —
+  это в разы дешевле, чем читать несколько полных страниц.
+  `summary_ru` и `key_points` генерирует `enrich_journal.py` через
+  Claude API; если ключа не было при последнем `sync.py`, у статьи
+  может быть legacy-поле `lead` вместо `summary_ru`.
 - `index/by-tag/<tag-slug>.md` — индекс по тегу. Используй для
   тематических обзоров.
 - `INDEX.md` — линейный список всех статей секции по дате
   (свежие сверху).
 - `manifest.json` — служебка инкрементальной синхронизации
   (хеш контента и время выгрузки на каждую статью). Руками не править.
+- `enrichment_manifest.json` — служебка кеша LLM-обогащения (какой
+  `content_hash` уже обогащён, под какой версией промпта). Руками не
+  править.
+- `search_index.pkl` — производный BM25-индекс для
+  `scripts/journal_search.py`. **Не коммитится** (см. `.gitignore`),
+  собирается локально при `sync.py` или `python scripts/build_bm25.py`.
+
+**Cases (только для секции `cases/`):**
+
+- `fact_index.json` — структурированный extract из каждого кейса:
+  `industry`, `mechanics[]`, `kpis[]` (`name`, `delta_pct`, `delta_pp`,
+  `before`/`after`), `operational_results[]`, `time_to_value`,
+  `channels[]`. Грепом отвечает на запросы «у кого retention +30%»,
+  «fashion + email triggers».
+- `index/by-mechanic/<механика>.md`, `index/by-industry/<ниша>.md`,
+  `index/by-kpi/<метрика>.md` — faceted-индексы, рендерятся из
+  `fact_index.json`. Каждый файл — отсортированный по дате список
+  кейсов с одним и тем же значением facet'а; у каждого есть
+  `summary_ru` и (для `by-kpi/`) — конкретное значение метрики.
 
 ## Формат страницы
 
@@ -161,18 +217,24 @@ MindBox, ни актуальные бенчмарки рынка.
 ## Обновление
 
 ```bash
-# обе секции сразу (через оркестратор):
+# обе секции + LLM-обогащение + BM25-индекс (всё через оркестратор):
 python scripts/sync.py            # инкрементально
-python scripts/sync.py --full     # принудительно переписать каждый файл
+python scripts/sync.py --full     # переписать каждый файл и пере-обогатить
 python scripts/sync.py --dry-run  # показать, что изменится; ничего не пишет
 
-# одна секция:
+# отдельные шаги:
 python scripts/scrape_journal.py --section education
 python scripts/scrape_journal.py --section cases
+python scripts/enrich_journal.py --section cases [--full] [--limit N]
+python scripts/build_bm25.py [--section cases]
 ```
 
-Запускать из корня репо. Скрейпер пишет в
-`journal/<section>/` относительно текущего каталога.
+Запускать из корня репо. Скрейпер пишет в `journal/<section>/`.
+
+`enrich_journal.py` требует `ANTHROPIC_API_KEY` в окружении. Без ключа
+`sync.py` пропустит обогащение с предупреждением — скрейпинг и BM25
+всё равно отработают. Обогащение идемпотентно: статьи с неизменённым
+`content_hash` пропускаются (0 LLM-вызовов).
 
 Скрипт отчитывается: добавлено / обновлено / без изменений / удалено.
 Удалённые статьи (slug'и, исчезнувшие из публичного sitemap)

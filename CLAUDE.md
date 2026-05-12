@@ -102,6 +102,21 @@
   `--section education` или `--section cases`; пишет в
   `journal/<section>/`. Те же флаги (`--full`, `--dry-run`).
   Оркестратор `sync.py` запускает обе секции автоматически.
+- `scripts/enrich_journal.py` — LLM-обогащение journal-корпуса.
+  Перезаписывает `summary_ru` + `key_points` в `summaries.json` обеих
+  секций; для `cases` дополнительно строит `fact_index.json` и
+  faceted-индексы `index/by-{mechanic,industry,kpi}/`. Требует
+  `ANTHROPIC_API_KEY`. Идемпотентен: пропускает статьи с неизменённым
+  `content_hash`. CLI: `--section cases|education`, `--full`,
+  `--dry-run`, `--limit N` для отладки.
+- `scripts/build_bm25.py` — собирает BM25-индекс по абзацам в
+  `journal/<section>/search_index.pkl` (RU-лемматизация через
+  `pymorphy3`, EN-стемминг через `nltk`). Офлайн, секунды на весь
+  корпус. Файл индекса не коммитится (см. `.gitignore`).
+- `scripts/journal_search.py` — query CLI поверх BM25-индекса,
+  возвращает JSON для агента. Используй, когда грепа `summaries.json`
+  и faceted-индексов мало (похороненные факты, RU↔EN gap). Пример:
+  `python scripts/journal_search.py "удержание клиентов" --top 5`.
 - `scripts/render_scenarios.py` — валидатор + генератор Markdown-карточек
   сценариев по YAML-источникам активного тенанта. Подробности — в
   разделе «Сценарии».
@@ -141,8 +156,9 @@ private/<имя>/
 | UI-проводки, сегменты, кампании, программу лояльности, маркетинговые фичи | `docs/` (Help) |
 | HTTP API, SDK (JS/iOS/Android/Flutter/RN), POS-адаптеры, схемы импорта данных, вебхуки, push | `developers/` (Developers) |
 | Кросс-концепт («что такое клиент / сегмент в MindBox») | Сначала `docs/summaries.json`, при отсутствии — `developers/summaries.json` |
-| Маркетинговые подходы, концепции, идеи для механик (для вдохновения, не как продуктовая истина) | `journal/education/` — `journal/education/summaries.json` для триажа, ответ кратко + `source_url` |
-| Реальные истории клиентов: «кто внедрял такую механику», «какой получили результат» | `journal/cases/` — `journal/cases/summaries.json` для триажа, ответ с контекстом + механиками + результатом + `source_url` |
+| Маркетинговые подходы, концепции, идеи для механик (для вдохновения, не как продуктовая истина) | `journal/education/summaries.json` для триажа (`summary_ru`/`key_points`/`tag_titles_ru`), ответ кратко + `source_url` |
+| Реальные истории клиентов: «кто внедрял такую механику», «какой получили результат» | `journal/cases/summaries.json` для триажа; `journal/cases/fact_index.json` + `index/by-mechanic\|industry\|kpi/` для запросов вида «у кого retention +30%»; ответ с контекстом + механиками + результатом + `source_url` |
+| Похороненный в теле статьи факт; русский запрос про английский термин («удержание» ↔ «retention») | `python scripts/journal_search.py "<запрос>" [--section cases\|education]` — BM25 по абзацам с RU-лемматизацией |
 | Поля шаблонов рассылок и сценариев активного тенанта (`Order.X`, `Recipient.Y`, `CustomField.*`) | `private/<активный>/mailing-parameters/` (см. `private/<активный>/mailing-parameters/CLAUDE.md`) |
 | Конкретные триггерные сценарии тенанта | `private/<активный>/scenarios/` |
 
