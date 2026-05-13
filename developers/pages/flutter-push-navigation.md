@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/flutter-push-navigation"
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:f39ece51659d0f0c784e814013916a1f9bffe3d0263459bed9c393dcd844fd25"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:3399a38125f3dcf347e751237829ae73d2f9a1339cd778315c3a332ad02e1cba"
 ---
 
 # Навигация по клику на push-уведомление

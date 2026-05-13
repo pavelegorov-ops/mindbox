@@ -7,8 +7,8 @@ toc_path:
   - Рассылки
   - Мобильные пуши
   - Создание и отправка мобильных пушей
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:e0c151375e0bd4c4d2e9aec5d9aa5c20684fd26bf55502776843e329cdc74ac7"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:039e435d72c30a7fe17a0c967bcd4156031a565a9004437c41ea9561343405fd"
 ---
 
 # FAQ по мобильным пушам

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/userregjson"
 breadcrumb:
   - Клиент
   - "Регистрация, формы подписки, трекинг входа на сайт"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:4c61ce3b49dbb35a6160e24f5cd2a15410ffbb393baeaccffefed108dba36130"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:3100198e22d77dd64316a4d07533c9b1e082f82ce44773d29cf6a936b32b2d02"
 ---
 
 # javascript

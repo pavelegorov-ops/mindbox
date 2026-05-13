@@ -4,8 +4,8 @@ slug: "product-category-actions"
 source_url: "https://developers.mindbox.ru/docs/product-category-actions"
 breadcrumb:
   - Номенклатура
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:36730f60a3027406f90fef344663bfeed5277bb6ecd811bd0ef7ccd5d4a65fa1"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d32bbb55ac0436e455c15901ba3aa22ac71bfe1ff192524a041da386eaec2412"
 ---
 
 # Действия с категориями

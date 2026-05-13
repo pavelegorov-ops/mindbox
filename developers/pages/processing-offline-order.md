@@ -4,8 +4,8 @@ slug: "processing-offline-order"
 source_url: "https://developers.mindbox.ru/docs/processing-offline-order"
 breadcrumb:
   - Заказы
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:4c391560b79c1086988ebdc40693da63e45e893e700c52f9cd982560daa9a87c"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:dc4b25276cbc3ec19608a4806eeed5d99af4d5054105296c8fe99de8b9374540"
 ---
 
 # Отложенное сохранение заказа (процессинг)

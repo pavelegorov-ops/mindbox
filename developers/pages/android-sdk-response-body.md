@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/android-sdk-response-body"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:ea11bee6cc1784d1bf36234fa40f3d6bdc81a4f19d8f3a872db2dd296a6b0747"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:4777889e75e191ec54cf58cee3db87f39097b9905853eab25e6a6a021b504d24"
 ---
 
 # Структура конструктора ответа Android SDK

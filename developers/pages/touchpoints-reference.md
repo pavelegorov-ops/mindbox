@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/touchpoints-reference"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:000b69cd0b885fc2fec498dabf8e9447b5f063d3e03e7205bff4822a6b162fd4"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:35970f7989d8f9a93cbbb025a6f39246654a47b4cb279d25b384005eba3b55be"
 ---
 
 # Справочник точек контакта

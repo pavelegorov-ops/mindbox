@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/userredjson-1"
 breadcrumb:
   - Клиент
   - Редактирование данных клиента
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:48121d48820bcc869350aae34644168055a06574a74ba9b799f53d556c05f1a2"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:328a37b139d4c6aa8a0d4c6e3a986cf78497df08553156476a8d37b4549e9846"
 ---
 
 # json

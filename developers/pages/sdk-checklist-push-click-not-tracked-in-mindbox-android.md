@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - Android
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:44c8a2c885f9e57e8402ba59e4632830464855a691fce9067773148f3b98b315"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:59edcf5aef19b192e42583a300989f08cb743f15e5ceafa094af6e800288a2c7"
 ---
 
 # При клике на push-уведомление информация об этом не отображается в Mindbox

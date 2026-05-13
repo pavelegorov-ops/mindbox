@@ -4,8 +4,8 @@ slug: "osmi-cards-integration"
 source_url: "https://developers.mindbox.ru/docs/osmi-cards-integration"
 breadcrumb:
   - Стандартные интеграции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:0837290f9aa7f602df82bbbe44cc315585b9c1128427afd563c12ded4255b057"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:a92635c6bbb5cf39486cbf5c82e7dc873eb11465ff413271d02f9b8c67e166fc"
 ---
 
 # Интеграция OSMI Cards

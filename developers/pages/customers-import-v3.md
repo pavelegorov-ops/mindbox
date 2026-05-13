@@ -4,8 +4,8 @@ slug: "customers-import-v3"
 source_url: "https://developers.mindbox.ru/docs/customers-import-v3"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:6b278fedabef8b6c65fab3eb810afea10bde3f10f66b5ba59621d9d6ebab1464"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f6225865395b4886bbcabc0dca3f8462da4adc8689fe916041ecd9a596e571a4"
 ---
 
 # Массовый импорт клиентов

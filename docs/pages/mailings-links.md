@@ -7,8 +7,8 @@ toc_path:
   - Рассылки
   - "Email-рассылки"
   - Начало работы
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:84898d8b13bcdae653249b3335e8483bda3efd45d9549e42d08c00aa0eb917fc"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:5599e730c34f8354ab2c49c4a863fbc02145e5ebb2b3024a6fcdb52d3d6158c4"
 ---
 
 # Как настроить ссылки в email-рассылках

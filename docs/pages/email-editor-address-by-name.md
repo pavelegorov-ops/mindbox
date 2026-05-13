@@ -7,8 +7,8 @@ toc_path:
   - Рассылки
   - "Email-рассылки"
   - Конструктор писем Mindbox
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:af612758cf6fb6b53203fa9c8232feb37d57922e1e6ef69dfd7cf0905fe96fb2"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:e1b7378dda4cd383d1d4dd076c4ab9138097d2934296118f98131e23800ec4cc"
 ---
 
 # Обращение по имени (новый конструктор)

@@ -4,8 +4,8 @@ slug: "product-list-actions"
 source_url: "https://developers.mindbox.ru/docs/product-list-actions"
 breadcrumb:
   - Номенклатура
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:82fd5a2edf8a12f9e19e89f477132a59858cef403b9b7364e54c25831b87757e"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d92a8e4cfd67819b3ff56a4980b48851f0ba03f5392122fa18a38fdea5c5b4aa"
 ---
 
 # Действия со списками продуктов

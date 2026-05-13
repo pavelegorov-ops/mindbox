@@ -8,8 +8,8 @@ toc_path:
   - "Email-рассылки"
   - Дополнительные возможности рассылок
   - Цифровые подписи
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:d0e9395352c930b991ed82cccec9e3166b91c06f201a2be62330d513fef342b1"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:0d03ba223e5fc9bde503642291321b59e5eeecab4690d662bccbb5c9750a95aa"
 ---
 
 # Проверка SPF и MX записей выделенного поддомена

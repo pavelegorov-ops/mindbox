@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - IOS
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:cdac88717dc1308de1b2881029a0f8cdad3505e6ff57c846f7769e09a0118c7c"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:b8bb184a98ba00c125538d8c5740bdeade357eea250a39eae4c7390ec813038c"
 ---
 
 # У пользователя нет разрешения на push-уведомления

@@ -8,8 +8,8 @@ toc_path:
   - "Email-рассылки"
   - Конструктор писем Mindbox
   - Загрузка блоков для конструктора
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:598f49ec1cc3654f66630c258af5e652dacd570e483f8b6fd1c2a7213e9c2834"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:b04cd37061e1715353d1593a2c6bf1edafe2ba91125cbb359af540ccec0ca638"
 deprecation_hint:
   - не используется
 ---
@@ -1638,7 +1638,7 @@ JSON: [COLLECTION](email-editor-upload-blocks.md#COLLECTION)
 | Ширина картинки | [SIZE](email-editor-upload-blocks.md#SIZE-param) | Доступные значения:   - `"manual 55 *"`, где `*` - любое число до 100. - объект `"extra"` со значениями:   - `"defaultMaxWidth"` — значение ширины письма;   - `"allowedTypes"`, где записываются все варианты ширины для картинки:     - `"inherit"` — «По ширине блока»,     - `"manual"` — «Настраиваемая вручную» |
 | Высота картинки | [HEIGHTV2](email-editor-upload-blocks.md#HEIGHTV2-param) | Указываются 2 значения через пробел в формате `50 50 manual` |
 | Размер кнопки | [BUTTON_SIZE](email-editor-upload-blocks.md#button) | Указывается тип, два значения для ширины и два дефолтных значения высоты через пробел. Первое значение для десктопной версии, второе — для мобильной.  ``` {   "width": "pixels 100 80",   "height": "50 40" } ```  Список возможных типов ширины:   - `pixels` — значение ширины в пикселях (max 600) - `percent` — значение ширины в процентах (max 100 min 10) |
-| Товарная сетка | [COLLECTION](email-editor-upload-blocks.md#product) | На выбор может быть одно из значений, которое будет стоять по умолчанию при использовании блока из галереи:   - "RECIPIENT_RECOMMENDATIONS" - "FROM_SEGMENT" - "FROM_PRODUCT_LIST" - "ORDER" - "VIEWED_PRODUCTS_IN_SESSION" - "PRODUCT_LIST_ITEM" - "PRODUCT_VIEW" - "FROM_CUSTOMER_COMPUTED_FIELD"   Количество выводимых товаров задается отдельно:`"size": 2` |
+| Товарная сетка | [COLLECTION](email-editor-upload-blocks.md#product) | На выбор может быть одно из значений, которое будет стоять по умолчанию при использовании блока из галереи:  Количество выводимых товаров задается отдельно:`"size": 2` |
 
 ### Параметры товарной сетки `role`
 

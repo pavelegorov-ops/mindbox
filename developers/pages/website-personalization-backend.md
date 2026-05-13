@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/website-personalization-backend"
 breadcrumb:
   - Персонализация сайта
   - Расширенная интеграция
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:df25e7febdfe0fcf8eabc946cf470e27e9568a2f65a7ef26b2fcd6bf2d8cc096"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:35470280f2cbd676dd084334c2717b48d6b25c20bb5cc75adec9cd7c8ce8692f"
 ---
 
 # Передача данных с бэкенда

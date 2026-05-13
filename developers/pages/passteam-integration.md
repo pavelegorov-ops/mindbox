@@ -4,8 +4,8 @@ slug: "passteam-integration"
 source_url: "https://developers.mindbox.ru/docs/passteam-integration"
 breadcrumb:
   - Стандартные интеграции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:64583d7f0c84cce148507aab1187f88311b6185df9c812d264fef6766ef19c8a"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:6f689ea0b12cffcd1847a85d9743d89a64cfe77260d0b5f1774da1b8c520ff32"
 ---
 
 # Интеграция Passteam

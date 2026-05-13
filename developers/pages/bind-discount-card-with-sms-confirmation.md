@@ -4,8 +4,8 @@ slug: "bind-discount-card-with-sms-confirmation"
 source_url: "https://developers.mindbox.ru/docs/bind-discount-card-with-sms-confirmation"
 breadcrumb:
   - Карты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:861164b05a63fb6cd6c1a1631f106ee96cabf04422f146fc69fcaee6aa710572"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:259a5ff3678f40ac7fbef30ad39ab05b248d8b39d5a0cd0d1ae98164f447248a"
 ---
 
 # Выдача дисконтной карты клиенту с смс-подтверждением

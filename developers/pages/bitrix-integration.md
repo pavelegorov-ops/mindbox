@@ -4,8 +4,8 @@ slug: "bitrix-integration"
 source_url: "https://developers.mindbox.ru/docs/bitrix-integration"
 breadcrumb:
   - Стандартные интеграции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:506af488a1c86df3957c4bfabd79cdc4f5cc6e60ac4be8cc8f0572abd957dd30"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:e836b6b1c51ba0cdb84f807f3311c6d6ac66db2740f9b5a516b31abffbb1e052"
 ---
 
 # Интеграция Bitrix

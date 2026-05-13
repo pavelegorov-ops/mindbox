@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/step-4-verify-basic-integration"
 breadcrumb:
   - Персонализация сайта
   - Базовая интеграция
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:4bf31f643c81ad58a0cae41b15f80b16569dad9656a733ce99abdf5cb6c120d2"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:aaf55c3524dd6c9452932d6041de57d048cced2e96aab63b54b26d98a607965f"
 ---
 
 # 4. Проверка базовой интеграции

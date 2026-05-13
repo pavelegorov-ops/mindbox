@@ -4,8 +4,8 @@ slug: "export-ftps-sftp"
 source_url: "https://developers.mindbox.ru/docs/export-ftps-sftp"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:72d993f7b8a5c9ade2c02a97636473045b034a5547cd2d498c40ed4044447023"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:7fd46b26fe9f51996562033855c7269322f6c04839e938fee88d5398180cf112"
 deprecation_hint:
   - устаревш
 ---

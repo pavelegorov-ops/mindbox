@@ -7,8 +7,8 @@ toc_path:
   - Рассылки
   - "Email-рассылки"
   - Страница отписки
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:0aa20e3d8a1bf1dbd5d45c82492c58141f7faf9c7ee0667f0d02e74f0cd25cfa"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:2c549f578682b921be2382e9e9fc5a24cccdec479c55846eb61e362a33599fae"
 ---
 
 # Как настроить брендированную страницу отписки

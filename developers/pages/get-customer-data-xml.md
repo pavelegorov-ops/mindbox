@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/get-customer-data-xml"
 breadcrumb:
   - Клиент
   - Получение данных клиента
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:1d5e44f16fb9570a2d762b146ba3e7ab701e4c2de8dcdf552da8700c8881af0b"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:fc3a9d7dc2f62702776042d8325c4d54759edb528fdea4018d7e5776f392c9d0"
 ---
 
 # xml

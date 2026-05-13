@@ -7,8 +7,8 @@ toc_path:
   - Персонализация
   - Персонализация сайта
   - Попапы и встроенные блоки
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:1837f9498888ddf681eceae49eb9a0d3a830d3bde0f4319e3ec57cf4de7d881d"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:529beffa58ebe5f1db25e0923cd759c792fb3c7e9c111d05fa77e9fb51b17a22"
 ---
 
 # Как настроить таргетинг формы

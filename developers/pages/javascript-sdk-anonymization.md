@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/javascript-sdk-anonymization"
 breadcrumb:
   - Общее
   - Javascript SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:b773e5f9f0da044eeebfaff6c20e8abc6894e5361f03f0fbe9bca2ca99e4cc08"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d333cecd27b10cfaafc995f8e845d014c1551e812055ad2cd5b5450811a68905"
 ---
 
 # Интеграция JavaScript SDK через Анонимизатор
@@ -46,7 +46,7 @@ content_hash: "sha256:b773e5f9f0da044eeebfaff6c20e8abc6894e5361f03f0fbe9bca2ca99
 
   });
 script>
-<script src="https://...mindbox.ru/.../tracker.js" async>script>
+<script src="https://api.s.mindbox.ru/scripts/v1/tracker.js" async>script>
 ```
 
   

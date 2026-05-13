@@ -4,8 +4,8 @@ slug: "update-order"
 source_url: "https://developers.mindbox.ru/docs/update-order"
 breadcrumb:
   - Заказы
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:066482a1a29d34251b8a54e8e709bee37fff35f961a285aeeb9a6c0b601c1220"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:fc12fa025499abf3bffec7562a2c57f6c170c5014c3318ca59fd3dc07654ce89"
 ---
 
 # Изменение заказа

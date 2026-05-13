@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/segmentations-reference"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:5214af60fdce2f08fac4f3a31f94ac917a19707383a0f851081ff08370191fa6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:8b943055f8720a99d1e3b088c82533a48e36ba2f6e6876e3c4c2861b588f51d9"
 ---
 
 # Справочник сегментаций

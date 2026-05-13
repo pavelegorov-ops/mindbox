@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-sdk-events"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:62e63b9ebfed16f743f280bb093e67465f2caa119e17fe8346406e19664347ec"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:3cc0bb61fecb0ce1e0af224f60ad1d0c53a18162b0db0944f51d46639ff442f2"
 ---
 
 # Передача событий через iOS SDK

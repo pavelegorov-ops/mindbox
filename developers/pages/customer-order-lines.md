@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/customer-order-lines"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:922dbe734ca3a189fe7e1aace51ee4839bb527ae23282a680ba617f0ae8eecc5"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c79726e8be78d279b036bbfcfb4c553eea16d87294c929c5645245b9fb7b1ab7"
 ---
 
 # Состав заказов клиентов

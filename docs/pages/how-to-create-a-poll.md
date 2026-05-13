@@ -7,8 +7,8 @@ toc_path:
   - Рассылки
   - "Email-рассылки"
   - Дополнительные возможности рассылок
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:458979518d611004c0f847660ed080641a71aa27dbe86fcfccbce3b2390e028b"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:a0deb2cffadcc0e5ca5ae68fe41151094ff867abb4ae6a50d3ffb9abfe7a8c31"
 ---
 
 # Как создать голосование/опрос в email-рассылке

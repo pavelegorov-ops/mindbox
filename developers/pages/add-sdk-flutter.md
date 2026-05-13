@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/add-sdk-flutter"
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:3ae330fe0a3b3ba037210786e6ec2ea401c9ae3d526cdaeb6b2fa072470210d2"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:348cfd99c9939bb4b67fa932c0aa305fa770a46b97465d0ab1acc8b79cd3ccad"
 ---
 
 # Добавление SDK в приложение

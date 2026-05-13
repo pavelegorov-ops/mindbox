@@ -4,8 +4,8 @@ slug: "segmel-integration"
 source_url: "https://developers.mindbox.ru/docs/segmel-integration"
 breadcrumb:
   - Стандартные интеграции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:77d7420c1ec940dbf832620d8f7b8ff248123b8322338c193e38c0e7ac9cd665"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:83f44e9e00f1dcc489f730eb74ea5821943494627d0f1505a0f1bb8cfb380cf6"
 ---
 
 # Интеграция с Segmel

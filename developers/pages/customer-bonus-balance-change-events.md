@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/customer-bonus-balance-change-ev
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:f11439f7cc2cef9aafeb9c4573aefc807a4ad0d3636fbcc58e0976770c4d8e66"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:00d24b4e0580af1ee75b54bc190294765d9b929d6880437567aee9d656d5faf2"
 ---
 
 # События изменений балансов баллов клиентов

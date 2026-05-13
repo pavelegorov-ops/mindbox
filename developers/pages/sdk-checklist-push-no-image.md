@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - Android
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:ef71a85164dec7263a75bdea4273a6f8d26d0bd79db9038e1cbacf92ad505271"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0a5845891e26e5bb5d91f6e7105b9e3ca7f2fc4d2f56a050362ef23a28dcf6c2"
 ---
 
 # В push-уведомлении не отображается картинка

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/add-sdk-react-native"
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8a5d79392b731c6bc43996a6ab5c42cb925617942a88bed5b43e85bacc9434d1"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:751f1abdbdb9ad6760f74260911f1aa5761099d31fe45d66f4684b7b8710eeb0"
 ---
 
 # Добавление SDK в приложение

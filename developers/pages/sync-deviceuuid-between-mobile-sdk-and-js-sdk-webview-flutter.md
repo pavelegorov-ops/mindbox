@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/sync-deviceuuid-between-mobile-s
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:69dbca12916c18e52d9ff5af65eba899aea5a58854731e8857e1d56505f6d718"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:333c327f07ccfc2961216ad2a28f91adc3e7412d9d653f7a345aed971f1ecc64"
 ---
 
 # Cинхронизация deviceUUID между Flutter mobile SDK и JS SDK в приложении с WebView

@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - Android SDK
   - Получение ключей провайдеров пушей
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:2237deb2f9d79cb7e253145335de923a91a1dd522b46632fb5b53024926c5d75"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:48196c27816157e058806468f0fcb033c5fb280ba8501abf7c4a0ea82d3cb9f3"
 ---
 
 # Получение RuStore ключей

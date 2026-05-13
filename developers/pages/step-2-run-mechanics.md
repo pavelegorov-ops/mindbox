@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/step-2-run-mechanics"
 breadcrumb:
   - Персонализация сайта
   - Базовая интеграция
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:d6ba6bf8f3252298f5173db7e672d983176cb5c714355ec7ebde11dee391ef4e"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:ecafcfd986edfd62227ae09a7563eb4d5e250a28085afc5b749aeefb7c2eb67b"
 ---
 
 # 2. Создание механики

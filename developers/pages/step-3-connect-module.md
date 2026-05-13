@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/step-3-connect-module"
 breadcrumb:
   - Персонализация сайта
   - Базовая интеграция
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:05df6a95c5f32e1aeea6c14b519804bcac5ba304bbb948a06024b8d0460b37f1"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:1684194f13eebef464834bf5147a1557ca9ef8fe8fa052b4af7a5a1a17efc8e6"
 ---
 
 # 3. Подключение модуля

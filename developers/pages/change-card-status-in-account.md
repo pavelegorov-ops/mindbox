@@ -4,8 +4,8 @@ slug: "change-card-status-in-account"
 source_url: "https://developers.mindbox.ru/docs/change-card-status-in-account"
 breadcrumb:
   - Карты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e7a9cea1b90ad33f4852733471d6f59c1ff8efc998578a45d46841f31c5d29b7"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:8e6e928b3343133143c033458569d988e966fb56ae339d23f59c6998306948b7"
 ---
 
 # Смена статуса дисконтной карты в личном кабинете

@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - Expo SDK
   - Дополнительные настройки
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:48496f519e99b6e1b49aeaa93a507bd231ef32adb1d04a3647f1bc7fcfc72527"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:5888e1d977ea463787b0ca298ff646c845602346950155eb2dcfdef6e930cc06"
 ---
 
 # Expo Notifications

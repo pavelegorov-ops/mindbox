@@ -4,8 +4,8 @@ slug: "frontol-integration"
 source_url: "https://developers.mindbox.ru/docs/frontol-integration"
 breadcrumb:
   - Стандартные интеграции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:b08d0f274fbc6f1ecc937fe97d6548e4ad84275b55ff306b598335a3427ee5b1"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:dc0dc69c9ad8d250d9395fcde0df29ff9d5ea1be468cc62873de8cadd4d573e8"
 ---
 
 # Интеграция Frontol

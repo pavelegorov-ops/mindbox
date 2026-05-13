@@ -5,15 +5,15 @@ source_url: "https://developers.mindbox.ru/docs/add-sdk-to-app"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:17d0e7c8c81138ea2412a93f1caf7f9fe4681939bf8c76fe083bc0a3d9910974"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:3ad04dad95ed39237c09a682dd3a4ac17deb0ad406dcf6c70b67d93438d89dd3"
 ---
 
 # Добавление SDK в приложение
 
 Поддерживаются 2 варианта добавления SDK в приложение:
 
-#### Swift Package Manager
+#### Swift Package Manager (рекомендуется)
 
 ### Результат:
 
@@ -32,4 +32,4 @@ content_hash: "sha256:17d0e7c8c81138ea2412a93f1caf7f9fe4681939bf8c76fe083bc0a3d9
 4. Выберите версию SDK
 5. Выберите ваш `Main Target` и нажмите `Add Package`
 
-#### Cocoapods
+#### CocoaPods

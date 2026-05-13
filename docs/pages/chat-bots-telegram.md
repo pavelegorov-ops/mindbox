@@ -6,8 +6,8 @@ vcs_path: "chat-bots-telegram.md"
 toc_path:
   - "Чат-боты"
   - "Создание чат-ботов"
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:246de2321f678144a65849e1b1f62dbde6d08d9af39ed020d7a70183b86e35c1"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:0497d8e73e0dc83ba1eb9d71bf3617e9fcacd07ca00a7206c5ca83c7a2d9fb3c"
 ---
 
 # Как создать чат-бота в Telegram через BotFather

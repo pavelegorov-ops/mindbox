@@ -4,8 +4,8 @@ slug: "update-product-category"
 source_url: "https://developers.mindbox.ru/docs/update-product-category"
 breadcrumb:
   - Номенклатура
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:1df1faf1cda77db5a4e10f99c3337e9a2eb932913e680a71d93d862e339e6ed5"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:6a14643d5775f1d52f411c8c5b8c4250fe2d2bdb2ab20fa06e62232d7a4e6e71"
 ---
 
 # Обновление информации о категории

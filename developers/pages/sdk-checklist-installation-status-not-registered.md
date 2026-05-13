@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - IOS
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:0ab99b17f750abecdc1cf07a3aa18df4825e92cbcb746f7522bb31f5e96596cc"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c6411328a957b25531efd6d7bfd97f34c6a24ca604fb6e5e31ce7c6a37c90307"
 ---
 
 # У установки статус «приложение не зарегистрировано в системе отправки пушей»

@@ -4,8 +4,8 @@ slug: "universal-links"
 source_url: "https://developers.mindbox.ru/docs/universal-links"
 breadcrumb:
   - Мобильные приложения
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:62cade25faed0691316bcccb915b4aabf704f0aea5de30c86984970cd096ca8f"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:a5180b3345a873dcd2041d056d245f3962d5bf96ad24db21c8eb7682c209d46d"
 ---
 
 # Универсальные ссылки

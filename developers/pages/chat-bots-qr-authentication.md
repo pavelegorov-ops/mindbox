@@ -4,8 +4,8 @@ slug: "chat-bots-qr-authentication"
 source_url: "https://developers.mindbox.ru/docs/chat-bots-qr-authentication"
 breadcrumb:
   - "Чат-боты"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:09537490da8b739c80e9cdaf3e213be9cee4aa58792a3dd4cb5b4444342d2b0a"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:69ccde7581ea65732cf95dbb257c42c13817dd0b0094c3aebdc15da15c2bdab8"
 ---
 
 # Аутентификация клиента по QR-коду на кассе

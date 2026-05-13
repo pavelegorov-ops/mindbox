@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/userredxml"
 breadcrumb:
   - Клиент
   - Редактирование данных клиента
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:029a2e2a700e7ba2287ee155df6135a62ed383a95d05b1888ee04b661c3369df"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:33797d556bceb0ebe413a1cc742402f6ae7b5e04c04796b583f3a186c9b06835"
 ---
 
 # xml

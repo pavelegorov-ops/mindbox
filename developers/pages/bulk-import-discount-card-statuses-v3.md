@@ -4,8 +4,8 @@ slug: "bulk-import-discount-card-statuses-v3"
 source_url: "https://developers.mindbox.ru/docs/bulk-import-discount-card-statuses-v3"
 breadcrumb:
   - Карты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:63c07cf3bbe9a59661e64ddbe9fa3753e6c4f64d4734e34dcf700e592a564573"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:b9af49247247cbfcc0d50b266a135f37f6a125b2ae5a6c7f24b454433cc48c51"
 ---
 
 # Массовый импорт статусов дисконтных карт

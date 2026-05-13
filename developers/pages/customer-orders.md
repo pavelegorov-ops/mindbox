@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/customer-orders"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:56c27e50e31e66fe86712cfed5f1596e7fea2af953d8bdaac872e32704eaa045"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:147a8f1017501c84bb9d930f399f1f0d434e867e5e7b023fae6729f841a63a08"
 ---
 
 # Заказы клиентов

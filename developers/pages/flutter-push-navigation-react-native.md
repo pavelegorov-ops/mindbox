@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/flutter-push-navigation-react-na
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:840668639a597c528ab3194b3cb83aa8ed95ee4c754e733e3471e07819db8bff"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:a6bbe87d26fd87c874504e8d781ddbdfdc65b9b951911bd53c9725d4247238e9"
 ---
 
 # Навигация по клику на push-уведомление

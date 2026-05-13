@@ -4,8 +4,8 @@ slug: "get-personal-offers-list"
 source_url: "https://developers.mindbox.ru/docs/get-personal-offers-list"
 breadcrumb:
   - Промокоды и промоакции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:15ed2f8c21aacf0491d864a8790a343eccdf4728366a551e6cc946934b780752"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9d09e127c8f2bce966a08561827b025dcbb04c592db7ef4f305629e760bd0a52"
 ---
 
 # Получение персональных предложений

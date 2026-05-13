@@ -4,8 +4,8 @@ slug: "android-sdk"
 source_url: "https://developers.mindbox.ru/docs/android-sdk"
 breadcrumb:
   - Мобильные приложения
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:4439e81f9e548d7357fa2ced31d955f2e0e7aea765dcd076e7101af12d2e9a21"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f3932f3232a339658ac09c8543af3c22e526aeb23c1753942e06310e8a4f09c3"
 ---
 
 # Android SDK

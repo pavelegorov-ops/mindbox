@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-sdk-configuration-fields"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:57f28847650bb05dada5fb7d01fb73ef7b1caedfa7c669f561aedd95d9608c6f"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:05a0227eda9d8ad0088260b10657efe5881af1f8ae980dd7f8b0161aab2ea95e"
 ---
 
 # Поля конфигурации iOS SDK

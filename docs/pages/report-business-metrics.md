@@ -5,8 +5,8 @@ source_url: "https://help.mindbox.ru/docs/report-business-metrics"
 vcs_path: "report-business-metrics.md"
 toc_path:
   - Аналитика
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:7400ef43731a4bb928bec3db6981473c1a917e8623a22327bdae5c9416286cd8"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:8af3c29c2d1c364e8a784e8f608a7232500c5875a563751b830917cfa9957133"
 ---
 
 # Отчет «Метрики бизнеса»

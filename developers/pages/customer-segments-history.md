@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/customer-segments-history"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:eb384ba84853fcb5859e50ae91307f6714878dd7251b037b492d853087253a41"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:043bf9c0b59abfe15e53e7341d4a100fa15e85bd98784b4f7eb36f3bf60182bb"
 ---
 
 # История сегментов клиентов

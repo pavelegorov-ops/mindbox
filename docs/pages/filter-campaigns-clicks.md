@@ -6,8 +6,8 @@ vcs_path: "filter-campaigns-clicks.md"
 toc_path:
   - Фильтры
   - "Рассылки: фильтры по клиентам с рассылками"
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:7392902e019be192b9f8ddd220ad06f8c688b028e8c1d85904d1bef8c026add9"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:15370431be99b88987a69d76100fe6fbb0bf997894db2298900e902eb06d5492"
 ---
 
 # Найти клики по конкретным ссылкам в рассылках

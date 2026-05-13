@@ -5,8 +5,8 @@ source_url: "https://help.mindbox.ru/docs/how-to-create-ecom-quiz"
 vcs_path: "how-to-create-ecom-quiz.md"
 toc_path:
   - Опросы и квизы
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:39eeb90d776e8d09b481959075b42aa8d26030b1cbdc6c7ca1263ec663851288"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:130ea798d912d4aed74c9a8e66716a2e0bf65ff4f74337867967cbe003b2c733"
 ---
 
 # Как создать Ecom-квиз

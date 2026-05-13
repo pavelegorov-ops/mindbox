@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - iOS SDK
   - "Настройка Rich-push уведомлений"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:6d4b331c2b9655b3ae416bc84bb7ca330fa89dfb4b527b1fd7690a07ecb98951"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0df1bf9ea7dc2ebd93331a72d6352815d33057a15083de65f55e9dfbc2c1a59e"
 ---
 
 # Отображение превью картинки
@@ -95,7 +95,7 @@ Push-уведомление должно отобразится с малень�
 
 ![](https://storage.yandexcloud.net/assets-developers-mindbox-ru/images/bab3dcd6b70986bac52dcae9225daa65b16afd8fb7ce39f15351beb87150eff9-__2025-03-24__18.41.57.png)
 
-#### Cocoapods
+#### CocoaPods
 
 ---
 

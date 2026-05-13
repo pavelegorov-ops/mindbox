@@ -4,8 +4,8 @@ slug: "upload-attachments-for-emails"
 source_url: "https://developers.mindbox.ru/docs/upload-attachments-for-emails"
 breadcrumb:
   - Рассылки
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:66cf67898793548d109a113fcd0729fd50075891192bac22b6a105b8d6dc0261"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0bd28bf98ca3033a33bb2f6776899b9b14a1b0597c6e55513127dd06af7e7c53"
 ---
 
 # Загрузка вложений для использования в письмах

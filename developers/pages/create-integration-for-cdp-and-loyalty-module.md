@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/create-integration-for-cdp-and-l
 breadcrumb:
   - Стандартные интеграции
   - Интеграция с приложением «Кошелёк»
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:863dd5bc019cfa88ead2e2ff51f54e93840885ba2aacf15435075fb91549d1c4"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0bc82209f820f556c6932a7ccfac47f5c4a21cb3d77c70be0b879b9f3543dc12"
 ---
 
 # Механики для интеграции приложения «Кошелёк» с модулем лояльность на Mindbox

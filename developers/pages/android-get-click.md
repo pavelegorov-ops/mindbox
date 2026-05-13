@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/android-get-click"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:ce22418b8d6e46738c44b2cc7c68b0d5d166575f90949c9e8b47a7c424de2ae9"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:ad2730cdb4135590958c018575ba2da3120921d53da885a7d62a59a0efac4532"
 ---
 
 # 4. Получение кликов на мобильные push-уведомления

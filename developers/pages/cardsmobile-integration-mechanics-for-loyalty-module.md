@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/cardsmobile-integration-mechanic
 breadcrumb:
   - Стандартные интеграции
   - Интеграция с приложением «Кошелёк»
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8078049d1691d3da9c63c59e52bb7cacc2562362bed1f77da65430b0c5eff432"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9db95efeb5af758eb46cce3d0a2f34ef6ef45a8c26e2c22e9eb459dbbf7bd373"
 ---
 
 # Механики для интеграции приложения «Кошелёк» для отправки пушей

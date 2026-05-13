@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/how-to-receive-push-notification
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:af56fad55cfe783ffa027557c924ee8b0bacf31ac9aade1dd7fcde65a7a29d6b"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2eed37b3b15dacf8c9124c2fb4aa7c2747f20e1facb8bea0fb43b4ed6e3dd849"
 ---
 
 # Как получать пуши из нескольких источников отправки

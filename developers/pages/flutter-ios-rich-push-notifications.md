@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/flutter-ios-rich-push-notificati
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:7bb2a77d64867401d0bfbfe9a888d75c9c562a77cee7bf9a6fc7f0d4161b36f8"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:206eeac1ea3e6494886a24facf6f76d72451bd52d7651de4729f7e20f8c11691"
 ---
 
 # iOS | Настройка Rich-push уведомлений

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/add-ios-integration"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:a23f82a1666e2f4dab3e3756d643f834b5cb2b2411fd7154ee8efc3d359b86c7"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9cba0ad7812a58c2baf31f82fbd0dda60e89b9df256e0af2a811817e03d01c9c"
 ---
 
 # Настройка точки интеграции

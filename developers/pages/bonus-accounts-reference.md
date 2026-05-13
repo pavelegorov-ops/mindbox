@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/bonus-accounts-reference"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:9031acbd78c4582223e2a558b0c9e4b13ae6b0552953bf06f5b359e575f84a0d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:753abef21619de4db528c9373d44be7c5d17b47ffe4bc43ec3db38f4d02b6f70"
 ---
 
 # Справочник балльных счетов

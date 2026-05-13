@@ -4,8 +4,8 @@ slug: "time-zone-edit"
 source_url: "https://developers.mindbox.ru/docs/time-zone-edit"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:337486eacec3ab1eb1d0573c2d60cf1776f002273e60da7c5b37411360412b01"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:1e2168d2ab92dec5bf68744d629eba3292b0aaaf4011c6fe1b435af2b633db4c"
 ---
 
 # Передача часового пояса

@@ -4,8 +4,8 @@ slug: "bulk-import-discount-card-pool-v3"
 source_url: "https://developers.mindbox.ru/docs/bulk-import-discount-card-pool-v3"
 breadcrumb:
   - Карты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:9e39bb8ab312bf9a391aca3b87c455af2a6a547721b2afcef0cb5243e9d69450"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2048c697ce76e009ec9194b7d2910a882592e028e884267684e031b0a1780ed3"
 ---
 
 # Массовый импорт пула дисконтных карт

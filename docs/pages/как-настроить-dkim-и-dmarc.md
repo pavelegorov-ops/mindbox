@@ -8,8 +8,8 @@ toc_path:
   - "Email-рассылки"
   - Дополнительные возможности рассылок
   - Цифровые подписи
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:9b94707572302aa3b7e14b85b541a900df834940f517ef51993ea838a503208e"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:593c315beefaae002f4fae7c5d4860893c3acffcf0b3b92867f4e16ed945bdaa"
 ---
 
 # Как настроить DKIM и DMARC

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-send-push-notifications-flut
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:ee23a1da7b1fb0de6fe227c0962c6d4b7e7e847e0b5958cda4d4a6e694f450df"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:e24f02d23bd00cfba8213369543f32cb1b519cd5149baa7b4daa1c3e0d2a31ad"
 ---
 
 # iOS | Настройка пуш-уведомлений

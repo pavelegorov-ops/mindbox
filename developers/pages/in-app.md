@@ -4,8 +4,8 @@ slug: "in-app"
 source_url: "https://developers.mindbox.ru/docs/in-app"
 breadcrumb:
   - Мобильные приложения
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e9d1c9254bee62873a5493f84c67dacd05563659e237885e0a8548f6ad3f0a61"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c176d870ad20213322d872ce2ae54c927095f8ad316c7b7a75eff83cee4f3b46"
 ---
 
 # In-App

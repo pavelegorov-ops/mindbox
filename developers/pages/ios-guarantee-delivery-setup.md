@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-guarantee-delivery-setup"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:d460dea9ba7b22e61ff5bf30419f9c7e65e0dbf7c90b8d20df9cde995c18852e"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:081f4e4d0f6e96e66a629155fa0daab80279e220286788ffb5eb7c12a6bde878"
 ---
 
 # Настройка гарантированной доставки

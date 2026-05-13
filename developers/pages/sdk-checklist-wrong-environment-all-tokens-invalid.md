@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - IOS
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:055bcad544106960836633debbd46c8d6dea7983ff97b20a842a7a1c2ae489c5"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c6a5a359f104e7bc176af5c44cd7c8da733f7f0f8a1149dfc310aad6355b122b"
 ---
 
 # Ошибка с текстом «неправильное окружение / Все токены доступа невалидны»

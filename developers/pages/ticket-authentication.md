@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ticket-authentication"
 breadcrumb:
   - Клиент
   - Аутентификация
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:67950523675ec3001046613c178c31fda8eb1d26e8205acd572cfd5531f23dc3"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:b4e771b07e321a778c62f0c60b731e0e2fb2496679db06685208389fd95295d6"
 ---
 
 # Аутентификация по ссылке из рассылки

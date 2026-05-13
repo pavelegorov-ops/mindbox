@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/javascript-1"
 breadcrumb:
   - Клиент
   - Получение данных клиента
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8223ae92968f3256086f249b9ae7aefb27750d58771d576baa165db26f0627a3"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0fab6d3764ccf82858e32a2ac6a0e4baff7c75577518c40281bc344464fdc62b"
 ---
 
 # javascript

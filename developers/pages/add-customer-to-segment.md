@@ -4,8 +4,8 @@ slug: "add-customer-to-segment"
 source_url: "https://developers.mindbox.ru/docs/add-customer-to-segment"
 breadcrumb:
   - Сегментации
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8ea856b77fc14617fbce94f0dec789dd02fcbe93131e9fa8d106b72e0b3d2c03"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f39a5c957fbe134e3d2f551377d61df3669ba1e41fc9cf89ba8ca7a77dd8ffc7"
 ---
 
 # Включение в сегмент

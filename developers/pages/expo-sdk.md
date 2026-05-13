@@ -4,8 +4,8 @@ slug: "expo-sdk"
 source_url: "https://developers.mindbox.ru/docs/expo-sdk"
 breadcrumb:
   - Мобильные приложения
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:44030df64a8f51284af20520d9a279ad4b8b075de521a34ced723d997ebfd16c"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d33114626764e7697ec2250c6c03a84cbe2b4d09b4c5163a30563a61ee4f5c32"
 ---
 
 # Expo SDK

@@ -4,8 +4,8 @@ slug: "mobile-sdk-reference"
 source_url: "https://developers.mindbox.ru/docs/mobile-sdk-reference"
 breadcrumb:
   - Мобильные приложения
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:18e32aa98f9bc604b724e3fb8ebfe66f1ef9c9b9df8e56c86d976203156449da"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:382349bceda118829c0048299bb7f74e232f135d17ce25eef14d433c2bb88fbb"
 ---
 
 # Справочное

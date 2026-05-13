@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/flutter-get-push-keys"
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:40495f94466d66325edd32754d46b993d861f8f1e9422ebb2812bc9f277675d3"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:3798f236e1f8fc5e9fb9cd51554e495f7c492f91b6e78dcdce3780957bc9932d"
 ---
 
 # Получение ключей для пуш-уведомлений

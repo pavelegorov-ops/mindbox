@@ -7,8 +7,8 @@ toc_path:
   - Рассылки
   - "Email-рассылки"
   - Конструктор писем Mindbox
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:a5f5906ca2353e0041956e72cb1a56afe339b3145924d77ca25f0d9a7f3c675e"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:0435f5dac9b13d810d8c0e8d381d44020a98de43ec2121f9878039b68a9f9f54"
 ---
 
 # Ограничения почтовых клиентов

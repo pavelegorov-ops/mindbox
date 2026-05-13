@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/how-to-work-with-customer-merges
 breadcrumb:
   - Данные для аналитики
   - Как периодически обновлять данные
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:144f7a66e58ae50bcf5e962f6c23400e9252c9c7a2cca35f30fc05dabf5e7c68"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:422eca40a78aaa2834a4d44c86ef22dcebd08993667dcea6dbca91c6661610ff"
 ---
 
 # Как работать с объединением клиентов

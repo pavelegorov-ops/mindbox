@@ -4,8 +4,8 @@ slug: blacklist
 source_url: "https://developers.mindbox.ru/docs/blacklist"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e00314293ee94dd0eb44bf7565b75665a5143d9a8b2504bd930dc89e3ab29fa6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:1e169a2a37cbe5212a036fd6aa83562aa31fd9ad80a5a7561fce5af05447848d"
 ---
 
 # Черный список контактов

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/tracker-installation"
 breadcrumb:
   - Персонализация сайта
   - Базовая интеграция
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:df0ea970a82a786b84b04476329559e80c8a49aa21f0b9dee9588969c12edb9a"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:a57779c4e226ad058ba9816ca08a257f819ae54876570b5c25983b54c548c6ee"
 deprecation_hint:
   - устаревш
 ---

@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - Общее
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:23d7bd7260e6d9338f9e1c8ccff065e2572e24085aa8eb4209493c6e684fb0a5"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:bb87c3c4e20402845ccb6286ed8cb960ec67ca6826a509d8ead1ec1cda13e61a"
 ---
 
 # При отправке запроса через SDK в консоли ошибка

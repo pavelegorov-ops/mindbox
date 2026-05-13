@@ -4,8 +4,8 @@ slug: "export-event-log"
 source_url: "https://developers.mindbox.ru/docs/export-event-log"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:90eacbbf3cb9516a777528bc40906d61b8b676983091280380932a64561983c2"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:227df9b9c8b27c8552d7aba856b422227081651b70015691e6a48ae1d9991e7f"
 ---
 
 # Экспорт журнала событий

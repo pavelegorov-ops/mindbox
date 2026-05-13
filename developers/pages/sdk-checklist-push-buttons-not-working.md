@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - Android
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:fd6a2f82363312e4975b27c8b6d38c40befa58460baa4a596fc8b60ef8a9912e"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:4c1aa0f554c8070e3b7ff3c9fe74fdbbeacd79a66545591bff0abe2b035e84b3"
 ---
 
 # В push-уведомлении не отображаются кнопки по нажатию

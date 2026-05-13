@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/android-sdk-methods"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e36d61f0872e31c9cba5d615f22ffb875264eb3be4118d4d0da4ddf0d25b1e02"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0f2acdbd4afe8dae24589012d24b446a66c9477f4efb3bb93738afa8acb7bf27"
 ---
 
 # Методы Android SDK

@@ -3,8 +3,8 @@ title: "[Flutter] [iOS] Самостоятельная настройка пуш
 slug: "flutter-ios-advanced-push-setup"
 source_url: "https://developers.mindbox.ru/docs/flutter-ios-advanced-push-setup"
 breadcrumb: []
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8e025dc5ed8ace86d1a5ae59a72f033cfdf15f0fed783b506a19913cd713bf51"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d899b402269584e4e84ac8670a59f21e3acf9c89eadb3035ba050f7949237e9d"
 ---
 
 # [Flutter] [iOS] Самостоятельная настройка пуш-уведомлений

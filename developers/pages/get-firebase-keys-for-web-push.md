@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/get-firebase-keys-for-web-push"
 breadcrumb:
   - Рассылки
   - Вебпуши
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:5c44f14d106d49a1163049ec0d81bd80f464fb59dd1223b6e05bcd987045e1dd"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:bd601b3b4b28b3930a2ac6b6ef224e18ce5215325c92759156f9c3d7b17e248d"
 ---
 
 # Настройка отправки пушей на сайт через Firebase

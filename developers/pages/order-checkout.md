@@ -4,8 +4,8 @@ slug: "order-checkout"
 source_url: "https://developers.mindbox.ru/docs/order-checkout"
 breadcrumb:
   - Заказы
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:84dde4d9ba159e215f70317beab3a0a547fca26c6eefeceaf64dc1900625abe5"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:ffa144279e8000a6346a584c4f779f7c017290e26a4418b900658297d5f9306a"
 ---
 
 # Оформление заказа

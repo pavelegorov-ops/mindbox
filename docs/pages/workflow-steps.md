@@ -6,8 +6,8 @@ vcs_path: "workflow-steps.md"
 toc_path:
   - Сценарии
   - Блоки сценария
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:bc96e5919c1b87c036ea5fab4f0a3439ae3846628fc48192e1fd2b00b44432b9"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:54f1b6bacc6712bd8f39ffc2cdb07ae75772f906859bf6db6fd59dc911c867f8"
 ---
 
 # «Группа шагов»: какие шаги можно выполнить в сценарии

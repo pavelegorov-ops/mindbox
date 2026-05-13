@@ -4,8 +4,8 @@ slug: "get-project-segments-list"
 source_url: "https://developers.mindbox.ru/docs/get-project-segments-list"
 breadcrumb:
   - Сегментации
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:57d5867b33259a1486b4646c94983e11cb5fd25cce50949180668aeb4501d46f"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f181698272a29e66bc8246eef5614dde98295ab214aced5609269248650a2719"
 ---
 
 # Получение списка сегментаций

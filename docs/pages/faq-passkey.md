@@ -7,8 +7,8 @@ toc_path:
   - Администрирование
   - Безопасность
   - Ключи доступа к Mindbox
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:3fcae2205ee96a7215ae9ac4d7ba09039cca2c2d1ddbc837425dd18840bcc26f"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:489ec9a2843e062a8a7269fccb3834e17d5f8cbdd44cbda0a3622baea5cd67a8"
 ---
 
 # Решение частых проблем

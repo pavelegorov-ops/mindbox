@@ -4,8 +4,8 @@ slug: "export-operation-logs"
 source_url: "https://developers.mindbox.ru/docs/export-operation-logs"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:93b44aaf86f7d61013a9c8a275eb9b5efe56a55ba3a267a8de62e032c023dbb4"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0ff964bde9fe4c2911b5e828e7e999717dad15eee2f482c0e2a5115ab58aeb4a"
 ---
 
 # Экспорт логов операций

@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - Общее
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:ab536ead92d377b731782d7bb64d2ae1c8644ed22f0cd4dff56142cfef2044fd"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:7c2f8d100b81d023b14e243fdd6c64c235b638df52d9e1ca743386cf8f039bae"
 ---
 
 # Приложение запустилось, но в консоли ошибка

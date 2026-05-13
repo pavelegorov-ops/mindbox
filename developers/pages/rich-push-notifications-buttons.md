@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - iOS SDK
   - "Настройка Rich-push уведомлений"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:3430e1b99acae4417d894287a7e9be28137416c4fea2396754cf9a47c8e82687"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:5205c004c46970ce83a64f9151e6fdb271605f4931980d405c6b0ca4bd134742"
 ---
 
 # Отображение картинки и кнопки
@@ -98,7 +98,7 @@ content_hash: "sha256:3430e1b99acae4417d894287a7e9be28137416c4fea2396754cf9a47c8
 
 ![](https://storage.yandexcloud.net/assets-developers-mindbox-ru/images/bab3dcd6b70986bac52dcae9225daa65b16afd8fb7ce39f15351beb87150eff9-__2025-03-24__18.41.57.png)
 
-#### Cocoapods
+#### CocoaPods
 
 ---
 

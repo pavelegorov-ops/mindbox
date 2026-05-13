@@ -4,8 +4,8 @@ slug: "ios-sdk"
 source_url: "https://developers.mindbox.ru/docs/ios-sdk"
 breadcrumb:
   - Мобильные приложения
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:2a51ba4055feefd464745d58c50e600006fd322649621888d78f5e7c01d8659c"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0a4ea149a66fab40d05c5a97dcda765cfe60e5b087ea0c1ca5916caabb6ff047"
 ---
 
 # iOS SDK

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/rn-get-push-keys"
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:625e30b94c4f4aa8de1462b59504447581f8daa2858d0cb6d6555aed05fb1fc6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:630d7317998b8dcb3374a6618b3b3659b69f6d429599979f736198cc975356fe"
 ---
 
 # Получение ключей для пуш-уведомлений

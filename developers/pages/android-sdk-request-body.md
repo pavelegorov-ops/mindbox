@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/android-sdk-request-body"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8420c9198e766213a9bd141fa4367664546bfdc5524ddd9b6e8f957b7619de38"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:eb2a2a960e381be9a703b16eabdc62257a373470f26701cc76656307d1458bf9"
 ---
 
 # Структура конструктора запроса Android SDK

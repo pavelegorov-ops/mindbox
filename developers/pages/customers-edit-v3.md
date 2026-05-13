@@ -4,8 +4,8 @@ slug: "customers-edit-v3"
 source_url: "https://developers.mindbox.ru/docs/customers-edit-v3"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:d9256d67865291add24efa38afe86cd38669b5c62871d285c611a9be65711fe8"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c63e14b5c1bdb17390802f92a4e38893004ff90330013cd8878acc0aa785fafc"
 ---
 
 # Массовое редактирование клиентов

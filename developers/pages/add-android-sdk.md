@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/add-android-sdk"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:96d0c3031a71c488a4373ab876087f98818a24ece3bad865e4a1b3402deacb80"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:5cb0d4c614caf8770a4f8e93531103b0c8881ba810b02f39180f878b51e47b21"
 ---
 
 # 1. Добавление SDK в приложение

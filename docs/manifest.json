@@ -2,8 +2,8 @@
   "version": 1,
   "format_version": 2,
   "source": "https://help.mindbox.ru/docs",
-  "generated_at": "2026-05-05T06:49:19Z",
-  "toc_hash": "sha256:b2733a5955b74cd5e54982b95cf5a803e12e1858dd121fa3a3eb36f8b22e8136",
+  "generated_at": "2026-05-13T11:53:12Z",
+  "toc_hash": "sha256:8e700411c1fcf3643816c8f91a6f91fc09b46d19ef0eeda30a52c55640461653",
   "page_count": 654,
   "pages": {
     "1-этап-изменения-в-интеграции-заказов-с-процессингом": {
@@ -202,8 +202,8 @@
         "Лояльность и акции",
         "Баланс и баллы"
       ],
-      "content_hash": "sha256:3b932c94a636d10faf5667540fa82aeff0b55aded3c11b18df43175ea2d262f3",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:2f70ae740ecc32d3f5630ec196a5faea75cbde3e3ba02ded9f3077487374c30c",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "balance-reset-bulk": {
       "title": "Как обнулить баланс по файлу",
@@ -346,8 +346,8 @@
         "Email-рассылки",
         "Страница отписки"
       ],
-      "content_hash": "sha256:0aa20e3d8a1bf1dbd5d45c82492c58141f7faf9c7ee0667f0d02e74f0cd25cfa",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:2c549f578682b921be2382e9e9fc5a24cccdec479c55846eb61e362a33599fae",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "browser-console": {
       "title": "Как открыть консоль браузера",
@@ -368,8 +368,8 @@
         "Лояльность и акции",
         "Дисконтные карты"
       ],
-      "content_hash": "sha256:98df9d7974ce5272915bad162f2a358d8825aec2e4125134654e8cfea2655856",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:ef2fcea068f708541f94d6e59c3563cba3fef4b6bc373ca04efe05bb73235d6c",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "channel-add": {
       "title": "Как создать канал",
@@ -415,8 +415,8 @@
         "Чат-боты",
         "Создание чат-ботов"
       ],
-      "content_hash": "sha256:d8bfef6f3cc3fe07c78d04a5ea76451a497ecdbe4a6e1e4540e68cd04fd2107d",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:bd0e3cf8c020a49716e440e1e739ea676774bcdc4eb571a4b40e07d0c44ed50b",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "chat-bots-telegram": {
       "title": "Как создать чат-бота в Telegram через BotFather",
@@ -426,8 +426,8 @@
         "Чат-боты",
         "Создание чат-ботов"
       ],
-      "content_hash": "sha256:246de2321f678144a65849e1b1f62dbde6d08d9af39ed020d7a70183b86e35c1",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:0497d8e73e0dc83ba1eb9d71bf3617e9fcacd07ca00a7206c5ca83c7a2d9fb3c",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "chat2desk-integration": {
       "title": "Интеграция Mindbox c Chat2Desk для отправки сообщений",
@@ -437,8 +437,8 @@
         "Операции и интеграция",
         "Дополнительные возможности"
       ],
-      "content_hash": "sha256:2718c6853da6890f151450381446e08987557c7dd3297ac773e455676ab9aa46",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:36e18103848d7cd524836a6ae135186ae3a2eb20d2c6ba4ebdc428de37ec7507",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "chatbot-what-is": {
       "title": "Что такое чат-боты и как их подключить",
@@ -495,8 +495,8 @@
         "Клиенты",
         "Личные данные"
       ],
-      "content_hash": "sha256:cf14042c291c87dd734964252126cdbafacfcc1da8db03428468868453bdf007",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:4aed0a678375bcb30696cb63877b7f3b17ec48eb3c693d0254b16b374b93afa5",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "client-sex": {
       "title": "Как определяется пол клиента по имени",
@@ -583,8 +583,8 @@
         "Добавление, редактирование, выгрузка и удаление",
         "Массовый импорт и редактирование"
       ],
-      "content_hash": "sha256:c3ee2e90ff563dc4ca25bd58ace993182c0f4b46025381978070330d14725fef",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:3aa411576e864a77ff61971768716719fa17fda1433f642938095f94d4a35703",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "clients-import-edit": {
       "title": "Как редактировать клиентов",
@@ -619,8 +619,8 @@
         "Клиенты, заказы и продукты",
         "Дополнительные и вычисляемые поля"
       ],
-      "content_hash": "sha256:a8622d77edaafb6d084cf3ad320db91ff8606422c55000f2f631fb8c4512c817",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:66a771c869f2fa148406925e8f0b49dc4dbeffc521aca197ee4e704352909f69",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "custom-field-delete": {
       "title": "Как удалить дополнительное поле",
@@ -676,8 +676,8 @@
         "Аналитика",
         "Отчет «Метрики бизнеса»"
       ],
-      "content_hash": "sha256:eaebd4c6c01682597ecd5a2278f32637aec8b042b3e04d4c5bdd621b8fcbfa50",
-      "fetched_at": "2026-05-04T11:22:58Z",
+      "content_hash": "sha256:cd60d21cd5d4be64dde9680e9540821b3274c6c0b4e7e1956c77bc39c1a1f8a2",
+      "fetched_at": "2026-05-13T11:52:59Z",
       "deprecation_hint": [
         "прекращ"
       ]
@@ -851,8 +851,8 @@
         "Сценарии",
         "Разные настройки сценария"
       ],
-      "content_hash": "sha256:24494709094350a616eb4818fc1dfce7f28f0091a96b192c7be105a6a8ab3658",
-      "fetched_at": "2026-05-04T11:22:58Z"
+      "content_hash": "sha256:423808c324018a36d042af7f96d2ed8deef27bc83485aabc06afde0770ff577b",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "edna-pulse": {
       "title": "Как отправить рассылку в WhatsApp через Edna Pulse",
@@ -875,8 +875,8 @@
         "Контакты и идентификаторы",
         "Подтверждение контактов"
       ],
-      "content_hash": "sha256:9fc098126058e052a8180202062804599f7ec9e8e7265fafe93c3987d27e6993",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:b5b18bf820b89b12a7bf2824ba0034bb0703cc706763a95e42f4d5a46e16dd45",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "email-client-limitations": {
       "title": "Ограничения почтовых клиентов",
@@ -887,8 +887,8 @@
         "Email-рассылки",
         "Конструктор писем Mindbox"
       ],
-      "content_hash": "sha256:a5f5906ca2353e0041956e72cb1a56afe339b3145924d77ca25f0d9a7f3c675e",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:0435f5dac9b13d810d8c0e8d381d44020a98de43ec2121f9878039b68a9f9f54",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "email-editor": {
       "title": "Конструктор писем Mindbox",
@@ -923,8 +923,8 @@
         "Email-рассылки",
         "Конструктор писем Mindbox"
       ],
-      "content_hash": "sha256:af612758cf6fb6b53203fa9c8232feb37d57922e1e6ef69dfd7cf0905fe96fb2",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:e1b7378dda4cd383d1d4dd076c4ab9138097d2934296118f98131e23800ec4cc",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "email-editor-computed-field": {
       "title": "Вывод продукта из вычисляемого поля (новый конструктор)",
@@ -960,8 +960,8 @@
         "Email-рассылки",
         "Конструктор писем Mindbox"
       ],
-      "content_hash": "sha256:5a2a8d9c4aaad2ba9a19b2701334263b827bdd954ecfe85671b8f4a6fe9d7645",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:2c4d39ef2039fecb7e0cceb6e5064275d5f846c04f130005e6f8eb28c5e09163",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "email-editor-product-recommendations": {
       "title": "Вывод рекомендаций к продукту (новый конструктор)",
@@ -1038,8 +1038,8 @@
         "Конструктор писем Mindbox",
         "Загрузка блоков для конструктора"
       ],
-      "content_hash": "sha256:598f49ec1cc3654f66630c258af5e652dacd570e483f8b6fd1c2a7213e9c2834",
-      "fetched_at": "2026-05-05T06:48:43Z",
+      "content_hash": "sha256:b04cd37061e1715353d1593a2c6bf1edafe2ba91125cbb359af540ccec0ca638",
+      "fetched_at": "2026-05-13T11:52:59Z",
       "deprecation_hint": [
         "не используется"
       ]
@@ -1054,8 +1054,8 @@
         "Конструктор писем Mindbox",
         "Загрузка блоков для конструктора"
       ],
-      "content_hash": "sha256:5d071ca7f13b175a7f68b61005c19923e25a544c9467a35c9e20c9133a2c180d",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:fc5de886f91140e700553d3556802198ffd180536e81d1ba29334e02f49e7b64",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "email-mass": {
       "title": "Как создать массовую email-рассылку",
@@ -1065,8 +1065,8 @@
         "Рассылки",
         "Email-рассылки"
       ],
-      "content_hash": "sha256:c41dd5d733615fffa294e116f2045ca1e5f238f9dcde912858613b1b570aef72",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:2349f06d042da8cdd303564106b20224aae404c6af7ba1985e4e88dbfd5fda5b",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "email-not-delivered-reason": {
       "title": "Причины недоставок email-рассылок",
@@ -1091,8 +1091,8 @@
         "Рассылки",
         "Email-рассылки"
       ],
-      "content_hash": "sha256:0f4e98c1ac5e3628c49442272b56915f954681367136bc6af13937066487c561",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:29340ecf69b6cb5bcfa78421b42ca34e3b14b98078ff3ee1415cb8e18bbd90d2",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "email-validate-manually": {
       "title": "Как вывести email-адрес из списка невалидных через интерфейс",
@@ -1129,8 +1129,8 @@
         "Email-рассылки",
         "Дополнительные возможности рассылок"
       ],
-      "content_hash": "sha256:743475abe65bfd82019fb2358454540d52de0fe108127aca18c0235d5dc5696a",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:5531795c4e49bbff7c61313f20a877bba25bdbf94498ffd27059ffb151294e5f",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "enterprise-security": {
       "title": "Модуль «Усиленная безопасность»",
@@ -1215,8 +1215,8 @@
         "Мобильные пуши",
         "Создание и отправка мобильных пушей"
       ],
-      "content_hash": "sha256:e0c151375e0bd4c4d2e9aec5d9aa5c20684fd26bf55502776843e329cdc74ac7",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:039e435d72c30a7fe17a0c967bcd4156031a565a9004437c41ea9561343405fd",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "faq-passkey": {
       "title": "Решение частых проблем",
@@ -1227,8 +1227,8 @@
         "Безопасность",
         "Ключи доступа к Mindbox"
       ],
-      "content_hash": "sha256:3fcae2205ee96a7215ae9ac4d7ba09039cca2c2d1ddbc837425dd18840bcc26f",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:489ec9a2843e062a8a7269fccb3834e17d5f8cbdd44cbda0a3622baea5cd67a8",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "faq-personalization": {
       "title": "FAQ по персонализации сайта",
@@ -1278,8 +1278,8 @@
         "Клиенты",
         "Личные данные"
       ],
-      "content_hash": "sha256:8114667fc6781eb5a28d9a954ba6f5a237b2cccd153d325fbbc1ee9d46ae4272",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:70efda2424a95cb13bb722dbebfa0108ac15e0996413c1b9cf87f7af8683d1b4",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "filter-campaigns-clicks": {
       "title": "Найти клики по конкретным ссылкам в рассылках",
@@ -1289,8 +1289,8 @@
         "Фильтры",
         "Рассылки: фильтры по клиентам с рассылками"
       ],
-      "content_hash": "sha256:7392902e019be192b9f8ddd220ad06f8c688b028e8c1d85904d1bef8c026add9",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:15370431be99b88987a69d76100fe6fbb0bf997894db2298900e902eb06d5492",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "filter-campaigns-not-sent-reason": {
       "title": "Найти клиентов с неотправкой или недоставкой по определенной причине",
@@ -1564,8 +1564,8 @@
         "Фильтры",
         "Начало работы"
       ],
-      "content_hash": "sha256:06170686ed3629db4f5722c6b7bfd6e2e222e08b8eb98af2db9b210b6f983084",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:8ab0c4bff890a1f9f253bc5c4358b71e386db77396041ca9a889c9c112e9ccc7",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "filters-simplify": {
       "title": "Как упростить фильтр",
@@ -1598,8 +1598,8 @@
         "Примеры механик со сценариями",
         "Взаимодействие со сторонними системами"
       ],
-      "content_hash": "sha256:014c4deeb7ccd970bc08fa9960f7692cfca03e514d9a82708220b324553f5af8",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:b4fc96e042d75e8f51b800fae67b7e305b8241aceb16239e231a30241493f748",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "flow-limits": {
       "title": "Нагрузка и лимиты в сценариях",
@@ -1708,8 +1708,8 @@
         "Лояльность и акции",
         "Подарочные карты"
       ],
-      "content_hash": "sha256:ffc94b9cce0f69db02e1123814fe2e96b9b4782fc803e2e077df6e0ecac5a2f1",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:1486fbaa1008355663c28b5b75d5e7efb5dcfc95c8ce3775b5c4b03f7eac4833",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "gift-cards-import": {
       "title": "Как импортировать подарочные карты",
@@ -1854,8 +1854,8 @@
         "Email-рассылки",
         "Дополнительные возможности рассылок"
       ],
-      "content_hash": "sha256:458979518d611004c0f847660ed080641a71aa27dbe86fcfccbce3b2390e028b",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:a0deb2cffadcc0e5ca5ae68fe41151094ff867abb4ae6a50d3ffb9abfe7a8c31",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "how-to-create-ecom-quiz": {
       "title": "Как создать Ecom-квиз",
@@ -1864,8 +1864,8 @@
       "toc_path": [
         "Опросы и квизы"
       ],
-      "content_hash": "sha256:39eeb90d776e8d09b481959075b42aa8d26030b1cbdc6c7ca1263ec663851288",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:130ea798d912d4aed74c9a8e66716a2e0bf65ff4f74337867967cbe003b2c733",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "how-to-create-survey": {
       "title": "Как создать опрос удовлетворенности",
@@ -1874,8 +1874,8 @@
       "toc_path": [
         "Опросы и квизы"
       ],
-      "content_hash": "sha256:5d8a5774f35ebfab18fd0fcde4852a594743f6f7e82f20f157f0cfd059a89d56",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:ec2b8bedde3f2b81743a447a7dc72116608f6f96562634f4236c5079ec3c8b87",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "how-to-display-data-as-a-table": {
       "title": "Как вывести данные в виде таблицы - верстка товарной сетки",
@@ -1886,8 +1886,8 @@
         "Шаблонизатор, подстановка параметров в рассылки",
         "Товарная сетка и циклы"
       ],
-      "content_hash": "sha256:31f3ea9d1bdf57e8f2a99729f75900a0c96103bdbef328baad94240a4923738a",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:31896fc5070c7e014e95f2db78f05aa3c2a85bf28d4de98c186b050a79851d45",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "how-to-find-growth-points": {
       "title": "Как найти точки роста бизнеса",
@@ -1943,8 +1943,8 @@
         "Рассылки",
         "Общие настройки рассылок"
       ],
-      "content_hash": "sha256:5ed58d46ffb8b8eaf43841e55b7de5f49fe63130d8111b116ca0ea4cbed525f9",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:12e49fd3f459e8e93ab6018ef3fb8d16ea2ebbecf0a5df8e402716c4cf40cd9c",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "idempotentnost": {
       "title": "Идемпотентность. Как избежать повторных ошибочных вызовов операции?",
@@ -1954,8 +1954,8 @@
         "Операции и интеграция",
         "Решение проблем"
       ],
-      "content_hash": "sha256:1d890ab57d8a64f964033776eed3b429383394721f1298944189634cd0ed3611",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:03bfbc8189d0ecb9783a0b927bb137004a5a5eebfd675924a29d46787935c93c",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "iiko-integration": {
       "title": "Интеграция iiko",
@@ -1965,8 +1965,8 @@
         "Операции и интеграция",
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:cc335d37a2da876accf4ec876b061cb783d8af5096458bda49ee54e85ed9e367",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:90ce79dcb6a394a72de6883fd37a0ea3dd9b5b8d7e02bacf7ab3be5b5939eb54",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "import-tips": {
       "title": "Рекомендации по импорту клиентов",
@@ -2007,8 +2007,8 @@
         "Интересные механики In-App",
         "Механики для увеличения конверсии и среднего чека"
       ],
-      "content_hash": "sha256:ceb11024d747b64e071e3009104b116c1f19e908ca22f5e473a128f0b021f99f",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:01dd8154a3167fb797a8b29c5c03e018e3e8699efa18b83d29db1dd9d851ab66",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "in-app-complete-your-profile": {
       "title": "Как добавить In-App «Заполните данные профиля и получите подарок»",
@@ -2020,8 +2020,8 @@
         "Интересные механики In-App",
         "Механики для сбора данных клиентов"
       ],
-      "content_hash": "sha256:22a631f0ec94836bd12403c605ff7fa0d756cb25a431f8ed917703451331c788",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:eb580d275b254aeb0381939d2821916f9f421b6765b74c6f598c9da7dd19ab25",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "in-app-discount-on-selected-products": {
       "title": "Как добавить In-App «Скидка на подборку товаров»",
@@ -2033,8 +2033,8 @@
         "Интересные механики In-App",
         "Механики для увеличения конверсии и среднего чека"
       ],
-      "content_hash": "sha256:7a7e9725dae4591005b4a9a6920581696f5ba92903ced614a52b3d329b26135b",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:21cffcf3b44cc0cd911a6e09bc6c0624f4c38c29f9393e38ee45de1700f33c25",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "in-app-event-announcement": {
       "title": "Как добавить In-App для анонса важного события",
@@ -2059,8 +2059,8 @@
         "Интересные механики In-App",
         "Механики для увеличения конверсии и среднего чека"
       ],
-      "content_hash": "sha256:c85c247eba4e8e5c08e0100e1b07f70c7489283875911224f2a27d9e5815351a",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:f7669d52388afeee2694f4388e9ce566033a6a1f503ea1715ed70ca125f5cd66",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "in-app-free-delivery": {
       "title": "Как добавить In-App «Бесплатная доставка в вашем регионе»",
@@ -2072,8 +2072,8 @@
         "Интересные механики In-App",
         "Механики для увеличения конверсии и среднего чека"
       ],
-      "content_hash": "sha256:cb128129f588d47de23e853c6717c10d53ffc0b7dd9bc2fdedbaa3d234c1dcac",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:2a8f87523aefc03089b11e0281f6798e1f4f1e47bde99a164b96970fbfdccc80",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "in-app-frequency-control": {
       "title": "Как ограничить частоту показа In-App для клиентов",
@@ -2096,8 +2096,8 @@
         "Интересные механики In-App",
         "Механики для увеличения конверсии и среднего чека"
       ],
-      "content_hash": "sha256:549ba45fed9268701ca9a3cd5a429d31b1307c1d2fc079ef9fd1875d1cf7d3cf",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:f10edf51a825d8d62081e313c05e51d5a58206412280c3a63905b1df87095f6c",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "in-app-location": {
       "title": "Как настроить отображение In-App’а в любом месте приложения",
@@ -2120,8 +2120,8 @@
         "Интересные механики In-App",
         "Механики для сбора данных клиентов"
       ],
-      "content_hash": "sha256:a1a5be279ea1da18ad0301bfa870f40beafb56efa4f41fa4cbf8116a653c29f3",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:9991369fd91ea6be555bce7f6f3412ced3d717c0b2c02645d406b2b1717dd7ba",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "in-app-onboarding": {
       "title": "Как добавить онбординг в мобильное приложение",
@@ -2146,8 +2146,8 @@
         "Интересные механики In-App",
         "Механики для увеличения конверсии и среднего чека"
       ],
-      "content_hash": "sha256:67957bc720b7d18073111e168f60ffcc2926ce96ccfc78e293d4cc4fb1ecc8e0",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:376abc57b2d70edb23825397b3c2f26f3e8fcd9c5032cc338a5a320f87e542b5",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "in-apps": {
       "title": "Как создать In-App",
@@ -2157,8 +2157,8 @@
         "Персонализация",
         "Персонализация мобильных приложений"
       ],
-      "content_hash": "sha256:b19f57af4885a58572bba9dcd329909c733e8ac151cd19d576e83dfc9dd188a5",
-      "fetched_at": "2026-05-05T06:48:43Z",
+      "content_hash": "sha256:5b7e0fe762fbe4e256f37914f4e71fffa98f3033c51cb38b608dd3af5b76fbcf",
+      "fetched_at": "2026-05-13T11:52:59Z",
       "deprecation_hint": [
         "устаревш"
       ]
@@ -2183,8 +2183,8 @@
         "Операции и интеграция",
         "Дополнительные возможности"
       ],
-      "content_hash": "sha256:cdb39b20bc0ff00429bea12b579a94c4385b6d4cb31bb915701e51d6bc851c2e",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:5f01726b29972ca0b6256a883152db25d29f3e95e3811942710f9231d2d4450f",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "integrations-monitoring": {
       "title": "Мониторинг интеграций",
@@ -2228,8 +2228,8 @@
         "Администрирование",
         "Проблемы, ошибки и невалидные данные"
       ],
-      "content_hash": "sha256:0834db1e34e4040cb10ce1a111c14dd16dc56421aea5266a4c47f78238c48b9f",
-      "fetched_at": "2026-05-04T11:22:58Z"
+      "content_hash": "sha256:3158d8f8aa00bc2780ce4d289d2ca930efa3de55cc8f2eb9750c3731d27f9eea",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "key-security-guidelines": {
       "title": "Рекомендации по обеспечению безопасности ключей",
@@ -2249,8 +2249,8 @@
       "toc_path": [
         "Опросы и квизы"
       ],
-      "content_hash": "sha256:4a07977ea88baf0a3fd9e90cd0757addec16688ae3d47552744fe46ab3e6d8cf",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:6f700a21a3169fa5436406f7b71dffef639b3a9dfc41b7bba91bfdb400e44b4f",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "loyalty-program": {
       "title": "Что такое программа лояльности",
@@ -2269,8 +2269,8 @@
       "toc_path": [
         "Аналитика"
       ],
-      "content_hash": "sha256:cc87f94208b189c5e7f7078c61f80736e2645af8a77238a028e0cc85b350810c",
-      "fetched_at": "2026-05-04T11:22:58Z"
+      "content_hash": "sha256:186f10a661c60342eb1b89e41338802baf4029295d5df33bc9add12163cfa4b6",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "mailing-not-delivered-checklist": {
       "title": "Что делать при недоставках писем: чек-лист",
@@ -2291,8 +2291,8 @@
       "toc_path": [
         "Рассылки"
       ],
-      "content_hash": "sha256:9ed7c279d040bf99c81adda4b34b6a997923df16bb9e6bfd4b4e80ed251640da",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:5ef3aa3bb7f1b9d2138eb8f3d49d850223601765b76a410422e21c502b1dd74e",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "mailings-dashboard": {
       "title": "Отчеты по рассылкам",
@@ -2327,8 +2327,8 @@
         "Email-рассылки",
         "Начало работы"
       ],
-      "content_hash": "sha256:84898d8b13bcdae653249b3335e8483bda3efd45d9549e42d08c00aa0eb917fc",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:5599e730c34f8354ab2c49c4a863fbc02145e5ebb2b3024a6fcdb52d3d6158c4",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "mailings-test-mode": {
       "title": "Как протестировать автоматическую рассылку",
@@ -2402,8 +2402,8 @@
         "Мобильные пуши",
         "Создание и отправка мобильных пушей"
       ],
-      "content_hash": "sha256:dec79f0d1fd6310f2307db127c9ce4054b2d6164bc7c639540437f31266b8e43",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:4b604418339e5321bc472a0400173f89bad86f3ae74f4c38a8537ecc25d5bb66",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "mobile-push-strikethrough": {
       "title": "Как добавить зачеркнутый текст в мобильный пуш",
@@ -2447,8 +2447,8 @@
         "Администрирование",
         "Начало работы"
       ],
-      "content_hash": "sha256:358f964270b6157b13e2d8f0346486a1e74632e37af6b849adaa4580b8770c64",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:33a3abb74a786dbcad205a863129b6d82c7d52299745a4600d25377b9137900b",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "new-builder-personalize": {
       "title": "«Добавить переменную» в новом конструкторе",
@@ -2618,8 +2618,8 @@
         "Параметры для механик. Примеры.",
         "Механики и списки продуктов"
       ],
-      "content_hash": "sha256:43377c638d686b1c8ceb91d6803454d17b8b6e68fc40626a2684d2642c6e29c4",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:ddfd1c56f1b4bc9b8d0e2488c4646d0bfc2564018cce2778a1786ddb59d2fc1d",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-customfield-computed-field-price": {
       "title": "Параметры для рассылки «Цена на самый просматриваемый или покупаемый продукт снизилась»",
@@ -2631,8 +2631,8 @@
         "Параметры для механик. Примеры.",
         "Механики и списки продуктов"
       ],
-      "content_hash": "sha256:5beb8b5b4af99ccd173313854ecbba6dfab57b36cbdc145f3affac68e6f07ab3",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:1b909667ca702df5d00f2060d796e5365b3862f211f860797fb32c239bade34e",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-enum": {
       "title": "Вывод дополнительных полей с множественными значениями",
@@ -2643,8 +2643,8 @@
         "Шаблонизатор, подстановка параметров в рассылки",
         "Простые параметры и форматирование. Примеры."
       ],
-      "content_hash": "sha256:a15c7ef1d567d6700e6dbf0d39233209fe5924766f5c8efe5f0de27871fd46ed",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:ac08b9be374fd6ac30ab7fc9950b6c66a37086eaaa7d235d9b1992965bd7a540",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-order-balance-earned": {
       "title": "Как вывести в письме начисленные за заказ баллы",
@@ -2656,8 +2656,8 @@
         "Параметры для механик. Примеры.",
         "Заказы и сегменты"
       ],
-      "content_hash": "sha256:e14d48bf6c22b2d1b1dbd05a893f3079c24d7d36378f0b08c1ca9983adad81b0",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:fe3dee97ec6de473b664cb523acd1bb029177bda5bfd67c5be0ff6a8a29fbddf",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-order-balance-spent": {
       "title": "Как вывести в письме списанные за заказ баллы",
@@ -2669,8 +2669,8 @@
         "Параметры для механик. Примеры.",
         "Заказы и сегменты"
       ],
-      "content_hash": "sha256:454c362ddd89a6e5de7d64991836e333bc8e38a22a6748ec7832f0949da45018",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:87856e3cc0bac78c372ba381f5727d441698b215d0badf0676b7f5395b65c150",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-orders-segment": {
       "title": "Как вывести в письме заказы по сегменту",
@@ -2695,8 +2695,8 @@
         "Параметры для механик. Примеры.",
         "Механики и списки продуктов"
       ],
-      "content_hash": "sha256:0e671f474583c435943d77687bcd85ef22249e1a3d1856c68aaf1b7044e64daf",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:132c51e8616757142ff6becc32258a15c54c36df1eec603901e5092c0a39d921",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-productlistitem-available": {
       "title": "Параметры для рассылки «Продукт из списка снова в наличии»",
@@ -2708,8 +2708,8 @@
         "Параметры для механик. Примеры.",
         "Механики и списки продуктов"
       ],
-      "content_hash": "sha256:5f5888f66e1f2bfd21814c22d5fba1f499d204c411f4543565569d802582f08c",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:00275508ceb7905b8ada600eff660e5d8a11fccf40b6e55006154133c2fb595a",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-productlistitem-price": {
       "title": "Параметры для рассылки «Цена на продукт из списка снижена»",
@@ -2721,8 +2721,8 @@
         "Параметры для механик. Примеры.",
         "Механики и списки продуктов"
       ],
-      "content_hash": "sha256:1d529606180ca6dc9cbf7781745bbfe2e439c943caf59cb0d48b7dc5033c7197",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:828227004bc92b6b9420aa8a8b0881a5c51dfff8a4215da2b17aa04603b03b5c",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-products-by-computed-field": {
       "title": "Параметры для подборки по вычисляемому полю клиента",
@@ -2734,8 +2734,8 @@
         "Параметры для механик. Примеры.",
         "Механики и списки продуктов"
       ],
-      "content_hash": "sha256:7bec2870e43ace69eda1a9446a262336589773c542437325b3010cfb61996356",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:928fbecbed63972831cfb85db7627480cba5de11af4fa3c3af3837635041ab25",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-productview-available": {
       "title": "Параметры для механики «Просмотренный продукт снова в наличии»",
@@ -2747,8 +2747,8 @@
         "Параметры для механик. Примеры.",
         "Механики и списки продуктов"
       ],
-      "content_hash": "sha256:d731053a48226b89ab2d564725fe134963310db18e19b7767bb57f204d7be336",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:832f4dd018d7bb7c764917b17eba8495cdf0f94b08c94f39c8a40d5e2f6f9f56",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-productview-price": {
       "title": "Параметры для механики «Цена на просмотренный товар снижена»",
@@ -2760,8 +2760,8 @@
         "Параметры для механик. Примеры.",
         "Механики и списки продуктов"
       ],
-      "content_hash": "sha256:ddef04fffc02078ff305edd46725d61a310171bd886fe73becb8c503f5626d86",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:e8471120dc1d7638fd91d3da214f5529601a3c76db765868dff3c443d7d7cd6b",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-recipient-productviews": {
       "title": "Вывести последние просмотренные продукты",
@@ -2773,8 +2773,8 @@
         "Параметры для механик. Примеры.",
         "Механики и списки продуктов"
       ],
-      "content_hash": "sha256:f3558e92a50b6220272df9a06f3014c54b73822aa97d0965fef2a72a925a01b7",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:774822eda987715f00e27c6440d3599d9b815dd6b909cefe712aeb702da4026f",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-session-productcategoryviews": {
       "title": "Параметры для механики «Брошенная категория»",
@@ -2786,8 +2786,8 @@
         "Параметры для механик. Примеры.",
         "Механики и списки продуктов"
       ],
-      "content_hash": "sha256:2c92f6b1e824ac7ca36167c47290364c0afbe07bad556be1ac098258dcd5fd7e",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:fb2a9d5b31a4827656760bf152a28fc17ab1443d2ff88bf16951c9dfd0e90cb4",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parameters-session-productviews": {
       "title": "Параметры для механики «Брошенный просмотр продукта»",
@@ -2799,8 +2799,8 @@
         "Параметры для механик. Примеры.",
         "Механики и списки продуктов"
       ],
-      "content_hash": "sha256:18303d44c00a22dc1a01d3107570e9eb20f379ea790d1b3d81f22f91a6621496",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:409ec92aaacc44088f6c3623141668c0b9c85956bc5e3f39f3b2561358d78264",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "parametry-bally-dostupny": {
       "title": "Как вывести доступные баллы",
@@ -2851,8 +2851,8 @@
         "Администрирование",
         "Персонал"
       ],
-      "content_hash": "sha256:bfc693ddfc1e0c877b22a8b68892bea16b36ec723844363588121a8da4ecd5c7",
-      "fetched_at": "2026-05-04T11:22:58Z"
+      "content_hash": "sha256:9f9cb6801ea16f1bb4f428c5f34dba79747b38d8568624cfe38bfe5c324e6a65",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "personal-list": {
       "title": "Что такое список продуктов и как его настроить",
@@ -2885,8 +2885,8 @@
         "Лояльность и акции",
         "Персональные предложения"
       ],
-      "content_hash": "sha256:f47efa54a9c145e5c595fd4e8c92ccfe3c0f4ee2109632944d8a2fc3c0d18ffc",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:88273755ae1580c213d99892be0ee85986945274de7edfb62433d4fa66a070cd",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "personal-price-mailings": {
       "title": "Как вывести персональные цены в рассылке",
@@ -2896,8 +2896,8 @@
         "Лояльность и акции",
         "Персональные цены"
       ],
-      "content_hash": "sha256:5082315a3278b1927a6f7af4fa0602bf1d387a4e73ac79aadf42a9e57b0f8a6c",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:2256586604f2f9bceaa6be7ac26894efa52ab0698cd047b6471305a46b4b4764",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "personal-price-website": {
       "title": "Как вывести персональные цены на сайте",
@@ -2907,8 +2907,8 @@
         "Лояльность и акции",
         "Персональные цены"
       ],
-      "content_hash": "sha256:f2e0af36d165eb0e603f9684404126fc9595ea67fc887077c8c4e90f68884be2",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:56afe62eb2394599ee489ab1efc4bc837d1e9bd7b6fc2d931ef61d87b2eb889b",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "personalisation": {
       "title": "Что такое персонализация",
@@ -2938,8 +2938,8 @@
         "Персонализация",
         "Персонализация сайта"
       ],
-      "content_hash": "sha256:76336bc8acf904d84b48631c08db8c66b5e17d7ea4eec167c971333148170b49",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:4c52f6552d05ca587e554278722a614521a5b5631fb3d718a8170a87aee14cf1",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "point-of-contact-add": {
       "title": "Как создать точку контакта",
@@ -2975,8 +2975,8 @@
         "Лояльность и акции",
         "Механики акций"
       ],
-      "content_hash": "sha256:6ba2409be378455f90a6e4c8ada857b6612ba64cc8f26c3017f765c27bc5b5c3",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:3d713dd2a63e67d817f20bb11df831fd7017499674b9d1a9207e78f9bcb7b91a",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "pop-up-fadeIn": {
       "title": "Настроить плавное появление попапа",
@@ -2988,8 +2988,8 @@
         "Попапы и встроенные блоки",
         "Собственная верстка форм"
       ],
-      "content_hash": "sha256:c844edd533117a173a137e7be71e1a818c45bbd59c061bf8c9edefbb575dc323",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:1cc5858de26aeb00cb29f48de24ab68843213f899747768ab6788a4b1cbcb475",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "pop-up-promo-code-from-message": {
       "title": "Как вывести в попапе промокод из рассылки",
@@ -3000,8 +3000,8 @@
         "Персонализация сайта",
         "Дополнительные настройки"
       ],
-      "content_hash": "sha256:c26e2420d7e690e37b9c8e26935ca6ca2db9c5abfdbaa81b01d99522525f0d96",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:d37936fd3b8108ec3706aafb5d20c27a52968c995a7eb528cddf1f10ad5b06ce",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "pop-up-with-video": {
       "title": "Как создать попап с видео",
@@ -3076,8 +3076,8 @@
         "Попапы и встроенные блоки",
         "Собственная верстка форм"
       ],
-      "content_hash": "sha256:31f51b1be43fbbc6308399a628f5ddca12d8a9dc7a39f944012ba7f3a31f01a6",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:32fbcd5e9b8e8c798113a4e9d00cf25b6830811515e07c43082613dc417a5d44",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "popup-markdown-inform": {
       "title": "Как создать собственный шаблон формы для сбора кликов или информирования клиентов",
@@ -3102,8 +3102,8 @@
         "Попапы и встроенные блоки",
         "Собственная верстка форм"
       ],
-      "content_hash": "sha256:3eb2b5cf5e8c589d71a58192084de1483c3d0ffba193aa53ee163766cc4d2362",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:b71b26942f7eda444240685f605e9fe334dea83a42c9e1048f5414eee9921792",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "popup-template-create": {
       "title": "Как создать собственный шаблон формы",
@@ -3368,8 +3368,8 @@
         "Персонализация",
         "Рекомендации"
       ],
-      "content_hash": "sha256:0bdd06f3c1b5c2acd0a56b2276c1c2d29c5bdb08716eb810288a0ce7fa0d16fe",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:cda912a07984150c6cba0b5546d027f458a193ee4103db121eb0720169c6aefc",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "recommendation-algorithms": {
       "title": "Какие бывают алгоритмы рекомендаций",
@@ -3475,8 +3475,8 @@
         "Промокоды и пулы промокодов",
         "Реферальная программа"
       ],
-      "content_hash": "sha256:b6d8dbb407fe915c3a2b597046a44e368cf8e59da4582cb7d3c5a40ba9d32121",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:2e49b1164cbc9c1331ce94e433456f94fe2db579627eedac62c4748d48f45b16",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "referral-code-use-in-register": {
       "title": "Настройка реферальной программы по событию регистрации клиента",
@@ -3487,8 +3487,8 @@
         "Промокоды и пулы промокодов",
         "Реферальная программа"
       ],
-      "content_hash": "sha256:dc206cb1512b7c73ca3f47b649374cc93eb991d4a809bfd7c60bf1230d46baa8",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:5ed9d4e6f2715ce3749f65aeca168ca57324d09811105696ec5a05817a116852",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "regional-yml-import": {
       "title": "Как настроить импорт регионального продуктового фида",
@@ -3499,8 +3499,8 @@
         "Продукты",
         "Добавление продуктов и категорий"
       ],
-      "content_hash": "sha256:b761e06c86152bb95e812acd7b49ee2e3d0b2e4a95c187aacdd8c86609a195c0",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:29eeae44e81eda84793865b696ee531b1ed3c63369865cb7fff9cac1173bb8d9",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "report-business-metrics": {
       "title": "Отчет «Метрики бизнеса»",
@@ -3509,8 +3509,8 @@
       "toc_path": [
         "Аналитика"
       ],
-      "content_hash": "sha256:7400ef43731a4bb928bec3db6981473c1a917e8623a22327bdae5c9416286cd8",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:8af3c29c2d1c364e8a784e8f608a7232500c5875a563751b830917cfa9957133",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "report-discount-promotions": {
       "title": "Отчет по акциям",
@@ -3519,8 +3519,8 @@
       "toc_path": [
         "Аналитика"
       ],
-      "content_hash": "sha256:3526f6f21bae949432b09e4b3996dd12697947fbb4ed2b5a82c85debd6f00e57",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:721a238e78aff8904452cc4a319ee6221cdee7362b3ee73dd4825cae8d9623b4",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "report-in-apps": {
       "title": "Отчет по In-app’ам",
@@ -3553,8 +3553,8 @@
         "Дополнительные возможности рассылок",
         "Цифровые подписи"
       ],
-      "content_hash": "sha256:91714a588b03f975ea17398e7e3afc21d4fd75044dbce98feb15feae0b56c074",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:33a48784d0a9e8e8ffafe394c2ee469f804152c98b6e9c7a568b13e46bdf915e",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "return-path-verification": {
       "title": "Проверка SPF и MX записей выделенного поддомена",
@@ -3566,8 +3566,8 @@
         "Дополнительные возможности рассылок",
         "Цифровые подписи"
       ],
-      "content_hash": "sha256:d0e9395352c930b991ed82cccec9e3166b91c06f201a2be62330d513fef342b1",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:0d03ba223e5fc9bde503642291321b59e5eeecab4690d662bccbb5c9750a95aa",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "rustore": {
       "title": "Как и зачем подключать RuStore",
@@ -3693,8 +3693,8 @@
         "Сегменты",
         "Дополнительно"
       ],
-      "content_hash": "sha256:a748d4ea3326948aeb07b2b7f8a41ec11177980dc422ab9de5628dcbf459bc23",
-      "fetched_at": "2026-05-04T11:22:58Z"
+      "content_hash": "sha256:a621edf7aecd35ce856984ea38dbde04fc489d549e2ec2d78e583b75d72e8fdf",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "segments-clients": {
       "title": "Какие бывают сегменты по клиентам",
@@ -3714,8 +3714,8 @@
       "toc_path": [
         "Аналитика"
       ],
-      "content_hash": "sha256:43108dd9817317c02f8a5b37fcfedb91fa8ab85cbba572e7abea8924bca34158",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:25bc3fa65f9686b726623a6f3ec6e9b1a85fb1edb43a904292a1855b91014c71",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "segments-products": {
       "title": "Какие бывают сегменты по продуктам",
@@ -3747,8 +3747,8 @@
         "Операции и интеграция",
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:bb382085c85af6570db60da3b347e2c63bae25a3d03342fd6f1ae1f1706d2eba",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:243369ab7071ab9324fcf887baa396046830f13a48437f9783a4aae32d508263",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "set-up-google-forms-integration": {
       "title": "Настройка интеграции с Google Forms",
@@ -3769,8 +3769,8 @@
         "Операции и интеграция",
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:324ae05baaaad1dd78103acbafc45a52be165f2c9ec771b36d1b2675d09372e9",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:a6cada62ef99c7b73e073c7cb9d7e99904ce93d7b0ff7b2ab11c32fdc73f23ef",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "shorten-url-sms": {
       "title": "Как сократить ссылки в SMS и дополнительных каналах для сбора статистики",
@@ -3780,8 +3780,8 @@
         "Рассылки",
         "SMS-рассылки"
       ],
-      "content_hash": "sha256:587990075c00952fb5429369101e19e495468974eb15ad33f912e7e4b4989323",
-      "fetched_at": "2026-05-05T06:48:43Z",
+      "content_hash": "sha256:bf1c159b7a3cc51b4b07fc1ac87907f229a000e1da093879dcd09d67fcbc760d",
+      "fetched_at": "2026-05-13T11:52:59Z",
       "deprecation_hint": [
         "устаревш"
       ]
@@ -3816,8 +3816,8 @@
         "Рассылки",
         "SMS-рассылки"
       ],
-      "content_hash": "sha256:6fb2b458156e52b9647d2a707d8091bc5cd842941ab0bb94d186bdf38d6d19a5",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:50831949bc03494e5b80f44b64ae127e2bd7236b73e00f94f239fa7e63718e03",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "split-and-spread": {
       "title": "Как происходит распределение скидок по позициям заказа",
@@ -3827,8 +3827,8 @@
         "Лояльность и акции",
         "Начало работы"
       ],
-      "content_hash": "sha256:f3e01f2616b636df8419e6c12f146c9ddf614b170607734fc9cf02540c4554b5",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:e2cd79ce25ee80d12d93e22a44f0240247eb955b90f8a32ceb15d8a5a0e9de2d",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "staff-add-permissions-and-groups": {
       "title": "Как расширить права персонала",
@@ -4009,8 +4009,8 @@
         "Персонализация сайта",
         "Попапы и встроенные блоки"
       ],
-      "content_hash": "sha256:1837f9498888ddf681eceae49eb9a0d3a830d3bde0f4319e3ec57cf4de7d881d",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:529beffa58ebe5f1db25e0923cd759c792fb3c7e9c111d05fa77e9fb51b17a22",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "techmobpush": {
       "title": "Технические ограничения в пушах",
@@ -4032,8 +4032,8 @@
         "Рассылки",
         "Уведомления и мессенджеры"
       ],
-      "content_hash": "sha256:da738838a338d38879d9bf04f291650b0ced6b3bcbab129ef1420c9b4452e577",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:154ae0c6eddc51fc52dc6c92d24bd6c1751ae0ebafbe6114c409c084c5401795",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "template-action": {
       "title": "Шаблон действия для выдачи действия в операции или сценарии",
@@ -4132,8 +4132,8 @@
         "Операции и интеграция",
         "Дополнительные возможности"
       ],
-      "content_hash": "sha256:5b2508858909fdda15240ae258de07d5f94f5a6d4147fac72ce93fe7c23bd102",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:b09cc0679584b6edb0306252508566bc3b85c57da8566f941067da9302f22a5a",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "unique-links": {
       "title": "Как настроить бесшовный переход в мобильное приложение",
@@ -4167,8 +4167,8 @@
         "Рассылки",
         "Общие настройки рассылок"
       ],
-      "content_hash": "sha256:54c60f7112ef0b31c9c99813d579502e8d065c2d6a89ec1e8cb155b4a2c19d87",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:466164e0f81492ed6c73999f3e72cf6622003fdcbc3bff5a80d2c6aa51aa1b7c",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "viber-campaign-automated": {
       "title": "Как создать автоматическую Viber-рассылку",
@@ -4222,8 +4222,8 @@
         "Рассылки",
         "Вебхуки"
       ],
-      "content_hash": "sha256:62818cf361a1c6a21e44c2560a2ae2b80e4b8ca962dd8fa65a665c840d7ffb5e",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:cba8357dc0032a0bbba6b3d839282e203ac90504a66392f81b1b0ce6f8cb4dd8",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "webpush-campaign-automated": {
       "title": "Как создать автоматический вебпуш",
@@ -4285,8 +4285,8 @@
         "Рассылки",
         "Уведомления и мессенджеры"
       ],
-      "content_hash": "sha256:e4ca98721f40940badd645d1f944524e0e111eb330491fc67c346cd9e465e193",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:582a6217310d12bb2f82a238f00825664a5bb9006a2407d8c41a2208fd7a0c24",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "who-is-the-client": {
       "title": "Кто такой «Клиент»",
@@ -4296,8 +4296,8 @@
         "Клиенты, заказы и продукты",
         "Клиенты"
       ],
-      "content_hash": "sha256:b2fd1e6cf3a084883818b5c6a224eb4cd3e933bdc73f53bac2df7cae309969e2",
-      "fetched_at": "2026-05-04T11:22:58Z"
+      "content_hash": "sha256:3fabe3184f4e704d49c13311b3eb3f8f6fcd089b8477e889625fbdd33124028f",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "workflow-ab-tests": {
       "title": "АБ-тесты в сценариях",
@@ -4456,8 +4456,8 @@
         "Блоки сценария",
         "Стартовый блок «Настройки запуска»"
       ],
-      "content_hash": "sha256:92d8abcf8267cffc46453afe35048b2a855423ad32f0a1d5b43a1bff885a3f7c",
-      "fetched_at": "2026-05-04T11:22:58Z"
+      "content_hash": "sha256:791920597ed95cf304036d5cc47688ec2c8be9efabed8a7917962110ef3a347f",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "workflow-events-before-launch": {
       "title": "Как обработать события в прошлом в сценарии с большим ожиданием",
@@ -4584,8 +4584,8 @@
         "Примеры механик со сценариями",
         "После заказа"
       ],
-      "content_hash": "sha256:5aa83482b29e0aa34e39149dd7f6e629b182773e01e92f30a83fa4dc2202c083",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:6d4d2b1df238df695548415e9bb5af268f62661dc6ef1d50b9a1718617508605",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "workflow-product-lower-price": {
       "title": "Сценарий «Цена на продукт в списке снизилась»",
@@ -4666,8 +4666,8 @@
       "toc_path": [
         "Сценарии"
       ],
-      "content_hash": "sha256:28ba092ca1e94eb43cb6959b7f87fb56c914c12d98b00d018424418940e787bf",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:a3e667916ee854eb355a516028b2026b12f27ccd25023e926a35a9b3c471e10c",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "workflow-schedule": {
       "title": "Как настроить сценарий с периодическим запуском",
@@ -4701,8 +4701,8 @@
         "Сценарии",
         "Блоки сценария"
       ],
-      "content_hash": "sha256:bc96e5919c1b87c036ea5fab4f0a3439ae3846628fc48192e1fd2b00b44432b9",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:54f1b6bacc6712bd8f39ffc2cdb07ae75772f906859bf6db6fd59dc911c867f8",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "workflow-test-mode": {
       "title": "Как протестировать сценарий",
@@ -4782,8 +4782,8 @@
         "Рассылки",
         "Вебхуки"
       ],
-      "content_hash": "sha256:059d97430fe2f87c90ca3cd445b08cb21adc96236ecdae8d74f7723265a11520",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:7e0195fdd658650ea4e22ec847967f62cb93ce3d68d9f168ce0bc97da19f1ad2",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "yandex-forms-integration": {
       "title": "Интеграция с Yandex.Forms",
@@ -4805,8 +4805,8 @@
         "Продукты",
         "Добавление продуктов и категорий"
       ],
-      "content_hash": "sha256:826d8498f356166eaca6a6c47911139d3f710f6d0bb31588000b045b45b822c8",
-      "fetched_at": "2026-05-04T11:22:58Z"
+      "content_hash": "sha256:34e43c61a3c7038219cca34ef0858617f814a04dab715587eec2046ea6f9036f",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "активные-подписчики": {
       "title": "Активные подписчики",
@@ -4831,8 +4831,8 @@
         "Интеграция мобильных пушей",
         "Устранение неполадок интеграции"
       ],
-      "content_hash": "sha256:ca4a1d5db81a2179eeabd88b375f3e0f550571bd39e24ab3412bf83afb78d95b",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:a13690f45251e3d17137b6fc05bed8a66bcb8764bd09e8d1f567f798bfdd768a",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "базовыи-и-продвинутыи-пути-интеграции": {
       "title": "Базовый и продвинутый пути интеграции",
@@ -4843,8 +4843,8 @@
         "Мобильные пуши",
         "Интеграция мобильных пушей"
       ],
-      "content_hash": "sha256:7327bd15d22f753f07788e73793cb359a227472c5b833fdec65e47d89f409e4f",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:00fec180d2629fa5e26fd1f8c7125f502524df7a1f4a4b4d40b0c0364ced2bf7",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "баннер-тем-кто-не-посещал-раздел-7-днеи": {
       "title": "Как добавить баннер для тех, кто не посещал раздел 7 дней",
@@ -4954,8 +4954,8 @@
         "Операции и интеграция",
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:6ba11fbd82cb44dc3403719fd74bbadfc045fb2f371784c13c5084e10747ac5d",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:30083936b72d65e8ac5afc7ded99fc0bdea1fcb2a7149d0ae213ac5e86b61649",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "интеграция-osmi-cards": {
       "title": "Интеграция OSMI Cards",
@@ -5012,8 +5012,8 @@
         "Email-рассылки",
         "Дополнительные возможности рассылок"
       ],
-      "content_hash": "sha256:f2b67d8eb16261aa1551c2e7ac722ab87af2b5236a5486b59d9c91f6f0a8c953",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:369eea4a1cd5f4e2a474a60c9fca67101f0a602e45b4a9753bdbdd4a8031ae6e",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-выбирается-устроиство-для-отправки-мобильного-пуша": {
       "title": "Как выбирается устройство для отправки мобильного пуша",
@@ -5114,8 +5114,8 @@
         "Email-рассылки",
         "Начало работы"
       ],
-      "content_hash": "sha256:f43e466f3bf319c1e51d8f105d8104516cc7937fc08564411e7870f9ff897ff6",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:d826c6863a61c6e39272a7de1856a7fa64cbff6c69b7a67c6d9ecfd8b4faa997",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-выгружать-невалидные-данные-по-задачам": {
       "title": "Как выгружать невалидные данные по задачам",
@@ -5316,8 +5316,8 @@
         "Персонализация сайта",
         "Интересные механики персонализации"
       ],
-      "content_hash": "sha256:438bd99971413532a2abbcbf941244240ba45701a4156fb3795afcea84ffba62",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:4a29c45135a75eeb2cd28b2b14395e90f62db67b5757ed6fe5f1435d20d78cb3",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-добавить-продукты-в-статический-сегмент": {
       "title": "Как добавить продукты в статический сегмент",
@@ -5339,8 +5339,8 @@
         "Промокоды и пулы промокодов",
         "Создание и изменение"
       ],
-      "content_hash": "sha256:d85912107e5409526f2a8e3e93ebc8584b4dd32943321a3976579c03465d0fe6",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:e15042fb1a29c860ee9f6894e3a01153cc2eaa9a9981670a9a4ddaaa1ef94936",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-добавить-пул-с-многоразовыми-промокодами-в-акцию": {
       "title": "Как добавить пул с многоразовыми промокодами в акцию",
@@ -5386,8 +5386,8 @@
         "Персонализация сайта",
         "Интересные механики персонализации"
       ],
-      "content_hash": "sha256:32317152932c6ec61e0492921cc4c387c1f9e8e0e6dcfad10d87d315e090e02a",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:0cc3955e8922a46416b012f95b5cb56b16ee02773eb68f0c6c41fa498887d348",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-добавить-форму-срок-доставки-с-таимером": {
       "title": "Как добавить форму \"Срок доставки с таймером\"",
@@ -5398,8 +5398,8 @@
         "Персонализация сайта",
         "Интересные механики персонализации"
       ],
-      "content_hash": "sha256:596da5953d131fe0fe8481848afebd37a1b2fcd08fff704980dbdb820911da02",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:c751f4ac5e6842b3ff354aa0205aa07f9d7e441b12a0d3f0ec476a91f80eb213",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-заменить-стандартную-страницу-отписки-на-лендинг-на-саите": {
       "title": "Как заменить стандартную страницу отписки на лендинг на сайте",
@@ -5599,8 +5599,8 @@
         "Дополнительные возможности рассылок",
         "Цифровые подписи"
       ],
-      "content_hash": "sha256:9b94707572302aa3b7e14b85b541a900df834940f517ef51993ea838a503208e",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:593c315beefaae002f4fae7c5d4860893c3acffcf0b3b92867f4e16ed945bdaa",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-настроить-nps-опрос": {
       "title": "Как настроить NPS-опрос",
@@ -5611,8 +5611,8 @@
         "Email-рассылки",
         "Дополнительные возможности рассылок"
       ],
-      "content_hash": "sha256:eb341cff164345d8e8e11b0cc41d81d74dbb04f2b24e61df69a21f10488d2465",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:91c937a7b513dff4b09799be17f4c5a947aa3a11bd564b4142dce834361c1020",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-настроить-группировку-продуктов-в-виджете": {
       "title": "Как настроить группировку продуктов в виджете",
@@ -5691,8 +5691,8 @@
         "Операции и интеграция",
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:1dfbf68b4d8b8a9946ef153502786e3dc1dc419267de7cfc63201a2005bbd5af",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:d4c7f0493fb752915d0a140ac35c48bbbb3d31da74ca4faddf5b01c9c8bcc49a",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-настроить-скорость-начало-и-часы-отправки-рассылки": {
       "title": "Как настроить скорость, начало и часы  отправки рассылки",
@@ -5748,8 +5748,8 @@
         "Простые параметры и форматирование. Примеры.",
         "Имя и пол"
       ],
-      "content_hash": "sha256:13931404638ec80dac070b79b0964875e935f338b37546f376f849ef1032fe2f",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:3eee1654eacb864bbb8091d8fa5480f9347520ef6a9a18567a4e25a545d7b714",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-объединить-карточки-клиентов-вручную": {
       "title": "Как объединить карточки клиентов вручную",
@@ -5852,8 +5852,8 @@
         "Персонализация сайта",
         "Попапы и встроенные блоки"
       ],
-      "content_hash": "sha256:58ad7e7ea4a0bc92b3f6ec776fa1df0aa0da2b28d4ba7b5e4b8232bcd076409d",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:5e04ef7c338a65811425efefa7dfdc9667b02eaea29e19d742606f8a41fd9fd4",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-передать-информацию-о-продуктестранице-в-операцию-mindbox": {
       "title": "Как передать информацию о продукте/странице в операцию Mindbox",
@@ -5932,8 +5932,8 @@
         "Email-рассылки",
         "Начало работы"
       ],
-      "content_hash": "sha256:f1e8e4cce2e6f4a1433aa0ffd2dbeeaeba8d34282595f0517b9c6f00551a3965",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:07cbd29b17db32574f9658531566ac2d440357f163be302f7d70fe2a57fba0f0",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-подставить-в-рассылку-повторяющиися-баннер": {
       "title": "Как подставить в рассылку повторяющийся баннер",
@@ -5945,8 +5945,8 @@
         "Параметры для механик. Примеры.",
         "Лучшие практики"
       ],
-      "content_hash": "sha256:ae87e92bb5e7404e1b1ee09e7041dbb69bf9a41651828a71743807491e16fbce",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:80f1ec9b244f72d8429f4221387a6366682d5d69f03e4acf08e4558bfa0dcddb",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-подставить-в-рассылку-промокод-с-многократным-гашением": {
       "title": "Как подставить в рассылку промокод с многократным гашением",
@@ -5981,8 +5981,8 @@
         "Промокоды и пулы промокодов",
         "Выдача и использование в рассылках"
       ],
-      "content_hash": "sha256:f50d5c9af0ca9cb60ba7cffd22ababb5a0d9bb1f812dd8ce019bbb1fdf7e37d6",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:e5c9025f9aa9defc8f7e33635d78ddb2f82d0ae0fe0fa93668338548829810a7",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-подставить-промокод-в-рассылку-в-виде-qr-кода": {
       "title": "Как добавить QR-код в рассылку",
@@ -5993,8 +5993,8 @@
         "Промокоды и пулы промокодов",
         "Выдача и использование в рассылках"
       ],
-      "content_hash": "sha256:f8ad1479bb5d28cf53511b10ed10035ed20f4beda547bafb97201c6bd0b3d6ec",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:987fe988f874e8e9c309f142be7442b81ae1cd900e1086f343fe6c1b29deb703",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-подставить-рекомендации-в-письмо": {
       "title": "Как подставить рекомендации в письмо",
@@ -6004,8 +6004,8 @@
         "Персонализация",
         "Рекомендации"
       ],
-      "content_hash": "sha256:b28084b489f562a78a3ebb88288b180eedfa4236b900d6ae9153d7adbbf07aa4",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:9cf827faecc73f8e188f8c2b5248f9f09a29e7f520e5f166f9c4b196b8093368",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-пользоваться-mindbox-support": {
       "title": "Как пользоваться Mindbox Support",
@@ -6026,8 +6026,8 @@
         "Email-рассылки",
         "Начало работы"
       ],
-      "content_hash": "sha256:612859e74c8a6bb32329f6497e8ecd7633ed304014d693bbd61c98f131edb539",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:c3f788592164490ff896cc1f9091f7eb7d93db6aa2272fd85296b045426d6716",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-поставить-в-рассылке-ссылку-подтверждения-подписки-на-канал-или-тематику": {
       "title": "Как поставить в рассылке ссылку подтверждения подписки на канал или тематику",
@@ -6061,8 +6061,8 @@
         "Промокоды и пулы промокодов",
         "Создание и изменение"
       ],
-      "content_hash": "sha256:b06bd7de69fc30add598518720e5102fb5709c7addc01d3db8b492bf6f2abd3c",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:4e2317c94f44cc37db243a4c2eb5ad8b201f71e0d2ccc5c89c41a5da0ac0d6d3",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-происходит-деанонимизация-клиентов": {
       "title": "Как происходит деанонимизация клиентов",
@@ -6117,8 +6117,8 @@
         "Администрирование",
         "Автоудаление данных"
       ],
-      "content_hash": "sha256:2ab525d7dc157b062f4f45ab1a2bb26f6288761e92d52e4602cc22161654455b",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:7e045d5fe16b58bbc898b3befecfe39ef91680c6db4c44d8ca667f8c981a501b",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-работает-вложенность-в-фильтрах": {
       "title": "Как работает вложенность в фильтрах",
@@ -6140,8 +6140,8 @@
         "Мобильные пуши",
         "Интеграция мобильных пушей"
       ],
-      "content_hash": "sha256:ba8b8faa0b7a94ff3354366539cd0edbe24f7e1372d0ab6687e3519523a27a4a",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:37a73b11f1ba35ca8ee1161a56b85c730118a6e5dff4ac91a726ce4a95f6ec6c",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-работает-интеграция-мобильного-приложения-на-мультибренд-проектах": {
       "title": "Как работает интеграция мобильного приложения на мультибренд проектах",
@@ -6175,8 +6175,8 @@
         "Шаблонизатор, подстановка параметров в рассылки",
         "Товарная сетка и циклы"
       ],
-      "content_hash": "sha256:dfec983a74bd0705deff99d2e700deb39b9cd6dffbbaaf9b7b344d0850d827e2",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:cc126091daf43c7c2336b0dda9d4b1b7ca413f36a066e45cf376f06175e28fb3",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-работают-мобильные-пуши-на-android": {
       "title": "Как работают мобильные пуши на Android",
@@ -6222,8 +6222,8 @@
         "Лояльность и акции",
         "Баланс и баллы"
       ],
-      "content_hash": "sha256:ad3e0ac3822d059e4e3323f5c0774b0d0178f7194d18fc02675493e4a83cce0a",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:9770ea6992b5b95ae65eb01b986de1392429c04249de69eefc4a318207b78ca7",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-редактировать-сегмент-по-продуктам-из-фильтра": {
       "title": "Как редактировать сегмент по продуктам из фильтра",
@@ -6245,8 +6245,8 @@
         "Вебпуши",
         "Устранение неполадок"
       ],
-      "content_hash": "sha256:5df85d0fec393565f8d7d1b2502c4b5a151ef832bf34e729a52cf262256a9a64",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:2efd4ee8165dd7e7b27580d7093896fc4d887dd1d8428387c7df3e14bbe97fc3",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-сверстать-блок-рекомендаций-в-системе-popmechanic": {
       "title": "Как сверстать внешний вид виджета",
@@ -6307,8 +6307,8 @@
         "Персонализация сайта",
         "Дополнительные настройки"
       ],
-      "content_hash": "sha256:025f059c7c5d117d83010ac7d101e3ccad0776fffd570ed7b2fec5792a88f306",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:cd0d248917595925b05f1655ab3f412ef05ceea209a3ab9757787f63311e68e7",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-сменить-сервис-отправки-пушей": {
       "title": "Как сменить сервис отправки пушей",
@@ -6329,8 +6329,8 @@
         "Рассылки",
         "SMS-рассылки"
       ],
-      "content_hash": "sha256:4cc53ed41d0fb8209f698d105aec115b120dce4c2a58f18ebc7187522333879d",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:1d8341f9c3114d36f7f571ebc5f778e4d04d19c7f61d666e034319077cc02084",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-создать-внешнюю-систему": {
       "title": "Как создать внешнюю систему",
@@ -6397,8 +6397,8 @@
         "Персонализация сайта",
         "Интересные механики персонализации"
       ],
-      "content_hash": "sha256:5978dcfc367b0a8248c252f2be9a9bd2577b9719f9aaa3c440cc76882f265606",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:31fc1c170bc4b348431fdd46942d157fe3003919e6d0055e86d06dcdc1e22924",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-создать-сегмент-по-акциям": {
       "title": "Как создать сегмент по акциям",
@@ -6464,8 +6464,8 @@
         "Промокоды и пулы промокодов",
         "Выдача и использование в рассылках"
       ],
-      "content_hash": "sha256:cbd35a52b1ea07496c3d2440e2a10558a3a49ace1dda0432179537c421f216a6",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:ddd6f078deeae4e90ef1f0d717ba0f096c77951f91c8a2d4029158c9e3e225c9",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-создать-тематику-рассылки": {
       "title": "Тематики рассылок",
@@ -6537,8 +6537,8 @@
         "Операции и интеграция",
         "Дополнительные возможности"
       ],
-      "content_hash": "sha256:b6c014f97560e6de19a0e875963d174d9d8adc4df27f9793a77c01423cc6d768",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:c1e0ed4089c017e8bfc65d56c617d1c57f8abd82f6efc32f41f3692ca8c24db1",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-убрать-клиентов-из-статического-сегмента-через-интерфейс": {
       "title": "Как убрать клиентов из статического сегмента через интерфейс",
@@ -6585,8 +6585,8 @@
         "Простые параметры и форматирование. Примеры.",
         "Даты"
       ],
-      "content_hash": "sha256:7a3108812c8fbd2a56ad106eb63ed74d84ea666fee69a2a79565805d123a4eff",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:fc321dfa2fe114f761ef3b598204eb768b562d7ec0903bfe7067fdf966e49a02",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "как-читать-историю-клиента-или-куда-пропал-email": {
       "title": "Как читать историю клиента. Или куда пропал email?",
@@ -6647,8 +6647,8 @@
         "Персонализация сайта",
         "Попапы и встроенные блоки"
       ],
-      "content_hash": "sha256:de1f41309cdb67119537df6ea0ab5e7bdc82a9bf38ba35a4a8228e320a56f22b",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:621403a7e109b425d809be28322e5bd5f40c3315e2c8977124ddaf5638790269",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "какие-настройки-есть-у-дедубликации": {
       "title": "Какие настройки есть у дедубликации?",
@@ -6684,8 +6684,8 @@
         "Мобильные пуши",
         "Интеграция мобильных пушей"
       ],
-      "content_hash": "sha256:2410a70dd4f330b7b931f55b5fe55cfb7e1a1de9a86ae07c7dbb6056b4d048cd",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:d4cb1a5df6cd29e767ecbbb1d98fbb0c4209b0b189f7a6cd3c3665a050615c87",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "максимальная-выгода-в-промоакциях": {
       "title": "«Максимальная выгода» в промоакциях",
@@ -6734,8 +6734,8 @@
         "Простые параметры и форматирование. Примеры.",
         "Даты"
       ],
-      "content_hash": "sha256:95fae6e1f6ff8ca95e7991767a6c1bd0accb30bf422314adbe740c3f940042b3",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:2126e39884052e04d94ce5fac73213eb31038db442c8b6513d5c509c18d6072d",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "настроика-операции-подписки-на-рассылку": {
       "title": "Настройка операции подписки на рассылку",
@@ -6768,8 +6768,8 @@
         "Создание и отправка мобильных пушей",
         "Устранение неполадок"
       ],
-      "content_hash": "sha256:6e2ae17d9c63be8c74b6d4a0a44fe30c0fb900fcf8d742621ada6b5c6b1871a3",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:bb3b98d822067edba8e7a8d6e4f0c3235b1789a83e7754fd22035adcf64c1d2a",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "не-получается-отправить-тестовый-вебпуш-что-делать": {
       "title": "Не получается отправить тестовый вебпуш. Что делать?",
@@ -6901,8 +6901,8 @@
       "toc_path": [
         "Аналитика"
       ],
-      "content_hash": "sha256:9712af7cda0128d8a243271def8a7cbb400ca1b6211e96375f324590c158842c",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:54a0527769ea8e145ed0bab8b9e239080e00a58742929439716a63bb865bfa72",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "ошибки-при-интеграции-мобильного-приложения-1": {
       "title": "Ошибки при интеграции мобильного приложения",
@@ -6927,8 +6927,8 @@
         "Параметры для механик. Примеры.",
         "Заказы и сегменты"
       ],
-      "content_hash": "sha256:f31b4e7de1594c99499f86ef98fa04756ac64ed59ddf18c4a62a0d9fd6ef6cc5",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:115819541404141d2e663da79118562c932450648e4eda5f4291fec26b82b1c2",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "параметры-для-вывода-товаров-из-списка-продуктов": {
       "title": "Вывод товаров из списка продуктов",
@@ -7002,8 +7002,8 @@
         "Персонализация сайта",
         "Интересные механики персонализации"
       ],
-      "content_hash": "sha256:1d068d1fb93889671b26df7d073cb25743131730191ee218e1cfcf6de6927868",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:2e04cf54313f81c8ef141d10bf8e05da6c319af6093eadb211bf709f6ff49438",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "почему-sms-ушли-не-всем-получателям": {
       "title": "Почему sms-сообщения ушли не всем получателям",
@@ -7154,8 +7154,8 @@
         "Персонализация сайта",
         "Частые вопросы по персонализации сайта"
       ],
-      "content_hash": "sha256:391ce7027f488e24e49e5dc28d1d0c91faf096e8e221ede6505fe54e2d4f5eca",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:ae36cfeaed56744e353ee26da3a383c4ec4985e9c1bdcc87cd4bb9112d4eb473",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "почему-у-клиента-пропал-номер-телефона-или-email": {
       "title": "Почему у клиента пропал номер телефона или email?",
@@ -7194,8 +7194,8 @@
         "Клиенты",
         "Объединение клиентов"
       ],
-      "content_hash": "sha256:0df88e0aa264b02c4200bf7da36ebbf6822a3ceaa0638eabf03f5a94a9c63e3c",
-      "fetched_at": "2026-05-04T11:22:58Z"
+      "content_hash": "sha256:b5ec16223c4a6db4d1c60cdf084b1a21e2625892faea3fe65bf93658a74c6ec8",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "причины-долгои-отправки-рассылок": {
       "title": "Причины долгой отправки рассылок",
@@ -7253,8 +7253,8 @@
         "Персонализация сайта",
         "Интересные механики персонализации"
       ],
-      "content_hash": "sha256:a435de4593e0995709894380bf23317bfa7cfa645c90bbcbb3cab9b290a73b6f",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:a6bc7154c2f71530365e1ce9bd23eafd365de4925ec4494411c2dd64e45e1237",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "различия-между-подпискои-на-канал-и-разрешением-на-уведомления": {
       "title": "Различия между «подпиской на канал» и «разрешением на уведомления»",
@@ -7337,8 +7337,8 @@
         "Простые параметры и форматирование. Примеры.",
         "Даты"
       ],
-      "content_hash": "sha256:e1a45e49bc2077fa8d48aa86720f2122b01d9949f7a844863146b967c3b58179",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:16561e747de0f50aef77e143d04d7a60fd2f48d36e2300c6557ac15ec34786b9",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "тикет": {
       "title": "Что такое ticket и как им воспользоваться",
@@ -7387,8 +7387,8 @@
         "Шаблонизатор, подстановка параметров в рассылки",
         "Простые параметры и форматирование. Примеры."
       ],
-      "content_hash": "sha256:e92f96a3666696de5e8a29e3fc0fad987234b591c71f12333e353db7233020e2",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:575d11257bfecdca32adf744a0801a360f56ba44b53a9f0b24554c5258070394",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "часто-задаваемые-вопросы-по-счетам": {
       "title": "Часто задаваемые вопросы по счетам",
@@ -7412,8 +7412,8 @@
         "Рассылки",
         "Шаблонизатор, подстановка параметров в рассылки"
       ],
-      "content_hash": "sha256:a05a38881d1df52e23f8a7306ba75970db9da43e61c6af2cf15b607bb48a7714",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:8c91aa3b9f3da2de23d15e4a646ab2cd560c9bdf9011411ea797d1e8d9a7994e",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "что-входит-в-mindbox": {
       "title": "Что входит в Mindbox",
@@ -7571,8 +7571,8 @@
         "Вебпуши",
         "Начало работы, интеграция"
       ],
-      "content_hash": "sha256:7c2f963ae55e324c967715ba0b81a54d4ba2a213dd87f8211a3bb2a96835e216",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:930f9c679de5714acd8ed12ab73085aa8f1ddb3be8456001f4c387fea098a9c3",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "что-означает-ошибка-отправки-доставки-вебпуша": {
       "title": "Что означает ошибка отправки/доставки вебпуша",
@@ -7583,8 +7583,8 @@
         "Вебпуши",
         "Устранение неполадок"
       ],
-      "content_hash": "sha256:0a1955c47b601921bffbd9654fcd398a48b48974dc1b2ea2a83eaba539434633",
-      "fetched_at": "2026-05-05T06:48:43Z",
+      "content_hash": "sha256:1a8e502b5569897e3fa7cc4644de544e878332c4f02aef42c03f3c9ce186ff4f",
+      "fetched_at": "2026-05-13T11:52:59Z",
       "deprecation_hint": [
         "устарел"
       ]
@@ -7614,8 +7614,8 @@
         "Вебпуши",
         "Устранение неполадок"
       ],
-      "content_hash": "sha256:40700cb0b18c4b6e264409d445901154b2ad2501c301a10514944377f5045a14",
-      "fetched_at": "2026-05-05T06:48:43Z"
+      "content_hash": "sha256:a39af5243554fa7a89faf62e18486599a7c9eaf23f3729d570c74ecfb4939a3c",
+      "fetched_at": "2026-05-13T11:52:59Z"
     },
     "что-произойдет-с-идентификаторами-клиента-после-объединения": {
       "title": "Что произойдет с идентификаторами клиента после объединения?",

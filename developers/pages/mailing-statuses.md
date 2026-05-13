@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/mailing-statuses"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:675f6e20a9b529d1711360ae2fe04bd6456fbb93db8bf4f20f6e718ebe4f435d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0b90f56e9a03492238d1028d0fe42eb99d2a9a5e1c8f7ada73d6438e7f833d18"
 ---
 
 # Статусы рассылок

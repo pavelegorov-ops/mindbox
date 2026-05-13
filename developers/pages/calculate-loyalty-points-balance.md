@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/calculate-loyalty-points-balance
 breadcrumb:
   - Данные для аналитики
   - Как периодически обновлять данные
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:aeb7eedb3cd9528a28e24db8821f7c014fc3a221a09be20c1c605fcfb626d3bc"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:cc46927972675e56a494b13f0f48a18d76d40114f15cea06cfb05231d2f16e3b"
 ---
 
 # Как рассчитать балльный баланс

@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - IOS
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:f6930a4fc3edae5360b0a891d495e87a1ddc82756b2134b2cbb39dea20e98890"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:77f31f9f030972bb4b46436887613ed43bb2f9bef58c863cd89415ef0bcdbf48"
 ---
 
 # При отправке push-уведомления ошибка с текстом «wrong token»

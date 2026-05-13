@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/verify-advanced-integration"
 breadcrumb:
   - Персонализация сайта
   - Расширенная интеграция
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:efc5c752f1a57615e93a5c13d94ea893344450afafb1af0fbfa0b127ae59dbc6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:32de15ee97ff012ba1e8075cd9e1f9c86c4770b45eb94f33f281768ec22089dc"
 ---
 
 # Проверка расширенной интеграции

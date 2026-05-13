@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/flutter-sdk-methods"
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:855d9f621774d4e8d6e6d41035669033fd9abff42f453784090ba5a75d4a72d1"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:4dd751f0fb6be6db9f636d35d5652f4e4dcdf6757e449ef08d0eba4f2e5d9d2b"
 ---
 
 # Методы Flutter SDK

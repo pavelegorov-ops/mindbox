@@ -4,8 +4,8 @@ slug: "data-import-limitations"
 source_url: "https://developers.mindbox.ru/docs/data-import-limitations"
 breadcrumb:
   - Общее
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:25a28ceeab62222a213268d9e8101d718b80eb714c40fcd306159b0a6cfa150d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:a166fd6538112d765e677a6247b6c9c3a6794ceb1f7178c7e17b683083e546ce"
 ---
 
 # Ограничения при импорте данных

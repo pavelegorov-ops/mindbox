@@ -4,8 +4,8 @@ slug: "get-orders-list"
 source_url: "https://developers.mindbox.ru/docs/get-orders-list"
 breadcrumb:
   - Заказы
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:d73f8cfbd489f800885ae688f3aaec716db3f13a088b8928c15784149b4cf802"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:96455164e8f0af357b76563148fb5b911161b48798b8f15d9d6539adec48206a"
 ---
 
 # Получение списка заказов клиента

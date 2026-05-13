@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/v1-v2-android-sdk"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:a003f76adefb9a58ed1e00ebcf4a9f05824095f4d6879653c2e80b60d2282f56"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c4ac467584b6527481db2e70881641dadb7eb545dda0cea10004a4f625c372c8"
 ---
 
 # Переход с V1 на V2 Android SDK

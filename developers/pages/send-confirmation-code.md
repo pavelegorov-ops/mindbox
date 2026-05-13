@@ -4,8 +4,8 @@ slug: "send-confirmation-code"
 source_url: "https://developers.mindbox.ru/docs/send-confirmation-code"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:f2ac0b09b8487eccfe25dfd4c28814add899909a7c85db101310ba4c52b07fc6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9d8da7c5c9ffce82f63fa9a889ff26276876d8fc548c1ab8e72788fa66dcddfb"
 ---
 
 # Отправка кода подтверждения

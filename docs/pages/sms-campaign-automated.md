@@ -6,8 +6,8 @@ vcs_path: "sms-campaign-automated.md"
 toc_path:
   - Рассылки
   - "SMS-рассылки"
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:6fb2b458156e52b9647d2a707d8091bc5cd842941ab0bb94d186bdf38d6d19a5"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:50831949bc03494e5b80f44b64ae127e2bd7236b73e00f94f239fa7e63718e03"
 ---
 
 # Как создать автоматическую SMS-рассылку

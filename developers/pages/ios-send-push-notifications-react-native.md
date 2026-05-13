@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-send-push-notifications-reac
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:72d01be684f0ed25f0c8ad58b4d0b4cc3fa98074f19ac338833218337c455140"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9c06fb822efb159bd96a8c003aca20765bf285641c1de0517f38f98e11715240"
 ---
 
 # iOS | Настройка пуш-уведомлений

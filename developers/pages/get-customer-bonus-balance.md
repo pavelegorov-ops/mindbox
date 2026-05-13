@@ -4,8 +4,8 @@ slug: "get-customer-bonus-balance"
 source_url: "https://developers.mindbox.ru/docs/get-customer-bonus-balance"
 breadcrumb:
   - Бонусный счет
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:3663fb666e3946dbf52b81c7155af532b1b5e401a4ae85854419ada80de67743"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:37625456c7c1f7c40490857dea8d372546f3e187237dab469f19dffa873eca09"
 ---
 
 # Получение баланса клиента

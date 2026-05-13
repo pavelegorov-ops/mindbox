@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - React Native SDK
   - "iOS | Настройка Rich-push уведомлений"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8c8433eda520dd1e174accd8ab3316d41c00aa9c6fb237c2afedce5a18534810"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:107c8d8dd11527a7b89ea740a6ac5bf06a8f6810c4c6b174394bc9f5c7f593b0"
 ---
 
 # Отображение картинки и кнопки
@@ -94,7 +94,7 @@ content_hash: "sha256:8c8433eda520dd1e174accd8ab3316d41c00aa9c6fb237c2afedce5a18
 
 ![](https://storage.yandexcloud.net/assets-developers-mindbox-ru/images/bab3dcd6b70986bac52dcae9225daa65b16afd8fb7ce39f15351beb87150eff9-__2025-03-24__18.41.57.png)
 
-#### Cocoapods
+#### CocoaPods
 
 ---
 

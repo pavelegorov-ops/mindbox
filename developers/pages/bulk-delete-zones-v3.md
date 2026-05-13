@@ -4,8 +4,8 @@ slug: "bulk-delete-zones-v3"
 source_url: "https://developers.mindbox.ru/docs/bulk-delete-zones-v3"
 breadcrumb:
   - "Точки контакта, магазины, зоны"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:6343c19cdb4453b86bec4976418a549601f00ba7807ac4de40dcccc6966ad26a"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:613eccfa5548a88d2861f8979064bbd563637561e1bc16a06ecd6559dbf73d83"
 ---
 
 # Массовое удаление зон

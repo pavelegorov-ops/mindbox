@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-sdk-initialization"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:06137561650cd51b2ff67e5f4c7fa5a97b4184a21e702fba4117891dc0325f4e"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:3aea6b957baefea225b307c752e181181ba9aea1aec6b8ddcfce8d39b7e3260a"
 ---
 
 # Инициализация SDK

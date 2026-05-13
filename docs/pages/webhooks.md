@@ -6,8 +6,8 @@ vcs_path: webhooks.md
 toc_path:
   - Рассылки
   - Вебхуки
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:62818cf361a1c6a21e44c2560a2ae2b80e4b8ca962dd8fa65a665c840d7ffb5e"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:cba8357dc0032a0bbba6b3d839282e203ac90504a66392f81b1b0ce6f8cb4dd8"
 ---
 
 # Что такое вебхук и как его создать

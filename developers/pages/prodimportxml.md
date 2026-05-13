@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/prodimportxml"
 breadcrumb:
   - Номенклатура
   - Импорт продуктов
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:dad964353e5feb2215d5ac081b5c31598ba0280fab0b02ba7c37a31946e328c4"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:68ae1cbe9f0ce5a510256095ae532e1a327628a970c77f46af2e8f16410e2d1c"
 ---
 
 # xml
@@ -37,7 +37,8 @@ content_hash: "sha256:dad964353e5feb2215d5ac081b5c31598ba0280fab0b02ba7c37a31946
 - Максимальный размер файла 1,5гб.
 - Фид должен быть доступен по прямой ссылке, без использования редиректов.
 - Доступны только стандартные протоколы http/https и порты 80/443. Если файл защищен авторизацией, обязательно должен использоваться протокол https.
-- Поддерживается формат gzip. Для этого веб-сервер должен вернуть либо заголовки Content-Encoding: gzip и Content-Type: text/xml, либо заголовок Content-Type: application/x-gzip.
+- Поддерживается формат GZIP. Для этого веб-сервер должен вернуть либо заголовки `Content-Encoding: gzip` и `Content-Type: text/xml`, либо заголовок `Content-Type: application/x-gzip`.
+- В заголовке `Content-Type` параметр `charset` должен быть задан согласно [стандарту](https://www.iana.org/assignments/character-sets/character-sets.xhtml). Например, utf-8 вместо utf8.
 
 ## Виды offer'ов
 

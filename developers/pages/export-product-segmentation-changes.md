@@ -4,8 +4,8 @@ slug: "export-product-segmentation-changes"
 source_url: "https://developers.mindbox.ru/docs/export-product-segmentation-changes"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:6eec717b8ca0b2e05afad5adc7864f7d80de8879738f38973e8bb9a1ef86fb7f"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:a7979ed15587bb5dc82ba76868fe08b8323da1bf299aedd66658a45e26b28133"
 ---
 
 # Экспорт изменения сегментации продуктов

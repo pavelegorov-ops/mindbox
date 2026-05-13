@@ -7,8 +7,8 @@ toc_path:
   - "Клиенты, заказы и продукты"
   - Клиенты
   - Личные данные
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:8114667fc6781eb5a28d9a954ba6f5a237b2cccd153d325fbbc1ee9d46ae4272"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:70efda2424a95cb13bb722dbebfa0108ac15e0996413c1b9cf87f7af8683d1b4"
 ---
 
 # Какие есть правила валидации полей

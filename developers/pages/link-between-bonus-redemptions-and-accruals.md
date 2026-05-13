@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/link-between-bonus-redemptions-a
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:be8d852f2da581b226fb62be6eabad0e42be5f9a6facf17ddc246e11eddf88ab"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:deb746a5dae643c8792ec69a921f65434f6df2f5aba3cc4bb4af85a9133936bc"
 ---
 
 # Связь между списаниями и начислениями баллов

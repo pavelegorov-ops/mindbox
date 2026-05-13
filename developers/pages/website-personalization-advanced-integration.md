@@ -4,8 +4,8 @@ slug: "website-personalization-advanced-integration"
 source_url: "https://developers.mindbox.ru/docs/website-personalization-advanced-integration"
 breadcrumb:
   - Персонализация сайта
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:3041e0736d7feeb3bff8b76168d5d618e3c8529bbe7e6604e99fd5ca7c0a8760"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:a091e321f543f4d116e7b5ce50d629ba4ecd3d626b2a4b2bdddbc2bd5cf7636d"
 ---
 
 # Расширенная интеграция

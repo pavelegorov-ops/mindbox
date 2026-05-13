@@ -4,8 +4,8 @@ slug: "unbind-discount-card"
 source_url: "https://developers.mindbox.ru/docs/unbind-discount-card"
 breadcrumb:
   - Карты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8adbe7f8070f2961ab7cccdfbe37b630d0213a32b6be563c1feed3229efa57a3"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:cbbc41cdaf7c8b83f9ff71da5cce2c25d229a001977d331cdadc15a07b74b9e0"
 ---
 
 # Открепление дисконтной карты

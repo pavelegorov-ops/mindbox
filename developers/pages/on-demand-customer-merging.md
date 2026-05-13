@@ -4,8 +4,8 @@ slug: "on-demand-customer-merging"
 source_url: "https://developers.mindbox.ru/docs/on-demand-customer-merging"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:05aab5853be9b483b7269b48ab2df596219b0087eb262262557ae96df5a02c0b"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2d5a380953cd33c7374312fc8f8c6273c964abfad9a8ad33ba0522d9cc0f291a"
 ---
 
 # Объединение клиентов по запросу

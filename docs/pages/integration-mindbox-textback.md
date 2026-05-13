@@ -6,8 +6,8 @@ vcs_path: "integration-mindbox-textback.md"
 toc_path:
   - Операции и интеграция
   - Дополнительные возможности
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:cdb39b20bc0ff00429bea12b579a94c4385b6d4cb31bb915701e51d6bc851c2e"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:5f01726b29972ca0b6256a883152db25d29f3e95e3811942710f9231d2d4450f"
 ---
 
 # Интеграция Mindbox с TextBack

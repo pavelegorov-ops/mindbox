@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/prodimportcsv"
 breadcrumb:
   - Номенклатура
   - Импорт продуктов
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:3a062a03564e5fabd97949f34a141e3a7ea33fddd931f23919306793c8f59fcc"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:b86a0f3c5f5e724589eaf6077f8315918043919dce8396b8560dc7139bfaea4c"
 ---
 
 # csv

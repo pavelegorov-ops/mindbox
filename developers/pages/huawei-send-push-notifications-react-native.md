@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - React Native SDK
   - "Android | Настройка пуш-уведомлений"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:62ff4f2886feabaf15ebeeacde7e06cf630a490a3fff6e6f6ebb7847880ed5f3"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:cae77df16eef661ec40289c7ed14efd91204b73f380c78cbe5c9f64652db13ba"
 ---
 
 # Huawei

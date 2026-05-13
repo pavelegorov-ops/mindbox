@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/tags-in-mailings"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:912679e282fac052301d05bf976cb5b947386470c5568b28a9e879349d4bcfda"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f87c9e1aba4042ba4e917faba74c04ed43469dcbf9d712c4a83d30226798b8bd"
 ---
 
 # Теги в рассылках

@@ -4,8 +4,8 @@ slug: "customer-card-activation"
 source_url: "https://developers.mindbox.ru/docs/customer-card-activation"
 breadcrumb:
   - Карты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e7101f922ef4c67ff4161821ac1bc9c1910ed8d520f11d415d6f33294932ccf2"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c9bb08cab9aa1b238e40b282fb643c2e1de7eb1165b686dd2b6f6a5443e926a1"
 ---
 
 # Выдача дисконтной карты клиенту

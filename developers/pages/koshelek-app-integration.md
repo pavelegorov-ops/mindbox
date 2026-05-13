@@ -4,8 +4,8 @@ slug: "koshelek-app-integration"
 source_url: "https://developers.mindbox.ru/docs/koshelek-app-integration"
 breadcrumb:
   - Стандартные интеграции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:c778156e6f07a8934f88de6513d35f02c5b12205e4b7efa3b00173e3972e8b16"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:da81354eb37a32e0b2c454893038acf7c2efa2da08bc636a48e77249abd6bb40"
 ---
 
 # Интеграция с приложением «Кошелёк»

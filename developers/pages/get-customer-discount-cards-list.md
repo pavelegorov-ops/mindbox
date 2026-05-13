@@ -4,8 +4,8 @@ slug: "get-customer-discount-cards-list"
 source_url: "https://developers.mindbox.ru/docs/get-customer-discount-cards-list"
 breadcrumb:
   - Карты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:9f4b426277952abc6851af4b2036e2c7c130c9807e5d308e3864b7945fdd1b3c"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:8160361455b5dbde14c3410c15082593ad4390cb77dc0af88f6630b90c2e3ce8"
 ---
 
 # Получение списка дисконтных карт клиента

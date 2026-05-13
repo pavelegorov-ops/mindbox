@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-get-app-install-source"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:789832b0bee6a1170366c761c5af7b03eeb0bbbe2838b231fa3cfe19422b5a70"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:78db3097b44639a34dfc288d9eb980cadb14c16cc4965d379f2e7aae284f5509"
 ---
 
 # Получение источника установки мобильного приложения

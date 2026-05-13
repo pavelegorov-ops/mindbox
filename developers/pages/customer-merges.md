@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/customer-merges"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:cb92fd0de71ffeb6d041c42b66c5649f4daa0ff91755e411ff2b445c4e2ddac6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d355b13331d194aa104ba4f06e15d3333663df0ed1a3c6afe6fa8d60427503ac"
 ---
 
 # Объединения клиентов

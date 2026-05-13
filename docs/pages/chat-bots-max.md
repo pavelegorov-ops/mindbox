@@ -6,8 +6,8 @@ vcs_path: "chat-bots-max.md"
 toc_path:
   - "Чат-боты"
   - "Создание чат-ботов"
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:d8bfef6f3cc3fe07c78d04a5ea76451a497ecdbe4a6e1e4540e68cd04fd2107d"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:bd0e3cf8c020a49716e440e1e739ea676774bcdc4eb571a4b40e07d0c44ed50b"
 ---
 
 # Создание и подключение чат-бота в Max

@@ -4,8 +4,8 @@ slug: "update-product"
 source_url: "https://developers.mindbox.ru/docs/update-product"
 breadcrumb:
   - Номенклатура
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:88faa830980536c5a2f4936241082540d76420202839d5f717077a941af16a26"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:12d37ef92d27093d8b7641bdae64e622bf4e619134751b2e9378d5b67895a23c"
 ---
 
 # Обновление информации о продукте

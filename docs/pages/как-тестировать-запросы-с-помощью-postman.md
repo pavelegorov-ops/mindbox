@@ -6,8 +6,8 @@ vcs_path: "как-тестировать-запросы-с-помощью-postma
 toc_path:
   - Операции и интеграция
   - Дополнительные возможности
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:b6c014f97560e6de19a0e875963d174d9d8adc4df27f9793a77c01423cc6d768"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:c1e0ed4089c017e8bfc65d56c617d1c57f8abd82f6efc32f41f3692ca8c24db1"
 ---
 
 # Как тестировать запросы с помощью Postman

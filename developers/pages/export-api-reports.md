@@ -4,8 +4,8 @@ slug: "export-api-reports"
 source_url: "https://developers.mindbox.ru/docs/export-api-reports"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:9278039fba0718f40a02f60c778c4b05291fb7782786d10e1c5cc59e77ddd2dc"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9db5ce348e240f36c8303dd0e1eacc1b1ee1eaceed72bdc21348c0c3971fd89e"
 ---
 
 # Экспорт отчетов по API

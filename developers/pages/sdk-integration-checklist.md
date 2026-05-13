@@ -4,8 +4,8 @@ slug: "sdk-integration-checklist"
 source_url: "https://developers.mindbox.ru/docs/sdk-integration-checklist"
 breadcrumb:
   - Мобильные приложения
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:14cecb4cd82f8d65d1be7beb6288972a83b161e1dd619e70e0b5c8dbba23200d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f2c6434a292f572f00f49b4721984de92c00db3fb655ec64de752d891be2012e"
 ---
 
 # Чек-лист проверки интеграции SDK

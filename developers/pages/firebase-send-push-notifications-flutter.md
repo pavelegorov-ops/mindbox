@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - Flutter SDK
   - "Android | Настройка пуш-уведомлений"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:6396a424f7ca3359abdc8e567557bdf080cd60c8764b81aa37f3c4c1b758b623"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:6df33c518e04ca4a020c4f7d8c50a7a5b81abdb919da5be12e93320d465e140d"
 ---
 
 # Firebase

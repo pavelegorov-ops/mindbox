@@ -3,8 +3,8 @@ title: "[Flutter] [iOS] Быстрая настройка пуш-уведомл�
 slug: "ios-mindboxflutterappdelegate"
 source_url: "https://developers.mindbox.ru/docs/ios-mindboxflutterappdelegate"
 breadcrumb: []
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:fc5ebf9bb9e76d2f4e053d15c74288d1fc65b54660877aa4ac260ba27c876d61"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:b3b4a75a53305b749cc1b828e9ddb4dcbdcbc046d6df971200f84b180e5815f8"
 ---
 
 # [Flutter] [iOS] Быстрая настройка пуш-уведомлений

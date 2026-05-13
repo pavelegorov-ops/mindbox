@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/sdk-checklist-android"
 breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:986a61f7d840caf8ca5b6aece4aa0103e352e742f5762de456f3a90f3adba6f4"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:eb9b77c2c97fee215a9f13f858a298f70d592bebaffdca5c06e80348eda52059"
 ---
 
 # Android

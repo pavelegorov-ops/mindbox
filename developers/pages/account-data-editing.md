@@ -4,8 +4,8 @@ slug: "account-data-editing"
 source_url: "https://developers.mindbox.ru/docs/account-data-editing"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8244f844c060fea61b4b72b53245243da517fda99bd60410b2261003b9cdd7b6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:4f8a9bf816510388649a5aad89b690ee42e33ded32b5e3ef88b5d260053053d1"
 ---
 
 # Редактирование данных клиента

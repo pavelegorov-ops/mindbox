@@ -4,8 +4,8 @@ slug: "get-customer-segments"
 source_url: "https://developers.mindbox.ru/docs/get-customer-segments"
 breadcrumb:
   - Сегментации
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:13bcb93235e9ba0d612866d063fbade318a2df890b72778ed89606f7f7c81c50"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d1325bbde14aaf948492a5e71cec354f0c9626988c94d6a3e7786a0d309a4d5b"
 ---
 
 # Получение сегментов клиента

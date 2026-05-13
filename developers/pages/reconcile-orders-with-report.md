@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/reconcile-orders-with-report"
 breadcrumb:
   - Данные для аналитики
   - Как периодически обновлять данные
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:273eb5aac8a58a1b04656c90c877b8009be62a90a0a4a03fcaba43e668ab043d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:e1e9418bfb65af2a3c4260ec58554aa02b78eec8e7220a741d5895b927c16774"
 ---
 
 # Как сверить данные по заказам с отчетом

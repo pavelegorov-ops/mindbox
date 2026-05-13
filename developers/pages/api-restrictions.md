@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/api-restrictions"
 breadcrumb:
   - Общее
   - V3 API
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:b5b3999aace48b8b8b0095a56e0ad6dd32463b39b4742f033a6c4a8fa6e4a2a0"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:a8a367f9d28134df7dfe6f2d0d93761e6ea37f9cbfcb5c9c2f6e3c9d02f20989"
 ---
 
 # Ограничения при работе с API

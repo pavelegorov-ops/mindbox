@@ -4,8 +4,8 @@ slug: "remove-customer-from-segmentation"
 source_url: "https://developers.mindbox.ru/docs/remove-customer-from-segmentation"
 breadcrumb:
   - Сегментации
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:9a77aba8b3e0fb63f6b9a4e8a3e99b31c5155e4ef5e3535cb9eb625d3bd43b66"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:4e4a668647970df3f0d9035930514d11837aba1a8d67805508d2f5fb49eaf573"
 ---
 
 # Исключение из сегментации

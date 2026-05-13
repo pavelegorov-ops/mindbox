@@ -7,8 +7,8 @@ toc_path:
   - Сценарии
   - Примеры механик со сценариями
   - Взаимодействие со сторонними системами
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:014c4deeb7ccd970bc08fa9960f7692cfca03e514d9a82708220b324553f5af8"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:b4fc96e042d75e8f51b800fae67b7e305b8241aceb16239e231a30241493f748"
 ---
 
 # Flash Call — авторизация по звонку

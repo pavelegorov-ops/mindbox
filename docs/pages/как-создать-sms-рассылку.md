@@ -6,8 +6,8 @@ vcs_path: "как-создать-sms-рассылку.md"
 toc_path:
   - Рассылки
   - "SMS-рассылки"
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:4cc53ed41d0fb8209f698d105aec115b120dce4c2a58f18ebc7187522333879d"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:1d8341f9c3114d36f7f571ebc5f778e4d04d19c7f61d666e034319077cc02084"
 ---
 
 # Как создать массовую SMS-рассылку

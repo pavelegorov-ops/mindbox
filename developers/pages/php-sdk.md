@@ -4,8 +4,8 @@ slug: "php-sdk"
 source_url: "https://developers.mindbox.ru/docs/php-sdk"
 breadcrumb:
   - Стандартные интеграции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:add715fb3b7ea258716e93bab99902132d287265dd5a5bc8e4b97704caadd7db"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9191e3c55f43c85373120d4b11adf34801fe7dac2f579de33765907b32ebd8d4"
 ---
 
 # PHP SDK

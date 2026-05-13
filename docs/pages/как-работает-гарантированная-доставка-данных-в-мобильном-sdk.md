@@ -7,8 +7,8 @@ toc_path:
   - Рассылки
   - Мобильные пуши
   - Интеграция мобильных пушей
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:ba8b8faa0b7a94ff3354366539cd0edbe24f7e1372d0ab6687e3519523a27a4a"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:37a73b11f1ba35ca8ee1161a56b85c730118a6e5dff4ac91a726ce4a95f6ec6c"
 ---
 
 # Как работает гарантированная доставка данных в мобильном SDK

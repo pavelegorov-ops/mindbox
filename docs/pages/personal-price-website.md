@@ -6,8 +6,8 @@ vcs_path: "personal-price-website.md"
 toc_path:
   - Лояльность и акции
   - Персональные цены
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:f2e0af36d165eb0e603f9684404126fc9595ea67fc887077c8c4e90f68884be2"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:56afe62eb2394599ee489ab1efc4bc837d1e9bd7b6fc2d931ef61d87b2eb889b"
 ---
 
 # Как вывести персональные цены на сайте

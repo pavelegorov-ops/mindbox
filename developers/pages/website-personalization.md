@@ -4,8 +4,8 @@ slug: "website-personalization"
 source_url: "https://developers.mindbox.ru/docs/website-personalization"
 breadcrumb:
   - Персонализация сайта
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:9e34342129f36cfacd57760e7bc5d93709cbd81ab7ded91ae74e31ffa3aa60b5"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:85a7c9dea7404e004ed3e32ddf5994c2d1e58e4693e2ac1a69985b64463b67f8"
 ---
 
 # Общая информация

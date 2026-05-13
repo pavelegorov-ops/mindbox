@@ -4,8 +4,8 @@ slug: "get-customer-product-list"
 source_url: "https://developers.mindbox.ru/docs/get-customer-product-list"
 breadcrumb:
   - Номенклатура
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:4ed496f241526b208b662e9a72cb459e43f17c33b88f4e0de698b4a6cf108c3c"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:ab58865cd86c41b1d53e956795c608e1ebf3f3cc3143d35acc5a76dd15e088f5"
 ---
 
 # Получение списка продуктов клиента

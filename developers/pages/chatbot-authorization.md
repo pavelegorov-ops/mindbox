@@ -4,8 +4,8 @@ slug: "chatbot-authorization"
 source_url: "https://developers.mindbox.ru/docs/chatbot-authorization"
 breadcrumb:
   - "Чат-боты"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:fb062d3be10c0fcce3c195c50896bbca872b3051fb087e206acf9e6301cdc797"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2ed95893dae88ff42e788ec46787a0f096bd49a82b85e9d48bc7063b4a185d49"
 ---
 
 # Чат-боты. Авторизация клиента по ссылке

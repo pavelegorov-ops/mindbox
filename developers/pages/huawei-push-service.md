@@ -3,8 +3,8 @@ title: Huawei Push Service
 slug: "huawei-push-service"
 source_url: "https://developers.mindbox.ru/docs/huawei-push-service"
 breadcrumb: []
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:57c0f75e99baac119f3d29e4efb21359999b2db591684fa50ccdec4ba37dc603"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:e27c5054e94b622740e9004add0964558eb3d3d40908e9925a3064a090f18095"
 ---
 
 # Huawei Push Service

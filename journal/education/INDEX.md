@@ -6,6 +6,7 @@ Source: <https://mindbox.ru/journal/education/>
 тематического поиска используй `summaries.json` (грепом) или
 `index/by-tag/<тег>.md`.
 
+- `2026-05-12` — [Объем товарных остатков: анализ, формулы и показатели эффективности управления запасами](pages/analiz-tovarnyh-ostatkov.md) — _Маркетинг, Метрики, Аналитика и отчеты_
 - `2026-05-05` — [B2B-маркетинг: особенности, отличия от B2C, стратегии и инструменты](pages/b2b-marketing.md) — _Маркетинг, B2B, Словарь маркетолога_
 - `2026-04-24` — [Лидогенерация: что это такое простыми словами и как работает в маркетинге](pages/lidogeneraciya-dlya-biznesa.md) — _Маркетинг, Сбор контактов, Словарь маркетолога_
 - `2026-04-21` — [Опросы в email-рассылках: как собирать обратную связь из писем](pages/obratnaya-svyaz-email-rassylki.md) — _Лояльность, Омниканальные рассылки, Триггерные рассылки_
@@ -366,7 +367,6 @@ Source: <https://mindbox.ru/journal/education/>
 - `2019-06-20` — [Сколько денег заработает или потеряет компания, внедрив автоматизацию маркетинга](pages/skolko-deneg-vyi-zarabotaete-ili-poteryaete-vnedriv-avtomatizatsiyu-marketinga.md) — _Маркетинг, Окупаемость автоматизации, ROI_
 - `2019-04-29` — [Расчет окупаемости автоматизации маркетинга на примере Mindbox](pages/raschet-okupaemosti-avtomatizatsii-marketinga-na-primere-mindbox.md) — _Окупаемость автоматизации_
 - `2019-03-26` — [Как рассчитать эффект от дополнительной SMS в цепочке](pages/kak-rasschitat-effekt-ot-dopolnitelnoy-sms-v-tsepochke.md) — _SMS, Омниканальные рассылки, AB-тесты, Контрольная группа_
-- `2019-02-22` — [Обучающие видео: как правильно проводить AB-тесты](pages/obuchayushhie-video-kak-pravilno-provodit-ab-testyi.md) — _AB-тесты, Аналитика_
 - `2018-11-27` — [Как улучшить конверсию email-рассылки и генерировать идеи для AB-тестирования](pages/idei-dlya-ab-testirovaniya.md) — _Email, AB-тесты_
 - `2018-11-09` — [Почему Google Analytics не подходит для измерения целевого маркетинга?](pages/pochemu-google-analytics-ne-podhodit-dlya-izmereniya-tselevogo-marketinga.md)
 - `2018-10-31` — [Как навести порядок в CRM-маркетинге на основе цифр](pages/kak-navesti-poryadok-v-crm-marketinge-na-osnove-tsifr.md) — _Омниканальные рассылки, Аналитика_

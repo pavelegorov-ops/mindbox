@@ -6,8 +6,8 @@ vcs_path: "интеграция-frontol.md"
 toc_path:
   - Операции и интеграция
   - Стандартные интеграции
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:6ba11fbd82cb44dc3403719fd74bbadfc045fb2f371784c13c5084e10747ac5d"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:30083936b72d65e8ac5afc7ded99fc0bdea1fcb2a7149d0ae213ac5e86b61649"
 ---
 
 # Интеграция Frontol

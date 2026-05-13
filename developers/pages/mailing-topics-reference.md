@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/mailing-topics-reference"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e0cc3342522d79a68cdaef9041853b6d3637ca137d957523204942d9ba4736e7"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:ef3bf0e5ccd0f75cb12e94deed6d6fe5a4e4fbc8fd7fa032cb025d49bb1e7bc4"
 ---
 
 # Справочник тематик рассылок

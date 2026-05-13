@@ -4,8 +4,8 @@ slug: "bulk-import-balance-changes-v3"
 source_url: "https://developers.mindbox.ru/docs/bulk-import-balance-changes-v3"
 breadcrumb:
   - Бонусный счет
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:80b97958b78e44b880921cc282f41cffec85e8b17e4310042d02673b17fe1c9c"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0987335fe5e5abf2f5422f2a0b6d5b25ed1540fcdeab3cda6a54af14be5f0e04"
 ---
 
 # Массовый импорт изменений баланса

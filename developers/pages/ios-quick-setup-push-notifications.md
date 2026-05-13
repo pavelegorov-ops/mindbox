@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-quick-setup-push-notificatio
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:909f33b521b1d723a53fac899fd2edde362867941454a3ef0b201b74f5414f18"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2294ab76f4532dfb39eb1bc86f11a6d12bb4c944f0a9338f08c4ed9a2811a680"
 ---
 
 # Настройка push-уведомлений

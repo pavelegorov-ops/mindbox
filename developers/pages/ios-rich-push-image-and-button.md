@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - Flutter SDK
   - "iOS | Настройка Rich-push уведомлений"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:7268ea74a633ce06703d8328792d4666e84382d4bcaa6b5e86bc9fd467bf891b"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:84acf37d857be8760da039a1e8539873cca194b3c1532c858992fb18a1048951"
 ---
 
 # Отображение картинки и кнопки
@@ -94,7 +94,7 @@ content_hash: "sha256:7268ea74a633ce06703d8328792d4666e84382d4bcaa6b5e86bc9fd467
 
 ![](https://storage.yandexcloud.net/assets-developers-mindbox-ru/images/bab3dcd6b70986bac52dcae9225daa65b16afd8fb7ce39f15351beb87150eff9-__2025-03-24__18.41.57.png)
 
-#### Cocoapods
+#### CocoaPods
 
 ---
 

@@ -5,8 +5,8 @@ source_url: "https://help.mindbox.ru/docs/mailings"
 vcs_path: mailings.md
 toc_path:
   - Рассылки
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:9ed7c279d040bf99c81adda4b34b6a997923df16bb9e6bfd4b4e80ed251640da"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:5ef3aa3bb7f1b9d2138eb8f3d49d850223601765b76a410422e21c502b1dd74e"
 ---
 
 # Какие бывают рассылки

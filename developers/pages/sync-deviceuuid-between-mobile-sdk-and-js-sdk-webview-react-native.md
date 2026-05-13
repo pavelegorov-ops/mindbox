@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/sync-deviceuuid-between-mobile-s
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:0bba525fc79a85795c1b802d2ff6921d1f959051f01595ca632df14078fb8851"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:5bd22b222878c64f558d976209060bfd9b736e53f2bba5d16e7f2c504b858103"
 ---
 
 # Cинхронизация deviceUUID между React Native mobile SDK и JS SDK в приложении с WebView

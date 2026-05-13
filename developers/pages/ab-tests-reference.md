@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ab-tests-reference"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:df3d884c2cfd3e12e527334a36e098607dec7d6f05b9370529508a0b804e995b"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:8a381ffe6539b0303787d443ccee433b9c04e00e28f5229f7bd45874e8559c21"
 ---
 
 # Справочник АБ-тестов

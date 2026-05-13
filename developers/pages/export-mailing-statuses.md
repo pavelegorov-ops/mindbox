@@ -4,8 +4,8 @@ slug: "export-mailing-statuses"
 source_url: "https://developers.mindbox.ru/docs/export-mailing-statuses"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:66db9f28c18a3e57ad3ee74f395d9109b581d3de556396633095e1717c3021a2"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:aac7eec6ea3969082beb74b598f9aea3366f3490f69127702ddb3b6df3cbfba8"
 ---
 
 # Экспорт статусов рассылок

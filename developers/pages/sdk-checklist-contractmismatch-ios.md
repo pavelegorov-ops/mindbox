@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - IOS
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:4cb89ab0009982fb3a140ad742dbb198de40bd57c7d92dd0f21c3252d0e068ce"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c286915165ad3dbe9fb02ea478c7ec8b1e2b9b03f2cb33fed91172d6bf378169"
 ---
 
 # При отправке push-уведомления статус «ContractMismatch»

@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - Flutter SDK
   - "Android | Настройка пуш-уведомлений"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:b41bb9e21bb5d6302b11f62edf7965a7e0d0b424c5fc8dd0122ebc9458ccf87a"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9ad994844d2a957df89f1d93130928e37f3f704ad186c32db489f63565e697c4"
 ---
 
 # Huawei

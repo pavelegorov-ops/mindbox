@@ -4,8 +4,8 @@ slug: "import-personal-offers"
 source_url: "https://developers.mindbox.ru/docs/import-personal-offers"
 breadcrumb:
   - Номенклатура
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:2e7008704c714086d2adc0b82fada057429fdf220ef4a939244ebac38be60d48"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:289364376b0bf02f5dc2b598072dd9f485148597cc55270d241c8a8395da7592"
 ---
 
 # Импорт персональных предложений

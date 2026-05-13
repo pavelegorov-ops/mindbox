@@ -4,8 +4,8 @@ slug: "api-mailings-send"
 source_url: "https://developers.mindbox.ru/docs/api-mailings-send"
 breadcrumb:
   - Рассылки
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:f4ad2961374af968cff20e67967caeb2d7d3d3b465840a6e8f8adf9a9f586de8"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:cebbc0d76281557f7b6806599248bc3d682266d62e7bf35a8a3b35b9dc7329c3"
 ---
 
 # Отправка рассылок по API

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/sandbox-integration-setup"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:7cd0faa5adb8df97c844482731dc47c1a56b01f31e751aac85c7b65237695bc5"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d9fa5e19397db05f0e51c4e10e59bf9849a3ea8b837fbb44ab97f602a3d6862a"
 ---
 
 # Настройка Sandbox окружения

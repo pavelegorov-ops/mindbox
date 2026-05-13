@@ -4,8 +4,8 @@ slug: "export-customers-from-scenario-blocks"
 source_url: "https://developers.mindbox.ru/docs/export-customers-from-scenario-blocks"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:26beb46d51a0ad46a0e1f8f1277dda4d977a459a77a97f0705292054ddac6c56"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:33fe1b545a40aaa5a7223d6200db779967c0ced48aa2af944eb15a655528f30e"
 ---
 
 # Экспорт клиентов из блоков сценариев

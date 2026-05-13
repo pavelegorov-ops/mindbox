@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/huawei-send-push-notifications"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:d034700c287e8cfbd6e447ac3073051389c43c540d3dcea6a505b48b7d4107f6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f141986c75ccabac16ca0cdfa00de382cb3698954f984228221fd5ff3aab9aa4"
 ---
 
 # 3.2. Отправка push-notifications через Huawei

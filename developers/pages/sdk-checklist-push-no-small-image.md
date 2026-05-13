@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - IOS
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:c6baccdf133994bcc3098ef14fb8598673e8e849ede7735aedb357c5b37d2289"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:e10bb9a405dd94f8472c94d5307b7d4712b6706a465db8782d9557f3f238128c"
 ---
 
 # В push-уведомлении не отображается маленькая картинка

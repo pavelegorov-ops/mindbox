@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - Android SDK
   - Получение ключей провайдеров пушей
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:4ab4cc554e920c00e41ed099da2d9f089e10a84d7821fc90f08c5f54b33b00f1"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:503318bd4419a444fd0ca6a289d16d99c17739086f955cd2bb5470056150f77a"
 ---
 
 # Получение Firebase ключей

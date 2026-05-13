@@ -4,8 +4,8 @@ slug: "regional-products-import"
 source_url: "https://developers.mindbox.ru/docs/regional-products-import"
 breadcrumb:
   - Номенклатура
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:db4794a58cb667a978c289b34f11b2d37949dd66bed0955e295780991c6ae694"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:81369686f058da83da1ac81c1061aaaba4c0af4206ba54afc43e09f61474cd45"
 ---
 
 # Импорт региональных данных продуктов

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-webview-sync-with-sdk"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:411a72fe59fc71b954452005eb55763a41c810b0e7f49f226021e24dc65b8218"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c70d2b904fac1a508396e26fed89798a8f251ece8742d3c04f598210eef77d7c"
 ---
 
 # Cинхронизация deviceUUID между iOS mobile SDK и JS SDK в приложении с WebView

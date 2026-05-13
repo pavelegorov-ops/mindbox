@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T13:16:56Z",
+  "generated_at": "2026-05-13T11:53:43Z",
   "source": "https://mindbox.ru/journal/education/",
   "page_count": 383,
   "schema": {
@@ -285,6 +285,27 @@
       "published_at": "2026-01-20",
       "modified_at": "2026-04-22",
       "source_url": "https://mindbox.ru/journal/education/analiz-oborachivaemosti/",
+      "deprecation_hint": []
+    },
+    "analiz-tovarnyh-ostatkov": {
+      "slug": "analiz-tovarnyh-ostatkov",
+      "title": "Объем товарных остатков: анализ, формулы и показатели эффективности управления запасами",
+      "lead": "Товарные остатки — необходимый актив для продаж и одновременно источник рисков. Нехватка товара ведет к упущенной прибыли и потере лояльности клиентов, а его избыток замораживает оборотный капитал и увеличивает затраты на хранение.",
+      "headings": [
+        "Что такое товарные остатки и зачем ими управлять",
+        "С чего начать анализ товарных остатков",
+        "Как оптимизировать товарные запасы",
+        "Как автоматически управлять складскими остатками",
+        "Часто задаваемые вопросы об управлении складскими остатками"
+      ],
+      "tags": [
+        "marketing",
+        "metrics",
+        "analitika-reports"
+      ],
+      "published_at": "2026-05-12",
+      "modified_at": "2026-05-12",
+      "source_url": "https://mindbox.ru/journal/education/analiz-tovarnyh-ostatkov/",
       "deprecation_hint": []
     },
     "arbitrazh-promoakczij": {
@@ -632,7 +653,7 @@
         "whatsapp"
       ],
       "published_at": "2026-04-20",
-      "modified_at": "2026-04-23",
+      "modified_at": "2026-05-12",
       "source_url": "https://mindbox.ru/journal/education/blokirovka-whatsapp-i-telegram/",
       "deprecation_hint": []
     },
@@ -4624,25 +4645,6 @@
       "published_at": "2024-06-14",
       "modified_at": "2026-04-29",
       "source_url": "https://mindbox.ru/journal/education/obratnaya-svyaz-ot-klientov/",
-      "deprecation_hint": []
-    },
-    "obuchayushhie-video-kak-pravilno-provodit-ab-testyi": {
-      "slug": "obuchayushhie-video-kak-pravilno-provodit-ab-testyi",
-      "title": "Обучающие видео: как правильно проводить AB-тесты",
-      "lead": "Ведущий аналитик Mindbox Туркина Юлия записала 4 видео, где максимально просто объяснила как правильно проводить АВ-тесты",
-      "headings": [
-        "Серия № 1: «Определение гипотезы»",
-        "Серия №2: «Целевой показатель»",
-        "Серия № 3: «Размер выборки»",
-        "Серия № 4: «Запуск и завершение теста, проверка результатов»"
-      ],
-      "tags": [
-        "ab-testyi",
-        "analitika"
-      ],
-      "published_at": "2019-02-22",
-      "modified_at": "2024-09-17",
-      "source_url": "https://mindbox.ru/journal/education/obuchayushhie-video-kak-pravilno-provodit-ab-testyi/",
       "deprecation_hint": []
     },
     "ocenka-effektivnosti-marketinga": {

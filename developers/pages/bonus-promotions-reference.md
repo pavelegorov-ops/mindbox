@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/bonus-promotions-reference"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:55648bbe9f761cb22c29ac751a4126f4b1a3259e4043f2a06582e60de57d5487"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:7a2618d8718cd5cdcf7c1cc22852d917033b36b45f8a319a63349fcbd64fff9b"
 ---
 
 # Справочник балльных промоакций

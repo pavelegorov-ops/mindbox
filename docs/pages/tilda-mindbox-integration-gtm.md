@@ -6,8 +6,8 @@ vcs_path: "tilda-mindbox-integration-gtm.md"
 toc_path:
   - Операции и интеграция
   - Дополнительные возможности
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:5b2508858909fdda15240ae258de07d5f94f5a6d4147fac72ce93fe7c23bd102"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:b09cc0679584b6edb0306252508566bc3b85c57da8566f941067da9302f22a5a"
 ---
 
 # Интеграция Tilda с Mindbox через GTM

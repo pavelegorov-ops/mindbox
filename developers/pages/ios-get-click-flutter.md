@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-get-click-flutter"
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:67f2fd01f625389cc4febc654d3935d54e9de11e898a8a9ec67a2e8a1972110e"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2e81633b271ece16cd5729cf32e52c25f55e125c5e3542581b1543f165477183"
 ---
 
 # Передача кликов по push-уведомлениям

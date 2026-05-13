@@ -4,8 +4,8 @@ slug: "replace-card"
 source_url: "https://developers.mindbox.ru/docs/replace-card"
 breadcrumb:
   - Карты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:589a57ba3c884c84dfac5207c6f653842015b30cf2249c28de3ea8c914626f5d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:907dd03d5257de4953289645f2eed4840df6243d2d89992201935ff52a3e6cfc"
 ---
 
 # Замена дисконтной карты

@@ -4,8 +4,8 @@ slug: "bulk-import-channels-v3"
 source_url: "https://developers.mindbox.ru/docs/bulk-import-channels-v3"
 breadcrumb:
   - "Точки контакта, магазины, зоны"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:89985d6786e1495f423b2359382f25846331384b452bae791c5d690d96e22fed"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0652c3ab06cb99e3018d528c8a3ff0afb4ff6fb1cfb9164cc808586a03cd996d"
 ---
 
 # Массовый импорт каналов

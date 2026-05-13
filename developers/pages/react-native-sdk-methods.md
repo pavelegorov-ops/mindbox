@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/react-native-sdk-methods"
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:7f6dd13cefcebdeebb4646f81257ee13fadc69606bd5a2ed2ae5e36422a18d5c"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:920df89119aa14e7a4b33b63376cc27d96086e71689dea07d53518f294f83ec1"
 ---
 
 # Методы React Native SDK

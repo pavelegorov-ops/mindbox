@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - React Native SDK
   - "Android | Настройка пуш-уведомлений"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:293ebfea03550f2621525d702c0524542af61d78ff7c8dd1e13aeceacee808cf"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2dc4cbba4d80d7d85987fd03da0e78e48ee656bb2ef13d832acf26d6bb18a2d4"
 ---
 
 # Firebase

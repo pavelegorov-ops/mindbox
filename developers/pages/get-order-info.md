@@ -4,8 +4,8 @@ slug: "get-order-info"
 source_url: "https://developers.mindbox.ru/docs/get-order-info"
 breadcrumb:
   - Заказы
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e4cd1685fbe5c6bebce07c5510d55d4e20a968d2868e1f872e60205027026295"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9ddddf39cacf9280297e79ad854bef0289639228127860c760a892577743c3d2"
 ---
 
 # Получение информации о заказе

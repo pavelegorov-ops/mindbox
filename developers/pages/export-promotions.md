@@ -4,8 +4,8 @@ slug: "export-promotions"
 source_url: "https://developers.mindbox.ru/docs/export-promotions"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:1e14f35c8ddbb7d6be2bc1d10ae5896e4badfc661ba25c924714ad9d5251b357"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:6f17954a7717f8328617768ccc7eb3d89e0287a56b4b6f4b7e5ffec30ad8d52f"
 ---
 
 # Экспорт промоакций

@@ -4,8 +4,8 @@ slug: "update-order-line-status"
 source_url: "https://developers.mindbox.ru/docs/update-order-line-status"
 breadcrumb:
   - Заказы
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:9521e057407e0ebb6d95fb40ce116407f6dd1839dfd9390e3fe1f29eb76239d5"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:1b71160b017619db7adadfc888dd96b94493ad65443e0b9f4944281ad59da4c1"
 ---
 
 # Изменение статуса позиции заказа

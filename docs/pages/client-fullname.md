@@ -7,8 +7,8 @@ toc_path:
   - "Клиенты, заказы и продукты"
   - Клиенты
   - Личные данные
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:cf14042c291c87dd734964252126cdbafacfcc1da8db03428468868453bdf007"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:4aed0a678375bcb30696cb63877b7f3b17ec48eb3c693d0254b16b374b93afa5"
 ---
 
 # Как корректируется ФИО клиента

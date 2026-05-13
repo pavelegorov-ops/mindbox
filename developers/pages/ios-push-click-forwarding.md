@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-push-click-forwarding"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:9f580f9c3a0bc1b080a9bd1ff2ea3413547789bb0b2a24580cc663da60f2f2c7"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:50f2b25f20b24b4f7c115531a17a9753db92fa2016371c7b2943fabafc7dd28f"
 ---
 
 # Передача кликов по push-уведомлениям

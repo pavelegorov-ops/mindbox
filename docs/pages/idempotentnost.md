@@ -6,8 +6,8 @@ vcs_path: idempotentnost.md
 toc_path:
   - Операции и интеграция
   - Решение проблем
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:1d890ab57d8a64f964033776eed3b429383394721f1298944189634cd0ed3611"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:03bfbc8189d0ecb9783a0b927bb137004a5a5eebfd675924a29d46787935c93c"
 ---
 
 # Идемпотентность. Как избежать повторных ошибочных вызовов операции?

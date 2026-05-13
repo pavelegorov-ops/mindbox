@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-setup-background-tasks-flutt
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:09c39ac03d93498636398acfd1d6bdbcc49656cc611269b85e2c6d18eff4a40f"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:bf976ff055182434fcdfcbd6ad94eb951c7c0353fc46312d026559ae69bbd729"
 ---
 
 # iOS | Настройка гарантированной доставки

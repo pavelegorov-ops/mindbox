@@ -6,8 +6,8 @@ vcs_path: "in-apps.md"
 toc_path:
   - Персонализация
   - Персонализация мобильных приложений
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:b19f57af4885a58572bba9dcd329909c733e8ac151cd19d576e83dfc9dd188a5"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:5b7e0fe762fbe4e256f37914f4e71fffa98f3033c51cb38b608dd3af5b76fbcf"
 deprecation_hint:
   - устаревш
 ---

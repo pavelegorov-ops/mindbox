@@ -4,8 +4,8 @@ slug: "notification-center"
 source_url: "https://developers.mindbox.ru/docs/notification-center"
 breadcrumb:
   - Мобильные приложения
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:510afb03896db115c58ad3857ad3f48b445807065574accdef0556df6c16ff7f"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:5735ab22e38f3ddfd166d83a5c335983ab9e81e60bee57a6d816176fb297a967"
 deprecation_hint:
   - не используется
 ---

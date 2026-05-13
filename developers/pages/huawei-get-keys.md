@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - Android SDK
   - Получение ключей провайдеров пушей
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:6f1328ce82aa59f359a6f3fe8b814b8365b4dbb5b76273912de12328f8a04f10"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c4105e1f27d390c8e6384768840389974c9b657f73c974528b83ff5b56900d62"
 ---
 
 # Получение Huawei ключей

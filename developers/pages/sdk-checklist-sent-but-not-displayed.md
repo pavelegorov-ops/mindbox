@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - Android
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:fb041c15b9d86cd2aff97b112b8bd8111f192089bcb29a860a363e0935772ebd"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:fc87ba3a36a2d9b14ff538a558df3bbab7f8024a1b51b605ffc5e0a5daaa4ad7"
 ---
 
 # При отправке push-уведомления в системе статус «отправлено», но уведомление не отображается

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/mobile-push-check"
 breadcrumb:
   - Мобильные приложения
   - Справочное
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:50e75824e8ae42c3cec786794dc9c5e79023ae5f1a13f99b11c8fd3bd600fdd8"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:3d4e2b368386a3287df8aeb22451771d6e281fbbcce7a222fc08584dcffc7901"
 ---
 
 # Проверка корректной работы мобильных push-уведомлений

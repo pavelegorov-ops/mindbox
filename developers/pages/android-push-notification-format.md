@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/android-push-notification-format
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:bfe2b054af4f795ba579e3c2c49353630913f5266c1ac3670ca8da931f9cfc5d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:12cb404917fa2c611b9992b0508cfff6e0fecaa6290b6b2accf25febc60eb95e"
 ---
 
 # Формат пуш уведомления Android

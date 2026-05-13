@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/rustore-send-push-notifications"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:c67c8a827ca1b7d180faef0375cf99186e63e9b93987ef9d1d49dbf5e7abb6fc"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:294c12525ff18e2b4534e190bda508ee938100b8a0d13cf7714b1406d4b35d67"
 ---
 
 # 3.3. Отправка push-notifications через RuStore

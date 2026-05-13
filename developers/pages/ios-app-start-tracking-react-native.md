@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-app-start-tracking-react-nat
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8f830c8693602a821a286c8b2da5f3bc3d87b874ba7e90243965dee506942edf"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:bd6e95162a816fde7da1847266a62099b7cc25eaab580a659c83dd92b98b1d16"
 ---
 
 # Получение источника установки мобильного приложения

@@ -3,8 +3,8 @@ title: "[iOS] Самостоятельная настройка пушей"
 slug: "ios-push-notifications-setup-advanced"
 source_url: "https://developers.mindbox.ru/docs/ios-push-notifications-setup-advanced"
 breadcrumb: []
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:3de33ca58ef00dcb46e208c0e73816d3bc65ca585190c38f68c0b0d4d2dd7e29"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d0745d051c44296fdb44f34934102cab92a8a23f5b6b1f1ae6288482ba2f1696"
 ---
 
 # [iOS] Самостоятельная настройка пушей

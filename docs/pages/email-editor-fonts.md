@@ -7,8 +7,8 @@ toc_path:
   - Рассылки
   - "Email-рассылки"
   - Конструктор писем Mindbox
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:5a2a8d9c4aaad2ba9a19b2701334263b827bdd954ecfe85671b8f4a6fe9d7645"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:2c4d39ef2039fecb7e0cceb6e5064275d5f846c04f130005e6f8eb28c5e09163"
 ---
 
 # Как использовать фирменные шрифты в конструкторе рассылок

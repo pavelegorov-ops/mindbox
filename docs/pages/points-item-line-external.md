@@ -6,8 +6,8 @@ vcs_path: "points-item-line-external.md"
 toc_path:
   - Лояльность и акции
   - Механики акций
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:6ba2409be378455f90a6e4c8ada857b6612ba64cc8f26c3017f765c27bc5b5c3"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:3d713dd2a63e67d817f20bb11df831fd7017499674b9d1a9207e78f9bcb7b91a"
 ---
 
 # Как начислить баллы на позицию заказа по данным из внешней системы

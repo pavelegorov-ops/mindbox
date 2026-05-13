@@ -4,8 +4,8 @@ slug: "bulk-add-products-to-list-v3"
 source_url: "https://developers.mindbox.ru/docs/bulk-add-products-to-list-v3"
 breadcrumb:
   - Номенклатура
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:7b82d8c057ef3b7a5b09c3e59a19f3fed307d59d0c880471e1f9bd23b41bcb85"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:077cad690f5cf6a6a00108eb998d6fe97590b3f66ad565ba50314fabf36ee848"
 ---
 
 # Массовое добавление продуктов в список

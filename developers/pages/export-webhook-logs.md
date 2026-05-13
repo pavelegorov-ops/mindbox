@@ -4,8 +4,8 @@ slug: "export-webhook-logs"
 source_url: "https://developers.mindbox.ru/docs/export-webhook-logs"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:fff12ed962d3ee0d7d71aec98f28e2eb5b2b22540816be2a4b37882c9e69b27a"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:7ad91e3e1ac1888d5f52950cee67f308a23ffaf3a5ac124bedcacaab8b31926a"
 ---
 
 # Экспорт логов вебхуков

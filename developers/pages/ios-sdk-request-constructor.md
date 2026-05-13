@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-sdk-request-constructor"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:ec13392aa2815a2da85d9e426fd299988a9d418ca362a40ce43bfec35e1b2db1"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c319f714d756160b8b3e6c97dd124c448263bf22859b065fdb27566570f0743c"
 ---
 
 # Структура конструктора запроса iOS SDK

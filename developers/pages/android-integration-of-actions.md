@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/android-integration-of-actions"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:da1918922caa766f7114b1778a597d4c274bc4d9d623ec2f68e945581adcf511"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:39d12e3098369dafd3319c6315211aa5c675f97216aa0ebe98feb4a49fac0614"
 ---
 
 # 6. Интеграция действий в приложении

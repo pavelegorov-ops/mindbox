@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/retail-version-23"
 breadcrumb:
   - Стандартные интеграции
   - "Интеграция модуля для 1С:Розница"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:27bac7d83d6245e9fcaf9e58bdd6898698440fb95566f95843d23fbcdccfc0f8"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:3da80a9e0bbd7eaf5736295e8fafd845973fd28a8e6dc2b802b5fea6436b4ea8"
 ---
 
 # Версия розницы 2.3

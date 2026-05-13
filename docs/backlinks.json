@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T06:48:43Z",
+  "generated_at": "2026-05-13T11:52:59Z",
   "source": "https://help.mindbox.ru/docs",
   "page_count": 313,
   "schema": {
@@ -516,7 +516,8 @@
     ],
     "enterprise-security": [
       "2-step-verification",
-      "billing-recommendations"
+      "billing-recommendations",
+      "who-is-the-client"
     ],
     "errormobpush": [
       "mobile-push-status"

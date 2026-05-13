@@ -4,8 +4,8 @@ slug: "how-to-read-data"
 source_url: "https://developers.mindbox.ru/docs/how-to-read-data"
 breadcrumb:
   - Данные для аналитики
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e0a6f8110673cf57e4ef66587c419bd12f22776bd9d1636533caaa0f25106a38"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:b2e790f1993b7d2b8223de8847f9abda497cd17277fe271855bb9f2340c2f7bd"
 ---
 
 # Как прочитать данные

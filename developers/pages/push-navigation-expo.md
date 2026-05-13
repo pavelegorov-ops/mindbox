@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - Expo SDK
   - Дополнительные настройки
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e23f8892a071cc4ea402d15d4dc90bbde953dc4cd3b0ae739a9c031e319c7000"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:38ae834b413000d1f7f43cf0ecdf22e3902451b7c88fd78ff0f0ad7f2f72a78b"
 ---
 
 # Навигация по клику на push-уведомление в Expo

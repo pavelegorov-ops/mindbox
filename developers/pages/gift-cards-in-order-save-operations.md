@@ -4,8 +4,8 @@ slug: "gift-cards-in-order-save-operations"
 source_url: "https://developers.mindbox.ru/docs/gift-cards-in-order-save-operations"
 breadcrumb:
   - Карты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:84bdc2bdc97f43a8f006ecee7b8c9d76a4385483a160b0c784ff9c321a47e3f4"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:886d9d5dec3c141c877afd63e646ef255fb4ff5c752612f38de387c657bbb27a"
 ---
 
 # Работа с подарочными картами в операциях сохранения заказов

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-setup-background-tasks-react
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:7a4faf04dba9b0b8cc4081282102ffe1f2dafd29c4733af58e54838ae5a23ab8"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:b7da05ebc4fd672317dece46f5ef7f9920b9933a743923aaa9ddbfcf55d7f85f"
 ---
 
 # iOS | Настройка гарантированной доставки

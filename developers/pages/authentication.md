@@ -4,8 +4,8 @@ slug: authentication
 source_url: "https://developers.mindbox.ru/docs/authentication"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:6138b8dc69c609ec1f68872e1c7218cdf0dbb4215aa1c2a459dd8ad34fc8aef4"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:224f366d72f17b9fb4f5de047eb3d34bffdd39db286e2a3237bb01767c1f599c"
 ---
 
 # Аутентификация

@@ -4,8 +4,8 @@ slug: "analytics-data-schema"
 source_url: "https://developers.mindbox.ru/docs/analytics-data-schema"
 breadcrumb:
   - Данные для аналитики
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:0b02255baf3ad4f83b673b93063a39870f2224a7496f0684c3c0194daa964984"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:797392470d22e7216ffb633e4a71076090134c3fc56c9c56a9aef0992c941492"
 ---
 
 # Описание схемы данных

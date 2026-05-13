@@ -5,8 +5,8 @@ source_url: "https://help.mindbox.ru/docs/segments-dashboard"
 vcs_path: "segments-dashboard.md"
 toc_path:
   - Аналитика
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:43108dd9817317c02f8a5b37fcfedb91fa8ab85cbba572e7abea8924bca34158"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:25bc3fa65f9686b726623a6f3ec6e9b1a85fb1edb43a904292a1855b91014c71"
 ---
 
 # Отчет по сегментам

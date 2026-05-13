@@ -4,8 +4,8 @@ slug: "import-external-promotions"
 source_url: "https://developers.mindbox.ru/docs/import-external-promotions"
 breadcrumb:
   - Промокоды и промоакции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:d910823cde48c0a9e516479abed7a07b32cedf2ae054f6c3f071315472dd62dd"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:6c32a84762ebe9f0b16eddb7503b6507f9a7a178a6a3489ae23491d7625687ef"
 ---
 
 # Импорт внешних промоакций

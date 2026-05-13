@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/mailings-send-json"
 breadcrumb:
   - Рассылки
   - Отправка рассылок по API
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:83eef70bc0e0f85fdb89a9c7f8f2ed2a7cb0bcf6c363a3a610d57a0693e7eb9b"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:b2f566b28008cdfff818fd71e8e010be9fc7dee2b52293055085456915c7f281"
 ---
 
 # json

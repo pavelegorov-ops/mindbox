@@ -6,8 +6,8 @@ vcs_path: "personal-offers-variables.md"
 toc_path:
   - Лояльность и акции
   - Персональные предложения
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:f47efa54a9c145e5c595fd4e8c92ccfe3c0f4ee2109632944d8a2fc3c0d18ffc"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:88273755ae1580c213d99892be0ee85986945274de7edfb62433d4fa66a070cd"
 ---
 
 # Как вывести персональные предложения в рассылке

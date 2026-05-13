@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/android-push-provider-keys"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:9326c5152ba4c6616e5c20fbbae7e53524cc966f89aa5ec87572f397ed2a5d18"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:510700e73a0151b36d32d613951d444ef23a78f72bf5a17df31bba7bae61f3f6"
 ---
 
 # Получение ключей провайдеров пушей

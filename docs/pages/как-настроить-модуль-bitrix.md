@@ -6,8 +6,8 @@ vcs_path: "как-настроить-модуль-bitrix.md"
 toc_path:
   - Операции и интеграция
   - Стандартные интеграции
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:1dfbf68b4d8b8a9946ef153502786e3dc1dc419267de7cfc63201a2005bbd5af"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:d4c7f0493fb752915d0a140ac35c48bbbb3d31da74ca4faddf5b01c9c8bcc49a"
 ---
 
 # Как настроить модуль Bitrix

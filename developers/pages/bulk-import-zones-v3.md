@@ -4,8 +4,8 @@ slug: "bulk-import-zones-v3"
 source_url: "https://developers.mindbox.ru/docs/bulk-import-zones-v3"
 breadcrumb:
   - "Точки контакта, магазины, зоны"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:ff36a0e5bce7ce7d91ffc65139ce3f58ecf7f56b2204083112ab4edfc0cd2ec6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:4c6c05e37d5975b49cb1eac6b91581fedad72277a37d0d6f3a3ec33f223c81b8"
 ---
 
 # Массовый импорт зон

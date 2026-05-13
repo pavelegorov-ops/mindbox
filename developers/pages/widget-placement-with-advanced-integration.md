@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/widget-placement-with-advanced-i
 breadcrumb:
   - Персонализация сайта
   - Особенности установки виджетов рекомендаций на сайте
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:c712ae5c9ff03c5f4c0ca41330e4cf281d9a1f082d399576886a01f80a6e01ac"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c87a7378b47083c42e4bc45cd6d6dc60747a6d068755c623147ccc5c3b7c7d4b"
 ---
 
 # Размещения виджета с реко по продукту или категории с расширенной интеграцией

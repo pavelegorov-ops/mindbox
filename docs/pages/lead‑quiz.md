@@ -5,8 +5,8 @@ source_url: "https://help.mindbox.ru/docs/lead‑quiz"
 vcs_path: lead‑quiz.md
 toc_path:
   - Опросы и квизы
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:4a07977ea88baf0a3fd9e90cd0757addec16688ae3d47552744fe46ab3e6d8cf"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:6f700a21a3169fa5436406f7b71dffef639b3a9dfc41b7bba91bfdb400e44b4f"
 ---
 
 # Как создать квиз для сбора заявок

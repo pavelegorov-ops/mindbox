@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-integration-actions"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:98da9941588e9af356d9d98b040d16caec3531a74d4a766ab69ad838c92bf304"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:b1edf2aa8010af712e5f98f9423a5dc468325d9e98eb40d9de336d9bd00e6f02"
 ---
 
 # Интеграция действий в приложении

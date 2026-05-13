@@ -6,8 +6,8 @@ vcs_path: "personalization-report.md"
 toc_path:
   - Персонализация
   - Персонализация сайта
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:76336bc8acf904d84b48631c08db8c66b5e17d7ea4eec167c971333148170b49"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:4c52f6552d05ca587e554278722a614521a5b5631fb3d718a8170a87aee14cf1"
 ---
 
 # Как работает отчет по механикам персонализации

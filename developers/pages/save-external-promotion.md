@@ -4,8 +4,8 @@ slug: "save-external-promotion"
 source_url: "https://developers.mindbox.ru/docs/save-external-promotion"
 breadcrumb:
   - Промокоды и промоакции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:37193ffc888c13982115ca2178d13dbf646f88e24837ec092a5867b58e053a37"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:caa3b53a6ecccad79cb8e6c045595c450d54e1cb8fa969080d8f162759a0a5f3"
 ---
 
 # Создание и редактирование внешней промоакции

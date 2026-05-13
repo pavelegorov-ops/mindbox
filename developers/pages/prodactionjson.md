@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/prodactionjson"
 breadcrumb:
   - Номенклатура
   - Действия с продуктами
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:a8ecf3f526c4fc804a248b0aa0247a6a774d8a3c51bab88b1ace8edc05ab87f5"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c7a672388f6bba4098c5fc894ced9e640a701cdf7502bd7602d7e3135bbc5f74"
 ---
 
 # javascript

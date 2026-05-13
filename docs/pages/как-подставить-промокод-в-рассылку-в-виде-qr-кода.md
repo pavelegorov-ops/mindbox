@@ -7,8 +7,8 @@ toc_path:
   - Лояльность и акции
   - Промокоды и пулы промокодов
   - Выдача и использование в рассылках
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:f8ad1479bb5d28cf53511b10ed10035ed20f4beda547bafb97201c6bd0b3d6ec"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:987fe988f874e8e9c309f142be7442b81ae1cd900e1086f343fe6c1b29deb703"
 ---
 
 # Как добавить QR-код в рассылку

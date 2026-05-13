@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/order-line-statuses-reference"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:eb961cf18937a52ee13d2c1c5b368cb3b29d5130492118df70feee469be9e327"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:be5c1fd4085a814fad14dc7bda6059619b04fa99406c7fd185823c87dbb0e5ea"
 ---
 
 # Справочник статусов позиций заказов

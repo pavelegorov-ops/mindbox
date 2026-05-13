@@ -4,8 +4,8 @@ slug: "export-orders-and-lines"
 source_url: "https://developers.mindbox.ru/docs/export-orders-and-lines"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:93905d626fba3b3c9356c10ddc614fb06d36d44f7b5dadcae00c887e96ec3741"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0df62869a28d352cc54a3921140e6f5e996acd6567e25f30140b64c65b218205"
 ---
 
 # Экспорт заказов и позиций заказов
@@ -50,6 +50,7 @@ Authorization: SecretKey {Секретный ключ}
 {
   "status": "<Результат выполнения запроса: Success в случае успеха, ValidationError в случае ошибки пользователя, ProtocolError в случае ошибки интеграции, InternalServerError в случае недоступности сервера.>",
   "exportId": "<Идентификатор экспорта, который нужно передать в следующем запросе>",
+  "isDuplicate": "<Вызван повторный запрос экспорта. Экспорт с аналогичными настройками уже формируется>",
   "exportResult": {
     "processingStatus": "<Статус готовности файла>",
     "cancellationReason": "<Причина отмены экспорта>",

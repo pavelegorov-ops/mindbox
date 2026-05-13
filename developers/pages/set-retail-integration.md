@@ -4,8 +4,8 @@ slug: "set-retail-integration"
 source_url: "https://developers.mindbox.ru/docs/set-retail-integration"
 breadcrumb:
   - Стандартные интеграции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:dca8e07f4f1fbd2e00a5b39e8120af00427f1576fc404425cd48535138ae517d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:146f9ebbcb6b42489e3bfd36478f4fd8f8eae39ae5caf79f7b5a996c3ca8a808"
 ---
 
 # Интеграция Set Retail

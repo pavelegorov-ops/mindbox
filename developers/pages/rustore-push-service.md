@@ -3,8 +3,8 @@ title: RuStore Push Service
 slug: "rustore-push-service"
 source_url: "https://developers.mindbox.ru/docs/rustore-push-service"
 breadcrumb: []
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:7fd616834d3fde493b0b3fb86cde5b43f241c310111fee7dc69e2dab8b5c6521"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:444baf53e6b843875e8008339fd5709c37b81b3e3698be752c6a8ea33936e338"
 ---
 
 # RuStore Push Service

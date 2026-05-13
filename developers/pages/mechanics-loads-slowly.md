@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/mechanics-loads-slowly"
 breadcrumb:
   - Персонализация сайта
   - Чеклист проверки интеграции персонализации
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:b7ad7fcf46efa6034371e19f3fd31a505da353869d0911a6ac47edda845eeddb"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:8aed23c3bf9045826e5ddfcc3a00db0f48617ba20791d39415823062bdd82751"
 ---
 
 # Механика персонализации прогружается медленно

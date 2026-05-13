@@ -6,8 +6,8 @@ vcs_path: whatsapp.md
 toc_path:
   - Рассылки
   - Уведомления и мессенджеры
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:e4ca98721f40940badd645d1f944524e0e111eb330491fc67c346cd9e465e193"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:582a6217310d12bb2f82a238f00825664a5bb9006a2407d8c41a2208fd7a0c24"
 ---
 
 # Как отправить рассылку в WhatsApp через Fasttrack

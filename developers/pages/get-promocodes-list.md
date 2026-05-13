@@ -4,8 +4,8 @@ slug: "get-promocodes-list"
 source_url: "https://developers.mindbox.ru/docs/get-promocodes-list"
 breadcrumb:
   - Промокоды и промоакции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:3f4a89c0b4bf99248f91bf99cd3e9e3540a993b806bb521d88fac7570e71dff9"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:342679175de7d7dce13211ebc1b2db25b52ff7a1aad0e099c6f3ade4441e741b"
 ---
 
 # Получение списка промокодов

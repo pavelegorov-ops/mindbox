@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-push-notification-format"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:f84771b0c5a1b38a2bce51965d18b7b011080e4586dd3b34b48ecdd559777d94"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:e03ead99244f0d42a16cf840aefcfbea8047dd2823b2960d93a49c6945158b13"
 ---
 
 # Формат пуш уведомления iOS

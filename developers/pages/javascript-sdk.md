@@ -4,8 +4,8 @@ slug: "javascript-sdk"
 source_url: "https://developers.mindbox.ru/docs/javascript-sdk"
 breadcrumb:
   - Общее
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:758e2f001c564cdc5a2fea8616f9fa17174478344362f340e13b4c7a76bf9e0e"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9c33b01a5ba7342483aa328171f4bd0e10247e21ab2e4f65d669d578eab5eba1"
 ---
 
 # Javascript SDK

@@ -6,8 +6,8 @@ vcs_path: "shopify-integration.md"
 toc_path:
   - Операции и интеграция
   - Стандартные интеграции
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:324ae05baaaad1dd78103acbafc45a52be165f2c9ec771b36d1b2675d09372e9"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:a6cada62ef99c7b73e073c7cb9d7e99904ce93d7b0ff7b2ab11c32fdc73f23ef"
 ---
 
 # Интеграция с Shopify

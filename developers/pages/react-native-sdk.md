@@ -4,8 +4,8 @@ slug: "react-native-sdk"
 source_url: "https://developers.mindbox.ru/docs/react-native-sdk"
 breadcrumb:
   - Мобильные приложения
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:4d35daedf821715fcf3cdbac1d01d1b28de5c70e861f12570a483c9bf0e69928"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:e7fd282a15cd94c703f1bf9bdae06ff9b3771f7fe67faa25649da485b38996bb"
 ---
 
 # React Native SDK

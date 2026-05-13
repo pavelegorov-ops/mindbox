@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - React Native SDK
   - "iOS | Настройка Rich-push уведомлений"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:11e690f449848ee3dcd04faaf1605f05d9f8daece9da8f0969cdeceb61761532"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:fa9eb00d529b5c828b561c8778b65e3025ba5a1ef0ebc446d3c911592b3a4f12"
 ---
 
 # Отображение превью картинки
@@ -95,7 +95,7 @@ Push-уведомление должно отобразится с малень�
 
 ![](https://storage.yandexcloud.net/assets-developers-mindbox-ru/images/bab3dcd6b70986bac52dcae9225daa65b16afd8fb7ce39f15351beb87150eff9-__2025-03-24__18.41.57.png)
 
-#### Cocoapods
+#### CocoaPods
 
 ---
 

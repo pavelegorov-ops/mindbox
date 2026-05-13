@@ -4,8 +4,8 @@ slug: "create-order-with-processing"
 source_url: "https://developers.mindbox.ru/docs/create-order-with-processing"
 breadcrumb:
   - Заказы
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:1cf4512c6fdac822c7b9f29ed7eb584d83147d77c8aa241a0660629e4880377b"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:7ab96691851b2c27d6e2f6ce21177f704dc9e2309a437cddebe0cd8cf9edc02f"
 ---
 
 # Создание и обновление заказа (Процессинг)

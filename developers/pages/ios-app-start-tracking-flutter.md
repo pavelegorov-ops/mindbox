@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-app-start-tracking-flutter"
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:5da60ce96c8865c8797d501045cc8d73c02917ac32a21bf3ddd399c826eb7714"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:5e5a27c3dbe87936ba5d1b85aafdaf9cf1f8ca4293f1853a220d7bf630df7619"
 ---
 
 # Получение источника установки мобильного приложения

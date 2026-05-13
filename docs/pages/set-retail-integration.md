@@ -6,8 +6,8 @@ vcs_path: "set-retail-integration.md"
 toc_path:
   - Операции и интеграция
   - Стандартные интеграции
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:bb382085c85af6570db60da3b347e2c63bae25a3d03342fd6f1ae1f1706d2eba"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:243369ab7071ab9324fcf887baa396046830f13a48437f9783a4aae32d508263"
 ---
 
 # Интеграция Set Retail
@@ -159,7 +159,7 @@ content_hash: "sha256:bb382085c85af6570db60da3b347e2c63bae25a3d03342fd6f1ae1f170
 
 ![set-retail-Offline.RegisterCustomer-workflow-conditions.png](https://storage.yandexcloud.net/assets-help-mindbox-ru/images/set-retail-Offline.RegisterCustomer-workflow-conditions.png)
 
-- Группа шагов — отправляем созданную рассылку с кодом авторизации.
+- Группа шагов — отправляем созданную рассылку c кодом подтверждения.
 
 ### Настройка ПО Set Retail
 

@@ -4,8 +4,8 @@ slug: "archive-external-promotions"
 source_url: "https://developers.mindbox.ru/docs/archive-external-promotions"
 breadcrumb:
   - Промокоды и промоакции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:abb2182e908e32dea982de02a51d329c24d840b6c22f3e13bf472d4ab6998673"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:7ca29fc38795ddcba46985184263679c68034997fa7d1de2e08099897ee82509"
 ---
 
 # Архивация внешних акций

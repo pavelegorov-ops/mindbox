@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - Android
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:5ce2ddb8b8e887150c07ec5d5a8ec0b56c17db6429bda1f4b562e7257f24b79e"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f6ade9f892d6cb854fc845b65ca47f9a9c357e77f8195de2f5251b697040d5e5"
 ---
 
 # При отправке уведомления ошибка с текстом «wrong token» или «все токены доступа некорректны»

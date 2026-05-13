@@ -1,104 +1,98 @@
-# MindBox Help — локальное зеркало
+# MindBox Help — local mirror
 
-Эта папка — локальное Markdown-зеркало <https://help.mindbox.ru/docs/>,
-поддерживается скриптом `scripts/scrape_docs.py` в репозитории.
+This folder is a local Markdown mirror of <https://help.mindbox.ru/docs/>,
+maintained by `scrape_docs.py` at the repo root.
 
-## Структура
+## Layout
 
-- `pages/<slug>.md` — одна страница доков на файл. Имя файла совпадает
-  с каноническим slug на сайте, поэтому путь можно угадать из URL:
+- `pages/<slug>.md` — one file per docs page. Filename matches the canonical
+  slug used by the upstream site, so you can guess paths from URLs:
   `https://help.mindbox.ru/docs/<slug>` ↔ `pages/<slug>.md`.
-- `summaries.json` — карточки страниц (title, section, лид, заголовки,
-  `deprecation_hint`). **Сначала grep его** при триаже темы; это в разы
-  дешевле, чем открывать несколько полных страниц.
-- `index/<section-slug>.md` — оглавление по одному разделу. Легче, чем
-  `INDEX.md` (~5 КБ против ~100 КБ). Подходит, когда вопрос про
-  конкретную область («сегменты», «лояльность»).
-- `INDEX.md` — полное иерархическое оглавление. Полезно, когда нужно всё
-  дерево, но дорого по токенам — для большинства задач лучше `index/`
-  или `summaries.json`.
-- `backlinks.json` — обратный индекс ссылок: `<slug> → [slugs, которые
-  на него ссылаются]`. Помогает находить связанные страницы без grep
-  по всему корпусу.
-- `manifest.json` — служебка для инкрементальной синхронизации
-  (хеш контента и время выгрузки на каждую страницу). Руками не править.
+- `summaries.json` — per-page cards (title, section, lead paragraph,
+  headings, deprecation_hint). **Grep this first** when triaging a topic; it
+  is far cheaper than reading multiple full pages.
+- `index/<section-slug>.md` — per-section table of contents. Lighter than
+  `INDEX.md` (~5 KB vs ~100 KB). Pick one when the user asks about a
+  specific area (e.g. "сегменты", "лояльность").
+- `INDEX.md` — full hierarchical table of contents. Useful when you really
+  need the whole tree, but expensive in tokens — prefer `index/` or
+  `summaries.json` for most lookups.
+- `backlinks.json` — reverse link index: `<slug> → [slugs that link to it]`.
+  Use to find related pages without grepping the whole corpus.
+- `manifest.json` — bookkeeping for incremental sync (per-page content hash,
+  fetched timestamp). Don't edit manually.
 
-## Рекомендованный workflow поиска
+## Recommended lookup workflow
 
-Для вопросов «что MindBox говорит про X?»:
+For "what does MindBox say about X?" questions:
 
-1. `Grep "X" docs/summaries.json -B 1 -A 4` → ранжированный список
-   кандидатов с лидами и заголовками, ~600 токенов в выходе.
-2. Открыть самую релевантную `pages/<slug>.md` целиком.
-3. Опционально: `Grep '"<slug>"' docs/backlinks.json -A 8` →
-   связанные страницы.
+1. `Grep "X" docs/summaries.json -B 1 -A 4` → ranked candidates with their
+   leads and headings, ~600 tokens output.
+2. Read the most relevant `pages/<slug>.md` in full.
+3. Optionally `Grep '"<slug>"' docs/backlinks.json -A 8` → related pages.
 
-Для «дай обзор по разделу Y»:
+For "give me an overview of section Y":
 
-1. Найти подходящий файл в `docs/index/` (транслитерированный slug,
-   например `segmenty.md`, `loyalnost-i-akcii.md`).
-2. Прочитать его — он уже сужен до нужной области.
+1. Find the matching file in `docs/index/` (transliterated slug, e.g.
+   `segmenty.md`, `loyalnost-i-akcii.md`).
+2. Read it directly — it's already scoped to that section.
 
-## Формат страницы
+## Per-page format
 
-Каждая страница начинается с YAML-frontmatter:
+Every page begins with YAML frontmatter:
 
 ```yaml
 ---
-title: <человекочитаемый заголовок>
-slug: <стабильный slug сверху>
+title: <human-readable title>
+slug: <stable upstream slug>
 source_url: https://help.mindbox.ru/docs/<slug>
-vcs_path: <slug>.md             # путь оригинала в репозитории MindBox
-toc_path: ["Раздел", "Подраздел", ...]
+vcs_path: <slug>.md             # path of the original Markdown in MindBox's repo
+toc_path: ["Section", "Subsection", ...]
 fetched_at: 2026-05-04T...Z
 content_hash: sha256:...
-deprecation_hint: ["устарел", ...]   # ОПЦИОНАЛЬНО — см. ниже
+deprecation_hint: ["устарел", ...]   # OPTIONAL — see below
 ---
 ```
 
-Тело — статья, отрендеренная в Markdown. Внутренние ссылки между
-страницами доков переписаны в относительные `<slug>.md`, поэтому `Read`
-работает для навигации.
+Body is the article rendered to Markdown. Internal links between docs are
+rewritten to relative `<slug>.md`, so `Read` works for navigation.
 
 ### `deprecation_hint`
 
-Появляется **только** если в теле страницы найдены подстроки вроде
-`устарел`, `устаревш`, `больше не работа`, `больше не поддержив`, `не
-используется`, `старый интерфейс`, `старая версия`, `deprecated`,
-`прекращ`, `снят с поддержки` или `архивн`. Значение — список
-найденных маркеров в порядке появления в детекторе.
+Present **only** when the page body contains substrings such as `устарел`,
+`устаревш`, `больше не работа`, `больше не поддержив`, `не используется`,
+`старый интерфейс`, `старая версия`, `deprecated`, `прекращ`, `снят с
+поддержки`, or `архивн`. The value is the list of matched markers in the
+order they appear in the detection list.
 
-**Как использовать:** если отвечаешь по странице с `deprecation_hint`,
-добавь короткую оговорку, что фича может быть устаревшей, и дай ссылку
-на канонический `source_url` для подтверждения. Список всех помеченных
-страниц:
+**How to use:** when answering from a page that has `deprecation_hint`, add a
+brief caveat that the underlying feature may be deprecated/legacy and link
+the user to the canonical `source_url` for confirmation. To list all flagged
+pages quickly:
 
 ```bash
 grep -l '^deprecation_hint:' docs/pages/*.md
 ```
 
-## Как использовать как источник знаний
+## How to use as a knowledge source
 
-- **Поиск по теме:** `Grep` по `pages/*.md`. Имена файлов — это slug,
-  часто описательные настолько, что можно сначала сузить через `Glob`
-  (например, `pages/*segment*.md`).
-- **Просмотр по области:** открой `INDEX.md` и иди по ссылкам.
-- **Цитата с источником:** `source_url` во frontmatter — живая страница
-  на help.mindbox.ru.
-- **Свежесть:** проверяй `fetched_at` во frontmatter или верхнеуровневый
-  `generated_at` в `manifest.json`. Обновить — `python scripts/scrape_docs.py`.
+- **Topic search**: `Grep` over `pages/*.md`. Filenames are slugs, often
+  descriptive enough to narrow with `Glob` first
+  (e.g. `pages/*segment*.md`).
+- **Browse by area**: open `INDEX.md` and follow links.
+- **Cite back to canonical source**: the `source_url` in frontmatter is the
+  live page on help.mindbox.ru.
+- **Freshness**: check `fetched_at` in frontmatter, or the top-level
+  `generated_at` in `manifest.json`. Re-run `python scrape_docs.py` to refresh.
 
-## Обновление
+## Refreshing
 
 ```bash
-python scripts/scrape_docs.py            # инкрементально: тянет всё, переписывает только изменившееся
-python scripts/scrape_docs.py --full     # принудительно переписать каждый файл
-python scripts/scrape_docs.py --dry-run  # показать, что изменится, ничего не записывая
+python scrape_docs.py            # incremental: re-fetches all, rewrites only changed
+python scrape_docs.py --full     # force-rewrite every file
+python scrape_docs.py --dry-run  # report what would change, write nothing
 ```
 
-(Запускать из корня репо — скрейпер пишет в `docs/` относительно
-текущего каталога.)
-
-Скрипт отчитывается: добавлено / обновлено / без изменений / удалено.
-Удалённые страницы (slug'и, исчезнувшие из верхнего TOC) удаляются
-из `pages/`; восстанавливай из git, если нужно.
+The script reports added / updated / unchanged / removed pages on each run.
+Removed pages (slugs that disappeared from the upstream TOC) are deleted from
+`pages/`; recover from git if needed.

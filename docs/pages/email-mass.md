@@ -6,8 +6,8 @@ vcs_path: "email-mass.md"
 toc_path:
   - Рассылки
   - "Email-рассылки"
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:c41dd5d733615fffa294e116f2045ca1e5f238f9dcde912858613b1b570aef72"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:2349f06d042da8cdd303564106b20224aae404c6af7ba1985e4e88dbfd5fda5b"
 ---
 
 # Как создать массовую email-рассылку

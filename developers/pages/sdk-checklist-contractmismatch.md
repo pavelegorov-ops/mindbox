@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - Android
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:91ad30a9028a1c4c9cb241964e7d30389f88d6613993fe09a648606108b4ed3c"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:156805b1e4fe437ec50b2027f9fa68b5c7a8542c61ecdf63a272d75e3b4627f9"
 ---
 
 # При отправке push-уведомления статус «ContractMismatch»

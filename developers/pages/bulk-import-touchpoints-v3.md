@@ -4,8 +4,8 @@ slug: "bulk-import-touchpoints-v3"
 source_url: "https://developers.mindbox.ru/docs/bulk-import-touchpoints-v3"
 breadcrumb:
   - "Точки контакта, магазины, зоны"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:1e0a7dbfe3d86fb48f35ea699f10a199620d9c2947c2f0f95a0841ad0626e662"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:635ef0696e1c055785d1c507b0f96a8db0cf02d61a4d3299e0bc9e8953da5279"
 ---
 
 # Массовый импорт точек контакта

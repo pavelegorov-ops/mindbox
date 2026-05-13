@@ -3,8 +3,8 @@ title: Реализация сервиса для подключения Firebas
 slug: "firebase-integration-service-implementation"
 source_url: "https://developers.mindbox.ru/docs/firebase-integration-service-implementation"
 breadcrumb: []
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:27ed66a3c7bcb34fd43aeeabc6cc2009dea0b398e0075aa77bce436bc6fb7b62"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:ad33c605f4897e9ea3772f52d0583c4b496ae0e90ef2eb496f652ace90b40107"
 ---
 
 # Реализация сервиса для подключения Firebase

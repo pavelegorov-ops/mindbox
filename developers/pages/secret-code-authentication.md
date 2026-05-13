@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/secret-code-authentication"
 breadcrumb:
   - Клиент
   - Аутентификация
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:92313d9d9ca1f8c112160890017cf30fcaeff39b7a5884ce9eb9cf7b1b7d4d68"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2ee406f844ed729aaf3acdccaf6f274c57e5aa10c72f183aa23fc66a7cfb6147"
 ---
 
 # Аутентификация по секретному коду

@@ -4,8 +4,8 @@ slug: "cancel-promocode-redemption"
 source_url: "https://developers.mindbox.ru/docs/cancel-promocode-redemption"
 breadcrumb:
   - Промокоды и промоакции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:0024099d81d25ed74c18a11599723d2863f5eeebf5be104b148b511cc4068484"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:581679d044489939474a4a2d32d863d58cc2338b4cce86291f2816f24a1f20ad"
 ---
 
 # Отменить гашение промокода

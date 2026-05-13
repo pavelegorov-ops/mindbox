@@ -6,8 +6,8 @@ vcs_path: multibrand.md
 toc_path:
   - Администрирование
   - Начало работы
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:358f964270b6157b13e2d8f0346486a1e74632e37af6b849adaa4580b8770c64"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:33a3abb74a786dbcad205a863129b6d82c7d52299745a4600d25377b9137900b"
 ---
 
 # Мультибренд

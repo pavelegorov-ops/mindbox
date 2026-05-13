@@ -7,8 +7,8 @@ toc_path:
   - Рассылки
   - "Шаблонизатор, подстановка параметров в рассылки"
   - Товарная сетка и циклы
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:dfec983a74bd0705deff99d2e700deb39b9cd6dffbbaaf9b7b344d0850d827e2"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:cc126091daf43c7c2336b0dda9d4b1b7ca413f36a066e45cf376f06175e28fb3"
 ---
 
 # Как работать с элементами коллекции с помощью цикла for...end for и set

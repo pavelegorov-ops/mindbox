@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/firebase-send-push-notifications
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:366cb2a8fbd471e06a04799f6e0202ef735b99aac329d714e22338993d2c6bcf"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:fb8a9e5deb645a66e217321b7d81b74d0cdbedbfc6bb991a1e3b5562efe826d9"
 ---
 
 # 3.1. Отправка push-notifications через Firebase

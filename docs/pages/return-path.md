@@ -8,8 +8,8 @@ toc_path:
   - "Email-рассылки"
   - Дополнительные возможности рассылок
   - Цифровые подписи
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:91714a588b03f975ea17398e7e3afc21d4fd75044dbce98feb15feae0b56c074"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:33a48784d0a9e8e8ffafe394c2ee469f804152c98b6e9c7a568b13e46bdf915e"
 ---
 
 # Выделенный поддомен (Return Path)

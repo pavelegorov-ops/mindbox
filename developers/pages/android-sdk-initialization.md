@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/android-sdk-initialization"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:7b0b9de06050eec4230ce45fc45f603faaede35dc043861f78a5b28a342736eb"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0d23f1d1085de86b0fd0adaa7967834e898b25d6b94d4fc7f56a4d3c52d3fe7b"
 deprecation_hint:
   - устаревш
 ---

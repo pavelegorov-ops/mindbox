@@ -4,8 +4,8 @@ slug: "website-personalization-basic-integration"
 source_url: "https://developers.mindbox.ru/docs/website-personalization-basic-integration"
 breadcrumb:
   - Персонализация сайта
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:80c8e86052cee04a7e50825b4732e7c056d4c7f1c1d5d0318e94f0a23d5767cd"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:7e729f0607259d8e3e2c1907a509e33a420a768e03630e37df7fedd2db83300d"
 ---
 
 # Базовая интеграция

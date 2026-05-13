@@ -2,7 +2,7 @@
   "version": 1,
   "format_version": 3,
   "source": "https://developers.mindbox.ru/docs",
-  "generated_at": "2026-05-05T06:52:15Z",
+  "generated_at": "2026-05-13T11:53:41Z",
   "page_count": 368,
   "pages": {
     "1c-retail-module-integration": {
@@ -11,8 +11,8 @@
       "breadcrumb": [
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:48ad84fc027f601f110fd6a4c0749babe8d9bbfc2fd3b163f616b2bfb4cb87ef",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9fdb714853740c1aeb0ebe0a1107d4715d6219c1196afe1d070dcd914be49ccd",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ab-test-participants": {
       "title": "Участники АБ-тестов",
@@ -21,8 +21,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:f98c3ff0b4c37aa7d604a414e86e56238f59cded540a55c6c71274701a493cea",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d67f5c15125623437f676979c5dcc2315128f78cd817a9e39cb5f5182a883d56",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ab-test-variants-reference": {
       "title": "Справочник вариантов АБ-тестов",
@@ -31,8 +31,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:23b8827a72f7507f1f10df70dc5831201116ad71406fd530427ef153c7954d23",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:693f910b63b27215297f5a6f420b6b8dde072f0e69878ceb63ccefba67c8b201",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ab-tests-reference": {
       "title": "Справочник АБ-тестов",
@@ -41,8 +41,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:df3d884c2cfd3e12e527334a36e098607dec7d6f05b9370529508a0b804e995b",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:8a381ffe6539b0303787d443ccee433b9c04e00e28f5229f7bd45874e8559c21",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "account-data-editing": {
       "title": "Редактирование данных клиента",
@@ -50,8 +50,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:8244f844c060fea61b4b72b53245243da517fda99bd60410b2261003b9cdd7b6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:4f8a9bf816510388649a5aad89b690ee42e33ded32b5e3ef88b5d260053053d1",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "add-android-integration": {
       "title": "Настройка точек интеграции",
@@ -60,8 +60,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:66683264332722c62f6902561a6a1937546d3831bc3a34c4df65283e6c1baf61",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:402012e43cfa3485f001a199f03f176c4c5fb26995b8b1181f64bde28439b856",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "add-android-sdk": {
       "title": "1. Добавление SDK в приложение",
@@ -70,8 +70,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:96d0c3031a71c488a4373ab876087f98818a24ece3bad865e4a1b3402deacb80",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:5cb0d4c614caf8770a4f8e93531103b0c8881ba810b02f39180f878b51e47b21",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "add-customer-to-segment": {
       "title": "Включение в сегмент",
@@ -79,8 +79,8 @@
       "breadcrumb": [
         "Сегментации"
       ],
-      "content_hash": "sha256:8ea856b77fc14617fbce94f0dec789dd02fcbe93131e9fa8d106b72e0b3d2c03",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f39a5c957fbe134e3d2f551377d61df3669ba1e41fc9cf89ba8ca7a77dd8ffc7",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "add-integration-rn": {
       "title": "Настройка точек интеграции",
@@ -89,8 +89,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:a7f508e996129efc8264783eebf1cab184fc0b2822b0fc4ddc4ade90918c6421",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:e8fb8a1dd9b967bff66cc190cc32bcdfe2226211a345ffbe60768f04c31971fe",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "add-ios-integration": {
       "title": "Настройка точки интеграции",
@@ -99,8 +99,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:a23f82a1666e2f4dab3e3756d643f834b5cb2b2411fd7154ee8efc3d359b86c7",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9cba0ad7812a58c2baf31f82fbd0dda60e89b9df256e0af2a811817e03d01c9c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "add-sdk-flutter": {
       "title": "Добавление SDK в приложение",
@@ -109,8 +109,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:3ae330fe0a3b3ba037210786e6ec2ea401c9ae3d526cdaeb6b2fa072470210d2",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:348cfd99c9939bb4b67fa932c0aa305fa770a46b97465d0ab1acc8b79cd3ccad",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "add-sdk-react-native": {
       "title": "Добавление SDK в приложение",
@@ -119,8 +119,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:8a5d79392b731c6bc43996a6ab5c42cb925617942a88bed5b43e85bacc9434d1",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:751f1abdbdb9ad6760f74260911f1aa5761099d31fe45d66f4684b7b8710eeb0",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "add-sdk-to-app": {
       "title": "Добавление SDK в приложение",
@@ -129,8 +129,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:17d0e7c8c81138ea2412a93f1caf7f9fe4681939bf8c76fe083bc0a3d9910974",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3ad04dad95ed39237c09a682dd3a4ac17deb0ad406dcf6c70b67d93438d89dd3",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "albato-integration": {
       "title": "Интеграция через Albato",
@@ -138,8 +138,8 @@
       "breadcrumb": [
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:ca6811943aad4a62aead3ba02386193e12d2739c278eb8e5184e3f41767b2e62",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:1f1fed1dcd310f71ac0f2bd16e9e0167f32b9030f2e38979cab6632a107be14b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "analytics-data-schema": {
       "title": "Описание схемы данных",
@@ -147,8 +147,8 @@
       "breadcrumb": [
         "Данные для аналитики"
       ],
-      "content_hash": "sha256:0b02255baf3ad4f83b673b93063a39870f2224a7496f0684c3c0194daa964984",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:797392470d22e7216ffb633e4a71076090134c3fc56c9c56a9aef0992c941492",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "android-app-start-tracking": {
       "title": "5. Получение источника установки мобильного приложения",
@@ -157,8 +157,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:4dad1d14af3efdd02a44484f4e0de006ecbdaa210bb5f27c3b33953d0d49e616",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:5773852879eacac1dbc1405f67e125b456b92a5433be7d6f479f6e0ca84d787e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "android-get-click": {
       "title": "4. Получение кликов на мобильные push-уведомления",
@@ -167,8 +167,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:ce22418b8d6e46738c44b2cc7c68b0d5d166575f90949c9e8b47a7c424de2ae9",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:ad2730cdb4135590958c018575ba2da3120921d53da885a7d62a59a0efac4532",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "android-get-click-react-native": {
       "title": "Android | Передача кликов по push-уведомлениям",
@@ -177,8 +177,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:544c6b0163625566809a864f9b5b73fcd94a0b213c4ec921af033e99227ec108",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f07a398e2e898c6c6b8ddb7dc62ed829f5062da904ee4febcf509d5db996c7f0",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "android-integration-of-actions": {
       "title": "6. Интеграция действий в приложении",
@@ -187,8 +187,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:da1918922caa766f7114b1778a597d4c274bc4d9d623ec2f68e945581adcf511",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:39d12e3098369dafd3319c6315211aa5c675f97216aa0ebe98feb4a49fac0614",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "android-push-notification-format": {
       "title": "Формат пуш уведомления Android",
@@ -197,8 +197,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:bfe2b054af4f795ba579e3c2c49353630913f5266c1ac3670ca8da931f9cfc5d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:12cb404917fa2c611b9992b0508cfff6e0fecaa6290b6b2accf25febc60eb95e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "android-push-provider-keys": {
       "title": "Получение ключей провайдеров пушей",
@@ -207,8 +207,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:9326c5152ba4c6616e5c20fbbae7e53524cc966f89aa5ec87572f397ed2a5d18",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:510700e73a0151b36d32d613951d444ef23a78f72bf5a17df31bba7bae61f3f6",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "android-sdk": {
       "title": "Android SDK",
@@ -216,8 +216,8 @@
       "breadcrumb": [
         "Мобильные приложения"
       ],
-      "content_hash": "sha256:4439e81f9e548d7357fa2ced31d955f2e0e7aea765dcd076e7101af12d2e9a21",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f3932f3232a339658ac09c8543af3c22e526aeb23c1753942e06310e8a4f09c3",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "android-sdk-configuration": {
       "title": "Поля конфигурации Android SDK",
@@ -226,8 +226,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:eb10db5a38bb135e4dc21ef9f1b1da416728a097f9cd28ccd07d9cde2847c45c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:536c7d16b86c1cb4c613cf3450c7dfa31301193a0927e436ffc30c791ea38b58",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "android-sdk-initialization": {
       "title": "2. Инициализация SDK",
@@ -236,8 +236,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:7b0b9de06050eec4230ce45fc45f603faaede35dc043861f78a5b28a342736eb",
-      "fetched_at": "2026-05-04T14:26:15Z",
+      "content_hash": "sha256:0d23f1d1085de86b0fd0adaa7967834e898b25d6b94d4fc7f56a4d3c52d3fe7b",
+      "fetched_at": "2026-05-13T11:53:23Z",
       "deprecation_hint": [
         "устаревш"
       ]
@@ -249,8 +249,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:e36d61f0872e31c9cba5d615f22ffb875264eb3be4118d4d0da4ddf0d25b1e02",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0f2acdbd4afe8dae24589012d24b446a66c9477f4efb3bb93738afa8acb7bf27",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "android-sdk-request-body": {
       "title": "Структура конструктора запроса Android SDK",
@@ -259,8 +259,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:8420c9198e766213a9bd141fa4367664546bfdc5524ddd9b6e8f957b7619de38",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:eb2a2a960e381be9a703b16eabdc62257a373470f26701cc76656307d1458bf9",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "android-sdk-response-body": {
       "title": "Структура конструктора ответа Android SDK",
@@ -269,8 +269,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:ea11bee6cc1784d1bf36234fa40f3d6bdc81a4f19d8f3a872db2dd296a6b0747",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:4777889e75e191ec54cf58cee3db87f39097b9905853eab25e6a6a021b504d24",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "api-mailings-send": {
       "title": "Отправка рассылок по API",
@@ -278,8 +278,8 @@
       "breadcrumb": [
         "Рассылки"
       ],
-      "content_hash": "sha256:f4ad2961374af968cff20e67967caeb2d7d3d3b465840a6e8f8adf9a9f586de8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:cebbc0d76281557f7b6806599248bc3d682266d62e7bf35a8a3b35b9dc7329c3",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "api-restrictions": {
       "title": "Ограничения при работе с API",
@@ -288,8 +288,8 @@
         "Общее",
         "V3 API"
       ],
-      "content_hash": "sha256:b5b3999aace48b8b8b0095a56e0ad6dd32463b39b4742f033a6c4a8fa6e4a2a0",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:a8a367f9d28134df7dfe6f2d0d93761e6ea37f9cbfcb5c9c2f6e3c9d02f20989",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "api-usage-recommendations": {
       "title": "Требования и рекомендации по использованию API",
@@ -297,8 +297,8 @@
       "breadcrumb": [
         "Общее"
       ],
-      "content_hash": "sha256:f5e3a5c6cdf2980d57cd2bcf4adc4746a71ea0ce80131f4d8b317788a9d30ff2",
-      "fetched_at": "2026-05-04T14:26:15Z",
+      "content_hash": "sha256:8f4a7624d3e7f2fadca8aa9124be20cfd3e74038da7362e418a1a8e714111a09",
+      "fetched_at": "2026-05-13T11:53:23Z",
       "deprecation_hint": [
         "прекращ"
       ]
@@ -310,8 +310,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:f1c025dcda833d264522fb57ea64e01dd9020823ca2448163dcf5f0bc88cf1e9",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:cb4017a255ce5ae1526baa20e3569fd09f29e59ad5d7ccd1111f9fbe1d200f9c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "archive-external-promotions": {
       "title": "Архивация внешних акций",
@@ -319,8 +319,8 @@
       "breadcrumb": [
         "Промокоды и промоакции"
       ],
-      "content_hash": "sha256:abb2182e908e32dea982de02a51d329c24d840b6c22f3e13bf472d4ab6998673",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:7ca29fc38795ddcba46985184263679c68034997fa7d1de2e08099897ee82509",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "authentication": {
       "title": "Аутентификация",
@@ -328,8 +328,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:6138b8dc69c609ec1f68872e1c7218cdf0dbb4215aa1c2a459dd8ad34fc8aef4",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:224f366d72f17b9fb4f5de047eb3d34bffdd39db286e2a3237bb01767c1f599c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bind-discount-card-with-sms-confirmation": {
       "title": "Выдача дисконтной карты клиенту с смс-подтверждением",
@@ -337,8 +337,8 @@
       "breadcrumb": [
         "Карты"
       ],
-      "content_hash": "sha256:861164b05a63fb6cd6c1a1631f106ee96cabf04422f146fc69fcaee6aa710572",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:259a5ff3678f40ac7fbef30ad39ab05b248d8b39d5a0cd0d1ae98164f447248a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bind-promocode": {
       "title": "Выдача промокода",
@@ -346,8 +346,8 @@
       "breadcrumb": [
         "Промокоды и промоакции"
       ],
-      "content_hash": "sha256:972408f0e242183d6fb9ea32fc98e41828ff7f3b83d18c7570217b32794dd33d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:7b0145fd6df57e021a3ede78c839b513384f3f22129dee78f77c4d696412dd9f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bitrix-integration": {
       "title": "Интеграция Bitrix",
@@ -355,8 +355,8 @@
       "breadcrumb": [
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:506af488a1c86df3957c4bfabd79cdc4f5cc6e60ac4be8cc8f0572abd957dd30",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:e836b6b1c51ba0cdb84f807f3311c6d6ac66db2740f9b5a516b31abffbb1e052",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "blacklist": {
       "title": "Черный список контактов",
@@ -364,8 +364,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:e00314293ee94dd0eb44bf7565b75665a5143d9a8b2504bd930dc89e3ab29fa6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:1e169a2a37cbe5212a036fd6aa83562aa31fd9ad80a5a7561fce5af05447848d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bonus-accounts-reference": {
       "title": "Справочник балльных счетов",
@@ -374,8 +374,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:9031acbd78c4582223e2a558b0c9e4b13ae6b0552953bf06f5b359e575f84a0d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:753abef21619de4db528c9373d44be7c5d17b47ffe4bc43ec3db38f4d02b6f70",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bonus-promotions-reference": {
       "title": "Справочник балльных промоакций",
@@ -384,8 +384,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:55648bbe9f761cb22c29ac751a4126f4b1a3259e4043f2a06582e60de57d5487",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:7a2618d8718cd5cdcf7c1cc22852d917033b36b45f8a319a63349fcbd64fff9b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-add-products-to-list-v3": {
       "title": "Массовое добавление продуктов в список",
@@ -393,8 +393,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:7b82d8c057ef3b7a5b09c3e59a19f3fed307d59d0c880471e1f9bd23b41bcb85",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:077cad690f5cf6a6a00108eb998d6fe97590b3f66ad565ba50314fabf36ee848",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-delete-zones-v3": {
       "title": "Массовое удаление зон",
@@ -402,8 +402,8 @@
       "breadcrumb": [
         "Точки контакта, магазины, зоны"
       ],
-      "content_hash": "sha256:6343c19cdb4453b86bec4976418a549601f00ba7807ac4de40dcccc6966ad26a",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:613eccfa5548a88d2861f8979064bbd563637561e1bc16a06ecd6559dbf73d83",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-import-balance-changes-v3": {
       "title": "Массовый импорт изменений баланса",
@@ -411,8 +411,8 @@
       "breadcrumb": [
         "Бонусный счет"
       ],
-      "content_hash": "sha256:80b97958b78e44b880921cc282f41cffec85e8b17e4310042d02673b17fe1c9c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0987335fe5e5abf2f5422f2a0b6d5b25ed1540fcdeab3cda6a54af14be5f0e04",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-import-cards-clients": {
       "title": "Массовый импорт карт и клиентов",
@@ -420,8 +420,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:6df6e7772960e0c4aab32e542046b9dc4509debe6e4ac521aab8efeb90a5d8b9",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:fae9a9776dbed36e3544b3e3fa8573a55d28565e3e4b9bebc9f944cc1d4ec1ed",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-import-channels-v3": {
       "title": "Массовый импорт каналов",
@@ -429,8 +429,8 @@
       "breadcrumb": [
         "Точки контакта, магазины, зоны"
       ],
-      "content_hash": "sha256:89985d6786e1495f423b2359382f25846331384b452bae791c5d690d96e22fed",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0652c3ab06cb99e3018d528c8a3ff0afb4ff6fb1cfb9164cc808586a03cd996d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-import-customer-actions": {
       "title": "Массовый импорт действий клиентов",
@@ -438,8 +438,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:55fd7dcb63abb3d74e46a751d93fcfc12f1cef85bbd53fdd11ba4e125cd62967",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b625732e02b98ea3e8884266639c7e90acd39ec69a4ecd4242711eb09597a5a8",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-import-discount-card-pool-v3": {
       "title": "Массовый импорт пула дисконтных карт",
@@ -447,8 +447,8 @@
       "breadcrumb": [
         "Карты"
       ],
-      "content_hash": "sha256:9e39bb8ab312bf9a391aca3b87c455af2a6a547721b2afcef0cb5243e9d69450",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2048c697ce76e009ec9194b7d2910a882592e028e884267684e031b0a1780ed3",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-import-discount-card-statuses-v3": {
       "title": "Массовый импорт статусов дисконтных карт",
@@ -456,8 +456,8 @@
       "breadcrumb": [
         "Карты"
       ],
-      "content_hash": "sha256:63c07cf3bbe9a59661e64ddbe9fa3753e6c4f64d4734e34dcf700e592a564573",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b9af49247247cbfcc0d50b266a135f37f6a125b2ae5a6c7f24b454433cc48c51",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-import-gift-card-pool-v3": {
       "title": "Массовый импорт пула подарочных карт",
@@ -465,8 +465,8 @@
       "breadcrumb": [
         "Карты"
       ],
-      "content_hash": "sha256:db9bc06d382b43d92b610e236164873f0a0d26c153307bb574eb01cdab648b32",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2a7cd406f8d95a1eef53c7e90f59f65709796a91f2a502d288f73ad884207d53",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-import-promocode-pools-v3": {
       "title": "Массовый импорт пулов промокодов",
@@ -474,8 +474,8 @@
       "breadcrumb": [
         "Промокоды и промоакции"
       ],
-      "content_hash": "sha256:fcd6ebed7ce95d68376b978fd9b97ed9179f0be47937fa9de79c3671443aca19",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:625069bda37acc3c85502ce4b4b829197cc35795b7d78abdc15316644d14ef6d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-import-promocodes-v3": {
       "title": "Массовый импорт промокодов",
@@ -483,8 +483,8 @@
       "breadcrumb": [
         "Промокоды и промоакции"
       ],
-      "content_hash": "sha256:f97e711c003742bd4f6e206d3a66cd96a9bdc160b870f2f5c02399e68d57cf50",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:e44d9b78218a5b50ff5f942b627f3cab90269e2c32ce620632f085f172cd15b5",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-import-touchpoints-v3": {
       "title": "Массовый импорт точек контакта",
@@ -492,8 +492,8 @@
       "breadcrumb": [
         "Точки контакта, магазины, зоны"
       ],
-      "content_hash": "sha256:1e0a7dbfe3d86fb48f35ea699f10a199620d9c2947c2f0f95a0841ad0626e662",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:635ef0696e1c055785d1c507b0f96a8db0cf02d61a4d3299e0bc9e8953da5279",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "bulk-import-zones-v3": {
       "title": "Массовый импорт зон",
@@ -501,8 +501,8 @@
       "breadcrumb": [
         "Точки контакта, магазины, зоны"
       ],
-      "content_hash": "sha256:ff36a0e5bce7ce7d91ffc65139ce3f58ecf7f56b2204083112ab4edfc0cd2ec6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:4c6c05e37d5975b49cb1eac6b91581fedad72277a37d0d6f3a3ec33f223c81b8",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "calculate-loyalty-points-balance": {
       "title": "Как рассчитать балльный баланс",
@@ -511,8 +511,8 @@
         "Данные для аналитики",
         "Как периодически обновлять данные"
       ],
-      "content_hash": "sha256:aeb7eedb3cd9528a28e24db8821f7c014fc3a221a09be20c1c605fcfb626d3bc",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:cc46927972675e56a494b13f0f48a18d76d40114f15cea06cfb05231d2f16e3b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "cancel-promocode-redemption": {
       "title": "Отменить гашение промокода",
@@ -520,8 +520,8 @@
       "breadcrumb": [
         "Промокоды и промоакции"
       ],
-      "content_hash": "sha256:0024099d81d25ed74c18a11599723d2863f5eeebf5be104b148b511cc4068484",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:581679d044489939474a4a2d32d863d58cc2338b4cce86291f2816f24a1f20ad",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "cardsmobile-integration-mechanics-for-loyalty-module": {
       "title": "Механики для интеграции приложения «Кошелёк» для отправки пушей",
@@ -530,8 +530,8 @@
         "Стандартные интеграции",
         "Интеграция с приложением «Кошелёк»"
       ],
-      "content_hash": "sha256:8078049d1691d3da9c63c59e52bb7cacc2562362bed1f77da65430b0c5eff432",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9db95efeb5af758eb46cce3d0a2f34ef6ef45a8c26e2c22e9eb459dbbf7bd373",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "cart-changed-does-not-match-targeting": {
       "title": "Корзина клиента изменилась и не соответствует условиям таргетинга",
@@ -541,8 +541,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика персонализации отображается, игнорируя условия таргетинга"
       ],
-      "content_hash": "sha256:a153c49159258e3d25ead629a08c80125add08ffca5fa47743b548a244150b4b",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0439a652f119485ceace64a46f14939ff7b34a164aec547d885045a80eef97b2",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "catactionjson": {
       "title": "javascript",
@@ -551,8 +551,8 @@
         "Номенклатура",
         "Действия с категориями"
       ],
-      "content_hash": "sha256:0f6e30686f5b4ff63137d857ba67ff43b5e2704a55d44eebd9a0c9b05d038d38",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:da435acd58010335a9a96a142fb90512881ef58ed27419db4a5d239ad1f9936b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "catactionxml": {
       "title": "xml",
@@ -561,8 +561,8 @@
         "Номенклатура",
         "Действия с категориями"
       ],
-      "content_hash": "sha256:c4f67c2d41352f11dee9bab404c88aec6d584dcf27f2688b9e410b6763df06d8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:391ad4a79562454bce734f377c621f51094a53d12078921a34db4972efa1652c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "catimportcsv": {
       "title": "csv",
@@ -571,8 +571,8 @@
         "Номенклатура",
         "Импорт категорий продуктов"
       ],
-      "content_hash": "sha256:e085ec4e063e740a174da4309fa243f3827d69ef33061a30b86a7a648f61e9b8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:25fe092ea434a86da4a95595d307618144af9cc824e1ee637c9545b8f2607b24",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "change-card-status-at-pos": {
       "title": "Смена статуса дисконтной карты на кассе",
@@ -580,8 +580,8 @@
       "breadcrumb": [
         "Карты"
       ],
-      "content_hash": "sha256:89e943d6b9848b83e5f0e257f36679ebd20245822c249cc8e307acce08bf6b25",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9530e5294a6a244475fc535e6663644599fd49b0f9ac4cec427275f94a4ae386",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "change-card-status-in-account": {
       "title": "Смена статуса дисконтной карты в личном кабинете",
@@ -589,8 +589,8 @@
       "breadcrumb": [
         "Карты"
       ],
-      "content_hash": "sha256:e7a9cea1b90ad33f4852733471d6f59c1ff8efc998578a45d46841f31c5d29b7",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:8e6e928b3343133143c033458569d988e966fb56ae339d23f59c6998306948b7",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "chat-bots-methods": {
       "title": "Методы для интеграции чат-ботов с Fasttrack",
@@ -598,8 +598,8 @@
       "breadcrumb": [
         "Чат-боты"
       ],
-      "content_hash": "sha256:4e9aba7768efce1be0676e07c959ca2c173d43e698bca2438825e7f5a560b749",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3b06d63bea1d7b71729abc48ea221dddeaffa52ec283be33d9dd33efd1df57a3",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "chat-bots-qr-authentication": {
       "title": "Аутентификация клиента по QR-коду на кассе",
@@ -607,8 +607,8 @@
       "breadcrumb": [
         "Чат-боты"
       ],
-      "content_hash": "sha256:09537490da8b739c80e9cdaf3e213be9cee4aa58792a3dd4cb5b4444342d2b0a",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:69ccde7581ea65732cf95dbb257c42c13817dd0b0094c3aebdc15da15c2bdab8",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "chatbot-authorization": {
       "title": "Чат-боты. Авторизация клиента по ссылке",
@@ -616,8 +616,8 @@
       "breadcrumb": [
         "Чат-боты"
       ],
-      "content_hash": "sha256:fb062d3be10c0fcce3c195c50896bbca872b3051fb087e206acf9e6301cdc797",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2ed95893dae88ff42e788ec46787a0f096bd49a82b85e9d48bc7063b4a185d49",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "create-integration-for-cdp-and-loyalty-module": {
       "title": "Механики для интеграции приложения «Кошелёк» с модулем лояльность на Mindbox",
@@ -626,8 +626,8 @@
         "Стандартные интеграции",
         "Интеграция с приложением «Кошелёк»"
       ],
-      "content_hash": "sha256:863dd5bc019cfa88ead2e2ff51f54e93840885ba2aacf15435075fb91549d1c4",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0bc82209f820f556c6932a7ccfac47f5c4a21cb3d77c70be0b879b9f3543dc12",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "create-order-with-processing": {
       "title": "Создание и обновление заказа (Процессинг)",
@@ -635,15 +635,15 @@
       "breadcrumb": [
         "Заказы"
       ],
-      "content_hash": "sha256:1cf4512c6fdac822c7b9f29ed7eb584d83147d77c8aa241a0660629e4880377b",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:7ab96691851b2c27d6e2f6ce21177f704dc9e2309a437cddebe0cd8cf9edc02f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "custom-push-notification-rendering": {
       "title": "custom-push-notification-rendering",
       "source_url": "https://developers.mindbox.ru/docs/custom-push-notification-rendering",
       "breadcrumb": [],
-      "content_hash": "sha256:8f2d961e29e26020ef4e70b122ceb59257c92db2685327e6d1fcef691e64038b",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d9ffd89469d3f2b40138a55c542b62998dc10fbff986784cc96c2aae1683e8ac",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "customer-bonus-balance-change-events": {
       "title": "События изменений балансов баллов клиентов",
@@ -652,8 +652,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:f11439f7cc2cef9aafeb9c4573aefc807a4ad0d3636fbcc58e0976770c4d8e66",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:00d24b4e0580af1ee75b54bc190294765d9b929d6880437567aee9d656d5faf2",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "customer-card-activation": {
       "title": "Выдача дисконтной карты клиенту",
@@ -661,8 +661,8 @@
       "breadcrumb": [
         "Карты"
       ],
-      "content_hash": "sha256:e7101f922ef4c67ff4161821ac1bc9c1910ed8d520f11d415d6f33294932ccf2",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c9bb08cab9aa1b238e40b282fb643c2e1de7eb1165b686dd2b6f6a5443e926a1",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "customer-existence-database-check": {
       "title": "Проверка наличия клиента в БД",
@@ -670,8 +670,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:bdb39234d8e8f36ddf2c51f97605ee70d5fcc4e89eb90a2dad8595cac11f2af6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f82255f8031c93ee9b1a40f1c0d432cb8926d1437311a1fdb93e4ea8092c3c4e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "customer-merges": {
       "title": "Объединения клиентов",
@@ -680,8 +680,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:cb92fd0de71ffeb6d041c42b66c5649f4daa0ff91755e411ff2b445c4e2ddac6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d355b13331d194aa104ba4f06e15d3333663df0ed1a3c6afe6fa8d60427503ac",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "customer-order-lines": {
       "title": "Состав заказов клиентов",
@@ -690,8 +690,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:922dbe734ca3a189fe7e1aace51ee4839bb527ae23282a680ba617f0ae8eecc5",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c79726e8be78d279b036bbfcfb4c553eea16d87294c929c5645245b9fb7b1ab7",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "customer-orders": {
       "title": "Заказы клиентов",
@@ -700,8 +700,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:56c27e50e31e66fe86712cfed5f1596e7fea2af953d8bdaac872e32704eaa045",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:147a8f1017501c84bb9d930f399f1f0d434e867e5e7b023fae6729f841a63a08",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "customer-segments-history": {
       "title": "История сегментов клиентов",
@@ -710,8 +710,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:eb384ba84853fcb5859e50ae91307f6714878dd7251b037b492d853087253a41",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:043bf9c0b59abfe15e53e7341d4a100fa15e85bd98784b4f7eb36f3bf60182bb",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "customers-edit-v3": {
       "title": "Массовое редактирование клиентов",
@@ -719,8 +719,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:d9256d67865291add24efa38afe86cd38669b5c62871d285c611a9be65711fe8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c63e14b5c1bdb17390802f92a4e38893004ff90330013cd8878acc0aa785fafc",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "customers-import-v3": {
       "title": "Массовый импорт клиентов",
@@ -728,8 +728,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:6b278fedabef8b6c65fab3eb810afea10bde3f10f66b5ba59621d9d6ebab1464",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f6225865395b4886bbcabc0dca3f8462da4adc8689fe916041ecd9a596e571a4",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "customfields-reference": {
       "title": "Справочник дополнительных полей",
@@ -738,8 +738,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:c7134be59bd973cb16e2251eba101ddd3c1094501ca5926a426cd74f1f33d870",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f2b47a14dc2225e34fa77d05e042a4037506063a1aefa3746c2916be548dd15c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "data-import-limitations": {
       "title": "Ограничения при импорте данных",
@@ -747,8 +747,8 @@
       "breadcrumb": [
         "Общее"
       ],
-      "content_hash": "sha256:25a28ceeab62222a213268d9e8101d718b80eb714c40fcd306159b0a6cfa150d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:a166fd6538112d765e677a6247b6c9c3a6794ceb1f7178c7e17b683083e546ce",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "delete-categories": {
       "title": "Удаление категорий",
@@ -756,8 +756,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:7405ebfcc752bb470e265a289317f29b427424c243766596080d94e5740a576b",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c89f79f70eea959431ca59d82aed1994e02ae63b6f273d6bc8fe998508964301",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "device-not-linked-to-target-customer": {
       "title": "Устройство не привязано к клиенту, который входит в сегмент таргетинга механики",
@@ -767,8 +767,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика персонализации включена, но не показывается клиенту"
       ],
-      "content_hash": "sha256:1edf197f94b5cb5d2a2fc91b85ba9ac1360e5d2049b37a7a7bffb9bc741265ad",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:7da4a511b47e9dbbb77fd8eabd2cd9047072573582c11fed57248b960f342f18",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "error_processing": {
       "title": "Обработка ошибок",
@@ -777,8 +777,8 @@
         "Общее",
         "V3 API"
       ],
-      "content_hash": "sha256:c0e798d3c5b697983e37f778f145de7b4548b0e2be743deb6e28e23fa014a4a8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:6de30112d66f8a5e047013bfa231f5d931ea16aa50c393cf6cddf3c5e62e0e8f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "expo-notification": {
       "title": "Expo Notifications",
@@ -788,8 +788,8 @@
         "Expo SDK",
         "Дополнительные настройки"
       ],
-      "content_hash": "sha256:48496f519e99b6e1b49aeaa93a507bd231ef32adb1d04a3647f1bc7fcfc72527",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:5888e1d977ea463787b0ca298ff646c845602346950155eb2dcfdef6e930cc06",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "expo-sdk": {
       "title": "Expo SDK",
@@ -797,8 +797,8 @@
       "breadcrumb": [
         "Мобильные приложения"
       ],
-      "content_hash": "sha256:44030df64a8f51284af20520d9a279ad4b8b075de521a34ced723d997ebfd16c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d33114626764e7697ec2250c6c03a84cbe2b4d09b4c5163a30563a61ee4f5c32",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "expo-sdk-setup": {
       "title": "Базовая установка Expo SDK",
@@ -807,8 +807,8 @@
         "Мобильные приложения",
         "Expo SDK"
       ],
-      "content_hash": "sha256:8e52b4e78073669495362b811ece169411a687eaf3f94253f1a14800f7277f83",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:bae00ed147759671168973f08a9986785c0de59feb560ad485a7495daa7017ff",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-api-reports": {
       "title": "Экспорт отчетов по API",
@@ -816,8 +816,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:9278039fba0718f40a02f60c778c4b05291fb7782786d10e1c5cc59e77ddd2dc",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9db5ce348e240f36c8303dd0e1eacc1b1ee1eaceed72bdc21348c0c3971fd89e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-customer-actions": {
       "title": "Экспорт действий клиентов",
@@ -825,8 +825,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:42a75128cf6b715978601a3ddc3521a6904df28849ba955a598368c8f9f5a059",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:145208df171b11ac1296b5b49b72c9a9f77c659d6f0b8c4b32a901a57155a022",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-customer-merges": {
       "title": "Экспорт объединений клиентов",
@@ -834,8 +834,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:7982947ea8318ff8edb78dd01779f0cce0b291a1ebc420e1fa762f54c4db1d34",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:ca43a1b8e7b8226607a7df2a9274b8db50de975006744a02be397cfb428ca7aa",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-customer-segmentation-changes": {
       "title": "Экспорт изменения сегментации клиентов",
@@ -843,8 +843,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:820553540983d0848f792832b41d48474ce8bcbf9e3467a074278012f303dc8c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:269c2cc980c58be5338cab5cd8458594672aef2e774242a82e59d22cfe54bba1",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-customers": {
       "title": "Экспорт клиентов",
@@ -852,8 +852,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:d30bcf5a1a219ee7b5a4c101385165a628d316c0978e63b785a530a98c83e5a0",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f17899ea90a0b0e71b4a3d109a612dd48e8ec02006b68945abf9f9ff8d5c1ca3",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-customers-from-scenario-blocks": {
       "title": "Экспорт клиентов из блоков сценариев",
@@ -861,8 +861,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:26beb46d51a0ad46a0e1f8f1277dda4d977a459a77a97f0705292054ddac6c56",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:33fe1b545a40aaa5a7223d6200db779967c0ced48aa2af944eb15a655528f30e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-event-log": {
       "title": "Экспорт журнала событий",
@@ -870,8 +870,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:90eacbbf3cb9516a777528bc40906d61b8b676983091280380932a64561983c2",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:227df9b9c8b27c8552d7aba856b422227081651b70015691e6a48ae1d9991e7f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-ftps-sftp": {
       "title": "Экспорт на FTP/SFTP",
@@ -879,8 +879,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:72d993f7b8a5c9ade2c02a97636473045b034a5547cd2d498c40ed4044447023",
-      "fetched_at": "2026-05-04T14:26:15Z",
+      "content_hash": "sha256:7fd46b26fe9f51996562033855c7269322f6c04839e938fee88d5398180cf112",
+      "fetched_at": "2026-05-13T11:53:23Z",
       "deprecation_hint": [
         "устаревш"
       ]
@@ -891,8 +891,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:66db9f28c18a3e57ad3ee74f395d9109b581d3de556396633095e1717c3021a2",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:aac7eec6ea3969082beb74b598f9aea3366f3490f69127702ddb3b6df3cbfba8",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-mailings": {
       "title": "Экспорт рассылок",
@@ -900,8 +900,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:99867e70ca41cdd4f4e1cbe8c0eb57cd34aab6e8bf3569e8bcc0e5a9a33da59a",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f09f48ee78bddca205489afbe935a3b378b52283ac463f430219d64d9dcdedaa",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-operation-logs": {
       "title": "Экспорт логов операций",
@@ -909,8 +909,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:93b44aaf86f7d61013a9c8a275eb9b5efe56a55ba3a267a8de62e032c023dbb4",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0ff964bde9fe4c2911b5e828e7e999717dad15eee2f482c0e2a5115ab58aeb4a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-orders-and-lines": {
       "title": "Экспорт заказов и позиций заказов",
@@ -918,8 +918,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:93905d626fba3b3c9356c10ddc614fb06d36d44f7b5dadcae00c887e96ec3741",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0df62869a28d352cc54a3921140e6f5e996acd6567e25f30140b64c65b218205",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-product-segmentation-changes": {
       "title": "Экспорт изменения сегментации продуктов",
@@ -927,8 +927,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:6eec717b8ca0b2e05afad5adc7864f7d80de8879738f38973e8bb9a1ef86fb7f",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:a7979ed15587bb5dc82ba76868fe08b8323da1bf299aedd66658a45e26b28133",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-promotions": {
       "title": "Экспорт промоакций",
@@ -936,8 +936,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:1e14f35c8ddbb7d6be2bc1d10ae5896e4badfc661ba25c924714ad9d5251b357",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:6f17954a7717f8328617768ccc7eb3d89e0287a56b4b6f4b7e5ffec30ad8d52f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-scenarios": {
       "title": "Экспорт сценариев",
@@ -945,8 +945,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:b4ff5160d0aa1ce7b4a76240e6930c0df67bf309b18efa01df625a997710a5ad",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0ddbaa9bdcf8e091f7f8f1a565237d08e946b495e9050f7d7b7ea6c8e45ed2bd",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "export-webhook-logs": {
       "title": "Экспорт логов вебхуков",
@@ -954,8 +954,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:fff12ed962d3ee0d7d71aec98f28e2eb5b2b22540816be2a4b37882c9e69b27a",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:7ad91e3e1ac1888d5f52950cee67f308a23ffaf3a5ac124bedcacaab8b31926a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "exports-overview": {
       "title": "Общий принцип экспортов",
@@ -963,8 +963,8 @@
       "breadcrumb": [
         "Экспорты"
       ],
-      "content_hash": "sha256:ca34065dfe05c2518ae8d31a6fa6dbf450df71368fdac77a83946ae16451a48e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f3376bff45f6b5ca53cae4c4456b31db54e2d368d1d97898cd07c69a4c9920fb",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "external-ids-change-history": {
       "title": "История изменений внешних идентификаторов клиентов",
@@ -973,15 +973,15 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:f013a59bb6cc472a8fce44ca2f1c74385865e5c52e458ae6dd5f75d6b19d8273",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:40012864921ea309736115122abf4fbcc054dfe69c7327ff794c0a343d092e60",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "firebase-integration-service-implementation": {
       "title": "Реализация сервиса для подключения Firebase",
       "source_url": "https://developers.mindbox.ru/docs/firebase-integration-service-implementation",
       "breadcrumb": [],
-      "content_hash": "sha256:27ed66a3c7bcb34fd43aeeabc6cc2009dea0b398e0075aa77bce436bc6fb7b62",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:ad33c605f4897e9ea3772f52d0583c4b496ae0e90ef2eb496f652ace90b40107",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "firebase-key-setup": {
       "title": "Получение Firebase ключей",
@@ -991,8 +991,8 @@
         "Android SDK",
         "Получение ключей провайдеров пушей"
       ],
-      "content_hash": "sha256:4ab4cc554e920c00e41ed099da2d9f089e10a84d7821fc90f08c5f54b33b00f1",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:503318bd4419a444fd0ca6a289d16d99c17739086f955cd2bb5470056150f77a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "firebase-send-push-notifications": {
       "title": "3.1. Отправка push-notifications через Firebase",
@@ -1001,8 +1001,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:366cb2a8fbd471e06a04799f6e0202ef735b99aac329d714e22338993d2c6bcf",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:fb8a9e5deb645a66e217321b7d81b74d0cdbedbfc6bb991a1e3b5562efe826d9",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "firebase-send-push-notifications-flutter": {
       "title": "Firebase",
@@ -1012,8 +1012,8 @@
         "Flutter SDK",
         "Android | Настройка пуш-уведомлений"
       ],
-      "content_hash": "sha256:6396a424f7ca3359abdc8e567557bdf080cd60c8764b81aa37f3c4c1b758b623",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:6df33c518e04ca4a020c4f7d8c50a7a5b81abdb919da5be12e93320d465e140d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "firebase-send-push-notifications-react-native": {
       "title": "Firebase",
@@ -1023,8 +1023,8 @@
         "React Native SDK",
         "Android | Настройка пуш-уведомлений"
       ],
-      "content_hash": "sha256:293ebfea03550f2621525d702c0524542af61d78ff7c8dd1e13aeceacee808cf",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2dc4cbba4d80d7d85987fd03da0e78e48ee656bb2ef13d832acf26d6bb18a2d4",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "flutter-android-push-notifications-setup": {
       "title": "Android | Настройка пуш-уведомлений",
@@ -1033,8 +1033,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:b651c04b6f03b97e518826b4c9da971195437988bfafd37bf8f56a295f1256c4",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c0ec1871d8f4e49f21e6e9e006d3275467ddfd99b000aae35cfb7b2544f7d71a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "flutter-get-push-keys": {
       "title": "Получение ключей для пуш-уведомлений",
@@ -1043,15 +1043,15 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:40495f94466d66325edd32754d46b993d861f8f1e9422ebb2812bc9f277675d3",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3798f236e1f8fc5e9fb9cd51554e495f7c492f91b6e78dcdce3780957bc9932d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "flutter-ios-advanced-push-setup": {
       "title": "[Flutter] [iOS] Самостоятельная настройка пуш-уведомлений",
       "source_url": "https://developers.mindbox.ru/docs/flutter-ios-advanced-push-setup",
       "breadcrumb": [],
-      "content_hash": "sha256:8e025dc5ed8ace86d1a5ae59a72f033cfdf15f0fed783b506a19913cd713bf51",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d899b402269584e4e84ac8670a59f21e3acf9c89eadb3035ba050f7949237e9d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "flutter-ios-rich-push-notifications": {
       "title": "iOS | Настройка Rich-push уведомлений",
@@ -1060,8 +1060,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:7bb2a77d64867401d0bfbfe9a888d75c9c562a77cee7bf9a6fc7f0d4161b36f8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:206eeac1ea3e6494886a24facf6f76d72451bd52d7651de4729f7e20f8c11691",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "flutter-new-integration-setup": {
       "title": "Настройка точек интеграции",
@@ -1070,8 +1070,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:7e8d8f0293cf285f720969063b18628e5ac4f53565df09628d9d7bd3cf78f698",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:fd895192931f7d01aac0e494a23168eab0cc56497c48062444b55e1219468025",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "flutter-push-navigation": {
       "title": "Навигация по клику на push-уведомление",
@@ -1080,8 +1080,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:f39ece51659d0f0c784e814013916a1f9bffe3d0263459bed9c393dcd844fd25",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3399a38125f3dcf347e751237829ae73d2f9a1339cd778315c3a332ad02e1cba",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "flutter-push-navigation-react-native": {
       "title": "Навигация по клику на push-уведомление",
@@ -1090,8 +1090,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:840668639a597c528ab3194b3cb83aa8ed95ee4c754e733e3471e07819db8bff",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:a6bbe87d26fd87c874504e8d781ddbdfdc65b9b951911bd53c9725d4247238e9",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "flutter-sdk": {
       "title": "Flutter SDK",
@@ -1099,8 +1099,8 @@
       "breadcrumb": [
         "Мобильные приложения"
       ],
-      "content_hash": "sha256:c8b93d86016fc307dedcd24058b46cd4b98b6763f52941e3005ec17a5f569d40",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9f72fdcdf4b9db1702a070b849fc4d7a9afde7ec142495f251f44746271942c5",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "flutter-sdk-initialization": {
       "title": "Инициализация SDK",
@@ -1109,8 +1109,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:d3f1d2e9fe96ea4e4e5d457123f72556759539f75eb470daa995a6000d01bc93",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:090cccf042b33c359a8c8bd2735120c6554b6467709ea9fcb6727776c5bc776b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "flutter-sdk-methods": {
       "title": "Методы Flutter SDK",
@@ -1119,8 +1119,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:855d9f621774d4e8d6e6d41035669033fd9abff42f453784090ba5a75d4a72d1",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:4dd751f0fb6be6db9f636d35d5652f4e4dcdf6757e449ef08d0eba4f2e5d9d2b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "folders-reference": {
       "title": "Справочник папок",
@@ -1129,8 +1129,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:14782b0bfbee7dada0d0418c19a03d868abc1672c939770fd876d43f21f18eaa",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:a652e0cb18ba07a057a54fd3a35a6f4cc60063b88096da8e0454a88daccc8db1",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "frontol-integration": {
       "title": "Интеграция Frontol",
@@ -1138,8 +1138,8 @@
       "breadcrumb": [
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:b08d0f274fbc6f1ecc937fe97d6548e4ad84275b55ff306b598335a3427ee5b1",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:dc0dc69c9ad8d250d9395fcde0df29ff9d5ea1be468cc62873de8cadd4d573e8",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-customer-bonus-balance": {
       "title": "Получение баланса клиента",
@@ -1147,8 +1147,8 @@
       "breadcrumb": [
         "Бонусный счет"
       ],
-      "content_hash": "sha256:3663fb666e3946dbf52b81c7155af532b1b5e401a4ae85854419ada80de67743",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:37625456c7c1f7c40490857dea8d372546f3e187237dab469f19dffa873eca09",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-customer-bonus-balance-history": {
       "title": "Получение истории изменений баланса клиента",
@@ -1156,8 +1156,8 @@
       "breadcrumb": [
         "Бонусный счет"
       ],
-      "content_hash": "sha256:3d3c57caa99fe767ef43ade8f17fd16ad247b03a9c38252dfff165de2540d471",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d7cbb903c7af2a41bc61e27a7b4191a3b1eb6683331cafa5ab6f1505fb5cd367",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-customer-data": {
       "title": "Получение данных клиента",
@@ -1165,8 +1165,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:3383bcc022511d31d7944bfc1acf9f81c19f1ed931b47ea43fcc85b709d408f0",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:87093362bfb3a2e0074e675cf8618647cd7f1d38cd82f48fa408eae337d0da7e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-customer-data-json": {
       "title": "json",
@@ -1175,8 +1175,8 @@
         "Клиент",
         "Получение данных клиента"
       ],
-      "content_hash": "sha256:e1270768611fa2a79196aa2f10583b7db9c9cccd4e10e7fdb01aee329b224d73",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:a9bd002d6379d1978391162dad196fc283a9c4f7c63e01083386fbdc17250f01",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-customer-data-xml": {
       "title": "xml",
@@ -1185,8 +1185,8 @@
         "Клиент",
         "Получение данных клиента"
       ],
-      "content_hash": "sha256:1d5e44f16fb9570a2d762b146ba3e7ab701e4c2de8dcdf552da8700c8881af0b",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:fc3a9d7dc2f62702776042d8325c4d54759edb528fdea4018d7e5776f392c9d0",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-customer-discount-cards-list": {
       "title": "Получение списка дисконтных карт клиента",
@@ -1194,8 +1194,8 @@
       "breadcrumb": [
         "Карты"
       ],
-      "content_hash": "sha256:9f4b426277952abc6851af4b2036e2c7c130c9807e5d308e3864b7945fdd1b3c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:8160361455b5dbde14c3410c15082593ad4390cb77dc0af88f6630b90c2e3ce8",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-customer-orders-list": {
       "title": "Получение списка заказов клиента v2.1",
@@ -1203,8 +1203,8 @@
       "breadcrumb": [
         "Заказы"
       ],
-      "content_hash": "sha256:35553f862c27467e123fb9789919889cfece5be7927e8df6c0ae449ff20b662a",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:8f8559797f779d27453a4605b8488bc12f9a2eced14dc9ee10736d76c042ccd3",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-customer-product-list": {
       "title": "Получение списка продуктов клиента",
@@ -1212,8 +1212,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:4ed496f241526b208b662e9a72cb459e43f17c33b88f4e0de698b4a6cf108c3c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:ab58865cd86c41b1d53e956795c608e1ebf3f3cc3143d35acc5a76dd15e088f5",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-customer-segments": {
       "title": "Получение сегментов клиента",
@@ -1221,8 +1221,8 @@
       "breadcrumb": [
         "Сегментации"
       ],
-      "content_hash": "sha256:13bcb93235e9ba0d612866d063fbade318a2df890b72778ed89606f7f7c81c50",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d1325bbde14aaf948492a5e71cec354f0c9626988c94d6a3e7786a0d309a4d5b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-discount-card-details": {
       "title": "Получение данных дисконтной карты",
@@ -1230,8 +1230,8 @@
       "breadcrumb": [
         "Карты"
       ],
-      "content_hash": "sha256:0c20ded82ca80af9eab5c06f7beb4efcd3cb82f1079e4d74bc029cf78a43e6ff",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:db722688c27727ada444f91515f7f7e46968a2708b1b41ac9158b169d041f8b1",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-firebase-keys-for-web-push": {
       "title": "Настройка отправки пушей на сайт через Firebase",
@@ -1240,8 +1240,8 @@
         "Рассылки",
         "Вебпуши"
       ],
-      "content_hash": "sha256:5c44f14d106d49a1163049ec0d81bd80f464fb59dd1223b6e05bcd987045e1dd",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:bd601b3b4b28b3930a2ac6b6ef224e18ce5215325c92759156f9c3d7b17e248d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-order-info": {
       "title": "Получение информации о заказе",
@@ -1249,8 +1249,8 @@
       "breadcrumb": [
         "Заказы"
       ],
-      "content_hash": "sha256:e4cd1685fbe5c6bebce07c5510d55d4e20a968d2868e1f872e60205027026295",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9ddddf39cacf9280297e79ad854bef0289639228127860c760a892577743c3d2",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-orders-list": {
       "title": "Получение списка заказов клиента",
@@ -1258,8 +1258,8 @@
       "breadcrumb": [
         "Заказы"
       ],
-      "content_hash": "sha256:d73f8cfbd489f800885ae688f3aaec716db3f13a088b8928c15784149b4cf802",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:96455164e8f0af357b76563148fb5b911161b48798b8f15d9d6539adec48206a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-personal-offers-list": {
       "title": "Получение персональных предложений",
@@ -1267,8 +1267,8 @@
       "breadcrumb": [
         "Промокоды и промоакции"
       ],
-      "content_hash": "sha256:15ed2f8c21aacf0491d864a8790a343eccdf4728366a551e6cc946934b780752",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9d09e127c8f2bce966a08561827b025dcbb04c592db7ef4f305629e760bd0a52",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-popular-products": {
       "title": "Получение списка рекомендаций",
@@ -1276,8 +1276,8 @@
       "breadcrumb": [
         "Рекомендации"
       ],
-      "content_hash": "sha256:da72bcf1d37a6b5367f8c949f3456cdabc89e519e75a68a2cd367cc608e7a8ea",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:1c197b9fddb7e38c12e5fa996997bd15197569eaf53f3693025464cc04144343",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-project-segments-list": {
       "title": "Получение списка сегментаций",
@@ -1285,8 +1285,8 @@
       "breadcrumb": [
         "Сегментации"
       ],
-      "content_hash": "sha256:57d5867b33259a1486b4646c94983e11cb5fd25cce50949180668aeb4501d46f",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f181698272a29e66bc8246eef5614dde98295ab214aced5609269248650a2719",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-promocodes-list": {
       "title": "Получение списка промокодов",
@@ -1294,8 +1294,8 @@
       "breadcrumb": [
         "Промокоды и промоакции"
       ],
-      "content_hash": "sha256:3f4a89c0b4bf99248f91bf99cd3e9e3540a993b806bb521d88fac7570e71dff9",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:342679175de7d7dce13211ebc1b2db25b52ff7a1aad0e099c6f3ade4441e741b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-promotions-for-customer": {
       "title": "Получение списка доступных для клиента промоакций",
@@ -1303,8 +1303,8 @@
       "breadcrumb": [
         "Промокоды и промоакции"
       ],
-      "content_hash": "sha256:6a1ad96aa6f2de3859f78d91bf7ed57b124cfb822ee981e907d265cf314db9a7",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f96cfaeedb20c03bf7e2aa26d0ae1126df53702cbea3a740459f4aec87456b1a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "get-total-paid-orders-amount": {
       "title": "Получение общей суммы оплаченных заказов",
@@ -1312,8 +1312,8 @@
       "breadcrumb": [
         "Заказы"
       ],
-      "content_hash": "sha256:aada5d6df1be9fb96811e1cd81203b57592bc3b037ed2dc4787cf7b7c2191c1d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0670dcd127dcc0bde8ac8af5235fb8edc7692a1d6d82fce9ea21bb83dc6f7a7f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "gift-cards-in-order-save-operations": {
       "title": "Работа с подарочными картами в операциях сохранения заказов",
@@ -1321,8 +1321,8 @@
       "breadcrumb": [
         "Карты"
       ],
-      "content_hash": "sha256:84bdc2bdc97f43a8f006ecee7b8c9d76a4385483a160b0c784ff9c321a47e3f4",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:886d9d5dec3c141c877afd63e646ef255fb4ff5c752612f38de387c657bbb27a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "google-optimize-ab-test-ended": {
       "title": "Завершился АВ-тест через Google Optimize",
@@ -1332,8 +1332,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика персонализации включена, но не показывается клиенту"
       ],
-      "content_hash": "sha256:e8963c60d53f84dda9d65058f2fd8d5389b6176d8fdb1021fe1650c5a9aaec52",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:8313f857851178627a025eeb467238df94b17b643682d0f7754340230ffad551",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "how-to-read-data": {
       "title": "Как прочитать данные",
@@ -1341,8 +1341,8 @@
       "breadcrumb": [
         "Данные для аналитики"
       ],
-      "content_hash": "sha256:e0a6f8110673cf57e4ef66587c419bd12f22776bd9d1636533caaa0f25106a38",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b2e790f1993b7d2b8223de8847f9abda497cd17277fe271855bb9f2340c2f7bd",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "how-to-receive-push-notifications-from-multiple-sources": {
       "title": "Как получать пуши из нескольких источников отправки",
@@ -1351,8 +1351,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:af56fad55cfe783ffa027557c924ee8b0bacf31ac9aade1dd7fcde65a7a29d6b",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2eed37b3b15dacf8c9124c2fb4aa7c2747f20e1facb8bea0fb43b4ed6e3dd849",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "how-to-work-with-customer-merges": {
       "title": "Как работать с объединением клиентов",
@@ -1361,8 +1361,8 @@
         "Данные для аналитики",
         "Как периодически обновлять данные"
       ],
-      "content_hash": "sha256:144f7a66e58ae50bcf5e962f6c23400e9252c9c7a2cca35f30fc05dabf5e7c68",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:422eca40a78aaa2834a4d44c86ef22dcebd08993667dcea6dbca91c6661610ff",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "huawei-get-keys": {
       "title": "Получение Huawei ключей",
@@ -1372,15 +1372,15 @@
         "Android SDK",
         "Получение ключей провайдеров пушей"
       ],
-      "content_hash": "sha256:6f1328ce82aa59f359a6f3fe8b814b8365b4dbb5b76273912de12328f8a04f10",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c4105e1f27d390c8e6384768840389974c9b657f73c974528b83ff5b56900d62",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "huawei-push-service": {
       "title": "Huawei Push Service",
       "source_url": "https://developers.mindbox.ru/docs/huawei-push-service",
       "breadcrumb": [],
-      "content_hash": "sha256:57c0f75e99baac119f3d29e4efb21359999b2db591684fa50ccdec4ba37dc603",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:e27c5054e94b622740e9004add0964558eb3d3d40908e9925a3064a090f18095",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "huawei-send-push-notifications": {
       "title": "3.2. Отправка push-notifications через Huawei",
@@ -1389,8 +1389,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:d034700c287e8cfbd6e447ac3073051389c43c540d3dcea6a505b48b7d4107f6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f141986c75ccabac16ca0cdfa00de382cb3698954f984228221fd5ff3aab9aa4",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "huawei-send-push-notifications-flutter": {
       "title": "Huawei",
@@ -1400,8 +1400,8 @@
         "Flutter SDK",
         "Android | Настройка пуш-уведомлений"
       ],
-      "content_hash": "sha256:b41bb9e21bb5d6302b11f62edf7965a7e0d0b424c5fc8dd0122ebc9458ccf87a",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9ad994844d2a957df89f1d93130928e37f3f704ad186c32db489f63565e697c4",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "huawei-send-push-notifications-react-native": {
       "title": "Huawei",
@@ -1411,8 +1411,8 @@
         "React Native SDK",
         "Android | Настройка пуш-уведомлений"
       ],
-      "content_hash": "sha256:62ff4f2886feabaf15ebeeacde7e06cf630a490a3fff6e6f6ebb7847880ed5f3",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:cae77df16eef661ec40289c7ed14efd91204b73f380c78cbe5c9f64652db13ba",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "iiko-integration": {
       "title": "Интеграция iiko",
@@ -1420,8 +1420,8 @@
       "breadcrumb": [
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:612397853461daaae6f47e517c6c181d585ea2d64863efd1af6e7a163a73872b",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2db22da76ab4441b74d962034a8663d31a19a695325d6473b2b7c1964da02d8e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "iiko-plugin-setup-version-n-plus": {
       "title": "Настройка плагина iiko версии V8.1.0.62 и выше",
@@ -1430,8 +1430,8 @@
         "Стандартные интеграции",
         "Интеграция iiko"
       ],
-      "content_hash": "sha256:b4d05205686a2c686e08ed332c0d3575e976e852de87b48be04c5cbf28edac7a",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:03ad61653f975e1ba95f626639406ddc508df7f2c8fdd76dd1135c6989251605",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "iiko-pos-instructions": {
       "title": "Инструкция по работе с кассой IIKO",
@@ -1440,8 +1440,8 @@
         "Стандартные интеграции",
         "Интеграция iiko"
       ],
-      "content_hash": "sha256:d38e0d17c73a570f8358c1afc14cd487d2f6a3f789903d55b2076d954f7cc806",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:5ed8f951beb4c8be43c79eeec554e56628dfe295eccb7d39484d5613a654cd9a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "import-external-promotions": {
       "title": "Импорт внешних промоакций",
@@ -1449,8 +1449,8 @@
       "breadcrumb": [
         "Промокоды и промоакции"
       ],
-      "content_hash": "sha256:d910823cde48c0a9e516479abed7a07b32cedf2ae054f6c3f071315472dd62dd",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:6c32a84762ebe9f0b16eddb7503b6507f9a7a178a6a3489ae23491d7625687ef",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "import-field-values": {
       "title": "Импорт возможных значений дополнительных полей",
@@ -1458,8 +1458,8 @@
       "breadcrumb": [
         "Разное"
       ],
-      "content_hash": "sha256:c4c81b2d7ed1c32d370857c1198e3d03c5ed7a8e1868e1a43b561443e23395f8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:14a101526a74290b595ee1fa15aabcea0806423c55df41e9859628c1373d8bf2",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "import-personal-offers": {
       "title": "Импорт персональных предложений",
@@ -1467,8 +1467,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:2e7008704c714086d2adc0b82fada057429fdf220ef4a939244ebac38be60d48",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:289364376b0bf02f5dc2b598072dd9f485148597cc55270d241c8a8395da7592",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "import-personalproductlist-v3": {
       "title": "Массовое обновление списка продуктов",
@@ -1476,8 +1476,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:765804932572aa0ecf7a02563ea6674ed0a65243b2d885537a48c826ee6e30a6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:fad063604827c0f0be1331024cbadf3fd1fb91bf76eebe0d06b5b9be78e0a32d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "impression-limit-exceeded": {
       "title": "Превышен лимит по показам",
@@ -1487,8 +1487,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика персонализации включена, но не показывается клиенту"
       ],
-      "content_hash": "sha256:6717bc9b0762d219a4586655a800e5992963ce4ddcc8f00f3a801ff382638362",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:ead7c0e2d42f0806c4784ae549655b5f360e9aa0a51ccf99ac9084228dc1645e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "in-app": {
       "title": "In-App",
@@ -1496,8 +1496,8 @@
       "breadcrumb": [
         "Мобильные приложения"
       ],
-      "content_hash": "sha256:e9d1c9254bee62873a5493f84c67dacd05563659e237885e0a8548f6ad3f0a61",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c176d870ad20213322d872ce2ae54c927095f8ad316c7b7a75eff83cee4f3b46",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "in-app-operation-category-and-product-targeting": {
       "title": "Настройка операций в приложении для таргетинга на экран категории и экран продукта",
@@ -1506,8 +1506,8 @@
         "Мобильные приложения",
         "In-App"
       ],
-      "content_hash": "sha256:def46fcaadad6b02f0ee3a89a5e5a9498f5d853824d42cdf2d637fa92621cd34",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:be6026b8e89325f2738a78e01e4855433ff48d60f0735a53cf0ce31d53b23044",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "in-app-targeting-by-custom-operation": {
       "title": "Настройка операций в приложении для таргетинга in-app на операцию",
@@ -1516,8 +1516,8 @@
         "Мобильные приложения",
         "In-App"
       ],
-      "content_hash": "sha256:d26613554802dd562716bc2368a872622df68c6d7aff9ef255bc17b2192b9425",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:27e06a42380dddea8b7868ce7fa9b21d66d5d7dba6a380dec4568f0e7fed1791",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "incorrect-display-location": {
       "title": "Некорректно выбрано место отображения",
@@ -1527,8 +1527,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика не работает по тестовой ссылке"
       ],
-      "content_hash": "sha256:0dcf9ffab3dcd6387a5683f0616a76da028c8a5b1403ca2a60c4c5400b6e78d7",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2846a827779f0c62bab8ece4e9596d35fd63410320c212c8d009ee43c5a92c4b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "integration-actions-flutter": {
       "title": "Интеграция действий в приложении",
@@ -1537,8 +1537,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:b1b31ed35025d8def1177457e3d58a12285f874c0151737110a36ead607469dc",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2d27d6790be2da317d75445a84041b85b35170eea81f70efe8e9da15c359a9a0",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "integration-actions-react-native": {
       "title": "Интеграция действий в приложении",
@@ -1547,8 +1547,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:295283c1f054f9cae81298b60f2a1f988556746939bfe5eb95d2b5896c2b27b8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:8527810e0d3c056276ee472223acfa1f162a672af9cf8963a6a19cf2deed1d20",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-app-start-tracking-flutter": {
       "title": "Получение источника установки мобильного приложения",
@@ -1557,8 +1557,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:5da60ce96c8865c8797d501045cc8d73c02917ac32a21bf3ddd399c826eb7714",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:5e5a27c3dbe87936ba5d1b85aafdaf9cf1f8ca4293f1853a220d7bf630df7619",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-app-start-tracking-react-native": {
       "title": "Получение источника установки мобильного приложения",
@@ -1567,8 +1567,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:8f830c8693602a821a286c8b2da5f3bc3d87b874ba7e90243965dee506942edf",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:bd6e95162a816fde7da1847266a62099b7cc25eaab580a659c83dd92b98b1d16",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-get-app-install-source": {
       "title": "Получение источника установки мобильного приложения",
@@ -1577,8 +1577,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:789832b0bee6a1170366c761c5af7b03eeb0bbbe2838b231fa3cfe19422b5a70",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:78db3097b44639a34dfc288d9eb980cadb14c16cc4965d379f2e7aae284f5509",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-get-click-flutter": {
       "title": "Передача кликов по push-уведомлениям",
@@ -1587,8 +1587,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:67f2fd01f625389cc4febc654d3935d54e9de11e898a8a9ec67a2e8a1972110e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2e81633b271ece16cd5729cf32e52c25f55e125c5e3542581b1543f165477183",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-get-click-react-native": {
       "title": "iOS | Передача кликов по push-уведомлениям",
@@ -1597,8 +1597,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:6718d77c9ca89b423f230cf3ca07e087ef7d191b24665b89fb254bfb01144ff9",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:4c54e671dd3dbc0c69ed8cd106ebdb7c6d93c68ac621466d7863bbcd11cf7f1f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-guarantee-delivery-setup": {
       "title": "Настройка гарантированной доставки",
@@ -1607,8 +1607,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:d460dea9ba7b22e61ff5bf30419f9c7e65e0dbf7c90b8d20df9cde995c18852e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:081f4e4d0f6e96e66a629155fa0daab80279e220286788ffb5eb7c12a6bde878",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-integration-actions": {
       "title": "Интеграция действий в приложении",
@@ -1617,15 +1617,15 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:98da9941588e9af356d9d98b040d16caec3531a74d4a766ab69ad838c92bf304",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b1edf2aa8010af712e5f98f9423a5dc468325d9e98eb40d9de336d9bd00e6f02",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-mindboxflutterappdelegate": {
       "title": "[Flutter] [iOS] Быстрая настройка пуш-уведомлений",
       "source_url": "https://developers.mindbox.ru/docs/ios-mindboxflutterappdelegate",
       "breadcrumb": [],
-      "content_hash": "sha256:fc5ebf9bb9e76d2f4e053d15c74288d1fc65b54660877aa4ac260ba27c876d61",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b3b4a75a53305b749cc1b828e9ddb4dcbdcbc046d6df971200f84b180e5815f8",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-push-click-forwarding": {
       "title": "Передача кликов по push-уведомлениям",
@@ -1634,8 +1634,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:9f580f9c3a0bc1b080a9bd1ff2ea3413547789bb0b2a24580cc663da60f2f2c7",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:50f2b25f20b24b4f7c115531a17a9753db92fa2016371c7b2943fabafc7dd28f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-push-notification-deep-linking": {
       "title": "Переход по ссылке из push-уведомления",
@@ -1644,8 +1644,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:fe37fc3b261e78f3b8240e242e0f69e1526001c0a6fb12df69d574c73fcc6d5e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:5b26101546d52c72e559bd8607d7e90d116785a6094e90dfd0d9d9e5b58f0f2e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-push-notification-format": {
       "title": "Формат пуш уведомления iOS",
@@ -1654,22 +1654,22 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:f84771b0c5a1b38a2bce51965d18b7b011080e4586dd3b34b48ecdd559777d94",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:e03ead99244f0d42a16cf840aefcfbea8047dd2823b2960d93a49c6945158b13",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-push-notifications-setup": {
       "title": "[iOS] Быстрая настройка пушей",
       "source_url": "https://developers.mindbox.ru/docs/ios-push-notifications-setup",
       "breadcrumb": [],
-      "content_hash": "sha256:9417b96e4b0976d39864ed925acd89e682d39c8a25113d7f7e18fa44b890ca04",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:6c6598c57a697d824780a000f2fd683e2139898a534bc3d691278ba9b56acaa5",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-push-notifications-setup-advanced": {
       "title": "[iOS] Самостоятельная настройка пушей",
       "source_url": "https://developers.mindbox.ru/docs/ios-push-notifications-setup-advanced",
       "breadcrumb": [],
-      "content_hash": "sha256:3de33ca58ef00dcb46e208c0e73816d3bc65ca585190c38f68c0b0d4d2dd7e29",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d0745d051c44296fdb44f34934102cab92a8a23f5b6b1f1ae6288482ba2f1696",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-quick-setup-push-notifications": {
       "title": "Настройка push-уведомлений",
@@ -1678,8 +1678,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:909f33b521b1d723a53fac899fd2edde362867941454a3ef0b201b74f5414f18",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2294ab76f4532dfb39eb1bc86f11a6d12bb4c944f0a9338f08c4ed9a2811a680",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-rich-push-image-and-button": {
       "title": "Отображение картинки и кнопки",
@@ -1689,8 +1689,8 @@
         "Flutter SDK",
         "iOS | Настройка Rich-push уведомлений"
       ],
-      "content_hash": "sha256:7268ea74a633ce06703d8328792d4666e84382d4bcaa6b5e86bc9fd467bf891b",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:84acf37d857be8760da039a1e8539873cca194b3c1532c858992fb18a1048951",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-rich-push-image-and-button-react-native": {
       "title": "Отображение картинки и кнопки",
@@ -1700,8 +1700,8 @@
         "React Native SDK",
         "iOS | Настройка Rich-push уведомлений"
       ],
-      "content_hash": "sha256:8c8433eda520dd1e174accd8ab3316d41c00aa9c6fb237c2afedce5a18534810",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:107c8d8dd11527a7b89ea740a6ac5bf06a8f6810c4c6b174394bc9f5c7f593b0",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-rich-push-image-preview": {
       "title": "Отображение превью картинки",
@@ -1711,8 +1711,8 @@
         "Flutter SDK",
         "iOS | Настройка Rich-push уведомлений"
       ],
-      "content_hash": "sha256:5be703ba9899e7f1c11bf620860e47388532539269e29b62c1a67e868fbde190",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:6aa090ef7adfb67096c718ebd1c768ce240cf193f4607435417448f0218aba49",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-rich-push-image-preview-react-native": {
       "title": "Отображение превью картинки",
@@ -1722,8 +1722,8 @@
         "React Native SDK",
         "iOS | Настройка Rich-push уведомлений"
       ],
-      "content_hash": "sha256:11e690f449848ee3dcd04faaf1605f05d9f8daece9da8f0969cdeceb61761532",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:fa9eb00d529b5c828b561c8778b65e3025ba5a1ef0ebc446d3c911592b3a4f12",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-rich-push-notifications": {
       "title": "Настройка Rich-push уведомлений",
@@ -1732,8 +1732,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:69f8a030dac486081eec332369fdf3579954571ba15f8449c62bff75cf199c10",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:475385decac0a6472082374d3d0fdb26665376c1437d57359273bdeb65df8e24",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-sdk": {
       "title": "iOS SDK",
@@ -1741,8 +1741,8 @@
       "breadcrumb": [
         "Мобильные приложения"
       ],
-      "content_hash": "sha256:2a51ba4055feefd464745d58c50e600006fd322649621888d78f5e7c01d8659c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0a4ea149a66fab40d05c5a97dcda765cfe60e5b087ea0c1ca5916caabb6ff047",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-sdk-configuration-fields": {
       "title": "Поля конфигурации iOS SDK",
@@ -1751,8 +1751,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:57f28847650bb05dada5fb7d01fb73ef7b1caedfa7c669f561aedd95d9608c6f",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:05a0227eda9d8ad0088260b10657efe5881af1f8ae980dd7f8b0161aab2ea95e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-sdk-events": {
       "title": "Передача событий через iOS SDK",
@@ -1761,8 +1761,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:62e63b9ebfed16f743f280bb093e67465f2caa119e17fe8346406e19664347ec",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3cc0bb61fecb0ce1e0af224f60ad1d0c53a18162b0db0944f51d46639ff442f2",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-sdk-initialization": {
       "title": "Инициализация SDK",
@@ -1771,8 +1771,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:06137561650cd51b2ff67e5f4c7fa5a97b4184a21e702fba4117891dc0325f4e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3aea6b957baefea225b307c752e181181ba9aea1aec6b8ddcfce8d39b7e3260a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-sdk-methods": {
       "title": "Методы iOS SDK",
@@ -1781,8 +1781,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:e357313b38a49905d76e94811c69cc88ab1e86d98ca1903c396262a9e5d750a6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:5addf3f6ac66a47002d918c8fa6809a24e6c0430405fccfa83e5db553283ba3d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-sdk-request-constructor": {
       "title": "Структура конструктора запроса iOS SDK",
@@ -1791,8 +1791,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:ec13392aa2815a2da85d9e426fd299988a9d418ca362a40ce43bfec35e1b2db1",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c319f714d756160b8b3e6c97dd124c448263bf22859b065fdb27566570f0743c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-send-push-notifications-flutter": {
       "title": "iOS | Настройка пуш-уведомлений",
@@ -1801,8 +1801,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:ee23a1da7b1fb0de6fe227c0962c6d4b7e7e847e0b5958cda4d4a6e694f450df",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:e24f02d23bd00cfba8213369543f32cb1b519cd5149baa7b4daa1c3e0d2a31ad",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-send-push-notifications-react-native": {
       "title": "iOS | Настройка пуш-уведомлений",
@@ -1811,8 +1811,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:72d01be684f0ed25f0c8ad58b4d0b4cc3fa98074f19ac338833218337c455140",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9c06fb822efb159bd96a8c003aca20765bf285641c1de0517f38f98e11715240",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-setup-background-tasks-flutter": {
       "title": "iOS | Настройка гарантированной доставки",
@@ -1821,8 +1821,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:09c39ac03d93498636398acfd1d6bdbcc49656cc611269b85e2c6d18eff4a40f",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:bf976ff055182434fcdfcbd6ad94eb951c7c0353fc46312d026559ae69bbd729",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-setup-background-tasks-react-native": {
       "title": "iOS | Настройка гарантированной доставки",
@@ -1831,8 +1831,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:7a4faf04dba9b0b8cc4081282102ffe1f2dafd29c4733af58e54838ae5a23ab8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b7da05ebc4fd672317dece46f5ef7f9920b9933a743923aaa9ddbfcf55d7f85f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ios-webview-sync-with-sdk": {
       "title": "Cинхронизация deviceUUID между iOS mobile SDK и JS SDK в приложении с WebView",
@@ -1841,8 +1841,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:411a72fe59fc71b954452005eb55763a41c810b0e7f49f226021e24dc65b8218",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c70d2b904fac1a508396e26fed89798a8f251ece8742d3c04f598210eef77d7c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "javascript-1": {
       "title": "javascript",
@@ -1851,8 +1851,8 @@
         "Клиент",
         "Получение данных клиента"
       ],
-      "content_hash": "sha256:8223ae92968f3256086f249b9ae7aefb27750d58771d576baa165db26f0627a3",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0fab6d3764ccf82858e32a2ac6a0e4baff7c75577518c40281bc344464fdc62b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "javascript-sdk": {
       "title": "Javascript SDK",
@@ -1860,8 +1860,8 @@
       "breadcrumb": [
         "Общее"
       ],
-      "content_hash": "sha256:758e2f001c564cdc5a2fea8616f9fa17174478344362f340e13b4c7a76bf9e0e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9c33b01a5ba7342483aa328171f4bd0e10247e21ab2e4f65d669d578eab5eba1",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "javascript-sdk-anonymization": {
       "title": "Интеграция JavaScript SDK через Анонимизатор",
@@ -1870,8 +1870,8 @@
         "Общее",
         "Javascript SDK"
       ],
-      "content_hash": "sha256:b773e5f9f0da044eeebfaff6c20e8abc6894e5361f03f0fbe9bca2ca99e4cc08",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d333cecd27b10cfaafc995f8e845d014c1551e812055ad2cd5b5450811a68905",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "json": {
       "title": "json",
@@ -1880,8 +1880,8 @@
         "Клиент",
         "Регистрация, формы подписки, трекинг входа на сайт"
       ],
-      "content_hash": "sha256:6b5e4e06e648bcf5aa0d3ba2853bbc8df4a993da4915f2ed05861b6a23918557",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c695109df7b70fba26c831718e4a945f2f700bd35c092c6165d6447fa22b5277",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "json-1": {
       "title": "javascript",
@@ -1890,8 +1890,8 @@
         "Рассылки",
         "Отправка рассылок по API"
       ],
-      "content_hash": "sha256:7440663838cbddc41b5e7ebe63584b9455aa1a75ab119c2bc817220b87c87226",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:8873aec7d6820ff85ec866cff3962654d95922c6ced4a18109ae0ab13ece9d29",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "koshelek-app-integration": {
       "title": "Интеграция с приложением «Кошелёк»",
@@ -1899,8 +1899,8 @@
       "breadcrumb": [
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:c778156e6f07a8934f88de6513d35f02c5b12205e4b7efa3b00173e3972e8b16",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:da81354eb37a32e0b2c454893038acf7c2efa2da08bc636a48e77249abd6bb40",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "link-between-bonus-redemptions-and-accruals": {
       "title": "Связь между списаниями и начислениями баллов",
@@ -1909,15 +1909,15 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:be8d852f2da581b226fb62be6eabad0e42be5f9a6facf17ddc246e11eddf88ab",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:deb746a5dae643c8792ec69a921f65434f6df2f5aba3cc4bb4af85a9133936bc",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "loyaloffline": {
       "title": "Лояльность на кассе (v2.1)",
       "source_url": "https://developers.mindbox.ru/docs/loyaloffline",
       "breadcrumb": [],
-      "content_hash": "sha256:91d4d24333ed1a87d2fdd88b6724d5e732a676fa6ea923207d9bed7a0b31838d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d203d8ab9883b288572a672f699da21f3d2df1b15f0f48c645f57a94e32a365b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mailing-statuses": {
       "title": "Статусы рассылок",
@@ -1926,8 +1926,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:675f6e20a9b529d1711360ae2fe04bd6456fbb93db8bf4f20f6e718ebe4f435d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0b90f56e9a03492238d1028d0fe42eb99d2a9a5e1c8f7ada73d6438e7f833d18",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mailing-topics-reference": {
       "title": "Справочник тематик рассылок",
@@ -1936,8 +1936,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:e0cc3342522d79a68cdaef9041853b6d3637ca137d957523204942d9ba4736e7",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:ef3bf0e5ccd0f75cb12e94deed6d6fe5a4e4fbc8fd7fa032cb025d49bb1e7bc4",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mailings-reference": {
       "title": "Справочник рассылок",
@@ -1946,8 +1946,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:1e3b9054779dca415137858e3bce7997d40240d524849535bd35035ff8b2a575",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:36056a6a21742f6830f72d76f6ce955becd23cf5082f4fe7eb19ad69805a8273",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mailings-send-json": {
       "title": "json",
@@ -1956,8 +1956,8 @@
         "Рассылки",
         "Отправка рассылок по API"
       ],
-      "content_hash": "sha256:83eef70bc0e0f85fdb89a9c7f8f2ed2a7cb0bcf6c363a3a610d57a0693e7eb9b",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b2f566b28008cdfff818fd71e8e010be9fc7dee2b52293055085456915c7f281",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mechanics-enabled-not-shown": {
       "title": "Механика персонализации включена, но не показывается клиенту",
@@ -1966,8 +1966,8 @@
         "Персонализация сайта",
         "Чеклист проверки интеграции персонализации"
       ],
-      "content_hash": "sha256:7a224fee12ea4d7e7cb7e51ab6b34edf6dea80237dae8726d05c647f76f2d93e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:dd6150a1a8525e6c0f6d30d6e495f0bcfd0c63108312fc8be43ab18a6cf86823",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mechanics-loads-slowly": {
       "title": "Механика персонализации прогружается медленно",
@@ -1976,8 +1976,8 @@
         "Персонализация сайта",
         "Чеклист проверки интеграции персонализации"
       ],
-      "content_hash": "sha256:b7ad7fcf46efa6034371e19f3fd31a505da353869d0911a6ac47edda845eeddb",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:8aed23c3bf9045826e5ddfcc3a00db0f48617ba20791d39415823062bdd82751",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mechanics-missing-required-settings": {
       "title": "В механике не указаны необходимые настройки",
@@ -1987,8 +1987,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика не работает по тестовой ссылке"
       ],
-      "content_hash": "sha256:8258a766890cfa3e25eb57fb5102ba531ae31ba8a4cbbf4fa6231b808b46af22",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:536858a23916d301a04e3d661f61ea2bd07b56e4d82b15459c200ced05a0567d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mechanics-not-working-test-link": {
       "title": "Механика не работает по тестовой ссылке",
@@ -1997,8 +1997,8 @@
         "Персонализация сайта",
         "Чеклист проверки интеграции персонализации"
       ],
-      "content_hash": "sha256:839839d0278b3ff78683b0b8901552322d6db14bcb7e79212ffa7088314c9388",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:19a30e6cca8aa4ad6ec8a71678fe481d275f73436bc7707a491457447dc30257",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mechanics-wrong-endpoint": {
       "title": "В механике указана не та точка интеграции",
@@ -2008,8 +2008,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика не работает по тестовой ссылке"
       ],
-      "content_hash": "sha256:118a6a7f6c5b050c7cddaac9477da9a38d8165858f741845cbaa71d023eb9b13",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3b7a2d3027ae5fc509371f517244c75b88d4c3063d8e9d5c5e42f28a42e93086",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mindbox-sdk": {
       "title": "Mindbox SDK",
@@ -2017,8 +2017,8 @@
       "breadcrumb": [
         "Мобильные приложения"
       ],
-      "content_hash": "sha256:d16879816e7fafd6ee047cec3de3c62b28bf3f7e85e3ba94f98434b52341b6b6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:36f5dd9cae390e409523f2bde33c09d3aee9f5139cb625f49d6ea6db0e7ec8bf",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mobile-phone-verification": {
       "title": "Подтверждение мобильного телефона и подписки на СМС",
@@ -2026,8 +2026,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:b8c1d5271c2ce8b38995874672690696decf1cf381f8bf050e5f4a78dd496a14",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3aa36247245d269d6b066a63510e0518a8421dd93b67e4715f3f73e2de51153c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mobile-push-check": {
       "title": "Проверка корректной работы мобильных push-уведомлений",
@@ -2036,8 +2036,8 @@
         "Мобильные приложения",
         "Справочное"
       ],
-      "content_hash": "sha256:50e75824e8ae42c3cec786794dc9c5e79023ae5f1a13f99b11c8fd3bd600fdd8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3d4e2b368386a3287df8aeb22451771d6e281fbbcce7a222fc08584dcffc7901",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "mobile-sdk-reference": {
       "title": "Справочное",
@@ -2045,8 +2045,8 @@
       "breadcrumb": [
         "Мобильные приложения"
       ],
-      "content_hash": "sha256:18e32aa98f9bc604b724e3fb8ebfe66f1ef9c9b9df8e56c86d976203156449da",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:382349bceda118829c0048299bb7f74e232f135d17ce25eef14d433c2bb88fbb",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "no-products-for-recommendation": {
       "title": "Нет продуктов для рекомендации",
@@ -2056,8 +2056,8 @@
         "Чеклист проверки интеграции персонализации",
         "Виджет рекомендаций не работает по тестовой ссылке"
       ],
-      "content_hash": "sha256:c143fa241262c697d99fb312f422102a2eccc58f71334eb63521aa39cc797616",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:cf7f62abe83326162da45b553e1fda756431b9a0869809ba4886af3e98c28ba3",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "notification-center": {
       "title": "Центр уведомлений",
@@ -2065,8 +2065,8 @@
       "breadcrumb": [
         "Мобильные приложения"
       ],
-      "content_hash": "sha256:510afb03896db115c58ad3857ad3f48b445807065574accdef0556df6c16ff7f",
-      "fetched_at": "2026-05-04T14:26:15Z",
+      "content_hash": "sha256:5735ab22e38f3ddfd166d83a5c335983ab9e81e60bee57a6d816176fb297a967",
+      "fetched_at": "2026-05-13T11:53:23Z",
       "deprecation_hint": [
         "не используется"
       ]
@@ -2077,8 +2077,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:05aab5853be9b483b7269b48ab2df596219b0087eb262262557ae96df5a02c0b",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2d5a380953cd33c7374312fc8f8c6273c964abfad9a8ad33ba0522d9cc0f291a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "order-checkout": {
       "title": "Оформление заказа",
@@ -2086,8 +2086,8 @@
       "breadcrumb": [
         "Заказы"
       ],
-      "content_hash": "sha256:84dde4d9ba159e215f70317beab3a0a547fca26c6eefeceaf64dc1900625abe5",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:ffa144279e8000a6346a584c4f779f7c017290e26a4418b900658297d5f9306a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "order-line-statuses-reference": {
       "title": "Справочник статусов позиций заказов",
@@ -2096,8 +2096,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:eb961cf18937a52ee13d2c1c5b368cb3b29d5130492118df70feee469be9e327",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:be5c1fd4085a814fad14dc7bda6059619b04fa99406c7fd185823c87dbb0e5ea",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "osmi-cards-integration": {
       "title": "Интеграция OSMI Cards",
@@ -2105,8 +2105,8 @@
       "breadcrumb": [
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:0837290f9aa7f602df82bbbe44cc315585b9c1128427afd563c12ded4255b057",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:a92635c6bbb5cf39486cbf5c82e7dc873eb11465ff413271d02f9b8c67e166fc",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "passteam-integration": {
       "title": "Интеграция Passteam",
@@ -2114,8 +2114,8 @@
       "breadcrumb": [
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:64583d7f0c84cce148507aab1187f88311b6185df9c812d264fef6766ef19c8a",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:6f689ea0b12cffcd1847a85d9743d89a64cfe77260d0b5f1774da1b8c520ff32",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "password-based-authentication": {
       "title": "Аутентификация по паролю",
@@ -2124,8 +2124,8 @@
         "Клиент",
         "Аутентификация"
       ],
-      "content_hash": "sha256:2fccda772acff18ce9aed705104168c8033334e28401ee61dcf6d3165801aed8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:762e18a4e2a5c1ca9cb14241bbf4e1bfa8d0fcc848b1838bd458a57e5dec279c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "periodic-data-updates": {
       "title": "Как периодически обновлять данные",
@@ -2133,8 +2133,8 @@
       "breadcrumb": [
         "Данные для аналитики"
       ],
-      "content_hash": "sha256:d4ce3df08e7b3ac20f55508d0b391f5df6fc70b97688c9e1cdc3ac9518ca2aef",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:4dbb73663eac4239b8012d055cc7aaac0d770a9d200ba6afdf47fcaf8080b017",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "phone-verification-client-side": {
       "title": "Подтверждение мобильного телефона на стороне заказчика",
@@ -2142,8 +2142,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:79385f5826b302d98c85310b01b391f2b3b38742fa3e46299f1f1172db1059fb",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:bf4e03809faea451d4fd605737e9aa0ae4d59f9a9bef18dddb31374ae908ca38",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "php-sdk": {
       "title": "PHP SDK",
@@ -2151,8 +2151,8 @@
       "breadcrumb": [
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:add715fb3b7ea258716e93bab99902132d287265dd5a5bc8e4b97704caadd7db",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9191e3c55f43c85373120d4b11adf34801fe7dac2f579de33765907b32ebd8d4",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "preorder": {
       "title": "Предварительный расчет заказа с процессингом",
@@ -2160,8 +2160,8 @@
       "breadcrumb": [
         "Заказы"
       ],
-      "content_hash": "sha256:6c1ba48a7b893746873a04225a7320f8c66d00717c66da48738de3cd80d65d12",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:5e071e300fc5821217149139264f7206de0168f6159d3ae8ff2ff7313ee64485",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "processing-calculate-product-list": {
       "title": "Расчет цен в каталоге и на карточке товара",
@@ -2169,8 +2169,8 @@
       "breadcrumb": [
         "Заказы"
       ],
-      "content_hash": "sha256:35d8bba0ca96140c7cf19a341b34fdb3f01bbe77c84fcbe4c27db7351607aee5",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:09fc58b673006e9df0fd7a6dfe962c6229fbe887e015be68dbcf8a09850375d5",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "processing-offline-order": {
       "title": "Отложенное сохранение заказа (процессинг)",
@@ -2178,8 +2178,8 @@
       "breadcrumb": [
         "Заказы"
       ],
-      "content_hash": "sha256:4c391560b79c1086988ebdc40693da63e45e893e700c52f9cd982560daa9a87c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:dc4b25276cbc3ec19608a4806eeed5d99af4d5054105296c8fe99de8b9374540",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "prodactionjson": {
       "title": "javascript",
@@ -2188,8 +2188,8 @@
         "Номенклатура",
         "Действия с продуктами"
       ],
-      "content_hash": "sha256:a8ecf3f526c4fc804a248b0aa0247a6a774d8a3c51bab88b1ace8edc05ab87f5",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c7a672388f6bba4098c5fc894ced9e640a701cdf7502bd7602d7e3135bbc5f74",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "prodactionxml": {
       "title": "xml",
@@ -2198,8 +2198,8 @@
         "Номенклатура",
         "Действия с продуктами"
       ],
-      "content_hash": "sha256:d3d7d6971e6dc5df019aaf701be66e3ae250d539505311040db9de59f32389d1",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:027f41ff2590416dd564a9dc0b2d6f1b6fdb418995f5fecc3c32132e263c77a2",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "prodimportcsv": {
       "title": "csv",
@@ -2208,8 +2208,8 @@
         "Номенклатура",
         "Импорт продуктов"
       ],
-      "content_hash": "sha256:3a062a03564e5fabd97949f34a141e3a7ea33fddd931f23919306793c8f59fcc",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b86a0f3c5f5e724589eaf6077f8315918043919dce8396b8560dc7139bfaea4c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "prodimportxml": {
       "title": "xml",
@@ -2218,8 +2218,8 @@
         "Номенклатура",
         "Импорт продуктов"
       ],
-      "content_hash": "sha256:dad964353e5feb2215d5ac081b5c31598ba0280fab0b02ba7c37a31946e328c4",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:68ae1cbe9f0ce5a510256095ae532e1a327628a970c77f46af2e8f16410e2d1c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "prodlistactionjson": {
       "title": "javascript",
@@ -2228,8 +2228,8 @@
         "Номенклатура",
         "Действия со списками продуктов"
       ],
-      "content_hash": "sha256:7c046ca4469eab04c199b2386ead210970f39f70a71a730c7eac922ebeeb0790",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c9870d49d87a0eca86f3a704f98dd1ce9cf534f97bae4d3039c53da6418ae41d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "prodlistactionxml": {
       "title": "xml",
@@ -2238,8 +2238,8 @@
         "Номенклатура",
         "Действия со списками продуктов"
       ],
-      "content_hash": "sha256:df90f716d770b5313fc104b14c07a65719600811996173e7e14c3de1b61125f4",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:69363f27a246a506a6a15588e6ccfb7b08bfc0045200673863dda25c27b2bf44",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "product-actions": {
       "title": "Действия с продуктами",
@@ -2247,8 +2247,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:4a6d9054c2eb703cadf9ab9218aa3376631296121a08ce64c89df964ead13162",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c842dacc8d4afc657a687dbd1a87146962380f47d07f601e1051db5f127b06a3",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "product-category-actions": {
       "title": "Действия с категориями",
@@ -2256,8 +2256,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:36730f60a3027406f90fef344663bfeed5277bb6ecd811bd0ef7ccd5d4a65fa1",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d32bbb55ac0436e455c15901ba3aa22ac71bfe1ff192524a041da386eaec2412",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "product-category-import": {
       "title": "Импорт категорий продуктов",
@@ -2265,8 +2265,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:605cac2758e309e58fccb8161fd4591c7d5650ecbc7e1ee3cc7223ac2db2a8a3",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:8682aecefe12cb5332ec838c3afe52d44db3a61f6aa67a1b97cd27bb2e947dc4",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "product-import": {
       "title": "Импорт продуктов",
@@ -2274,8 +2274,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:ad9aca4baa59514efb1655275cd200dc30dea84cc1f7070477b3377692d8e0ba",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:37aa78b69ea735a20653198f463357b19e69a932e932a5611f295d450e782cb6",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "product-list-actions": {
       "title": "Действия со списками продуктов",
@@ -2283,8 +2283,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:82fd5a2edf8a12f9e19e89f477132a59858cef403b9b7364e54c25831b87757e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d92a8e4cfd67819b3ff56a4980b48851f0ba03f5392122fa18a38fdea5c5b4aa",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "push-navigation-expo": {
       "title": "Навигация по клику на push-уведомление в Expo",
@@ -2294,8 +2294,8 @@
         "Expo SDK",
         "Дополнительные настройки"
       ],
-      "content_hash": "sha256:e23f8892a071cc4ea402d15d4dc90bbde953dc4cd3b0ae739a9c031e319c7000",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:38ae834b413000d1f7f43cf0ecdf22e3902451b7c88fd78ff0f0ad7f2f72a78b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "react-native-sdk": {
       "title": "React Native SDK",
@@ -2303,8 +2303,8 @@
       "breadcrumb": [
         "Мобильные приложения"
       ],
-      "content_hash": "sha256:4d35daedf821715fcf3cdbac1d01d1b28de5c70e861f12570a483c9bf0e69928",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:e7fd282a15cd94c703f1bf9bdae06ff9b3771f7fe67faa25649da485b38996bb",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "react-native-sdk-methods": {
       "title": "Методы React Native SDK",
@@ -2313,15 +2313,15 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:7f6dd13cefcebdeebb4646f81257ee13fadc69606bd5a2ed2ae5e36422a18d5c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:920df89119aa14e7a4b33b63376cc27d96086e71689dea07d53518f294f83ec1",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "recommendation": {
       "title": "Рекомендации",
       "source_url": "https://developers.mindbox.ru/docs/recommendation",
       "breadcrumb": [],
-      "content_hash": "sha256:57990250da694bff74d83cbd54b206d1b20c81c03b2e09d6eb27a747b2e6bc8b",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c4730aa35fc559f6ac97492e3c827911a8913d07a0537a1431e6ca6bed78a2cc",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "reconcile-orders-with-report": {
       "title": "Как сверить данные по заказам с отчетом",
@@ -2330,8 +2330,8 @@
         "Данные для аналитики",
         "Как периодически обновлять данные"
       ],
-      "content_hash": "sha256:273eb5aac8a58a1b04656c90c877b8009be62a90a0a4a03fcaba43e668ab043d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:e1e9418bfb65af2a3c4260ec58554aa02b78eec8e7220a741d5895b927c16774",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "redeem-promocode": {
       "title": "Погасить промокод",
@@ -2339,8 +2339,8 @@
       "breadcrumb": [
         "Промокоды и промоакции"
       ],
-      "content_hash": "sha256:8ad4fc3c15c877aad21bc8d5913b24a174a3f50dc1872fafc679e105f925bf2d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f8057c09caa5e5e6ee957c1149e976bb7c8ffd303c6c0e49c8632184431b3d9e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "referral-code-registration": {
       "title": "Реферальная программа",
@@ -2348,8 +2348,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:66841a8437023bec7d1eb80d6648bd6bb97445d532155fec579af03709d0a4c2",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b085b045301f56813bf8243da2a2306cebfbd6c4ad75cad33c43a75b619d624c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "regional-products-import": {
       "title": "Импорт региональных данных продуктов",
@@ -2357,8 +2357,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:db4794a58cb667a978c289b34f11b2d37949dd66bed0955e295780991c6ae694",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:81369686f058da83da1ac81c1061aaaba4c0af4206ba54afc43e09f61474cd45",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "registration-authorization-subscription": {
       "title": "Регистрация, формы подписки, трекинг входа на сайт",
@@ -2366,8 +2366,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:c03a34e0ed2a676a542780a87457b8c8e379866669a4a95604e5c500bb951b3d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:7fbf15c692b43ad062f41305752bff4423bd6994359c8a4b3729e898e2b97052",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "remove-customer-from-segmentation": {
       "title": "Исключение из сегментации",
@@ -2375,8 +2375,8 @@
       "breadcrumb": [
         "Сегментации"
       ],
-      "content_hash": "sha256:9a77aba8b3e0fb63f6b9a4e8a3e99b31c5155e4ef5e3535cb9eb625d3bd43b66",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:4e4a668647970df3f0d9035930514d11837aba1a8d67805508d2f5fb49eaf573",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "replace-card": {
       "title": "Замена дисконтной карты",
@@ -2384,8 +2384,8 @@
       "breadcrumb": [
         "Карты"
       ],
-      "content_hash": "sha256:589a57ba3c884c84dfac5207c6f653842015b30cf2249c28de3ea8c914626f5d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:907dd03d5257de4953289645f2eed4840df6243d2d89992201935ff52a3e6cfc",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "retail-version-23": {
       "title": "Версия розницы 2.3",
@@ -2394,8 +2394,8 @@
         "Стандартные интеграции",
         "Интеграция модуля для 1С:Розница"
       ],
-      "content_hash": "sha256:27bac7d83d6245e9fcaf9e58bdd6898698440fb95566f95843d23fbcdccfc0f8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3da80a9e0bbd7eaf5736295e8fafd845973fd28a8e6dc2b802b5fea6436b4ea8",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "retailorder-import-v3": {
       "title": "Массовый импорт заказов",
@@ -2403,8 +2403,8 @@
       "breadcrumb": [
         "Заказы"
       ],
-      "content_hash": "sha256:0f58f29ec70dd0b544f254affd08590d4a8788cc3b17678079363232787a251f",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:818318735870f51b5d5fad23a149c011aa406b9e0b8e23cc5d1f4a58ccecbc8e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "rich-push-notifications-buttons": {
       "title": "Отображение картинки и кнопки",
@@ -2414,8 +2414,8 @@
         "iOS SDK",
         "Настройка Rich-push уведомлений"
       ],
-      "content_hash": "sha256:3430e1b99acae4417d894287a7e9be28137416c4fea2396754cf9a47c8e82687",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:5205c004c46970ce83a64f9151e6fdb271605f4931980d405c6b0ca4bd134742",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "rich-push-notifications-preview": {
       "title": "Отображение превью картинки",
@@ -2425,8 +2425,8 @@
         "iOS SDK",
         "Настройка Rich-push уведомлений"
       ],
-      "content_hash": "sha256:6d4b331c2b9655b3ae416bc84bb7ca330fa89dfb4b527b1fd7690a07ecb98951",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0df1bf9ea7dc2ebd93331a72d6352815d33057a15083de65f55e9dfbc2c1a59e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "rkeeper-integration": {
       "title": "Интеграция rkeeper",
@@ -2434,8 +2434,8 @@
       "breadcrumb": [
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:29b0de264b4b002017ad8250501201086f7f6b1d5d1f0f668462df37922bfb42",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:48cb80d73d30165bee0dda5058e53f4fe92c951e8b4de918b36ecbb2ba0f2016",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "rn-android-push-notifications-setup": {
       "title": "Android | Настройка пуш-уведомлений",
@@ -2444,8 +2444,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:99d838b7b3ab7d3028182a89bb0f9f28302ede42b1596aca6d3962d7f3f230e8",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:15a6d112b8bbd84dfc186a6c94d01f97342a345ab73054b0fb7b2b7007090d55",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "rn-get-push-keys": {
       "title": "Получение ключей для пуш-уведомлений",
@@ -2454,8 +2454,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:625e30b94c4f4aa8de1462b59504447581f8daa2858d0cb6d6555aed05fb1fc6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:630d7317998b8dcb3374a6618b3b3659b69f6d429599979f736198cc975356fe",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "rn-ios-rich-push-notifications": {
       "title": "iOS | Настройка Rich-push уведомлений",
@@ -2464,8 +2464,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:50bc265b6a9d5e8ceb2d4be6681fc5673d38ba437fc7d222abbd6907d0b4d1ac",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:293c352cf5f95291a0bae2f39920593324568a90afa0574eeb9ce43600b92fbf",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "rustore-get-keys": {
       "title": "Получение RuStore ключей",
@@ -2475,15 +2475,15 @@
         "Android SDK",
         "Получение ключей провайдеров пушей"
       ],
-      "content_hash": "sha256:2237deb2f9d79cb7e253145335de923a91a1dd522b46632fb5b53024926c5d75",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:48196c27816157e058806468f0fcb033c5fb280ba8501abf7c4a0ea82d3cb9f3",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "rustore-push-service": {
       "title": "RuStore Push Service",
       "source_url": "https://developers.mindbox.ru/docs/rustore-push-service",
       "breadcrumb": [],
-      "content_hash": "sha256:7fd616834d3fde493b0b3fb86cde5b43f241c310111fee7dc69e2dab8b5c6521",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:444baf53e6b843875e8008339fd5709c37b81b3e3698be752c6a8ea33936e338",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "rustore-send-push-notifications": {
       "title": "3.3. Отправка push-notifications через RuStore",
@@ -2492,8 +2492,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:c67c8a827ca1b7d180faef0375cf99186e63e9b93987ef9d1d49dbf5e7abb6fc",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:294c12525ff18e2b4534e190bda508ee938100b8a0d13cf7714b1406d4b35d67",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "rustore-send-push-notifications-flutter": {
       "title": "RuStore",
@@ -2503,8 +2503,8 @@
         "Flutter SDK",
         "Android | Настройка пуш-уведомлений"
       ],
-      "content_hash": "sha256:ae548c2a281b4edf5e39000361c2f1733b36a8ae08243b67b390e250505bb692",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2a3fb15de2a06b4de534166d7943ff1fa8d44f92d257dc5f5ae1b236452d9501",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "rustore-send-push-notifications-react-native": {
       "title": "RuStore",
@@ -2514,8 +2514,8 @@
         "React Native SDK",
         "Android | Настройка пуш-уведомлений"
       ],
-      "content_hash": "sha256:3c591eab83d551197e089117bd99b728315ab301d76f97ac39518b9c4d48fb33",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:39b44c77bdce161d243ffad693b0d87147ecd0871784d0cc4d6df73c55a317b8",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sandbox-integration-setup": {
       "title": "Настройка Sandbox окружения",
@@ -2524,8 +2524,8 @@
         "Мобильные приложения",
         "iOS SDK"
       ],
-      "content_hash": "sha256:7cd0faa5adb8df97c844482731dc47c1a56b01f31e751aac85c7b65237695bc5",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d9fa5e19397db05f0e51c4e10e59bf9849a3ea8b837fbb44ab97f602a3d6862a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "save-external-promotion": {
       "title": "Создание и редактирование внешней промоакции",
@@ -2533,8 +2533,8 @@
       "breadcrumb": [
         "Промокоды и промоакции"
       ],
-      "content_hash": "sha256:37193ffc888c13982115ca2178d13dbf646f88e24837ec092a5867b58e053a37",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:caa3b53a6ecccad79cb8e6c045595c450d54e1cb8fa969080d8f162759a0a5f3",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "save-product-regional-info": {
       "title": "Обновление региональных данных продукта",
@@ -2542,8 +2542,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:99c26ea6d2be9b4370c27d839389e9f562b0f05ab5676040f8e926b813b47202",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:e425ee16023b5775be243a24bf764dbec7977b35d59a96d3b36dc14ee01f0404",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "scripts-not-installed": {
       "title": "Скрипты персонализации не установлены",
@@ -2553,8 +2553,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика не работает по тестовой ссылке"
       ],
-      "content_hash": "sha256:e7d1b1ff1856a112c17e9e5cab7ffc7b6630ca402693dd242d1c081463b2d217",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:18722805f919b6ebd73669e9a15cbe4d1929fc1f2803da7fbe926e3109537412",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-android": {
       "title": "Android",
@@ -2563,8 +2563,8 @@
         "Мобильные приложения",
         "Чек-лист проверки интеграции SDK"
       ],
-      "content_hash": "sha256:986a61f7d840caf8ca5b6aece4aa0103e352e742f5762de456f3a90f3adba6f4",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:eb9b77c2c97fee215a9f13f858a298f70d592bebaffdca5c06e80348eda52059",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-app-crashes-after-notifications": {
       "title": "После отправки уведомлений приложение падает",
@@ -2574,8 +2574,8 @@
         "Чек-лист проверки интеграции SDK",
         "Android"
       ],
-      "content_hash": "sha256:c96d985f7ba3a3c14ccdb8257f04f55f569830bd0fabdbc8ac42c8f228ee9b41",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:7a7a81ab8dc2d358f732e1491db56d8282f12992d2a79f12f69c9cee697d722a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-app-started-console-error": {
       "title": "Приложение запустилось, но в консоли ошибка",
@@ -2585,8 +2585,8 @@
         "Чек-лист проверки интеграции SDK",
         "Общее"
       ],
-      "content_hash": "sha256:ab536ead92d377b731782d7bb64d2ae1c8644ed22f0cd4dff56142cfef2044fd",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:7c2f8d100b81d023b14e243fdd6c64c235b638df52d9e1ca743386cf8f039bae",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-build-error": {
       "title": "Приложение не собирается — ошибка сборки",
@@ -2596,8 +2596,8 @@
         "Чек-лист проверки интеграции SDK",
         "IOS"
       ],
-      "content_hash": "sha256:edc6a7b7255e31a717e912e6ffa1d62b3cfb8761e697becd86e122668948fa89",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:33bba892f02afbb6f11a4232dbd5958a40310c3004d27eee025e308c87ec46cf",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-click-called-but-not-saved": {
       "title": "Клик вызывается, но данные не сохраняются в админке",
@@ -2607,8 +2607,8 @@
         "Чек-лист проверки интеграции SDK",
         "IOS"
       ],
-      "content_hash": "sha256:1794cec70807e3b70ca78346e65a9efd9e7531f18f9c064c70d101cca4ca52ac",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0330cbde7c5521078eda8547a0906a8ce53792fe214dbb3d028ecf97ace131ef",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-console-error-when-sending-request": {
       "title": "При отправке запроса через SDK в консоли ошибка",
@@ -2618,8 +2618,8 @@
         "Чек-лист проверки интеграции SDK",
         "Общее"
       ],
-      "content_hash": "sha256:23d7bd7260e6d9338f9e1c8ccff065e2572e24085aa8eb4209493c6e684fb0a5",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:bb87c3c4e20402845ccb6286ed8cb960ec67ca6826a509d8ead1ec1cda13e61a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-contractmismatch": {
       "title": "При отправке push-уведомления статус «ContractMismatch»",
@@ -2629,8 +2629,8 @@
         "Чек-лист проверки интеграции SDK",
         "Android"
       ],
-      "content_hash": "sha256:91ad30a9028a1c4c9cb241964e7d30389f88d6613993fe09a648606108b4ed3c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:156805b1e4fe437ec50b2027f9fa68b5c7a8542c61ecdf63a272d75e3b4627f9",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-contractmismatch-ios": {
       "title": "При отправке push-уведомления статус «ContractMismatch»",
@@ -2640,8 +2640,8 @@
         "Чек-лист проверки интеграции SDK",
         "IOS"
       ],
-      "content_hash": "sha256:4cb89ab0009982fb3a140ad742dbb198de40bd57c7d92dd0f21c3252d0e068ce",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c286915165ad3dbe9fb02ea478c7ec8b1e2b9b03f2cb33fed91172d6bf378169",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-general": {
       "title": "Общее",
@@ -2650,8 +2650,8 @@
         "Мобильные приложения",
         "Чек-лист проверки интеграции SDK"
       ],
-      "content_hash": "sha256:2cab9ff3539ba64e38ef604e932810bdc7e99d012c7df6c08d26af9c37894251",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:46c560bea9838045c23271bb340a175afc65603c599fc0c1b11ec5e7c8bbda79",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-installation-status-not-registered": {
       "title": "У установки статус «приложение не зарегистрировано в системе отправки пушей»",
@@ -2661,8 +2661,8 @@
         "Чек-лист проверки интеграции SDK",
         "IOS"
       ],
-      "content_hash": "sha256:0ab99b17f750abecdc1cf07a3aa18df4825e92cbcb746f7522bb31f5e96596cc",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c6411328a957b25531efd6d7bfd97f34c6a24ca604fb6e5e31ce7c6a37c90307",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-installation-status-not-registered-android": {
       "title": "У установки статус «приложение не зарегистрировано в системе отправки пушей»",
@@ -2672,8 +2672,8 @@
         "Чек-лист проверки интеграции SDK",
         "Android"
       ],
-      "content_hash": "sha256:9337572882a92486b9c579a991a6c08cd1bcfdb11145ce3cf48a0215290ff096",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:59b13edde6e4c9d88b76055f0fe4a30f3d3228d4962d20b7e5772e8b922bea00",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-ios": {
       "title": "IOS",
@@ -2682,8 +2682,8 @@
         "Мобильные приложения",
         "Чек-лист проверки интеграции SDK"
       ],
-      "content_hash": "sha256:976a993306015c51bea397bf5bffce67c940a866df2b5ec7203bea5b269c96a9",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:cbe0a0d5d4d809c62c73943fac5ed89bfef4cbf7909e1b535d5dd444596b712a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-no-push-permission": {
       "title": "У пользователя нет разрешения на push-уведомления",
@@ -2693,8 +2693,8 @@
         "Чек-лист проверки интеграции SDK",
         "IOS"
       ],
-      "content_hash": "sha256:cdac88717dc1308de1b2881029a0f8cdad3505e6ff57c846f7769e09a0118c7c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b8bb184a98ba00c125538d8c5740bdeade357eea250a39eae4c7390ec813038c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-push-buttons-not-working": {
       "title": "В push-уведомлении не отображаются кнопки по нажатию",
@@ -2704,8 +2704,8 @@
         "Чек-лист проверки интеграции SDK",
         "Android"
       ],
-      "content_hash": "sha256:fd6a2f82363312e4975b27c8b6d38c40befa58460baa4a596fc8b60ef8a9912e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:4c1aa0f554c8070e3b7ff3c9fe74fdbbeacd79a66545591bff0abe2b035e84b3",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-push-click-did-not-open-section": {
       "title": "Клик на push-уведомление был, но нужный раздел приложения не открылся",
@@ -2715,8 +2715,8 @@
         "Чек-лист проверки интеграции SDK",
         "Android"
       ],
-      "content_hash": "sha256:d81658b3153d2a1e5abafac3598f2c6c9a91e15ff0c7bfa5eb36ffba986444e4",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:aae68b60e033f2a73241af7cb34a97a847b2564662293d56995784aaa6787eec",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-push-click-not-tracked-in-mindbox": {
       "title": "При клике на push-уведомление информация об этом не отображается в Mindbox",
@@ -2726,8 +2726,8 @@
         "Чек-лист проверки интеграции SDK",
         "IOS"
       ],
-      "content_hash": "sha256:1ab8742d32aa3cf4aef3b136a6790eeb6bba19ef6dadeda22078d9051371731c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b6a69a86ac797c17406e26d36d1140e36c6b6aff4b7501c2c9b3a0e746dbff59",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-push-click-not-tracked-in-mindbox-android": {
       "title": "При клике на push-уведомление информация об этом не отображается в Mindbox",
@@ -2737,8 +2737,8 @@
         "Чек-лист проверки интеграции SDK",
         "Android"
       ],
-      "content_hash": "sha256:44c8a2c885f9e57e8402ba59e4632830464855a691fce9067773148f3b98b315",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:59edcf5aef19b192e42583a300989f08cb743f15e5ceafa094af6e800288a2c7",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-push-icon-wrong-color": {
       "title": "Иконка push-уведомления отображается другим цветом",
@@ -2748,8 +2748,8 @@
         "Чек-лист проверки интеграции SDK",
         "Android"
       ],
-      "content_hash": "sha256:2d74f4473c35f2228d56c2164d54e4dd9fbe2acccd411fb95b71c8c47fee839e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:6c619a4c71d5c48a769f6efe5e3a81840200504ddcf33c06979b731fd3648d17",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-push-missing-text-icon": {
       "title": "Уведомления приходят, но в них не отображаются текст, иконка или вообще ничего",
@@ -2759,8 +2759,8 @@
         "Чек-лист проверки интеграции SDK",
         "Android"
       ],
-      "content_hash": "sha256:9c139778a2c4ee898169b364c2536b1633ce2d17310caf524f363d0a33341121",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:12fbbb3401ad4be1fa15e93f34b28d8c5fc8f06ab6f9937bae12c199569fe532",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-push-no-image": {
       "title": "В push-уведомлении не отображается картинка",
@@ -2770,8 +2770,8 @@
         "Чек-лист проверки интеграции SDK",
         "Android"
       ],
-      "content_hash": "sha256:ef71a85164dec7263a75bdea4273a6f8d26d0bd79db9038e1cbacf92ad505271",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0a5845891e26e5bb5d91f6e7105b9e3ca7f2fc4d2f56a050362ef23a28dcf6c2",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-push-no-large-image": {
       "title": "В push-уведомлении не отображается большая картинка по нажатию",
@@ -2781,8 +2781,8 @@
         "Чек-лист проверки интеграции SDK",
         "IOS"
       ],
-      "content_hash": "sha256:4f391ed37956d1a1c54daec93915d993e3c3cf5557abf11b737c7b9d545a547a",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:01e4c82e2152b124c474d416e48fc1e0d5b232b40b5f4ba9f902bec01e9458fc",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-push-no-large-image-on-click": {
       "title": "В push-уведомлении не отображаются кнопки по нажатию",
@@ -2792,8 +2792,8 @@
         "Чек-лист проверки интеграции SDK",
         "IOS"
       ],
-      "content_hash": "sha256:5e147b2793dcfb8367057e4ffa86a1477997e60c4aeb6f079b3da23c0ebaf9fd",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:6cc2c8548326d0d817c180b8c49ba2e60b2b0a0fa956d0d05e4b836d9b205b92",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-push-no-small-image": {
       "title": "В push-уведомлении не отображается маленькая картинка",
@@ -2803,8 +2803,8 @@
         "Чек-лист проверки интеграции SDK",
         "IOS"
       ],
-      "content_hash": "sha256:c6baccdf133994bcc3098ef14fb8598673e8e849ede7735aedb357c5b37d2289",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:e10bb9a405dd94f8472c94d5307b7d4712b6706a465db8782d9557f3f238128c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-push-not-as-expected": {
       "title": "Push-уведомление отображается не так, как ожидается",
@@ -2814,8 +2814,8 @@
         "Чек-лист проверки интеграции SDK",
         "Android"
       ],
-      "content_hash": "sha256:72d1cbaa94c8cbeb8d5563e7f572bf660e00003cf6287b9464c3426e8736cfbe",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:af1cb8fafc6b17742d4c0a06ec0977290acbcbf3c8e076b8d1c24e227e8d4073",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-sent-but-not-displayed": {
       "title": "При отправке push-уведомления в системе статус «отправлено», но уведомление не отображается",
@@ -2825,8 +2825,8 @@
         "Чек-лист проверки интеграции SDK",
         "Android"
       ],
-      "content_hash": "sha256:fb041c15b9d86cd2aff97b112b8bd8111f192089bcb29a860a363e0935772ebd",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:fc87ba3a36a2d9b14ff538a558df3bbab7f8024a1b51b605ffc5e0a5daaa4ad7",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-user-not-receiving-push": {
       "title": "Пользователь есть в системе, но ему не доходит push-уведомление",
@@ -2836,8 +2836,8 @@
         "Чек-лист проверки интеграции SDK",
         "Общее"
       ],
-      "content_hash": "sha256:b6a4ba928c7f937422b99fa268dd1826d14a20309ce554ece16742065e632325",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b1dd416ba02b5a774cf6197c7815361b4905b70471ef0bf24f86cc394e9941ca",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-wrong-environment-all-tokens-invalid": {
       "title": "Ошибка с текстом «неправильное окружение / Все токены доступа невалидны»",
@@ -2847,8 +2847,8 @@
         "Чек-лист проверки интеграции SDK",
         "IOS"
       ],
-      "content_hash": "sha256:055bcad544106960836633debbd46c8d6dea7983ff97b20a842a7a1c2ae489c5",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c6a5a359f104e7bc176af5c44cd7c8da733f7f0f8a1149dfc310aad6355b122b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-wrong-token": {
       "title": "При отправке push-уведомления ошибка с текстом «wrong token»",
@@ -2858,8 +2858,8 @@
         "Чек-лист проверки интеграции SDK",
         "IOS"
       ],
-      "content_hash": "sha256:f6930a4fc3edae5360b0a891d495e87a1ddc82756b2134b2cbb39dea20e98890",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:77f31f9f030972bb4b46436887613ed43bb2f9bef58c863cd89415ef0bcdbf48",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-checklist-wrong-token-or-invalid-tokens": {
       "title": "При отправке уведомления ошибка с текстом «wrong token» или «все токены доступа некорректны»",
@@ -2869,8 +2869,8 @@
         "Чек-лист проверки интеграции SDK",
         "Android"
       ],
-      "content_hash": "sha256:5ce2ddb8b8e887150c07ec5d5a8ec0b56c17db6429bda1f4b562e7257f24b79e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f6ade9f892d6cb854fc845b65ca47f9a9c357e77f8195de2f5251b697040d5e5",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-initialization-react-native": {
       "title": "Инициализация SDK",
@@ -2879,8 +2879,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:58042063b0026106a5a532f39c7bfd6203f5c6a4c01b457c3e737be789075393",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:a30d50dd0516017fc587ca1caac60d10affb66a0c29861d7dcfbb2c0d8d7b7cc",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-integration-checklist": {
       "title": "Чек-лист проверки интеграции SDK",
@@ -2888,8 +2888,8 @@
       "breadcrumb": [
         "Мобильные приложения"
       ],
-      "content_hash": "sha256:14cecb4cd82f8d65d1be7beb6288972a83b161e1dd619e70e0b5c8dbba23200d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f2c6434a292f572f00f49b4721984de92c00db3fb655ec64de752d891be2012e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sdk-subscribe-customer": {
       "title": "Создание клиента в Mindbox",
@@ -2898,8 +2898,8 @@
         "Мобильные приложения",
         "Справочное"
       ],
-      "content_hash": "sha256:7e5b4174c82383fffa8b542596883aadcc7762bc27a73058fe28cda20646c8fd",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2a1077bf05502481d6705d08067c46a90b24e123d47c9df46b38fe1757617c75",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "secret-code-authentication": {
       "title": "Аутентификация по секретному коду",
@@ -2908,8 +2908,8 @@
         "Клиент",
         "Аутентификация"
       ],
-      "content_hash": "sha256:92313d9d9ca1f8c112160890017cf30fcaeff39b7a5884ce9eb9cf7b1b7d4d68",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2ee406f844ed729aaf3acdccaf6f274c57e5aa10c72f183aa23fc66a7cfb6147",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "segmel-integration": {
       "title": "Интеграция с Segmel",
@@ -2917,8 +2917,8 @@
       "breadcrumb": [
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:77d7420c1ec940dbf832620d8f7b8ff248123b8322338c193e38c0e7ac9cd665",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:83f44e9e00f1dcc489f730eb74ea5821943494627d0f1505a0f1bb8cfb380cf6",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "segment-updated-without-page-reload": {
       "title": "Обновление сегмента в таргетинге механики произошло без перезагрузки страницы",
@@ -2928,8 +2928,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика персонализации отображается, игнорируя условия таргетинга"
       ],
-      "content_hash": "sha256:07072867e8743d5e2309db0ac5480a3811d28dcf8bb75406dabf46d4cc13b70f",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9ea4f95ad1e8b3d834971b5b71554dfa3b61531d3a4b001b49bf36b3861dca8d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "segmentations-reference": {
       "title": "Справочник сегментаций",
@@ -2938,8 +2938,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:5214af60fdce2f08fac4f3a31f94ac917a19707383a0f851081ff08370191fa6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:8b943055f8720a99d1e3b088c82533a48e36ba2f6e6876e3c4c2861b588f51d9",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "segments-reference": {
       "title": "Справочник сегментов",
@@ -2948,8 +2948,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:4b7ee74d2bdf7b93d132a073469c4ceff232d5df665595d3067c5eabf73fae24",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:608424494148490c8e41a06bf6a216f5f9487b76e12fac0014d0bbb4cf39b5b9",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "send-confirmation-code": {
       "title": "Отправка кода подтверждения",
@@ -2957,8 +2957,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:f2ac0b09b8487eccfe25dfd4c28814add899909a7c85db101310ba4c52b07fc6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9d8da7c5c9ffce82f63fa9a889ff26276876d8fc548c1ab8e72788fa66dcddfb",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "set-personal-offers-list": {
       "title": "Установка персональных предложений",
@@ -2966,8 +2966,8 @@
       "breadcrumb": [
         "Промокоды и промоакции"
       ],
-      "content_hash": "sha256:b63622326a0dc391df9256bb3851577b9a143da28082ffb799e3a827fa497aca",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:ff0303124c262d39b58f1f34cf369aea017713d955a97e646dee724682cf123f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "set-retail-integration": {
       "title": "Интеграция Set Retail",
@@ -2975,8 +2975,8 @@
       "breadcrumb": [
         "Стандартные интеграции"
       ],
-      "content_hash": "sha256:dca8e07f4f1fbd2e00a5b39e8120af00427f1576fc404425cd48535138ae517d",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:146f9ebbcb6b42489e3bfd36478f4fd8f8eae39ae5caf79f7b5a996c3ca8a808",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sla-integration": {
       "title": "Интеграция с сервисом SLA",
@@ -2984,8 +2984,8 @@
       "breadcrumb": [
         "Разное"
       ],
-      "content_hash": "sha256:e5374f3afea909b520b362a3837ce3a057c512d252b93e98a7f9a2e95424fcde",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:6e44250c707d910d59e5577b6386736cc1603e120942fa6b8ef1e8a6f2131a66",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "spa-navigation-without-reload": {
       "title": "Сайт работает как SPA (сменяет страницы без перезагрузки)",
@@ -2995,8 +2995,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика персонализации отображается, игнорируя условия таргетинга"
       ],
-      "content_hash": "sha256:fe3ee2d4a4c1c7bad8ed2e1943802162279817c382f1ea5e71587bd7fc00e9d4",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:fe7e85047fb919799a94025ae8f02b49830885d2751af32b6c101e410508eff9",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "static-customer-segments-v3": {
       "title": "Массовый импорт статических сегментаций клиентов",
@@ -3004,8 +3004,8 @@
       "breadcrumb": [
         "Сегментации"
       ],
-      "content_hash": "sha256:12c2b35f69e5a3222820feeb95ee8aeffae1669529fc6df9c5a423d101e88741",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f7ce5cd25d941589c7bbfa0fcee1ab81e5c10a4f3d76cc1b8707e7b103e483a6",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "step-1-create-operations-for-backend": {
       "title": "1. Создание операций для работы с бэкенда",
@@ -3015,8 +3015,8 @@
         "Расширенная интеграция",
         "Бэкенд"
       ],
-      "content_hash": "sha256:780a3b29c4b1bb7b3fec38fa53e0fee35eb40282c18e718ef92166ac333b1296",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0bd84a1552d6be86959ede3139d373c6aba389660f6ae3ee857a968b3aea1598",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "step-1-create-operations-for-frontend": {
       "title": "1. Создание операций для работы с фронтенда",
@@ -3026,8 +3026,8 @@
         "Расширенная интеграция",
         "Фронтенд"
       ],
-      "content_hash": "sha256:c6f069d3d27c5980c83e754871958780c5e6c1d4ccd0df8d8be0e15f2421b0aa",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:a100c8a361f6db1f84799b61c41a7e0ab940a69b1961cd2467fe61e11e57564e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "step-2-call-operations-from-backend-or-external-system": {
       "title": "2. Вызов операций из бэкенда сайта или из сторонней системы",
@@ -3037,8 +3037,8 @@
         "Расширенная интеграция",
         "Бэкенд"
       ],
-      "content_hash": "sha256:8ae6b41efd9ecfbc273b762d92ead2a454b6103f0b56228fff815291b2a6b92c",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3dfd602f99755fd5730f8524c3365439fb18f67636858bb369016c428ebde788",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "step-2-call-operations-with-javascript-sdk": {
       "title": "2. Вызов операций с помощью JavaScript SDK Mindbox",
@@ -3048,8 +3048,8 @@
         "Расширенная интеграция",
         "Фронтенд"
       ],
-      "content_hash": "sha256:e0d6cdfb0a145571f317f5cb664aca9f24405388d72d4b72988ea675d15fa2a7",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:244970e935d5d78e915f2a92b0c0ceaf262c1ef61c195bbc660bfd9851534818",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "step-2-run-mechanics": {
       "title": "2. Создание механики",
@@ -3058,8 +3058,8 @@
         "Персонализация сайта",
         "Базовая интеграция"
       ],
-      "content_hash": "sha256:d6ba6bf8f3252298f5173db7e672d983176cb5c714355ec7ebde11dee391ef4e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:ecafcfd986edfd62227ae09a7563eb4d5e250a28085afc5b749aeefb7c2eb67b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "step-3-call-operations-for-personalization": {
       "title": "3. Вызов операций для работы персонализации",
@@ -3069,8 +3069,8 @@
         "Расширенная интеграция",
         "Бэкенд"
       ],
-      "content_hash": "sha256:90e2ea4e5d10b642015e7ca4692029309d0df870bd536a1cc177627daa769596",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9c834f8d3d1810c39449205fb54da98a185a17d7fe9f6e6d0bb5a43333946dbf",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "step-3-connect-module": {
       "title": "3. Подключение модуля",
@@ -3079,8 +3079,8 @@
         "Персонализация сайта",
         "Базовая интеграция"
       ],
-      "content_hash": "sha256:05df6a95c5f32e1aeea6c14b519804bcac5ba304bbb948a06024b8d0460b37f1",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:1684194f13eebef464834bf5147a1557ca9ef8fe8fa052b4af7a5a1a17efc8e6",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "step-3-website-personalization-settings-at-integration-point": {
       "title": "3. Настройки персонализации сайта в точке интеграции",
@@ -3090,8 +3090,8 @@
         "Расширенная интеграция",
         "Фронтенд"
       ],
-      "content_hash": "sha256:3414aaa3cf10c44a0cb037b8a8649b4c8aedb47650e007e7177afe044812259e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:5af5ef86750548cb7e32867bca04ee4ad632fc414a977019d1e75af9097f6082",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "step-4-verify-basic-integration": {
       "title": "4. Проверка базовой интеграции",
@@ -3100,8 +3100,8 @@
         "Персонализация сайта",
         "Базовая интеграция"
       ],
-      "content_hash": "sha256:4bf31f643c81ad58a0cae41b15f80b16569dad9656a733ce99abdf5cb6c120d2",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:aaf55c3524dd6c9452932d6041de57d048cced2e96aab63b54b26d98a607965f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "step-4-website-personalization-settings-for-backend-integration": {
       "title": "4. Настройки персонализации сайта в точке интеграции при интеграции с бэкенда",
@@ -3111,8 +3111,8 @@
         "Расширенная интеграция",
         "Бэкенд"
       ],
-      "content_hash": "sha256:c02a9b29204a444d40050e13715f7a766e4c8cd6c2f3320ca5461c222353eec2",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:576c80f49d10526777d92afd1fd2bee7c0eb72d0f413edc10e366084bf28f4c4",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview": {
       "title": "Cинхронизация deviceUUID между Android mobile SDK и JS SDK в приложении с WebView",
@@ -3121,8 +3121,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:bf1fd8554a896df135a0a1cde2463790c986db26ab699faf6f67b2dba74a9802",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:dc15a4ca045962516807c47c011888374bfc8a4b8751b899b6af12e609618f6a",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview-flutter": {
       "title": "Cинхронизация deviceUUID между Flutter mobile SDK и JS SDK в приложении с WebView",
@@ -3131,8 +3131,8 @@
         "Мобильные приложения",
         "Flutter SDK"
       ],
-      "content_hash": "sha256:69dbca12916c18e52d9ff5af65eba899aea5a58854731e8857e1d56505f6d718",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:333c327f07ccfc2961216ad2a28f91adc3e7412d9d653f7a345aed971f1ecc64",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "sync-deviceuuid-between-mobile-sdk-and-js-sdk-webview-react-native": {
       "title": "Cинхронизация deviceUUID между React Native mobile SDK и JS SDK в приложении с WebView",
@@ -3141,8 +3141,8 @@
         "Мобильные приложения",
         "React Native SDK"
       ],
-      "content_hash": "sha256:0bba525fc79a85795c1b802d2ff6921d1f959051f01595ca632df14078fb8851",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:5bd22b222878c64f558d976209060bfd9b736e53f2bba5d16e7f2c504b858103",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "tags-in-mailings": {
       "title": "Теги в рассылках",
@@ -3151,8 +3151,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:912679e282fac052301d05bf976cb5b947386470c5568b28a9e879349d4bcfda",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:f87c9e1aba4042ba4e917faba74c04ed43469dcbf9d712c4a83d30226798b8bd",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "tags-reference": {
       "title": "Справочник тегов",
@@ -3161,8 +3161,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:e1968079bde4c99478eb87cd1bb06f0c06f4c1ca8db5ae17198573a2f02517fd",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:a0c845bbd941da6f60c0c54a25dc1b7a2f1c386d2e25b91a38e853a7826a1d98",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "targeting-conditions-conflict": {
       "title": "В таргетинге указаны противоречивые условия",
@@ -3172,8 +3172,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика персонализации включена, но не показывается клиенту"
       ],
-      "content_hash": "sha256:097481595998993b82854b1511a04a1b2ed03614fbde0fb5e4c75bd77102e91f",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:748e2ac8ca54d9696688ec317fc4176ca2272cb0e078193436e2d397b5fce764",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "targeting-uses-product-conditions-but-data-not-sent": {
       "title": "Не передаются данные по странице продукта, категории или продуктам в корзине",
@@ -3183,15 +3183,15 @@
         "Чеклист проверки интеграции персонализации",
         "Механика персонализации включена, но не показывается клиенту"
       ],
-      "content_hash": "sha256:6f16210f25cdd329a9e4413a0e1534ef026d4797db9c97445ba57f69b018daac",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:01b88f9363afc1dfa40ba3f375672905d521988d4c5b275814a347170c9b6710",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "test": {
       "title": "test",
       "source_url": "https://developers.mindbox.ru/docs/test",
       "breadcrumb": [],
-      "content_hash": "sha256:36c4f6c5a826f5de721360134fa4dc800229c0ac26827a038ffee77be9ea0318",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:ff5d53bfe25e1d73cf73345e09ce6f91a64e027006668c40f4018d5db9b07d25",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "ticket-authentication": {
       "title": "Аутентификация по ссылке из рассылки",
@@ -3200,8 +3200,8 @@
         "Клиент",
         "Аутентификация"
       ],
-      "content_hash": "sha256:67950523675ec3001046613c178c31fda8eb1d26e8205acd572cfd5531f23dc3",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:b4e771b07e321a778c62f0c60b731e0e2fb2496679db06685208389fd95295d6",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "time-zone-edit": {
       "title": "Передача часового пояса",
@@ -3209,8 +3209,8 @@
       "breadcrumb": [
         "Клиент"
       ],
-      "content_hash": "sha256:337486eacec3ab1eb1d0573c2d60cf1776f002273e60da7c5b37411360412b01",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:1e2168d2ab92dec5bf68744d629eba3292b0aaaf4011c6fe1b435af2b633db4c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "touchpoints-reference": {
       "title": "Справочник точек контакта",
@@ -3219,8 +3219,8 @@
         "Данные для аналитики",
         "Описание схемы данных"
       ],
-      "content_hash": "sha256:000b69cd0b885fc2fec498dabf8e9447b5f063d3e03e7205bff4822a6b162fd4",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:35970f7989d8f9a93cbbb025a6f39246654a47b4cb279d25b384005eba3b55be",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "tracker-installation": {
       "title": "1. Установка трекера",
@@ -3229,8 +3229,8 @@
         "Персонализация сайта",
         "Базовая интеграция"
       ],
-      "content_hash": "sha256:df0ea970a82a786b84b04476329559e80c8a49aa21f0b9dee9588969c12edb9a",
-      "fetched_at": "2026-05-04T14:26:15Z",
+      "content_hash": "sha256:a57779c4e226ad058ba9816ca08a257f819ae54876570b5c25983b54c548c6ee",
+      "fetched_at": "2026-05-13T11:53:23Z",
       "deprecation_hint": [
         "устаревш"
       ]
@@ -3243,8 +3243,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика не работает по тестовой ссылке"
       ],
-      "content_hash": "sha256:1fde98e05a4ebba72ee97c262ddf14ccb15dc672a58505dbe76f9a9652f6888e",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:458823938b3f3aba2aed00e0cdd1828eea9e5868efcc96c2a1ef41372150685e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "tracker-not-installed": {
       "title": "Не установлен трекер Mindbox",
@@ -3254,8 +3254,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика не работает по тестовой ссылке"
       ],
-      "content_hash": "sha256:5826664fd6932fdbd2bc3c1c0051b82dbb945662c381505312b62c8b51f7ede0",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:67ad483e2274f3cb44d0eee6a311a79bd3f2033422fa9746f0d2541945bce6b8",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "tranletterxml": {
       "title": "xml",
@@ -3264,8 +3264,8 @@
         "Рассылки",
         "Отправка рассылок по API"
       ],
-      "content_hash": "sha256:e862a0d55e6e009e66942db3049ba3e69dc01283c313557e0d4e1b1df72c579a",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:110c0bb3f9802e14efc7a7ebe95f14a777a2b6ddec9f3432133703de7f20c515",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "unbind-discount-card": {
       "title": "Открепление дисконтной карты",
@@ -3273,8 +3273,8 @@
       "breadcrumb": [
         "Карты"
       ],
-      "content_hash": "sha256:8adbe7f8070f2961ab7cccdfbe37b630d0213a32b6be563c1feed3229efa57a3",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:cbbc41cdaf7c8b83f9ff71da5cce2c25d229a001977d331cdadc15a07b74b9e0",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "universal-links": {
       "title": "Универсальные ссылки",
@@ -3282,8 +3282,8 @@
       "breadcrumb": [
         "Мобильные приложения"
       ],
-      "content_hash": "sha256:62cade25faed0691316bcccb915b4aabf704f0aea5de30c86984970cd096ca8f",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:a5180b3345a873dcd2041d056d245f3962d5bf96ad24db21c8eb7682c209d46d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "update-customer-bonus-account": {
       "title": "Изменение бонусного счета клиента",
@@ -3291,8 +3291,8 @@
       "breadcrumb": [
         "Бонусный счет"
       ],
-      "content_hash": "sha256:c60037e973a99c3781824e338095cb7cce7f69f5e37f6d394fde15b3f5147eca",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:8d28a0bff9b4cff94087db1d5c3dcaebdd07fe3b244faceb6c9bc4b497e66a51",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "update-order": {
       "title": "Изменение заказа",
@@ -3300,8 +3300,8 @@
       "breadcrumb": [
         "Заказы"
       ],
-      "content_hash": "sha256:066482a1a29d34251b8a54e8e709bee37fff35f961a285aeeb9a6c0b601c1220",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:fc12fa025499abf3bffec7562a2c57f6c170c5014c3318ca59fd3dc07654ce89",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "update-order-line-status": {
       "title": "Изменение статуса позиции заказа",
@@ -3309,8 +3309,8 @@
       "breadcrumb": [
         "Заказы"
       ],
-      "content_hash": "sha256:9521e057407e0ebb6d95fb40ce116407f6dd1839dfd9390e3fe1f29eb76239d5",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:1b71160b017619db7adadfc888dd96b94493ad65443e0b9f4944281ad59da4c1",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "update-product": {
       "title": "Обновление информации о продукте",
@@ -3318,8 +3318,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:88faa830980536c5a2f4936241082540d76420202839d5f717077a941af16a26",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:12d37ef92d27093d8b7641bdae64e622bf4e619134751b2e9378d5b67895a23c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "update-product-category": {
       "title": "Обновление информации о категории",
@@ -3327,8 +3327,8 @@
       "breadcrumb": [
         "Номенклатура"
       ],
-      "content_hash": "sha256:1df1faf1cda77db5a4e10f99c3337e9a2eb932913e680a71d93d862e339e6ed5",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:6a14643d5775f1d52f411c8c5b8c4250fe2d2bdb2ab20fa06e62232d7a4e6e71",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "upload-attachments-for-emails": {
       "title": "Загрузка вложений для использования в письмах",
@@ -3336,15 +3336,15 @@
       "breadcrumb": [
         "Рассылки"
       ],
-      "content_hash": "sha256:66cf67898793548d109a113fcd0729fd50075891192bac22b6a105b8d6dc0261",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:0bd28bf98ca3033a33bb2f6776899b9b14a1b0597c6e55513127dd06af7e7c53",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "usercab": {
       "title": "Личный кабинет",
       "source_url": "https://developers.mindbox.ru/docs/usercab",
       "breadcrumb": [],
-      "content_hash": "sha256:a786d24bc1821c30379bd1b8bd090ac9867b9b76bbe56e673c193880d7469747",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:2bde0cf61c28b39847d6da7614aac9e4eecc0356769bfe4ae1f35445e59f646e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "userredjson": {
       "title": "javascript",
@@ -3353,8 +3353,8 @@
         "Клиент",
         "Редактирование данных клиента"
       ],
-      "content_hash": "sha256:3b607ac887f054494c4d92765aad0636fd6105b93a5c9d24f904731d1a6e9558",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:9f1fe2e4b17fbc96299ae2d64b22aace18fbddee3ad7919fcc8501beb98735ca",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "userredjson-1": {
       "title": "json",
@@ -3363,8 +3363,8 @@
         "Клиент",
         "Редактирование данных клиента"
       ],
-      "content_hash": "sha256:48121d48820bcc869350aae34644168055a06574a74ba9b799f53d556c05f1a2",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:328a37b139d4c6aa8a0d4c6e3a986cf78497df08553156476a8d37b4549e9846",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "userredxml": {
       "title": "xml",
@@ -3373,8 +3373,8 @@
         "Клиент",
         "Редактирование данных клиента"
       ],
-      "content_hash": "sha256:029a2e2a700e7ba2287ee155df6135a62ed383a95d05b1888ee04b661c3369df",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:33797d556bceb0ebe413a1cc742402f6ae7b5e04c04796b583f3a186c9b06835",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "userregjson": {
       "title": "javascript",
@@ -3383,8 +3383,8 @@
         "Клиент",
         "Регистрация, формы подписки, трекинг входа на сайт"
       ],
-      "content_hash": "sha256:4c61ce3b49dbb35a6160e24f5cd2a15410ffbb393baeaccffefed108dba36130",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3100198e22d77dd64316a4d07533c9b1e082f82ce44773d29cf6a936b32b2d02",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "userregxml": {
       "title": "xml",
@@ -3393,8 +3393,8 @@
         "Клиент",
         "Регистрация, формы подписки, трекинг входа на сайт"
       ],
-      "content_hash": "sha256:c3e2fa5ca3f7e1f675bc25af70e5e3668ffd804bb921547527a63dac3702ed87",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:1a05510db6092f6db419030fadbb9589a8ad5063a8c493cb6e56104d52cc8790",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "v1-v2-android-sdk": {
       "title": "Переход с V1 на V2 Android SDK",
@@ -3403,8 +3403,8 @@
         "Мобильные приложения",
         "Android SDK"
       ],
-      "content_hash": "sha256:a003f76adefb9a58ed1e00ebcf4a9f05824095f4d6879653c2e80b60d2282f56",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c4ac467584b6527481db2e70881641dadb7eb545dda0cea10004a4f625c372c8",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "v3": {
       "title": "V3 API",
@@ -3412,8 +3412,8 @@
       "breadcrumb": [
         "Общее"
       ],
-      "content_hash": "sha256:e84c355e36a440c72a140e090f9b01237f8d5a12864eb6714151ade213d787c6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:64774f0158ad55771e78ec5aa0848be58afa6f91e3f6102ee7ff7857748bb975",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "verify-advanced-integration": {
       "title": "Проверка расширенной интеграции",
@@ -3422,8 +3422,8 @@
         "Персонализация сайта",
         "Расширенная интеграция"
       ],
-      "content_hash": "sha256:efc5c752f1a57615e93a5c13d94ea893344450afafb1af0fbfa0b127ae59dbc6",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:32de15ee97ff012ba1e8075cd9e1f9c86c4770b45eb94f33f281768ec22089dc",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "website-authorization-ticket": {
       "title": "Тикет для авторизации на сайте",
@@ -3431,8 +3431,8 @@
       "breadcrumb": [
         "Общее"
       ],
-      "content_hash": "sha256:e4d6e61e3b1917d52d6a273d047792fc0da3e8936e935eeba368fe83f1b29c12",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:6c9ee5eb2b032ffd946429a5d8c6035d4f5e40d9003b5cc3daa359915be412a7",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "website-has-redirects": {
       "title": "На сайте настроена переадресация",
@@ -3442,8 +3442,8 @@
         "Чеклист проверки интеграции персонализации",
         "Механика не работает по тестовой ссылке"
       ],
-      "content_hash": "sha256:38fda0fc9a7b82835ff3909c1a041eae20f4e78413919d086295f634d98661b9",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:7b6aa5e1140995985b12b991bc8fa4f3e9088e74a66c21681ef12614f88fd304",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "website-personalization": {
       "title": "Общая информация",
@@ -3451,8 +3451,8 @@
       "breadcrumb": [
         "Персонализация сайта"
       ],
-      "content_hash": "sha256:9e34342129f36cfacd57760e7bc5d93709cbd81ab7ded91ae74e31ffa3aa60b5",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:85a7c9dea7404e004ed3e32ddf5994c2d1e58e4693e2ac1a69985b64463b67f8",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "website-personalization-advanced-integration": {
       "title": "Расширенная интеграция",
@@ -3460,8 +3460,8 @@
       "breadcrumb": [
         "Персонализация сайта"
       ],
-      "content_hash": "sha256:3041e0736d7feeb3bff8b76168d5d618e3c8529bbe7e6604e99fd5ca7c0a8760",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:a091e321f543f4d116e7b5ce50d629ba4ecd3d626b2a4b2bdddbc2bd5cf7636d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "website-personalization-backend": {
       "title": "Передача данных с бэкенда",
@@ -3470,8 +3470,8 @@
         "Персонализация сайта",
         "Расширенная интеграция"
       ],
-      "content_hash": "sha256:df25e7febdfe0fcf8eabc946cf470e27e9568a2f65a7ef26b2fcd6bf2d8cc096",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:35470280f2cbd676dd084334c2717b48d6b25c20bb5cc75adec9cd7c8ce8692f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "website-personalization-basic-integration": {
       "title": "Базовая интеграция",
@@ -3479,8 +3479,8 @@
       "breadcrumb": [
         "Персонализация сайта"
       ],
-      "content_hash": "sha256:80c8e86052cee04a7e50825b4732e7c056d4c7f1c1d5d0318e94f0a23d5767cd",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:7e729f0607259d8e3e2c1907a509e33a420a768e03630e37df7fedd2db83300d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "website-personalization-frontend": {
       "title": "Передача данных с фронтенда",
@@ -3489,8 +3489,8 @@
         "Персонализация сайта",
         "Расширенная интеграция"
       ],
-      "content_hash": "sha256:e0208ca76dc9a30b4018a124e63097e8148b7989361a4a7036523bfa09bc1200",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:3a4a71223483b55c8da64ffa9dcea5a1dacd22d74fa27872859db549875854fb",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "website-recommendation-widgets-installation": {
       "title": "Особенности установки виджетов рекомендаций на сайте",
@@ -3498,8 +3498,8 @@
       "breadcrumb": [
         "Персонализация сайта"
       ],
-      "content_hash": "sha256:39b587679a71c5d7e384864c4b603142263f21a05eb9e2a4dfa2afe66c43bd48",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:4fd877c5985e843d8d3d12677d09d492bd00b1fb8480dcccf2aed4571dd69a8f",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "widget-not-displayed-for-category": {
       "title": "Не отображается виджет с рекомендациями к категории",
@@ -3509,8 +3509,8 @@
         "Чеклист проверки интеграции персонализации",
         "Виджет рекомендаций не работает по тестовой ссылке"
       ],
-      "content_hash": "sha256:347a6f6d13081083bd9e11fd261c4e16608591e6e3700d2049cb38791b780fce",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:4e6ed3f958a70da8dda6105f54531cb826719310c4cbfe994cbaece607dc1e37",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "widget-not-displayed-for-product": {
       "title": "Не отображается виджет с рекомендациями к продукту",
@@ -3520,8 +3520,8 @@
         "Чеклист проверки интеграции персонализации",
         "Виджет рекомендаций не работает по тестовой ссылке"
       ],
-      "content_hash": "sha256:5ab44576734bdbdcd8ec123968e7422a9a1c5ddd1ab23ed27eff13d680e7fec1",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:742c39fdeccf9eea3834542633d903633485a29fed9fba254e07065a4c77eb7c",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "widget-not-working-test-link": {
       "title": "Виджет рекомендаций не работает по тестовой ссылке",
@@ -3530,8 +3530,8 @@
         "Персонализация сайта",
         "Чеклист проверки интеграции персонализации"
       ],
-      "content_hash": "sha256:5905bdb672ac6cc4c3540e34272c70728d1f7c5b1a31bf1b5f7eee42d54d677a",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:1b16a718ac7cb39b4e5f6ba9c71572533816a850d8b805f82080ac6bf793b2ec",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "widget-placement-with-advanced-integration": {
       "title": "Размещения виджета с реко по продукту или категории с расширенной интеграцией",
@@ -3540,8 +3540,8 @@
         "Персонализация сайта",
         "Особенности установки виджетов рекомендаций на сайте"
       ],
-      "content_hash": "sha256:c712ae5c9ff03c5f4c0ca41330e4cf281d9a1f082d399576886a01f80a6e01ac",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:c87a7378b47083c42e4bc45cd6d6dc60747a6d068755c623147ccc5c3b7c7d4b",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "widget-placement-without-advanced-integration": {
       "title": "Размещения виджета с реко по продукту или категории без расширенной интеграции",
@@ -3550,36 +3550,36 @@
         "Персонализация сайта",
         "Особенности установки виджетов рекомендаций на сайте"
       ],
-      "content_hash": "sha256:1e3586ae1f4b3ede42a00d36cec6b6adc1f98ef57312d3cd795ee10e1e036265",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:011d53649bab09104a5530219d85df9315b6818132dd21f533a04880f0f87e1e",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "мобильные-пуши-sdk": {
       "title": "Мобильные пуши - SDK",
       "source_url": "https://developers.mindbox.ru/docs/мобильные-пуши-sdk",
       "breadcrumb": [],
-      "content_hash": "sha256:4ba3163de0db63f2c16d7931af3d3328250ffff0e824d8cd3c559e93e627578a",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:40749f539b2438fce371b3ead548d067154da3247d083fa45e53358e1f467dca",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "мультирегиональные-проекты": {
       "title": "Мультирегиональные проекты",
       "source_url": "https://developers.mindbox.ru/docs/мультирегиональные-проекты",
       "breadcrumb": [],
-      "content_hash": "sha256:ea45976796a7df0b607e95a9f0cdec1609520f597d21c708a7b83d7a910b4dc4",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:d6edf4e18cc3ef486fb973a06ef68b5211bbbd6c2a4cfe35b940085fbfa5c974",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "призовые-механики": {
       "title": "Призовые механики",
       "source_url": "https://developers.mindbox.ru/docs/призовые-механики",
       "breadcrumb": [],
-      "content_hash": "sha256:c32da6f14d011151bca416d23bb2262465467237fee2b134e7976af3388666df",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:86ddd44edbbd2128fddef24d6c45c3c4a08aa6e149b9a0cdea0528364f0de8c0",
+      "fetched_at": "2026-05-13T11:53:23Z"
     },
     "стандартные-интеграции-1": {
       "title": "Стандартные интеграции",
       "source_url": "https://developers.mindbox.ru/docs/стандартные-интеграции-1",
       "breadcrumb": [],
-      "content_hash": "sha256:b511ae8e806bd52218374e7049ae8ad1a7634b9f7744c7d8289baccbab543b47",
-      "fetched_at": "2026-05-04T14:26:15Z"
+      "content_hash": "sha256:7fbf8e33d4c7f04bb23278b92ab2ea2553c9ac2f471eb494859cedda62b2022d",
+      "fetched_at": "2026-05-13T11:53:23Z"
     }
   }
 }

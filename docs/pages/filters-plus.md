@@ -6,8 +6,8 @@ vcs_path: "filters-plus.md"
 toc_path:
   - Фильтры
   - Начало работы
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:06170686ed3629db4f5722c6b7bfd6e2e222e08b8eb98af2db9b210b6f983084"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:8ab0c4bff890a1f9f253bc5c4358b71e386db77396041ca9a889c9c112e9ccc7"
 ---
 
 # Полезные возможности фильтров

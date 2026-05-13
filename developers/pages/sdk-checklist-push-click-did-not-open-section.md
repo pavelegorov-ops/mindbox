@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - Android
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:d81658b3153d2a1e5abafac3598f2c6c9a91e15ff0c7bfa5eb36ffba986444e4"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:aae68b60e033f2a73241af7cb34a97a847b2564662293d56995784aaa6787eec"
 ---
 
 # Клик на push-уведомление был, но нужный раздел приложения не открылся

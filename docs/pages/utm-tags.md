@@ -6,8 +6,8 @@ vcs_path: "utm-tags.md"
 toc_path:
   - Рассылки
   - Общие настройки рассылок
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:54c60f7112ef0b31c9c99813d579502e8d065c2d6a89ec1e8cb155b4a2c19d87"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:466164e0f81492ed6c73999f3e72cf6622003fdcbc3bff5a80d2c6aa51aa1b7c"
 ---
 
 # Как настроить UTM-метки в рассылках

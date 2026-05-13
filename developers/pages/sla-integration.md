@@ -4,8 +4,8 @@ slug: "sla-integration"
 source_url: "https://developers.mindbox.ru/docs/sla-integration"
 breadcrumb:
   - Разное
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e5374f3afea909b520b362a3837ce3a057c512d252b93e98a7f9a2e95424fcde"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:6e44250c707d910d59e5577b6386736cc1603e120942fa6b8ef1e8a6f2131a66"
 ---
 
 # Интеграция с сервисом SLA

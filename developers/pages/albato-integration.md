@@ -4,8 +4,8 @@ slug: "albato-integration"
 source_url: "https://developers.mindbox.ru/docs/albato-integration"
 breadcrumb:
   - Стандартные интеграции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:ca6811943aad4a62aead3ba02386193e12d2739c278eb8e5184e3f41767b2e62"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:1f1fed1dcd310f71ac0f2bd16e9e0167f32b9030f2e38979cab6632a107be14b"
 ---
 
 # Интеграция через Albato

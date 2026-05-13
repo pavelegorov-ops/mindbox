@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/prodlistactionxml"
 breadcrumb:
   - Номенклатура
   - Действия со списками продуктов
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:df90f716d770b5313fc104b14c07a65719600811996173e7e14c3de1b61125f4"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:69363f27a246a506a6a15588e6ccfb7b08bfc0045200673863dda25c27b2bf44"
 ---
 
 # xml

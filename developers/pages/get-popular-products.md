@@ -4,8 +4,8 @@ slug: "get-popular-products"
 source_url: "https://developers.mindbox.ru/docs/get-popular-products"
 breadcrumb:
   - Рекомендации
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:da72bcf1d37a6b5367f8c949f3456cdabc89e519e75a68a2cd367cc608e7a8ea"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:1c197b9fddb7e38c12e5fa996997bd15197569eaf53f3693025464cc04144343"
 ---
 
 # Получение списка рекомендаций

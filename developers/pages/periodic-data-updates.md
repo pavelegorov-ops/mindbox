@@ -4,8 +4,8 @@ slug: "periodic-data-updates"
 source_url: "https://developers.mindbox.ru/docs/periodic-data-updates"
 breadcrumb:
   - Данные для аналитики
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:d4ce3df08e7b3ac20f55508d0b391f5df6fc70b97688c9e1cdc3ac9518ca2aef"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:4dbb73663eac4239b8012d055cc7aaac0d770a9d200ba6afdf47fcaf8080b017"
 ---
 
 # Как периодически обновлять данные

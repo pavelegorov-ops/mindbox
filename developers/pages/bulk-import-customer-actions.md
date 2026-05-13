@@ -4,8 +4,8 @@ slug: "bulk-import-customer-actions"
 source_url: "https://developers.mindbox.ru/docs/bulk-import-customer-actions"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:55fd7dcb63abb3d74e46a751d93fcfc12f1cef85bbd53fdd11ba4e125cd62967"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:b625732e02b98ea3e8884266639c7e90acd39ec69a4ecd4242711eb09597a5a8"
 ---
 
 # Массовый импорт действий клиентов

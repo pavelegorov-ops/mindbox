@@ -6,8 +6,8 @@ vcs_path: "iiko-integration.md"
 toc_path:
   - Операции и интеграция
   - Стандартные интеграции
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:cc335d37a2da876accf4ec876b061cb783d8af5096458bda49ee54e85ed9e367"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:90ce79dcb6a394a72de6883fd37a0ea3dd9b5b8d7e02bacf7ab3be5b5939eb54"
 ---
 
 # Интеграция iiko

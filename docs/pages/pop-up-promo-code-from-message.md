@@ -7,8 +7,8 @@ toc_path:
   - Персонализация
   - Персонализация сайта
   - Дополнительные настройки
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:c26e2420d7e690e37b9c8e26935ca6ca2db9c5abfdbaa81b01d99522525f0d96"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:d37936fd3b8108ec3706aafb5d20c27a52968c995a7eb528cddf1f10ad5b06ce"
 ---
 
 # Как вывести в попапе промокод из рассылки

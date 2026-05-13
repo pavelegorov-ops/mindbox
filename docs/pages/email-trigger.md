@@ -6,8 +6,8 @@ vcs_path: "email-trigger.md"
 toc_path:
   - Рассылки
   - "Email-рассылки"
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:0f4e98c1ac5e3628c49442272b56915f954681367136bc6af13937066487c561"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:29340ecf69b6cb5bcfa78421b42ca34e3b14b98078ff3ee1415cb8e18bbd90d2"
 ---
 
 # Как создать автоматическую email-рассылку

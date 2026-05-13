@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/get-customer-data-json"
 breadcrumb:
   - Клиент
   - Получение данных клиента
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e1270768611fa2a79196aa2f10583b7db9c9cccd4e10e7fdb01aee329b224d73"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:a9bd002d6379d1978391162dad196fc283a9c4f7c63e01083386fbdc17250f01"
 ---
 
 # json

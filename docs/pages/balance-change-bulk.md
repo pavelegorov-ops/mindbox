@@ -6,8 +6,8 @@ vcs_path: "balance-change-bulk.md"
 toc_path:
   - Лояльность и акции
   - Баланс и баллы
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:3b932c94a636d10faf5667540fa82aeff0b55aded3c11b18df43175ea2d262f3"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:2f70ae740ecc32d3f5630ec196a5faea75cbde3e3ba02ded9f3077487374c30c"
 ---
 
 # Как изменить баланс клиентов по файлу

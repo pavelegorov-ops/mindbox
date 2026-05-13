@@ -4,8 +4,8 @@ slug: "get-customer-bonus-balance-history"
 source_url: "https://developers.mindbox.ru/docs/get-customer-bonus-balance-history"
 breadcrumb:
   - Бонусный счет
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:3d3c57caa99fe767ef43ade8f17fd16ad247b03a9c38252dfff165de2540d471"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d7cbb903c7af2a41bc61e27a7b4191a3b1eb6683331cafa5ab6f1505fb5cd367"
 ---
 
 # Получение истории изменений баланса клиента

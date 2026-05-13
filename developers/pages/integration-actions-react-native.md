@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/integration-actions-react-native
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:295283c1f054f9cae81298b60f2a1f988556746939bfe5eb95d2b5896c2b27b8"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:8527810e0d3c056276ee472223acfa1f162a672af9cf8963a6a19cf2deed1d20"
 ---
 
 # Интеграция действий в приложении

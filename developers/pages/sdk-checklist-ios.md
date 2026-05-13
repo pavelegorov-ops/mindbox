@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/sdk-checklist-ios"
 breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:976a993306015c51bea397bf5bffce67c940a866df2b5ec7203bea5b269c96a9"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:cbe0a0d5d4d809c62c73943fac5ed89bfef4cbf7909e1b535d5dd444596b712a"
 ---
 
 # IOS

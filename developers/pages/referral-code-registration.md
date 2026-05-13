@@ -4,8 +4,8 @@ slug: "referral-code-registration"
 source_url: "https://developers.mindbox.ru/docs/referral-code-registration"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:66841a8437023bec7d1eb80d6648bd6bb97445d532155fec579af03709d0a4c2"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:b085b045301f56813bf8243da2a2306cebfbd6c4ad75cad33c43a75b619d624c"
 ---
 
 # Реферальная программа

@@ -4,8 +4,8 @@ slug: "chat-bots-methods"
 source_url: "https://developers.mindbox.ru/docs/chat-bots-methods"
 breadcrumb:
   - "Чат-боты"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:4e9aba7768efce1be0676e07c959ca2c173d43e698bca2438825e7f5a560b749"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:3b06d63bea1d7b71729abc48ea221dddeaffa52ec283be33d9dd33efd1df57a3"
 ---
 
 # Методы для интеграции чат-ботов с Fasttrack

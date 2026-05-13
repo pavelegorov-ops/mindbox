@@ -4,8 +4,8 @@ slug: "processing-calculate-product-list"
 source_url: "https://developers.mindbox.ru/docs/processing-calculate-product-list"
 breadcrumb:
   - Заказы
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:35d8bba0ca96140c7cf19a341b34fdb3f01bbe77c84fcbe4c27db7351607aee5"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:09fc58b673006e9df0fd7a6dfe962c6229fbe887e015be68dbcf8a09850375d5"
 ---
 
 # Расчет цен в каталоге и на карточке товара

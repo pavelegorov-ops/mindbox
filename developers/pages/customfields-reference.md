@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/customfields-reference"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:c7134be59bd973cb16e2251eba101ddd3c1094501ca5926a426cd74f1f33d870"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f2b47a14dc2225e34fa77d05e042a4037506063a1aefa3746c2916be548dd15c"
 ---
 
 # Справочник дополнительных полей

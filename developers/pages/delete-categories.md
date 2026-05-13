@@ -4,8 +4,8 @@ slug: "delete-categories"
 source_url: "https://developers.mindbox.ru/docs/delete-categories"
 breadcrumb:
   - Номенклатура
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:7405ebfcc752bb470e265a289317f29b427424c243766596080d94e5740a576b"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c89f79f70eea959431ca59d82aed1994e02ae63b6f273d6bc8fe998508964301"
 ---
 
 # Удаление категорий

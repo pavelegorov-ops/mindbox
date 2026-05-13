@@ -3,8 +3,8 @@ title: Лояльность на кассе (v2.1)
 slug: loyaloffline
 source_url: "https://developers.mindbox.ru/docs/loyaloffline"
 breadcrumb: []
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:91d4d24333ed1a87d2fdd88b6724d5e732a676fa6ea923207d9bed7a0b31838d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d203d8ab9883b288572a672f699da21f3d2df1b15f0f48c645f57a94e32a365b"
 ---
 
 # Лояльность на кассе (v2.1)

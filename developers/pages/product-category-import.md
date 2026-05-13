@@ -4,8 +4,8 @@ slug: "product-category-import"
 source_url: "https://developers.mindbox.ru/docs/product-category-import"
 breadcrumb:
   - Номенклатура
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:605cac2758e309e58fccb8161fd4591c7d5650ecbc7e1ee3cc7223ac2db2a8a3"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:8682aecefe12cb5332ec838c3afe52d44db3a61f6aa67a1b97cd27bb2e947dc4"
 ---
 
 # Импорт категорий продуктов

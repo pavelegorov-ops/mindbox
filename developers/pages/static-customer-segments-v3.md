@@ -4,8 +4,8 @@ slug: "static-customer-segments-v3"
 source_url: "https://developers.mindbox.ru/docs/static-customer-segments-v3"
 breadcrumb:
   - Сегментации
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:12c2b35f69e5a3222820feeb95ee8aeffae1669529fc6df9c5a423d101e88741"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f7ce5cd25d941589c7bbfa0fcee1ab81e5c10a4f3d76cc1b8707e7b103e483a6"
 ---
 
 # Массовый импорт статических сегментаций клиентов

@@ -7,8 +7,8 @@ toc_path:
   - Рассылки
   - "Email-рассылки"
   - Дополнительные возможности рассылок
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:eb341cff164345d8e8e11b0cc41d81d74dbb04f2b24e61df69a21f10488d2465"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:91c937a7b513dff4b09799be17f4c5a947aa3a11bd564b4142dce834361c1020"
 ---
 
 # Как настроить NPS-опрос

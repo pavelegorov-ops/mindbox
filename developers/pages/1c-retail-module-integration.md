@@ -4,8 +4,8 @@ slug: "1c-retail-module-integration"
 source_url: "https://developers.mindbox.ru/docs/1c-retail-module-integration"
 breadcrumb:
   - Стандартные интеграции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:48ad84fc027f601f110fd6a4c0749babe8d9bbfc2fd3b163f616b2bfb4cb87ef"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9fdb714853740c1aeb0ebe0a1107d4715d6219c1196afe1d070dcd914be49ccd"
 ---
 
 # Интеграция модуля для 1С:Розница

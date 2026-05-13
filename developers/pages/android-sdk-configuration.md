@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/android-sdk-configuration"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:eb10db5a38bb135e4dc21ef9f1b1da416728a097f9cd28ccd07d9cde2847c45c"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:536c7d16b86c1cb4c613cf3450c7dfa31301193a0927e436ffc30c791ea38b58"
 ---
 
 # Поля конфигурации Android SDK

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/widget-not-working-test-link"
 breadcrumb:
   - Персонализация сайта
   - Чеклист проверки интеграции персонализации
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:5905bdb672ac6cc4c3540e34272c70728d1f7c5b1a31bf1b5f7eee42d54d677a"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:1b16a718ac7cb39b4e5f6ba9c71572533816a850d8b805f82080ac6bf793b2ec"
 ---
 
 # Виджет рекомендаций не работает по тестовой ссылке

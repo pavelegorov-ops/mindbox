@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/website-personalization-frontend
 breadcrumb:
   - Персонализация сайта
   - Расширенная интеграция
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e0208ca76dc9a30b4018a124e63097e8148b7989361a4a7036523bfa09bc1200"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:3a4a71223483b55c8da64ffa9dcea5a1dacd22d74fa27872859db549875854fb"
 ---
 
 # Передача данных с фронтенда

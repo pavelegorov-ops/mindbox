@@ -3,8 +3,8 @@ title: "[iOS] Быстрая настройка пушей"
 slug: "ios-push-notifications-setup"
 source_url: "https://developers.mindbox.ru/docs/ios-push-notifications-setup"
 breadcrumb: []
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:9417b96e4b0976d39864ed925acd89e682d39c8a25113d7f7e18fa44b890ca04"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:6c6598c57a697d824780a000f2fd683e2139898a534bc3d691278ba9b56acaa5"
 ---
 
 # [iOS] Быстрая настройка пушей

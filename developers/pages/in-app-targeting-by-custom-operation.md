@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/in-app-targeting-by-custom-opera
 breadcrumb:
   - Мобильные приложения
   - "In-App"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:d26613554802dd562716bc2368a872622df68c6d7aff9ef255bc17b2192b9425"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:27e06a42380dddea8b7868ce7fa9b21d66d5d7dba6a380dec4568f0e7fed1791"
 ---
 
 # Настройка операций в приложении для таргетинга in-app на операцию

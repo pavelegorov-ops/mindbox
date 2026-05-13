@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/external-ids-change-history"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:f013a59bb6cc472a8fce44ca2f1c74385865e5c52e458ae6dd5f75d6b19d8273"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:40012864921ea309736115122abf4fbcc054dfe69c7327ff794c0a343d092e60"
 ---
 
 # История изменений внешних идентификаторов клиентов

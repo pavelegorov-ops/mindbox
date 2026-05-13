@@ -4,8 +4,8 @@ slug: "mobile-phone-verification"
 source_url: "https://developers.mindbox.ru/docs/mobile-phone-verification"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:b8c1d5271c2ce8b38995874672690696decf1cf381f8bf050e5f4a78dd496a14"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:3aa36247245d269d6b066a63510e0518a8421dd93b67e4715f3f73e2de51153c"
 ---
 
 # Подтверждение мобильного телефона и подписки на СМС

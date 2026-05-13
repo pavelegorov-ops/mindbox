@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/integration-actions-flutter"
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:b1b31ed35025d8def1177457e3d58a12285f874c0151737110a36ead607469dc"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2d27d6790be2da317d75445a84041b85b35170eea81f70efe8e9da15c359a9a0"
 ---
 
 # Интеграция действий в приложении

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/sdk-subscribe-customer"
 breadcrumb:
   - Мобильные приложения
   - Справочное
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:7e5b4174c82383fffa8b542596883aadcc7762bc27a73058fe28cda20646c8fd"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2a1077bf05502481d6705d08067c46a90b24e123d47c9df46b38fe1757617c75"
 ---
 
 # Создание клиента в Mindbox

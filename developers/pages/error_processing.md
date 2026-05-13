@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/error_processing"
 breadcrumb:
   - Общее
   - V3 API
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:c0e798d3c5b697983e37f778f145de7b4548b0e2be743deb6e28e23fa014a4a8"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:6de30112d66f8a5e047013bfa231f5d931ea16aa50c393cf6cddf3c5e62e0e8f"
 ---
 
 # Обработка ошибок

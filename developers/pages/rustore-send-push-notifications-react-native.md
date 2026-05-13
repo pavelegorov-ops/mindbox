@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - React Native SDK
   - "Android | Настройка пуш-уведомлений"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:3c591eab83d551197e089117bd99b728315ab301d76f97ac39518b9c4d48fb33"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:39b44c77bdce161d243ffad693b0d87147ecd0871784d0cc4d6df73c55a317b8"
 ---
 
 # RuStore

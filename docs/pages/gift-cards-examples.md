@@ -6,8 +6,8 @@ vcs_path: "gift-cards-examples.md"
 toc_path:
   - Лояльность и акции
   - Подарочные карты
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:ffc94b9cce0f69db02e1123814fe2e96b9b4782fc803e2e077df6e0ecac5a2f1"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:1486fbaa1008355663c28b5b75d5e7efb5dcfc95c8ce3775b5c4b03f7eac4833"
 ---
 
 # Примеры настройки подарочных карт

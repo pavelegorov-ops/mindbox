@@ -4,8 +4,8 @@ slug: "export-mailings"
 source_url: "https://developers.mindbox.ru/docs/export-mailings"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:99867e70ca41cdd4f4e1cbe8c0eb57cd34aab6e8bf3569e8bcc0e5a9a33da59a"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f09f48ee78bddca205489afbe935a3b378b52283ac463f430219d64d9dcdedaa"
 ---
 
 # Экспорт рассылок

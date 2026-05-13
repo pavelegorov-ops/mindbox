@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/flutter-android-push-notificatio
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:b651c04b6f03b97e518826b4c9da971195437988bfafd37bf8f56a295f1256c4"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:c0ec1871d8f4e49f21e6e9e006d3275467ddfd99b000aae35cfb7b2544f7d71a"
 ---
 
 # Android | Настройка пуш-уведомлений

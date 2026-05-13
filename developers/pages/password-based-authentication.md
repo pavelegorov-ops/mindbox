@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/password-based-authentication"
 breadcrumb:
   - Клиент
   - Аутентификация
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:2fccda772acff18ce9aed705104168c8033334e28401ee61dcf6d3165801aed8"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:762e18a4e2a5c1ca9cb14241bbf4e1bfa8d0fcc848b1838bd458a57e5dec279c"
 ---
 
 # Аутентификация по паролю

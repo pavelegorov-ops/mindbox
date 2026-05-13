@@ -6,8 +6,8 @@ vcs_path: "chat2desk-integration.md"
 toc_path:
   - Операции и интеграция
   - Дополнительные возможности
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:2718c6853da6890f151450381446e08987557c7dd3297ac773e455676ab9aa46"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:36e18103848d7cd524836a6ae135186ae3a2eb20d2c6ba4ebdc428de37ec7507"
 ---
 
 # Интеграция Mindbox c Chat2Desk для отправки сообщений

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-rich-push-notifications"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:69f8a030dac486081eec332369fdf3579954571ba15f8449c62bff75cf199c10"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:475385decac0a6472082374d3d0fdb26665376c1437d57359273bdeb65df8e24"
 ---
 
 # Настройка Rich-push уведомлений

@@ -4,8 +4,8 @@ slug: "phone-verification-client-side"
 source_url: "https://developers.mindbox.ru/docs/phone-verification-client-side"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:79385f5826b302d98c85310b01b391f2b3b38742fa3e46299f1f1172db1059fb"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:bf4e03809faea451d4fd605737e9aa0ae4d59f9a9bef18dddb31374ae908ca38"
 ---
 
 # Подтверждение мобильного телефона на стороне заказчика

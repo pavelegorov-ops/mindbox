@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-sdk-methods"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e357313b38a49905d76e94811c69cc88ab1e86d98ca1903c396262a9e5d750a6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:5addf3f6ac66a47002d918c8fa6809a24e6c0430405fccfa83e5db553283ba3d"
 ---
 
 # Методы iOS SDK

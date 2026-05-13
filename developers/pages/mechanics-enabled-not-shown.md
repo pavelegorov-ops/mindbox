@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/mechanics-enabled-not-shown"
 breadcrumb:
   - Персонализация сайта
   - Чеклист проверки интеграции персонализации
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:7a224fee12ea4d7e7cb7e51ab6b34edf6dea80237dae8726d05c647f76f2d93e"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:dd6150a1a8525e6c0f6d30d6e495f0bcfd0c63108312fc8be43ab18a6cf86823"
 ---
 
 # Механика персонализации включена, но не показывается клиенту

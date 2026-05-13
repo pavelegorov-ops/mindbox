@@ -1,82 +1,77 @@
-# MindBox Developers — локальное зеркало
+# MindBox Developers — local mirror
 
-Эта папка — локальное Markdown-зеркало <https://developers.mindbox.ru/docs/>,
-поддерживается скриптом `scripts/scrape_developers.py` в репозитории.
+This folder is a local Markdown mirror of <https://developers.mindbox.ru/docs/>,
+maintained by `scrape_developers.py` at the repo root.
 
-## Структура
+## Layout
 
-- `pages/<slug>.md` — одна страница доков на файл. Имя файла совпадает
-  с каноническим slug на сайте, поэтому путь можно угадать из URL:
+- `pages/<slug>.md` — one file per docs page. Filename matches the canonical
+  slug used by the upstream site, so you can guess paths from URLs:
   `https://developers.mindbox.ru/docs/<slug>` ↔ `pages/<slug>.md`.
-- `summaries.json` — карточки страниц (title, section, лид, заголовки,
-  `deprecation_hint`). **Сначала grep его** при триаже темы; это в разы
-  дешевле, чем открывать несколько полных страниц.
-- `index/<section-slug>.md` — оглавление по одному разделу. Легче, чем
-  `INDEX.md`. Подходит, когда вопрос про конкретную область
-  («сегментации», «промокоды», «карты»).
-- `INDEX.md` — полное иерархическое оглавление, восстановленное из
-  сайдбаров отдельных страниц.
-- `backlinks.json` — обратный индекс ссылок: `<slug> → [slugs, которые
-  на него ссылаются]`.
-- `manifest.json` — служебка для инкрементальной синхронизации
-  (хеш контента, время выгрузки, breadcrumb). Руками не править.
+- `summaries.json` — per-page cards (title, section, lead paragraph,
+  headings, deprecation_hint). **Grep this first** when triaging a topic; it
+  is far cheaper than reading multiple full pages.
+- `index/<section-slug>.md` — per-section table of contents. Lighter than
+  `INDEX.md`. Pick one when the user asks about a specific area
+  (e.g. "сегментации", "промокоды", "карты").
+- `INDEX.md` — full hierarchical table of contents reconstructed from
+  per-page sidebars.
+- `backlinks.json` — reverse link index: `<slug> → [slugs that link to it]`.
+- `manifest.json` — bookkeeping for incremental sync (per-page content hash,
+  fetched timestamp, breadcrumb). Don't edit manually.
 
-## Область применения
+## Scope
 
-Этот корпус ориентирован на *интеграторов / инженеров*. Для маркетингового
-help (UI-проводки, сегменты, кампании) — соседний `docs/`, зеркалирующий
+This corpus targets *integrators / engineers*. For product help (UI walk-throughs
+for marketers, segments, campaigns), see the sibling `docs/` corpus mirroring
 help.mindbox.ru.
 
-## Рекомендованный workflow поиска
+## Recommended lookup workflow
 
-Для вопросов «как интегрировать X с MindBox API?»:
+For "how do I integrate X with the MindBox API?" questions:
 
-1. `Grep "X" developers/summaries.json -B 1 -A 4` → ранжированный список
-   кандидатов с лидами и заголовками.
-2. Открыть самую релевантную `pages/<slug>.md` целиком.
-3. Опционально: `Grep '"<slug>"' developers/backlinks.json -A 8` →
-   связанные страницы.
+1. `Grep "X" developers/summaries.json -B 1 -A 4` → ranked candidates with
+   their leads and headings.
+2. Read the most relevant `pages/<slug>.md` in full.
+3. Optionally `Grep '"<slug>"' developers/backlinks.json -A 8` → related pages.
 
-Для «дай обзор по разделу Y»:
+For "give me an overview of section Y":
 
-1. Найти подходящий файл в `developers/index/` (транслитерированный slug).
-2. Прочитать его — он уже сужен до нужной области.
+1. Find the matching file in `developers/index/` (transliterated slug).
+2. Read it directly — it's already scoped to that section.
 
-## Формат страницы
+## Per-page format
 
-Каждая страница начинается с YAML-frontmatter:
+Every page begins with YAML frontmatter:
 
 ```yaml
 ---
-title: <title из <title>-тега>
-slug: <стабильный slug сверху>
+title: <title from <title> tag>
+slug: <stable upstream slug>
 source_url: https://developers.mindbox.ru/docs/<slug>
-breadcrumb: ["Раздел", "Подраздел", ...]   # из открытой цепочки сайдбара
+breadcrumb: ["Section", "Subsection", ...]   # from sidebar open chain
 fetched_at: 2026-05-04T...Z
 content_hash: sha256:...
-deprecation_hint: ["устарел", ...]   # ОПЦИОНАЛЬНО — см. ниже
+deprecation_hint: ["устарел", ...]   # OPTIONAL — see below
 ---
 ```
 
 ### `deprecation_hint`
 
-Появляется **только** если в теле или заголовке найдены подстроки
-вроде `устарел`, `больше не работа`, `deprecated`, `прекращ` и т.п.
+Present **only** when the body or title contains substrings such as
+`устарел`, `больше не работа`, `deprecated`, `прекращ`, etc.
 
-**Как использовать:** добавь короткую оговорку, что фича может быть
-устаревшей, и дай ссылку на канонический `source_url`.
+**How to use:** add a brief caveat that the underlying feature may be
+deprecated/legacy and link the user to the canonical `source_url`.
 
 ```bash
 grep -l '^deprecation_hint:' developers/pages/*.md
 ```
 
-## Обновление
+## Refreshing
 
 ```bash
-python scripts/scrape_developers.py            # инкрементально: тянет всё, переписывает только изменившееся
-python scripts/scrape_developers.py --full     # принудительно переписать каждый файл
-python scripts/scrape_developers.py --dry-run  # показать, что изменится, ничего не записывая
+python scrape_developers.py            # incremental: re-fetches all, rewrites only changed
+python scrape_developers.py --full     # force-rewrite every file
+python scrape_developers.py --dry-run  # report what would change, write nothing
 ```
-
-(Запускать из корня репо — скрейпер пишет в `developers/` относительно
-текущего каталога.)

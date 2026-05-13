@@ -4,8 +4,8 @@ slug: "customer-existence-database-check"
 source_url: "https://developers.mindbox.ru/docs/customer-existence-database-check"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:bdb39234d8e8f36ddf2c51f97605ee70d5fcc4e89eb90a2dad8595cac11f2af6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f82255f8031c93ee9b1a40f1c0d432cb8926d1437311a1fdb93e4ea8092c3c4e"
 ---
 
 # Проверка наличия клиента в БД

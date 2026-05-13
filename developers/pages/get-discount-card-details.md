@@ -4,8 +4,8 @@ slug: "get-discount-card-details"
 source_url: "https://developers.mindbox.ru/docs/get-discount-card-details"
 breadcrumb:
   - Карты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:0c20ded82ca80af9eab5c06f7beb4efcd3cb82f1079e4d74bc029cf78a43e6ff"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:db722688c27727ada444f91515f7f7e46968a2708b1b41ac9158b169d041f8b1"
 ---
 
 # Получение данных дисконтной карты

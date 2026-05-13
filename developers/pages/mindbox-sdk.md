@@ -4,8 +4,8 @@ slug: "mindbox-sdk"
 source_url: "https://developers.mindbox.ru/docs/mindbox-sdk"
 breadcrumb:
   - Мобильные приложения
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:d16879816e7fafd6ee047cec3de3c62b28bf3f7e85e3ba94f98434b52341b6b6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:36f5dd9cae390e409523f2bde33c09d3aee9f5139cb625f49d6ea6db0e7ec8bf"
 ---
 
 # Mindbox SDK
@@ -45,7 +45,7 @@ content_hash: "sha256:d16879816e7fafd6ee047cec3de3c62b28bf3f7e85e3ba94f98434b523
 📦 [Пример](https://github.com/mindbox-cloud/ios-sdk/tree/develop/Example)   
 💻 [GitHub](https://github.com/mindbox-cloud/ios-sdk)   
 📦 [SPM](https://swiftpackageindex.com/mindbox-cloud/ios-sdk)   
-📦 [Cocoapods](https://cocoapods.org/pods/Mindbox)
+📦 [CocoaPods](https://cocoapods.org/pods/Mindbox)
 
 [Flutter](flutter-sdk.md)
 

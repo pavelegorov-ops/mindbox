@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/tranletterxml"
 breadcrumb:
   - Рассылки
   - Отправка рассылок по API
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e862a0d55e6e009e66942db3049ba3e69dc01283c313557e0d4e1b1df72c579a"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:110c0bb3f9802e14efc7a7ebe95f14a777a2b6ddec9f3432133703de7f20c515"
 ---
 
 # xml

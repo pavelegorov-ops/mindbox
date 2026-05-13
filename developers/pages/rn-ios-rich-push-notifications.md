@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/rn-ios-rich-push-notifications"
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:50bc265b6a9d5e8ceb2d4be6681fc5673d38ba437fc7d222abbd6907d0b4d1ac"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:293c352cf5f95291a0bae2f39920593324568a90afa0574eeb9ce43600b92fbf"
 ---
 
 # iOS | Настройка Rich-push уведомлений

@@ -5,8 +5,8 @@ source_url: "https://help.mindbox.ru/docs/how-to-create-survey"
 vcs_path: "how-to-create-survey.md"
 toc_path:
   - Опросы и квизы
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:5d8a5774f35ebfab18fd0fcde4852a594743f6f7e82f20f157f0cfd059a89d56"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:ec2b8bedde3f2b81743a447a7dc72116608f6f96562634f4236c5079ec3c8b87"
 ---
 
 # Как создать опрос удовлетворенности

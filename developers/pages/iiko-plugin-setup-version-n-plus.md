@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/iiko-plugin-setup-version-n-plus
 breadcrumb:
   - Стандартные интеграции
   - Интеграция iiko
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:b4d05205686a2c686e08ed332c0d3575e976e852de87b48be04c5cbf28edac7a"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:03ad61653f975e1ba95f626639406ddc508df7f2c8fdd76dd1135c6989251605"
 ---
 
 # Настройка плагина iiko версии V8.1.0.62 и выше

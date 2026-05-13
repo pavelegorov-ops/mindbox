@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - IOS
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:1794cec70807e3b70ca78346e65a9efd9e7531f18f9c064c70d101cca4ca52ac"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0330cbde7c5521078eda8547a0906a8ce53792fe214dbb3d028ecf97ace131ef"
 ---
 
 # Клик вызывается, но данные не сохраняются в админке

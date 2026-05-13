@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/folders-reference"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:14782b0bfbee7dada0d0418c19a03d868abc1672c939770fd876d43f21f18eaa"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:a652e0cb18ba07a057a54fd3a35a6f4cc60063b88096da8e0454a88daccc8db1"
 ---
 
 # Справочник папок

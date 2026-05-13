@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/rn-android-push-notifications-se
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:99d838b7b3ab7d3028182a89bb0f9f28302ede42b1596aca6d3962d7f3f230e8"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:15a6d112b8bbd84dfc186a6c94d01f97342a345ab73054b0fb7b2b7007090d55"
 ---
 
 # Android | Настройка пуш-уведомлений

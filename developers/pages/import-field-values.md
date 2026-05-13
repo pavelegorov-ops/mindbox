@@ -4,8 +4,8 @@ slug: "import-field-values"
 source_url: "https://developers.mindbox.ru/docs/import-field-values"
 breadcrumb:
   - Разное
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:c4c81b2d7ed1c32d370857c1198e3d03c5ed7a8e1868e1a43b561443e23395f8"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:14a101526a74290b595ee1fa15aabcea0806423c55df41e9859628c1373d8bf2"
 ---
 
 # Импорт возможных значений дополнительных полей

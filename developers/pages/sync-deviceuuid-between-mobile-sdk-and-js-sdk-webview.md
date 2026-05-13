@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/sync-deviceuuid-between-mobile-s
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:bf1fd8554a896df135a0a1cde2463790c986db26ab699faf6f67b2dba74a9802"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:dc15a4ca045962516807c47c011888374bfc8a4b8751b899b6af12e609618f6a"
 ---
 
 # Cинхронизация deviceUUID между Android mobile SDK и JS SDK в приложении с WebView

@@ -4,8 +4,8 @@ slug: "import-personalproductlist-v3"
 source_url: "https://developers.mindbox.ru/docs/import-personalproductlist-v3"
 breadcrumb:
   - Номенклатура
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:765804932572aa0ecf7a02563ea6674ed0a65243b2d885537a48c826ee6e30a6"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:fad063604827c0f0be1331024cbadf3fd1fb91bf76eebe0d06b5b9be78e0a32d"
 ---
 
 # Массовое обновление списка продуктов

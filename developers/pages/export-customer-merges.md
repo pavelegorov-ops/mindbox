@@ -4,8 +4,8 @@ slug: "export-customer-merges"
 source_url: "https://developers.mindbox.ru/docs/export-customer-merges"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:7982947ea8318ff8edb78dd01779f0cce0b291a1ebc420e1fa762f54c4db1d34"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:ca43a1b8e7b8226607a7df2a9274b8db50de975006744a02be397cfb428ca7aa"
 ---
 
 # Экспорт объединений клиентов

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-push-notification-deep-linki
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:fe37fc3b261e78f3b8240e242e0f69e1526001c0a6fb12df69d574c73fcc6d5e"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:5b26101546d52c72e559bd8607d7e90d116785a6094e90dfd0d9d9e5b58f0f2e"
 ---
 
 # Переход по ссылке из push-уведомления

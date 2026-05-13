@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/add-integration-rn"
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:a7f508e996129efc8264783eebf1cab184fc0b2822b0fc4ddc4ade90918c6421"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:e8fb8a1dd9b967bff66cc190cc32bcdfe2226211a345ffbe60768f04c31971fe"
 ---
 
 # Настройка точек интеграции

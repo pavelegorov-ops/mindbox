@@ -5,8 +5,8 @@ source_url: "https://help.mindbox.ru/docs/workflow-report"
 vcs_path: "workflow-report.md"
 toc_path:
   - Сценарии
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:28ba092ca1e94eb43cb6959b7f87fb56c914c12d98b00d018424418940e787bf"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:a3e667916ee854eb355a516028b2026b12f27ccd25023e926a35a9b3c471e10c"
 ---
 
 # Статистика прохождений сценария

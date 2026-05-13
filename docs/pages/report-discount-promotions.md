@@ -5,8 +5,8 @@ source_url: "https://help.mindbox.ru/docs/report-discount-promotions"
 vcs_path: "report-discount-promotions.md"
 toc_path:
   - Аналитика
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:3526f6f21bae949432b09e4b3996dd12697947fbb4ed2b5a82c85debd6f00e57"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:721a238e78aff8904452cc4a319ee6221cdee7362b3ee73dd4825cae8d9623b4"
 ---
 
 # Отчет по акциям

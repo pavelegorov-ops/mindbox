@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/in-app-operation-category-and-pr
 breadcrumb:
   - Мобильные приложения
   - "In-App"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:def46fcaadad6b02f0ee3a89a5e5a9498f5d853824d42cdf2d637fa92621cd34"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:be6026b8e89325f2738a78e01e4855433ff48d60f0735a53cf0ce31d53b23044"
 ---
 
 # Настройка операций в приложении для таргетинга на экран категории и экран продукта

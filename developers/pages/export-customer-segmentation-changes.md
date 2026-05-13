@@ -4,8 +4,8 @@ slug: "export-customer-segmentation-changes"
 source_url: "https://developers.mindbox.ru/docs/export-customer-segmentation-changes"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:820553540983d0848f792832b41d48474ce8bcbf9e3467a074278012f303dc8c"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:269c2cc980c58be5338cab5cd8458594672aef2e774242a82e59d22cfe54bba1"
 ---
 
 # Экспорт изменения сегментации клиентов

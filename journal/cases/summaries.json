@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-08T07:20:30Z",
+  "generated_at": "2026-05-13T11:54:43Z",
   "source": "https://mindbox.ru/journal/cases/",
-  "page_count": 492,
+  "page_count": 493,
   "schema": {
     "fields": [
       "slug",
@@ -2673,6 +2673,28 @@
       "published_at": "2024-02-19",
       "modified_at": "2026-03-30",
       "source_url": "https://mindbox.ru/journal/cases/cozyhome/",
+      "deprecation_hint": []
+    },
+    "cozyhome-opa": {
+      "slug": "cozyhome-opa",
+      "title": "COZY HOME оптимизирует рекламу в Директе через сервис OPA Mindbox: 40→25% ДРР",
+      "lead": "COZY HOME — сеть магазинов товаров для дома",
+      "headings": [
+        "Результат",
+        "Что мешало COZY HOME наращивать эффективность рекламы",
+        "Как за 1,5 недели настроили передачу данных из CDP в «Яндекс Директ»",
+        "Как протестировали оптимизацию рекламы с ОРА",
+        "Масштабирование и планы"
+      ],
+      "tags": [
+        "mebel-tovary-dlya-doma-bytovye-uslugi",
+        "omnikanalnyj-magazin",
+        "media",
+        "customer-data-platform"
+      ],
+      "published_at": "2026-05-08",
+      "modified_at": "2026-05-12",
+      "source_url": "https://mindbox.ru/journal/cases/cozyhome-opa/",
       "deprecation_hint": []
     },
     "crocs": {
@@ -12580,7 +12602,7 @@
         "tovarnyie-rekomendatsii"
       ],
       "published_at": "2026-02-25",
-      "modified_at": "2026-04-30",
+      "modified_at": "2026-05-08",
       "source_url": "https://mindbox.ru/journal/cases/yandex-hr-brand/",
       "deprecation_hint": []
     },

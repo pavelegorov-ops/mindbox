@@ -4,8 +4,8 @@ slug: "flutter-sdk"
 source_url: "https://developers.mindbox.ru/docs/flutter-sdk"
 breadcrumb:
   - Мобильные приложения
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:c8b93d86016fc307dedcd24058b46cd4b98b6763f52941e3005ec17a5f569d40"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9f72fdcdf4b9db1702a070b849fc4d7a9afde7ec142495f251f44746271942c5"
 ---
 
 # Flutter SDK

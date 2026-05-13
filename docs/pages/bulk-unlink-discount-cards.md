@@ -6,8 +6,8 @@ vcs_path: "bulk-unlink-discount-cards.md"
 toc_path:
   - Лояльность и акции
   - Дисконтные карты
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:98df9d7974ce5272915bad162f2a358d8825aec2e4125134654e8cfea2655856"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:ef2fcea068f708541f94d6e59c3563cba3fef4b6bc373ca04efe05bb73235d6c"
 ---
 
 # Как массово открепить дисконтные карты

@@ -6,8 +6,8 @@ vcs_path: "workflows-webhook-responses.md"
 toc_path:
   - Рассылки
   - Вебхуки
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:059d97430fe2f87c90ca3cd445b08cb21adc96236ecdae8d74f7723265a11520"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:7e0195fdd658650ea4e22ec847967f62cb93ce3d68d9f168ce0bc97da19f1ad2"
 ---
 
 # Как использовать ответы вебхуков в сценариях

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ios-get-click-react-native"
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:6718d77c9ca89b423f230cf3ca07e087ef7d191b24665b89fb254bfb01144ff9"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:4c54e671dd3dbc0c69ed8cd106ebdb7c6d93c68ac621466d7863bbcd11cf7f1f"
 ---
 
 # iOS | Передача кликов по push-уведомлениям

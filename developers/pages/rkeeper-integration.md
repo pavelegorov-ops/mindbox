@@ -4,8 +4,8 @@ slug: "rkeeper-integration"
 source_url: "https://developers.mindbox.ru/docs/rkeeper-integration"
 breadcrumb:
   - Стандартные интеграции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:29b0de264b4b002017ad8250501201086f7f6b1d5d1f0f668462df37922bfb42"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:48cb80d73d30165bee0dda5058e53f4fe92c951e8b4de918b36ecbb2ba0f2016"
 ---
 
 # Интеграция rkeeper

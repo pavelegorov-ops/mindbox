@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/expo-sdk-setup"
 breadcrumb:
   - Мобильные приложения
   - Expo SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8e52b4e78073669495362b811ece169411a687eaf3f94253f1a14800f7277f83"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:bae00ed147759671168973f08a9986785c0de59feb560ad485a7495daa7017ff"
 ---
 
 # Базовая установка Expo SDK

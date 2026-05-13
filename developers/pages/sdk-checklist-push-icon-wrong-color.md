@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - Android
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:2d74f4473c35f2228d56c2164d54e4dd9fbe2acccd411fb95b71c8c47fee839e"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:6c619a4c71d5c48a769f6efe5e3a81840200504ddcf33c06979b731fd3648d17"
 ---
 
 # Иконка push-уведомления отображается другим цветом

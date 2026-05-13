@@ -4,8 +4,8 @@ slug: "redeem-promocode"
 source_url: "https://developers.mindbox.ru/docs/redeem-promocode"
 breadcrumb:
   - Промокоды и промоакции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8ad4fc3c15c877aad21bc8d5913b24a174a3f50dc1872fafc679e105f925bf2d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f8057c09caa5e5e6ee957c1149e976bb7c8ffd303c6c0e49c8632184431b3d9e"
 ---
 
 # Погасить промокод

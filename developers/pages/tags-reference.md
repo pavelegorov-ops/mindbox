@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/tags-reference"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e1968079bde4c99478eb87cd1bb06f0c06f4c1ca8db5ae17198573a2f02517fd"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:a0c845bbd941da6f60c0c54a25dc1b7a2f1c386d2e25b91a38e853a7826a1d98"
 ---
 
 # Справочник тегов

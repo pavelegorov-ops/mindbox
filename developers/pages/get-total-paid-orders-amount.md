@@ -4,8 +4,8 @@ slug: "get-total-paid-orders-amount"
 source_url: "https://developers.mindbox.ru/docs/get-total-paid-orders-amount"
 breadcrumb:
   - Заказы
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:aada5d6df1be9fb96811e1cd81203b57592bc3b037ed2dc4787cf7b7c2191c1d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0670dcd127dcc0bde8ac8af5235fb8edc7692a1d6d82fce9ea21bb83dc6f7a7f"
 ---
 
 # Получение общей суммы оплаченных заказов

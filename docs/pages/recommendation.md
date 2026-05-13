@@ -6,8 +6,8 @@ vcs_path: recommendation.md
 toc_path:
   - Персонализация
   - Рекомендации
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:0bdd06f3c1b5c2acd0a56b2276c1c2d29c5bdb08716eb810288a0ce7fa0d16fe"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:cda912a07984150c6cba0b5546d027f458a193ee4103db121eb0720169c6aefc"
 ---
 
 # Что такое «рекомендации»?

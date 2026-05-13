@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/android-app-start-tracking"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:4dad1d14af3efdd02a44484f4e0de006ecbdaa210bb5f27c3b33953d0d49e616"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:5773852879eacac1dbc1405f67e125b456b92a5433be7d6f479f6e0ca84d787e"
 ---
 
 # 5. Получение источника установки мобильного приложения

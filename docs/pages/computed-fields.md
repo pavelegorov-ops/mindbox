@@ -6,8 +6,8 @@ vcs_path: "computed-fields.md"
 toc_path:
   - "Клиенты, заказы и продукты"
   - Дополнительные и вычисляемые поля
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:a8622d77edaafb6d084cf3ad320db91ff8606422c55000f2f631fb8c4512c817"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:66a771c869f2fa148406925e8f0b49dc4dbeffc521aca197ee4e704352909f69"
 ---
 
 # Вычисляемые поля

@@ -4,8 +4,8 @@ slug: "export-customer-actions"
 source_url: "https://developers.mindbox.ru/docs/export-customer-actions"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:42a75128cf6b715978601a3ddc3521a6904df28849ba955a598368c8f9f5a059"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:145208df171b11ac1296b5b49b72c9a9f77c659d6f0b8c4b32a901a57155a022"
 ---
 
 # Экспорт действий клиентов

@@ -6,8 +6,8 @@ vcs_path: "how-to-use-manual-import-in-campaigns.md"
 toc_path:
   - Рассылки
   - Общие настройки рассылок
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:5ed58d46ffb8b8eaf43841e55b7de5f49fe63130d8111b116ca0ea4cbed525f9"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:12e49fd3f459e8e93ab6018ef3fb8d16ea2ebbecf0a5df8e402716c4cf40cd9c"
 ---
 
 # Как отправить рассылку по файлу

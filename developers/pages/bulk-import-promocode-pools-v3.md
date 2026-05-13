@@ -4,8 +4,8 @@ slug: "bulk-import-promocode-pools-v3"
 source_url: "https://developers.mindbox.ru/docs/bulk-import-promocode-pools-v3"
 breadcrumb:
   - Промокоды и промоакции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:fcd6ebed7ce95d68376b978fd9b97ed9179f0be47937fa9de79c3671443aca19"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:625069bda37acc3c85502ce4b4b829197cc35795b7d78abdc15316644d14ef6d"
 ---
 
 # Массовый импорт пулов промокодов

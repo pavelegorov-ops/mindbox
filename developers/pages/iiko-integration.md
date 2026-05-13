@@ -4,8 +4,8 @@ slug: "iiko-integration"
 source_url: "https://developers.mindbox.ru/docs/iiko-integration"
 breadcrumb:
   - Стандартные интеграции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:612397853461daaae6f47e517c6c181d585ea2d64863efd1af6e7a163a73872b"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2db22da76ab4441b74d962034a8663d31a19a695325d6473b2b7c1964da02d8e"
 ---
 
 # Интеграция iiko

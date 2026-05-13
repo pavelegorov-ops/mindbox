@@ -4,8 +4,8 @@ slug: "bind-promocode"
 source_url: "https://developers.mindbox.ru/docs/bind-promocode"
 breadcrumb:
   - Промокоды и промоакции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:972408f0e242183d6fb9ea32fc98e41828ff7f3b83d18c7570217b32794dd33d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:7b0145fd6df57e021a3ede78c839b513384f3f22129dee78f77c4d696412dd9f"
 ---
 
 # Выдача промокода

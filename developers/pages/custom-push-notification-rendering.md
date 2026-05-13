@@ -3,8 +3,8 @@ title: "custom-push-notification-rendering"
 slug: "custom-push-notification-rendering"
 source_url: "https://developers.mindbox.ru/docs/custom-push-notification-rendering"
 breadcrumb: []
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:8f2d961e29e26020ef4e70b122ceb59257c92db2685327e6d1fcef691e64038b"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d9ffd89469d3f2b40138a55c542b62998dc10fbff986784cc96c2aae1683e8ac"
 ---
 
 # custom-push-notification-rendering

@@ -4,8 +4,8 @@ slug: "retailorder-import-v3"
 source_url: "https://developers.mindbox.ru/docs/retailorder-import-v3"
 breadcrumb:
   - Заказы
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:0f58f29ec70dd0b544f254affd08590d4a8788cc3b17678079363232787a251f"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:818318735870f51b5d5fad23a149c011aa406b9e0b8e23cc5d1f4a58ccecbc8e"
 ---
 
 # Массовый импорт заказов

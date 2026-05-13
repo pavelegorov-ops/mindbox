@@ -6,8 +6,8 @@ breadcrumb:
   - Персонализация сайта
   - Расширенная интеграция
   - Фронтенд
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e0d6cdfb0a145571f317f5cb664aca9f24405388d72d4b72988ea675d15fa2a7"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:244970e935d5d78e915f2a92b0c0ceaf262c1ef61c195bbc660bfd9851534818"
 ---
 
 # 2. Вызов операций с помощью JavaScript SDK Mindbox

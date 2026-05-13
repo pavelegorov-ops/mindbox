@@ -6,8 +6,8 @@ vcs_path: "personal-price-mailings.md"
 toc_path:
   - Лояльность и акции
   - Персональные цены
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:5082315a3278b1927a6f7af4fa0602bf1d387a4e73ac79aadf42a9e57b0f8a6c"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:2256586604f2f9bceaa6be7ac26894efa52ab0698cd047b6471305a46b4b4764"
 ---
 
 # Как вывести персональные цены в рассылке

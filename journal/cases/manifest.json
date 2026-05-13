@@ -2,8 +2,8 @@
   "version": 1,
   "format_version": 1,
   "source": "https://mindbox.ru/journal/cases/",
-  "generated_at": "2026-05-08T07:25:08Z",
-  "page_count": 492,
+  "generated_at": "2026-05-13T11:56:05Z",
+  "page_count": 493,
   "pages": {
     "1001-dress": {
       "title": "5 тысяч рублей экономят на верстке одной рассылки. 1001 DRESS — о том, как конструктор Mindbox помог сократить рутину и снизить расходы",
@@ -1857,6 +1857,20 @@
       ],
       "content_hash": "sha256:75822977d178154bde50d5e46e1174a36c95e66e43b2ed3d1485b36f3d2c6a8b",
       "fetched_at": "2026-05-08T07:20:30Z"
+    },
+    "cozyhome-opa": {
+      "title": "COZY HOME оптимизирует рекламу в Директе через сервис OPA Mindbox: 40→25% ДРР",
+      "source_url": "https://mindbox.ru/journal/cases/cozyhome-opa/",
+      "published_at": "2026-05-08",
+      "modified_at": "2026-05-12",
+      "tags": [
+        "mebel-tovary-dlya-doma-bytovye-uslugi",
+        "omnikanalnyj-magazin",
+        "media",
+        "customer-data-platform"
+      ],
+      "content_hash": "sha256:e9664c7c72eafdc54b97308d0301f1c86ea7481d942a15f5a764afb84ba8f4fc",
+      "fetched_at": "2026-05-13T11:54:43Z"
     },
     "crocs": {
       "title": "Как Crocs трансформирует свой маркетинг в России: понимание клиентов, полезный контент и эмоции",
@@ -8784,7 +8798,7 @@
       "title": "×2,5 откликов из email-рассылок: Яндекс персонализировал HR-маркетинг для разработчиков",
       "source_url": "https://mindbox.ru/journal/cases/yandex-hr-brand/",
       "published_at": "2026-02-25",
-      "modified_at": "2026-04-30",
+      "modified_at": "2026-05-08",
       "tags": [
         "telekommunikacii-it",
         "agregator-marketplejs",

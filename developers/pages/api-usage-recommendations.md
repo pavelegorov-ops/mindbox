@@ -4,8 +4,8 @@ slug: "api-usage-recommendations"
 source_url: "https://developers.mindbox.ru/docs/api-usage-recommendations"
 breadcrumb:
   - Общее
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:f5e3a5c6cdf2980d57cd2bcf4adc4746a71ea0ce80131f4d8b317788a9d30ff2"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:8f4a7624d3e7f2fadca8aa9124be20cfd3e74038da7362e418a1a8e714111a09"
 deprecation_hint:
   - прекращ
 ---

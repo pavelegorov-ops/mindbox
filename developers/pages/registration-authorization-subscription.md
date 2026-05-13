@@ -4,8 +4,8 @@ slug: "registration-authorization-subscription"
 source_url: "https://developers.mindbox.ru/docs/registration-authorization-subscription"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:c03a34e0ed2a676a542780a87457b8c8e379866669a4a95604e5c500bb951b3d"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:7fbf15c692b43ad062f41305752bff4423bd6994359c8a4b3729e898e2b97052"
 ---
 
 # Регистрация, формы подписки, трекинг входа на сайт

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/sdk-initialization-react-native"
 breadcrumb:
   - Мобильные приложения
   - React Native SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:58042063b0026106a5a532f39c7bfd6203f5c6a4c01b457c3e737be789075393"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:a30d50dd0516017fc587ca1caac60d10affb66a0c29861d7dcfbb2c0d8d7b7cc"
 ---
 
 # Инициализация SDK

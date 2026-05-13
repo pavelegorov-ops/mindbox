@@ -4,8 +4,8 @@ slug: "change-card-status-at-pos"
 source_url: "https://developers.mindbox.ru/docs/change-card-status-at-pos"
 breadcrumb:
   - Карты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:89e943d6b9848b83e5f0e257f36679ebd20245822c249cc8e307acce08bf6b25"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:9530e5294a6a244475fc535e6663644599fd49b0f9ac4cec427275f94a4ae386"
 ---
 
 # Смена статуса дисконтной карты на кассе

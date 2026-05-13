@@ -6,8 +6,8 @@ vcs_path: telegram.md
 toc_path:
   - Рассылки
   - Уведомления и мессенджеры
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:da738838a338d38879d9bf04f291650b0ced6b3bcbab129ef1420c9b4452e577"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:154ae0c6eddc51fc52dc6c92d24bd6c1751ae0ebafbe6114c409c084c5401795"
 ---
 
 # Как отправить рассылку в Telegram через Fasttrack

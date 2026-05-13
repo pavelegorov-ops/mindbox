@@ -7,8 +7,8 @@ toc_path:
   - Рассылки
   - Мобильные пуши
   - Интеграция мобильных пушей
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:2410a70dd4f330b7b931f55b5fe55cfb7e1a1de9a86ae07c7dbb6056b4d048cd"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:d4cb1a5df6cd29e767ecbbb1d98fbb0c4209b0b189f7a6cd3c3665a050615c87"
 ---
 
 # Каналы уведомлений на Android

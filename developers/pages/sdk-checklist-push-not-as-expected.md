@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - Android
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:72d1cbaa94c8cbeb8d5563e7f572bf660e00003cf6287b9464c3426e8736cfbe"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:af1cb8fafc6b17742d4c0a06ec0977290acbcbf3c8e076b8d1c24e227e8d4073"
 ---
 
 # Push-уведомление отображается не так, как ожидается

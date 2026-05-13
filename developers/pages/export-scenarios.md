@@ -4,8 +4,8 @@ slug: "export-scenarios"
 source_url: "https://developers.mindbox.ru/docs/export-scenarios"
 breadcrumb:
   - Экспорты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:b4ff5160d0aa1ce7b4a76240e6930c0df67bf309b18efa01df625a997710a5ad"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0ddbaa9bdcf8e091f7f8f1a565237d08e946b495e9050f7d7b7ea6c8e45ed2bd"
 ---
 
 # Экспорт сценариев

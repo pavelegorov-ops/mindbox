@@ -4,8 +4,8 @@ slug: "update-customer-bonus-account"
 source_url: "https://developers.mindbox.ru/docs/update-customer-bonus-account"
 breadcrumb:
   - Бонусный счет
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:c60037e973a99c3781824e338095cb7cce7f69f5e37f6d394fde15b3f5147eca"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:8d28a0bff9b4cff94087db1d5c3dcaebdd07fe3b244faceb6c9bc4b497e66a51"
 ---
 
 # Изменение бонусного счета клиента

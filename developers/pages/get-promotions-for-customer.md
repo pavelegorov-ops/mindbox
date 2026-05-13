@@ -4,8 +4,8 @@ slug: "get-promotions-for-customer"
 source_url: "https://developers.mindbox.ru/docs/get-promotions-for-customer"
 breadcrumb:
   - Промокоды и промоакции
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:6a1ad96aa6f2de3859f78d91bf7ed57b124cfb822ee981e907d265cf314db9a7"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:f96cfaeedb20c03bf7e2aa26d0ae1126df53702cbea3a740459f4aec87456b1a"
 ---
 
 # Получение списка доступных для клиента промоакций

@@ -6,8 +6,8 @@ breadcrumb:
   - Персонализация сайта
   - Расширенная интеграция
   - Бэкенд
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:780a3b29c4b1bb7b3fec38fa53e0fee35eb40282c18e718ef92166ac333b1296"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:0bd84a1552d6be86959ede3139d373c6aba389660f6ae3ee857a968b3aea1598"
 ---
 
 # 1. Создание операций для работы с бэкенда

@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/apns-keys-setup"
 breadcrumb:
   - Мобильные приложения
   - iOS SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:f1c025dcda833d264522fb57ea64e01dd9020823ca2448163dcf5f0bc88cf1e9"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:cb4017a255ce5ae1526baa20e3569fd09f29e59ad5d7ccd1111f9fbe1d200f9c"
 ---
 
 # Получение ключей и настройка подключения к APNS

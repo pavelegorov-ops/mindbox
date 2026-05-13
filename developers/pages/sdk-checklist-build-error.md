@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - IOS
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:edc6a7b7255e31a717e912e6ffa1d62b3cfb8761e697becd86e122668948fa89"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:33bba892f02afbb6f11a4232dbd5958a40310c3004d27eee025e308c87ec46cf"
 ---
 
 # Приложение не собирается — ошибка сборки

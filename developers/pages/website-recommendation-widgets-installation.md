@@ -4,8 +4,8 @@ slug: "website-recommendation-widgets-installation"
 source_url: "https://developers.mindbox.ru/docs/website-recommendation-widgets-installation"
 breadcrumb:
   - Персонализация сайта
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:39b587679a71c5d7e384864c4b603142263f21a05eb9e2a4dfa2afe66c43bd48"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:4fd877c5985e843d8d3d12677d09d492bd00b1fb8480dcccf2aed4571dd69a8f"
 ---
 
 # Особенности установки виджетов рекомендаций на сайте

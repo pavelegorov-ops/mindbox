@@ -4,8 +4,8 @@ slug: "website-authorization-ticket"
 source_url: "https://developers.mindbox.ru/docs/website-authorization-ticket"
 breadcrumb:
   - Общее
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:e4d6e61e3b1917d52d6a273d047792fc0da3e8936e935eeba368fe83f1b29c12"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:6c9ee5eb2b032ffd946429a5d8c6035d4f5e40d9003b5cc3daa359915be412a7"
 ---
 
 # Тикет для авторизации на сайте

@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - "Чек-лист проверки интеграции SDK"
   - Android
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:c96d985f7ba3a3c14ccdb8257f04f55f569830bd0fabdbc8ac42c8f228ee9b41"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:7a7a81ab8dc2d358f732e1491db56d8282f12992d2a79f12f69c9cee697d722a"
 ---
 
 # После отправки уведомлений приложение падает

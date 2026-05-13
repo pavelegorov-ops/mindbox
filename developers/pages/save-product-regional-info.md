@@ -4,8 +4,8 @@ slug: "save-product-regional-info"
 source_url: "https://developers.mindbox.ru/docs/save-product-regional-info"
 breadcrumb:
   - Номенклатура
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:99c26ea6d2be9b4370c27d839389e9f562b0f05ab5676040f8e926b813b47202"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:e425ee16023b5775be243a24bf764dbec7977b35d59a96d3b36dc14ee01f0404"
 ---
 
 # Обновление региональных данных продукта

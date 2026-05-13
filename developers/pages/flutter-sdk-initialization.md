@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/flutter-sdk-initialization"
 breadcrumb:
   - Мобильные приложения
   - Flutter SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:d3f1d2e9fe96ea4e4e5d457123f72556759539f75eb470daa995a6000d01bc93"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:090cccf042b33c359a8c8bd2735120c6554b6467709ea9fcb6727776c5bc776b"
 ---
 
 # Инициализация SDK

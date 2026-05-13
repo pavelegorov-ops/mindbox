@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/add-android-integration"
 breadcrumb:
   - Мобильные приложения
   - Android SDK
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:66683264332722c62f6902561a6a1937546d3831bc3a34c4df65283e6c1baf61"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:402012e43cfa3485f001a199f03f176c4c5fb26995b8b1181f64bde28439b856"
 ---
 
 # Настройка точек интеграции

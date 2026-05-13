@@ -4,8 +4,8 @@ slug: "bulk-import-gift-card-pool-v3"
 source_url: "https://developers.mindbox.ru/docs/bulk-import-gift-card-pool-v3"
 breadcrumb:
   - Карты
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:db9bc06d382b43d92b610e236164873f0a0d26c153307bb574eb01cdab648b32"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2a7cd406f8d95a1eef53c7e90f59f65709796a91f2a502d288f73ad884207d53"
 ---
 
 # Массовый импорт пула подарочных карт

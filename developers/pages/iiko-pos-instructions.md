@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/iiko-pos-instructions"
 breadcrumb:
   - Стандартные интеграции
   - Интеграция iiko
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:d38e0d17c73a570f8358c1afc14cd487d2f6a3f789903d55b2076d954f7cc806"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:5ed8f951beb4c8be43c79eeec554e56628dfe295eccb7d39484d5613a654cd9a"
 ---
 
 # Инструкция по работе с кассой IIKO

@@ -6,8 +6,8 @@ vcs_path: "split-and-spread.md"
 toc_path:
   - Лояльность и акции
   - Начало работы
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:f3e01f2616b636df8419e6c12f146c9ddf614b170607734fc9cf02540c4554b5"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:e2cd79ce25ee80d12d93e22a44f0240247eb955b90f8a32ceb15d8a5a0e9de2d"
 ---
 
 # Как происходит распределение скидок по позициям заказа

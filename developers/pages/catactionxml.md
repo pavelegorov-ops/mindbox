@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/catactionxml"
 breadcrumb:
   - Номенклатура
   - Действия с категориями
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:c4f67c2d41352f11dee9bab404c88aec6d584dcf27f2688b9e410b6763df06d8"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:391ad4a79562454bce734f377c621f51094a53d12078921a34db4972efa1652c"
 ---
 
 # xml

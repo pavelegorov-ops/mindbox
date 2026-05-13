@@ -6,8 +6,8 @@ vcs_path: "shorten-url-sms.md"
 toc_path:
   - Рассылки
   - "SMS-рассылки"
-fetched_at: "2026-05-05T06:48:43Z"
-content_hash: "sha256:587990075c00952fb5429369101e19e495468974eb15ad33f912e7e4b4989323"
+fetched_at: "2026-05-13T11:52:59Z"
+content_hash: "sha256:bf1c159b7a3cc51b4b07fc1ac87907f229a000e1da093879dcd09d67fcbc760d"
 deprecation_hint:
   - устаревш
 ---

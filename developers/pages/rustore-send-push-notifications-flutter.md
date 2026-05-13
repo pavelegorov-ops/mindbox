@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - Flutter SDK
   - "Android | Настройка пуш-уведомлений"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:ae548c2a281b4edf5e39000361c2f1733b36a8ae08243b67b390e250505bb692"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:2a3fb15de2a06b4de534166d7943ff1fa8d44f92d257dc5f5ae1b236452d9501"
 ---
 
 # RuStore

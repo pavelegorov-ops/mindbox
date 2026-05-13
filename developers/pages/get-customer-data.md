@@ -4,8 +4,8 @@ slug: "get-customer-data"
 source_url: "https://developers.mindbox.ru/docs/get-customer-data"
 breadcrumb:
   - Клиент
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:3383bcc022511d31d7944bfc1acf9f81c19f1ed931b47ea43fcc85b709d408f0"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:87093362bfb3a2e0074e675cf8618647cd7f1d38cd82f48fa408eae337d0da7e"
 ---
 
 # Получение данных клиента

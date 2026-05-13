@@ -5,8 +5,8 @@ source_url: "https://developers.mindbox.ru/docs/ab-test-participants"
 breadcrumb:
   - Данные для аналитики
   - Описание схемы данных
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:f98c3ff0b4c37aa7d604a414e86e56238f59cded540a55c6c71274701a493cea"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:d67f5c15125623437f676979c5dcc2315128f78cd817a9e39cb5f5182a883d56"
 ---
 
 # Участники АБ-тестов

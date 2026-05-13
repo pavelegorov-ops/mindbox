@@ -6,8 +6,8 @@ breadcrumb:
   - Мобильные приложения
   - Flutter SDK
   - "iOS | Настройка Rich-push уведомлений"
-fetched_at: "2026-05-04T14:26:15Z"
-content_hash: "sha256:5be703ba9899e7f1c11bf620860e47388532539269e29b62c1a67e868fbde190"
+fetched_at: "2026-05-13T11:53:23Z"
+content_hash: "sha256:6aa090ef7adfb67096c718ebd1c768ce240cf193f4607435417448f0218aba49"
 ---
 
 # Отображение превью картинки
@@ -95,7 +95,7 @@ Push-уведомление должно отобразится с малень�
 
 ![](https://storage.yandexcloud.net/assets-developers-mindbox-ru/images/bab3dcd6b70986bac52dcae9225daa65b16afd8fb7ce39f15351beb87150eff9-__2025-03-24__18.41.57.png)
 
-#### Cocoapods
+#### CocoaPods
 
 ---
 
