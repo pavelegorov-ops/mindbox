@@ -30,3 +30,21 @@ __pycache__/
 # `python scripts/build_bm25.py` (или автоматически в `sync.py`).
 # Коммитить нет смысла — раздувает репо и шумит в diff'ах.
 /journal/*/search_index.pkl
+
+# Корпуса документации MindBox (Help, Developers, Journal) — полностью
+# генерируются скриптами `scripts/scrape_*.py` из живых сайтов
+# help.mindbox.ru, developers.mindbox.ru, mindbox.ru/journal.
+# Коммитить нельзя: параллельный запуск скрейпа двумя людьми
+# приводит к гарантированному конфликту на ~500 файлах
+# (страницы, summaries.json, manifest.json, backlinks.json, INDEX.md,
+# faceted-индексы). Восстанавливаются у каждого локально:
+#   ./scripts/mindbox.bat              # Help + Developers
+#   python scripts/scrape_journal.py --section education
+#   python scripts/scrape_journal.py --section cases
+# Рукописные CLAUDE.md в каждом корпусе — исключения, остаются в git.
+/docs/*
+!/docs/CLAUDE.md
+/developers/*
+!/developers/CLAUDE.md
+/journal/cases/
+/journal/education/
