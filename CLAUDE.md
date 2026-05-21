@@ -136,6 +136,8 @@ private/<имя>/
   scenarios/
     src/<id>.yaml                    сценарии — источник правды (YAML)
     rendered/                        Markdown-карточки, сгенерированные из YAML
+  emails/transactional/              (опционально) HTML-снапшоты активных транзакционных писем + README-реестр
+  mob_push/transactional/            (опционально) тексты активных транзакционных пушей (IOS+Android) + README-реестр
   backlog/                           (опционально) рабочие записки
 ```
 
@@ -161,6 +163,8 @@ private/<имя>/
 | Похороненный в теле статьи факт; русский запрос про английский термин («удержание» ↔ «retention») | `python scripts/journal_search.py "<запрос>" [--section cases\|education]` — BM25 по абзацам с RU-лемматизацией |
 | Поля шаблонов рассылок и сценариев активного тенанта (`Order.X`, `Recipient.Y`, `CustomField.*`) | `private/<активный>/mailing-parameters/` (см. `private/<активный>/mailing-parameters/CLAUDE.md`) |
 | Конкретные триггерные сценарии тенанта | `private/<активный>/scenarios/` |
+| Активные транзакционные email-рассылки тенанта (тема, прехедер, тело письма, история правок) | `private/<активный>/emails/transactional/README.md` — реестр; HTML-снапшоты рядом |
+| Активные транзакционные мобильные пуши тенанта (заголовок, тело, deeplink, IOS/Android-пары) | `private/<активный>/mob_push/transactional/README.md` — реестр; тексты пар в `*_IOS.md` / `*_Android.md` |
 
 ## Правила ответа на вопросы про MindBox
 
