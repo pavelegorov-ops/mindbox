@@ -120,6 +120,10 @@
 - `scripts/render_scenarios.py` — валидатор + генератор Markdown-карточек
   сценариев по YAML-источникам активного тенанта. Подробности — в
   разделе «Сценарии».
+- `scripts/check_freshness.py` — проверка свежести корпусов: печатает
+  OK/WARN/MISSING по каждому зеркалу (`docs`/`developers`/`journal`),
+  всегда выходит с кодом 0. Прогоняй из корня репо перед ответом из
+  корпуса (см. правило 4 ниже). Чистый stdlib, fail-open.
 
 ## Тенанты
 
@@ -137,7 +141,9 @@ private/<имя>/
     src/<id>.yaml                    сценарии — источник правды (YAML)
     rendered/                        Markdown-карточки, сгенерированные из YAML
   emails/transactional/              (опционально) HTML-снапшоты активных транзакционных писем + README-реестр
+  emails/transfer_mailings/          (опционально) каскадные письма внутри сценариев (welcome, реактивация) + README-реестр
   mob_push/transactional/            (опционально) тексты активных транзакционных пушей (IOS+Android) + README-реестр
+  mob_push/transfer_push/            (опционально) каскадные пуши внутри сценариев (IOS+Android) + README-реестр
   backlog/                           (опционально) рабочие записки
 ```
 
@@ -206,7 +212,7 @@ private/<имя>/
 
   ```bash
   python scripts/render_scenarios.py                 # инкрементально для активного тенанта
-  python scripts/render_scenarios.py --tenant usmall # явный выбор (нужен при нескольких тенантах)
+  python scripts/render_scenarios.py --tenant usmall-mindbox # явный выбор (нужен при нескольких тенантах)
   python scripts/render_scenarios.py --full          # переписать все файлы
   python scripts/render_scenarios.py --dry-run       # показать, что изменится; ничего не пишет
   ```
