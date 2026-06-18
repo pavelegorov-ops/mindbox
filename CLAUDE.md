@@ -144,6 +144,7 @@ private/<имя>/
   emails/transfer_mailings/          (опционально) каскадные письма внутри сценариев (welcome, реактивация) + README-реестр
   mob_push/transactional/            (опционально) тексты активных транзакционных пушей (IOS+Android) + README-реестр
   mob_push/transfer_push/            (опционально) каскадные пуши внутри сценариев (IOS+Android) + README-реестр
+  personalization/                   (опционально) формы персонализации (поп-апы, встроенные блоки, in-app): README-реестр + карточки + HTML-снапшоты
   backlog/                           (опционально) рабочие записки
 ```
 
@@ -173,6 +174,7 @@ private/<имя>/
 | Активные транзакционные мобильные пуши тенанта (заголовок, тело, deeplink, IOS/Android-пары) | `private/<активный>/mob_push/transactional/README.md` — реестр; тексты пар в `*_IOS.md` / `*_Android.md` |
 | Каскадные email-рассылки тенанта (welcome, реактивация и т.п. — письма внутри триггерных сценариев) | `private/<активный>/emails/transfer_mailings/README.md` — реестр с привязкой к сценариям и аудиториям; HTML-снапшоты рядом |
 | Каскадные мобильные пуши тенанта (внутри триггерных сценариев, IOS/Android-пары) | `private/<активный>/mob_push/transfer_push/README.md` — реестр с привязкой к сценариям; тексты пар в `*_IOS.md` / `*_Android.md` |
+| Формы персонализации тенанта (поп-апы, встроенные блоки, in-app): настройки показа, таргетинг, условия, что выдаёт | `private/<активный>/personalization/README.md` — реестр; карточки форм в `popups/` (+ HTML-снапшоты) |
 
 ## Правила ответа на вопросы про MindBox
 
@@ -232,6 +234,10 @@ private/<имя>/
 - [notes/react-flow-extraction.md](notes/react-flow-extraction.md) — как
   вытащить nodes/edges/filters сценария из админки MindBox через React
   fiber и DOM. Почему `pushState` не работает (нужен `navigate`).
+- [notes/personalization-extraction.md](notes/personalization-extraction.md) —
+  как быстро (3 вызова) снять конфиг формы-персонализации (поп-ап
+  PopMechanic): `get_page_text` + fiber (internalId сегментов из Redux) +
+  `screenshot` (оффер-баннер); HTML тела в обход фильтра и тупики.
 - [notes/ui-quirks.md](notes/ui-quirks.md) — известные глюки UI MindBox
   (например, «некорректное значение» в condition-фильтрах = ошибка
   отрисовки, надо перезагрузить страницу).
