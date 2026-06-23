@@ -253,6 +253,15 @@ private/<имя>/
   `field(cv()filter-mode())`, коллекция `f(and())aggregate()`, сегмент `sid`),
   грабли (ИЛИ из UI ненадёжно попадает в URL — проверять счётчиком). Полная
   грамматика — в `../knowledge/reference/mindbox-фильтр-клиентов.md`.
+- [notes/operations-extraction.md](notes/operations-extraction.md) — как
+  снять список операций тенанта (Операции v3) и конфиг каждой: инвентарь
+  через реплей `CustomerOperationsListQuery` (GraphQL, Bearer живёт ~5 мин),
+  конфиг из скрытого `OperationTypeViewModel.JsonViewModel` (читать после
+  React-гидрации, не из сырого HTML), спека запрос/ответ с `/help`. Две
+  админки (`/newcampaigns/operations` SPA vs легаси `/campaigns/.../edit`),
+  `id`≠`internalId`. Безопасность: `SecretKey`/`endpointId` в репо
+  редактируем. Грабли `javascript_tool` (лимит вывода ~1000 симв.,
+  биндинги REPL, async-IIFE) и фан-аут по вкладкам.
 - [notes/ui-quirks.md](notes/ui-quirks.md) — известные глюки UI MindBox
   (например, «некорректное значение» в condition-фильтрах = ошибка
   отрисовки, надо перезагрузить страницу).
