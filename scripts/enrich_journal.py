@@ -84,7 +84,11 @@ def parse_page(path: Path) -> tuple[dict, str]:
         if line.startswith("  - "):
             if current_key is None:
                 continue
-            fm.setdefault(current_key, []).append(_unquote_yaml_scalar(line[4:].strip()))
+            # An empty-valued key (`tags:`) was seeded as None above; a
+            # following `  - ` item means it's actually a list — promote it.
+            if not isinstance(fm.get(current_key), list):
+                fm[current_key] = []
+            fm[current_key].append(_unquote_yaml_scalar(line[4:].strip()))
         elif ":" in line and not line.startswith(" "):
             key, _, val = line.partition(":")
             key = key.strip()

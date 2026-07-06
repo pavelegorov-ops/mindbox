@@ -105,8 +105,10 @@
 - `scripts/enrich_journal.py` — LLM-обогащение journal-корпуса.
   Перезаписывает `summary_ru` + `key_points` в `summaries.json` обеих
   секций; для `cases` дополнительно строит `fact_index.json` и
-  faceted-индексы `index/by-{mechanic,industry,kpi}/`. Требует
-  `ANTHROPIC_API_KEY`. Идемпотентен: пропускает статьи с неизменённым
+  faceted-индексы `index/by-{mechanic,industry,kpi}/`. Требует ключ
+  LLM-провайдера (по умолчанию Anthropic — `ANTHROPIC_API_KEY`; для
+  OpenAI — `MINDBOX_LLM_PROVIDER=openai` + `OPENAI_API_KEY`, модель
+  `gpt-4o-mini`). Идемпотентен: пропускает статьи с неизменённым
   `content_hash`. CLI: `--section cases|education`, `--full`,
   `--dry-run`, `--limit N` для отладки.
 - `scripts/build_bm25.py` — собирает BM25-индекс по абзацам в
@@ -175,6 +177,15 @@ private/<имя>/
 | Каскадные email-рассылки тенанта (welcome, реактивация и т.п. — письма внутри триггерных сценариев) | `private/<активный>/emails/transfer_mailings/README.md` — реестр с привязкой к сценариям и аудиториям; HTML-снапшоты рядом |
 | Каскадные мобильные пуши тенанта (внутри триггерных сценариев, IOS/Android-пары) | `private/<активный>/mob_push/transfer_push/README.md` — реестр с привязкой к сценариям; тексты пар в `*_IOS.md` / `*_Android.md` |
 | Формы персонализации тенанта (поп-апы, встроенные блоки, in-app): настройки показа, таргетинг, условия, что выдаёт | `private/<активный>/personalization/README.md` — реестр; карточки форм в `popups/` (+ HTML-снапшоты) |
+
+> **Обогащённые артефакты journal — только локально.** Поля
+> `summary_ru`/`key_points` в `summaries.json`, а также
+> `journal/cases/fact_index.json` и индексы
+> `index/by-{mechanic,industry,kpi}/` появляются лишь после локального
+> прогона `scripts/enrich_journal.py` (нужен ключ LLM-провайдера).
+> Каталоги `journal/cases/` и `journal/education/` — в `.gitignore`, в
+> свежем клоне репозитория их нет: сначала `/sync-docs` (скрейп +
+> обогащение), потом ответы из корпуса.
 
 ## Правила ответа на вопросы про MindBox
 
@@ -252,7 +263,8 @@ private/<имя>/
   Применить → прочитать URL», каркас языка (`and`/`or`/вложенность, скаляр
   `field(cv()filter-mode())`, коллекция `f(and())aggregate()`, сегмент `sid`),
   грабли (ИЛИ из UI ненадёжно попадает в URL — проверять счётчиком). Полная
-  грамматика — в `../knowledge/reference/mindbox-фильтр-клиентов.md`.
+  грамматика — в `../knowledge/reference/mindbox-фильтр-клиентов.md`
+  (воркспейс CRM; в отдельном клоне этого репо ссылка не работает).
 - [notes/operations-extraction.md](notes/operations-extraction.md) — как
   снять список операций тенанта (Операции v3) и конфиг каждой: инвентарь
   через реплей `CustomerOperationsListQuery` (GraphQL, Bearer живёт ~5 мин),
@@ -275,4 +287,5 @@ private/<имя>/
 
 ---
 
-> Общие принципы кодинга (Karpathy) — в корневом `../CLAUDE.md` и `../.claude/behavior/`. Здесь не дублируем.
+> Общие принципы кодинга (Karpathy) — в корневом `../CLAUDE.md` и `../.claude/behavior/`
+> (воркспейс CRM; в отдельном клоне этого репо ссылки не работают). Здесь не дублируем.

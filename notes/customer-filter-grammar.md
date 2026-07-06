@@ -4,7 +4,8 @@
 на то, что конструктор зеркалит всё в адресную строку. Парная заметка к
 «читающим» приёмам ([`customer-profile-extraction.md`](customer-profile-extraction.md),
 react-flow / segmentation). Полная грамматика языка `?filter` — в каноне
-[`../../knowledge/reference/mindbox-фильтр-клиентов.md`](../../knowledge/reference/mindbox-фильтр-клиентов.md);
+[`../../knowledge/reference/mindbox-фильтр-клиентов.md`](../../knowledge/reference/mindbox-фильтр-клиентов.md)
+(воркспейс CRM; в отдельном клоне этого репо ссылка не работает);
 здесь — **как этим пользоваться и где грабли**.
 
 ## Что за страница
@@ -73,7 +74,8 @@ SPA. Конструктор фильтра (кнопки «Добавить фи
   страницу (см. [`ui-quirks.md`](ui-quirks.md)).
 - Коллекционные условия по товару/категории тяжёлые — дока советует вынести
   в пересчитываемый сегмент и фильтровать по `segments(...)`
-  (см. `../../knowledge/reference/mindbox-пересчёт-сегментов.md`).
+  (см. `../../knowledge/reference/mindbox-пересчёт-сегментов.md` —
+  воркспейс CRM, вне этого репо).
 
 ## Грабли автоматизации (Claude in Chrome)
 

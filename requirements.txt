@@ -4,10 +4,13 @@ beautifulsoup4>=4.9
 pyyaml>=6.0
 
 # Journal enrichment (LLM summaries + fact_index for cases).
-# Required only for `scripts/enrich_journal.py`; if anthropic isn't
-# importable or ANTHROPIC_API_KEY isn't set, the orchestrator skips
-# enrichment with a warning and the rest of the pipeline still works.
+# Required only for `scripts/enrich_journal.py`. Backend is chosen by
+# MINDBOX_LLM_PROVIDER (default `anthropic`; `openai` also supported).
+# If the selected SDK isn't importable or its API key isn't set, the
+# orchestrator skips enrichment with a warning and the rest of the
+# pipeline still works. Install only the backend you use.
 anthropic>=0.40
+openai>=1.0
 
 # BM25 paragraph-level search over the journal corpus.
 # rank-bm25 — pure Python, no native deps (Windows-friendly).

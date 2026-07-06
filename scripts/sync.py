@@ -52,6 +52,9 @@ from pathlib import Path
 SCRIPTS_DIR = Path(__file__).resolve().parent          # scripts/
 REPO_ROOT = SCRIPTS_DIR.parent                         # repo root — cwd для скрейперов
 
+sys.path.insert(0, str(SCRIPTS_DIR))
+from _llm import PROVIDER_KEY_ENV, resolve_provider  # noqa: E402
+
 SCRAPERS: list[tuple[str, Path, list[str]]] = [
     ("help.mindbox.ru",                 SCRIPTS_DIR / "scrape_docs.py",       []),
     ("developers.mindbox.ru",           SCRIPTS_DIR / "scrape_developers.py", []),
@@ -129,12 +132,14 @@ def main() -> int:
     if args.dry_run:
         print("\n[mindbox] dry-run: skipping enrichment + BM25.", flush=True)
     else:
+        provider = resolve_provider()
+        key_var = PROVIDER_KEY_ENV.get(provider, "ANTHROPIC_API_KEY")
         if args.skip_enrichment:
             print("\n[mindbox] enrichment skipped via --skip-enrichment.", flush=True)
-        elif not os.environ.get("ANTHROPIC_API_KEY"):
+        elif not os.environ.get(key_var):
             print(
-                "\n[mindbox] ANTHROPIC_API_KEY not set — skipping LLM enrichment "
-                "(summary_ru, key_points, cases/fact_index.json).\n"
+                f"\n[mindbox] {key_var} not set — skipping LLM enrichment "
+                f"(provider={provider}; summary_ru, key_points, cases/fact_index.json).\n"
                 "         Set the env var to enable, or pass --skip-enrichment "
                 "to silence this notice.",
                 flush=True,

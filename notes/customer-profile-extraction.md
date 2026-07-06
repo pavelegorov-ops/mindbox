@@ -252,4 +252,5 @@ if (json.errors) { /* НЕ трактуй null как "значения нет" 
   при необходимости Mindbox ID.
 - Соседи: `react-flow-extraction.md`, `personalization-extraction.md`,
   `ui-quirks.md`. История сегментов связана с
-  `../../knowledge/reference/mindbox-пересчёт-сегментов.md`.
+  `../../knowledge/reference/mindbox-пересчёт-сегментов.md`
+  (воркспейс CRM, вне этого репо).

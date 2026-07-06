@@ -30,6 +30,7 @@
 
 | Дата | План | Задача |
 |------|------|--------|
+| 2026-07-06 | [external-agents-audit-fixes.md](2026-07-06-external-agents-audit-fixes.md) | Правки по аудиту области глазами внешнего агента (штаб + Codex): AGENTS.md в оба репо, фикс пути тенанта в BOOTSTRAP.md, пометка workspace-only ссылок, выгрузка price-drop пушей в тенант, /sync-docs. Обогащение journal (fact_index) — отдельной задачей. |
 | 2026-05-08 | [journal-enrichment.md](2026-05-08-journal-enrichment.md) | Обогатить journal-корпус для агента: LLM-генерируемые `summary_ru` + `key_points` в `summaries.json`, `cases/fact_index.json` со структурированными KPI/механиками + faceted-индексы `by-mechanic/`/`by-industry/`/`by-kpi/`, BM25-поиск по абзацам с `pymorphy3`. Новые скрипты `enrich_journal.py`, `build_bm25.py`, `journal_search.py`, `_llm.py`. |
 | 2026-05-08 | [journal-cases-corpus.md](2026-05-08-journal-cases-corpus.md) | Добавить раздел «Кейсы и экспертиза» mindbox.ru/journal/cases/ как второй подкорпус journal: рефакторинг `scrape_journal.py` под `journal/<section>/`, миграция education в подкаталог, регистрация cases в `sync.py`, ~490 статей. |
 | 2026-05-07 | [journal-education-corpus.md](2026-05-07-journal-education-corpus.md) | Добавить раздел «Учебные материалы» mindbox.ru/journal/education/ как локальный корпус для агента: новый `scripts/scrape_journal.py`, корпус `journal/` (~71 статья), интеграция в `/sync-docs`. |
