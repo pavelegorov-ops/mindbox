@@ -5,15 +5,23 @@ Runs scrapers and post-processing steps sequentially:
 
     scrape_docs.py         help.mindbox.ru                  → docs/
     scrape_developers.py   developers.mindbox.ru            → developers/
-    scrape_journal.py      mindbox.ru/journal/education/    → journal/education/
-    scrape_journal.py      mindbox.ru/journal/cases/        → journal/cases/
 
-Then journal-only enrichment, gated by ANTHROPIC_API_KEY:
+The journal (cases + education) is NOT part of the default sync — it is
+fetched only on request, because it is only needed when someone actually
+asks for cases or articles:
+
+    mindbox --journal              both sections
+    mindbox --journal cases        one section
+
+    scrape_journal.py      mindbox.ru/journal/<section>/    → journal/<section>/
+
+Then journal-only enrichment (skipped unless --journal was requested),
+gated by ANTHROPIC_API_KEY:
 
     enrich_journal.py      LLM-rewritten summary_ru + key_points;
                            cases get fact_index.json + by-{mechanic,industry,kpi}/.
 
-Then BM25 paragraph index for both journal sections (offline, always):
+Then BM25 paragraph index for the journal sections (offline):
 
     build_bm25.py          journal/<section>/search_index.pkl
 
@@ -52,12 +60,14 @@ from pathlib import Path
 SCRIPTS_DIR = Path(__file__).resolve().parent          # scripts/
 REPO_ROOT = SCRIPTS_DIR.parent                         # repo root — cwd для скрейперов
 
+# Базовые корпуса — качаются всегда.
 SCRAPERS: list[tuple[str, Path, list[str]]] = [
     ("help.mindbox.ru",                 SCRIPTS_DIR / "scrape_docs.py",       []),
     ("developers.mindbox.ru",           SCRIPTS_DIR / "scrape_developers.py", []),
-    ("mindbox.ru/journal/education",    SCRIPTS_DIR / "scrape_journal.py",    ["--section", "education"]),
-    ("mindbox.ru/journal/cases",        SCRIPTS_DIR / "scrape_journal.py",    ["--section", "cases"]),
 ]
+
+# Журнал (кейсы и статьи) — только по явному запросу, см. --journal.
+JOURNAL_SECTIONS = ("education", "cases")
 
 
 def run_step(label: str, cmd: list[str], *, fatal: bool) -> bool:
@@ -91,6 +101,14 @@ def main() -> int:
         help="report what would change without writing files",
     )
     parser.add_argument(
+        "--journal",
+        nargs="*",
+        choices=JOURNAL_SECTIONS,
+        metavar="SECTION",
+        help="дополнительно выгрузить журнал (education / cases); без значений — обе "
+             "секции. По умолчанию журнал НЕ качается: он нужен только по запросу",
+    )
+    parser.add_argument(
         "--skip-enrichment",
         action="store_true",
         help="skip LLM enrichment even if ANTHROPIC_API_KEY is set",
@@ -108,11 +126,21 @@ def main() -> int:
     if args.dry_run:
         forwarded.append("--dry-run")
 
+    # Журнал только по запросу: --journal без значений = обе секции.
+    journal = list(args.journal) if args.journal else (
+        list(JOURNAL_SECTIONS) if args.journal == [] else []
+    )
+    scrapers = SCRAPERS + [
+        (f"mindbox.ru/journal/{section}", SCRIPTS_DIR / "scrape_journal.py",
+         ["--section", section])
+        for section in journal
+    ]
+
     failed: list[str] = []
     started = time.monotonic()
 
     # 1. Scrapers.
-    for label, script, extra_args in SCRAPERS:
+    for label, script, extra_args in scrapers:
         if not script.exists():
             print(f"[mindbox] missing scraper: {script.name}", file=sys.stderr)
             failed.append(label)
@@ -128,6 +156,9 @@ def main() -> int:
     # 2. Journal enrichment (LLM). Non-fatal, gated on key + flag + dry_run.
     if args.dry_run:
         print("\n[mindbox] dry-run: skipping enrichment + BM25.", flush=True)
+    elif not journal:
+        print("\n[mindbox] журнал не запрашивали (--journal) — обогащение и BM25 не нужны.",
+              flush=True)
     else:
         if args.skip_enrichment:
             print("\n[mindbox] enrichment skipped via --skip-enrichment.", flush=True)
@@ -141,7 +172,7 @@ def main() -> int:
             )
         else:
             enrich_script = SCRIPTS_DIR / "enrich_journal.py"
-            for section in ("education", "cases"):
+            for section in journal:
                 run_step(
                     f"enrich {section}  ({enrich_script.name})",
                     [sys.executable, str(enrich_script), "--section", section, *forwarded],

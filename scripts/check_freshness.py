@@ -21,12 +21,13 @@ from pathlib import Path
 SCRIPTS_DIR = Path(__file__).resolve().parent          # scripts/
 REPO_ROOT = SCRIPTS_DIR.parent                         # repo root
 
-# Corpus label → manifest path, relative to the repo root.
-CORPORA: list[tuple[str, Path]] = [
-    ("docs (Help)",            REPO_ROOT / "docs" / "manifest.json"),
-    ("developers (Developers)", REPO_ROOT / "developers" / "manifest.json"),
-    ("journal/cases",          REPO_ROOT / "journal" / "cases" / "manifest.json"),
-    ("journal/education",      REPO_ROOT / "journal" / "education" / "manifest.json"),
+# Corpus label → manifest path (relative to repo root), команда обновления,
+# on_demand: журнал качается только по запросу, поэтому его отсутствие — норма.
+CORPORA: list[tuple[str, Path, str, bool]] = [
+    ("docs (Help)",             REPO_ROOT / "docs" / "manifest.json",                    "/sync-docs", False),
+    ("developers (Developers)", REPO_ROOT / "developers" / "manifest.json",              "/sync-docs", False),
+    ("journal/cases",           REPO_ROOT / "journal" / "cases" / "manifest.json",       "/sync-docs --journal cases", True),
+    ("journal/education",       REPO_ROOT / "journal" / "education" / "manifest.json",   "/sync-docs --journal education", True),
 ]
 
 WARN_DAYS = 14
@@ -41,21 +42,24 @@ def age_days(generated_at: str) -> float | None:
     return (datetime.now(timezone.utc) - ts).total_seconds() / 86400.0
 
 
-def report(label: str, manifest: Path) -> None:
+def report(label: str, manifest: Path, hint: str, on_demand: bool) -> None:
     if not manifest.exists():
-        print(f"MISSING  {label}: не синхронизировано, запусти /sync-docs")
+        if on_demand:
+            print(f"SKIP     {label}: не выгружен — качаем по запросу ({hint})")
+        else:
+            print(f"MISSING  {label}: не синхронизировано, запусти {hint}")
         return
     try:
         data = json.loads(manifest.read_text(encoding="utf-8"))
     except (json.JSONDecodeError, OSError) as exc:
-        print(f"MISSING  {label}: манифест нечитаем ({type(exc).__name__}), запусти /sync-docs")
+        print(f"MISSING  {label}: манифест нечитаем ({type(exc).__name__}), запусти {hint}")
         return
 
     age = age_days(data.get("generated_at", ""))
     if age is None:
-        print(f"MISSING  {label}: нет поля generated_at, запусти /sync-docs")
+        print(f"MISSING  {label}: нет поля generated_at, запусти {hint}")
     elif age > WARN_DAYS:
-        print(f"WARN     {label}: {age:.0f} дн. назад (>{WARN_DAYS}) — возможно устарело, /sync-docs")
+        print(f"WARN     {label}: {age:.0f} дн. назад (>{WARN_DAYS}) — возможно устарело, {hint}")
     else:
         print(f"OK       {label}: {age:.0f} дн. назад")
 
@@ -63,8 +67,8 @@ def report(label: str, manifest: Path) -> None:
 def main() -> int:
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
-    for label, manifest in CORPORA:
-        report(label, manifest)
+    for label, manifest, hint, on_demand in CORPORA:
+        report(label, manifest, hint, on_demand)
     return 0  # informational — never blocks
 
 

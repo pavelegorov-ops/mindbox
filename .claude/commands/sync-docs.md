@@ -1,14 +1,18 @@
 ---
-description: Обновить локальные зеркала документации MindBox (help + developers + journal)
-argument-hint: [--full | --dry-run]
+description: Обновить локальные зеркала документации MindBox (help + developers; журнал — по запросу)
+argument-hint: [--journal [education|cases]] [--full | --dry-run]
 allowed-tools: Bash, Read, Grep
 ---
 
 Пользователь хочет обновить локальные корпуса документации MindBox —
-`docs/` (зеркало с `help.mindbox.ru`), `developers/` (зеркало с
-`developers.mindbox.ru`) и журнал в двух секциях:
-`journal/education/` и `journal/cases/` (зеркала с
-`mindbox.ru/journal/education/` и `mindbox.ru/journal/cases/`).
+`docs/` (зеркало с `help.mindbox.ru`) и `developers/` (зеркало с
+`developers.mindbox.ru`).
+
+**Журнал (`journal/education/`, `journal/cases/` — статьи и кейсы) в
+дефолтный синк не входит.** Он нужен только когда за ним пришли, поэтому
+качается по явному запросу: `--journal` (обе секции) или
+`--journal cases` / `--journal education`. Добавляй этот флаг, если
+пользователь просит кейсы, статьи или журнал — сам, не переспрашивая.
 
 ## Шаг 1. Определить ОС
 
@@ -41,8 +45,10 @@ uname -s 2>/dev/null || echo Windows
   ```
 
 `$ARGUMENTS` — это то, что пользователь дописал после команды:
-- пусто (по умолчанию) — **инкрементальное обновление** (качаются только
-  изменившиеся страницы);
+- пусто (по умолчанию) — **инкрементальное обновление** `docs/` и
+  `developers/` (качаются только изменившиеся страницы), журнал не трогаем;
+- `--journal` — дополнительно выгрузить обе секции журнала;
+  `--journal cases` / `--journal education` — только одну;
 - `--full` — принудительно перезаписать каждую страницу;
 - `--dry-run` — показать, что изменится, без записи на диск.
 
@@ -60,8 +66,10 @@ uname -s 2>/dev/null || echo Windows
   скрейперы по очереди:
   - `scripts/scrape_docs.py` → `docs/`
   - `scripts/scrape_developers.py` → `developers/`
-  - `scripts/scrape_journal.py --section education` → `journal/education/`
-  - `scripts/scrape_journal.py --section cases` → `journal/cases/`
+  - `scripts/scrape_journal.py --section <секция>` → `journal/<секция>/`
+    — **только если передан `--journal`**; вместе с ним отрабатывают
+    обогащение (`enrich_journal.py`, если задан `ANTHROPIC_API_KEY`) и
+    сборка BM25-индекса. Без `--journal` эти шаги пропускаются.
 
 Типичный прогон: ~1–2 минуты для инкрементального, дольше для `--full`.
 **Используй Bash-таймаут 10 минут** для запаса.
