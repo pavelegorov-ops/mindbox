@@ -84,8 +84,8 @@
   раздел «Дополнительные приёмы».
 - `plans/` — утверждённые пользователем планы работ
   (`YYYY-MM-DD-описание.md`) с реестром в `plans/INDEX.md`.
-- `scenarios/template.yaml`, `scenarios/schema.md` — общий шаблон и
-  спецификация YAML-схемы сценариев (общие для всех тенантов).
+- `scenarios/mcp.md` — общий контракт MCP-first снимков live-конфигурации;
+  `scenarios/template.yaml`, `scenarios/schema.md` — архивный YAML-резерв.
 
 ### Скрипты в `scripts/`
 
@@ -124,9 +124,9 @@
   возвращает JSON для агента. Используй, когда грепа `summaries.json`
   и faceted-индексов мало (похороненные факты, RU↔EN gap). Пример:
   `python scripts/journal_search.py "удержание клиентов" --top 5`.
-- `scripts/render_scenarios.py` — валидатор + генератор Markdown-карточек
-  сценариев по YAML-источникам активного тенанта. Подробности — в
-  разделе «Сценарии».
+- `scripts/render_mcp_scenarios.py` — детерминированный рендер complete
+  MCP-снимков live-сценариев. `scripts/render_scenarios.py` остаётся
+  архивным YAML-рендером. Подробности — в разделе «Сценарии».
 - `scripts/check_freshness.py` — проверка свежести корпусов: печатает
   OK/WARN/MISSING по базовым зеркалам (`docs`/`developers`) и `SKIP` по
   не выгруженному журналу (он по запросу), всегда выходит с кодом 0. Прогоняй из корня репо перед ответом из
@@ -145,8 +145,9 @@ private/<имя>/
   engine.txt                         минимальная совместимая версия движка
   mailing-parameters/                справочник полей рассылок (с админки)
   scenarios/
-    src/<id>.yaml                    сценарии — источник правды (YAML)
-    rendered/                        Markdown-карточки, сгенерированные из YAML
+    mcp/<id>/                         current: raw MCP snapshots, `latest.json`, render/diff
+    src/<id>.yaml                    archive: hand-written YAML
+    rendered/                        archive: Markdown, сгенерированный из YAML
   emails/transactional/              (опционально) HTML-снапшоты активных транзакционных писем + README-реестр
   emails/transfer_mailings/          (опционально) каскадные письма внутри сценариев (welcome, реактивация) + README-реестр
   mob_push/transactional/            (опционально) тексты активных транзакционных пушей (IOS+Android) + README-реестр
@@ -212,38 +213,33 @@ private/<имя>/
    `<corpus>/summaries.json` → **обновить зеркало** → искать снова. Уход в
    веб — только после этого и с явной оговоркой пользователю.
 
-## Сценарии (YAML → Markdown)
+## Сценарии (MCP-first snapshots; YAML archive)
 
-В этом репо лежит документация триггерных сценариев активного тенанта.
-Источник правды — YAML, Markdown генерируется.
+Для текущей live-конфигурации источник — read-only ответ native Mindbox MCP,
+а локальный complete snapshot — evidence на время наблюдения. Контракт без
+tenant-данных: [`scenarios/mcp.md`](scenarios/mcp.md).
 
-- `private/<активный>/scenarios/src/<id>.yaml` — один файл на сценарий,
-  редактируется руками. Схема описана в корневом `scenarios/schema.md`,
-  пустой шаблон — в `scenarios/template.yaml`.
-- `private/<активный>/scenarios/rendered/` — выход `scripts/render_scenarios.py`:
-  карточки сценариев (`<id>.md` с frontmatter, Mermaid-схемой и таблицами
-  зависимостей), `INDEX.md` со списком, `dependencies.md` с обратным
-  индексом «актив → сценарии», и `issues.md` с предупреждениями
-  валидатора (включая кросс-проверки `[CROSS]` против `docs/summaries.json`).
-- `scripts/render_scenarios.py` — валидатор + генератор. CLI (вызывать
-  из корня репо):
+1. Сначала `flows_get` закрепляет именно active версию (или явно запрошенный
+   draft), затем `flows_lookup(detail=Full, structure=Full,
+   includeExecutions=false)` читает эту же версию. При необходимости
+   `campaign_get` сохраняет provenance связанной кампании; это не доказывает
+   запуск, доставку или rendering получателю.
+2. Сохрани raw envelopes в `private/<активный>/scenarios/mcp/<id>/staging/`,
+   затем из корня запусти:
 
-  ```bash
-  python scripts/render_scenarios.py                 # инкрементально для активного тенанта
-  python scripts/render_scenarios.py --tenant usmall-mindbox # явный выбор (нужен при нескольких тенантах)
-  python scripts/render_scenarios.py --full          # переписать все файлы
-  python scripts/render_scenarios.py --dry-run       # показать, что изменится; ничего не пишет
-  ```
+   ```bash
+   uv run scripts/render_mcp_scenarios.py --staging private/<активный>/scenarios/mcp/<id>/staging --out private/<активный>/scenarios/mcp/<id> --observed-at <UTC-ISO>
+   ```
 
-  Идемпотентен: повторный запуск без изменений в YAML переписывает 0
-  файлов. Возвращает код выхода `1`, если хоть один сценарий не прошёл
-  валидацию.
-
-**Когда что-то меняется в админке MindBox:** правишь YAML в
-`private/<активный>/scenarios/src/`, запускаешь
-`python scripts/render_scenarios.py`, коммитишь и `src/`, и `rendered/`
-в приватный репо тенанта (или пользуешься `/отправь-данные`) — ревьюер
-видит исходник и сгенерированный Markdown рядом.
+   Рендерер проверяет pinned version/rowVersion, все targets, reachability и
+   orphan starts; неполная пара не меняет `latest.json`. Complete snapshots,
+   `rendered.md` и readable `latest-diff.md` остаются в том же private path.
+   Повтор той же complete пары не меняет байты.
+3. `private/<активный>/scenarios/src/` и `rendered/` — **архивный резерв**:
+   hand-written YAML/DOM-React Flow исторических карточек. Они не fallback
+   при неполном MCP capture и не источник current live state. Их схема —
+   `scenarios/schema.md`; старый `scripts/render_scenarios.py` запускают
+   только при явной работе с архивом.
 
 ## Дополнительные приёмы
 

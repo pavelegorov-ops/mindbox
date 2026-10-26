@@ -1,6 +1,9 @@
-# Схема YAML для триггерных сценариев MindBox
+# Архивная схема YAML для триггерных сценариев MindBox
 
-Документация полей для людей. Не JSON Schema.
+> **Исторический маршрут.** Current live configuration снимается MCP-first по
+> [generic contract `mcp.md`](mcp.md); этот YAML не является источником текущего
+> state и не должен заменять raw predicates. Документация полей для старых
+> hand-written артефактов. Не JSON Schema.
 
 YAML-файл живёт в `private/<тенант>/scenarios/src/<id>.yaml`. После
 редактирования запускай `python scripts/render_scenarios.py` (из корня

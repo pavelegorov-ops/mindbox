@@ -13,10 +13,10 @@
 - **Зеркало Developers** (`developers/`) — `https://developers.mindbox.ru/docs/`
   целиком, ~370 страниц. Для интеграционных вопросов: HTTP API, SDK
   (JS/iOS/Android/Flutter/RN), webhooks, импорт данных.
-- **Генератор сценариев** (`scripts/render_scenarios.py`) — берёт
-  hand-written YAML-описания триггерных сценариев, валидирует их и
-  генерирует Markdown-карточки с Mermaid-схемой, обратным индексом
-  зависимостей и отчётом о проблемах.
+- **MCP-first snapshots сценариев** (`scripts/render_mcp_scenarios.py`) —
+  сохраняет complete read-only ответы `flows_get` + `flows_lookup Full` для
+  закреплённой live-версии и строит карточку с Mermaid, bindings и raw JSON.
+  Ручной YAML-генератор остаётся архивным маршрутом для исторических данных.
 - **Slash-команды для маркетолога** (`.claude/commands/`) — `/bootstrap`,
   `/sync-docs`, `/обнови-данные`, `/отправь-данные`. Закрывают
   повседневный workflow без знания git.
